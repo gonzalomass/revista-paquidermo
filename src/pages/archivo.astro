@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts');
+const sorted = posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+// Group by year
+const byYear = new Map<string, typeof sorted>();
+for (const post of sorted) {
+  const year = new Date(post.data.date).getFullYear().toString();
+  if (!byYear.has(year)) byYear.set(year, []);
+  byYear.get(year)!.push(post);
+}
+---
+
+<BaseLayout title="Archivo" noindex>
+  <h1 class="font-display text-2xl md:text-4xl font-bold mb-4 md:mb-6">Archivo</h1>
+
+  <input
+    type="text"
+    id="filter"
+    placeholder="Filtrar artículos..."
+    class="w-full border border-gray-300 px-4 py-2 mb-6 text-sm focus:outline-none focus:border-paqui-red"
+  />
+
+  {Array.from(byYear.entries()).map(([year, yearPosts]) => (
+    <section class="mb-10 year-section">
+      <h2 class="font-display text-2xl font-bold border-b border-paqui-red pb-2 mb-4">
+        {year}
+        <span class="text-sm font-sans font-normal text-paqui-gray ml-2">{yearPosts.length} artículos</span>
+      </h2>
+      <ul class="space-y-2">
+        {yearPosts.map((post) => {
+          const d = new Date(post.data.date);
+          const dateStr = d.toLocaleDateString('es-CR', { day: '2-digit', month: 'short' });
+          return (
+            <li class="filter-item flex gap-4 items-baseline" data-name={post.data.title.toLowerCase()}>
+              <time datetime={post.data.date} class="text-sm text-paqui-gray w-16 shrink-0">
+                {dateStr}
+              </time>
+              <a href={`/${post.data.slug}`} class="hover:text-paqui-red transition-colors">
+                {post.data.title}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+
+  <p id="no-results" class="hidden text-paqui-gray text-sm mt-4">No se encontraron artículos.</p>
+</BaseLayout>
+
+<script is:inline>
+  document.getElementById('filter').addEventListener('input', function () {
+    var q = this.value.toLowerCase();
+    var items = document.querySelectorAll('.filter-item');
+    var visible = 0;
+    items.forEach(function (el) {
+      var match = el.getAttribute('data-name').indexOf(q) !== -1;
+      el.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    // Hide year sections that have no visible items
+    document.querySelectorAll('.year-section').forEach(function (sec) {
+      var hasVisible = sec.querySelector('.filter-item:not([style*="display: none"])');
+      sec.style.display = hasVisible ? '' : 'none';
+    });
+    document.getElementById('no-results').style.display = visible ? 'none' : 'block';
+  });
+</script>

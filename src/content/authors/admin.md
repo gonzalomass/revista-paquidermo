@@ -1,0 +1,4 @@
+---
+name: "Admin"
+slug: "admin"
+---

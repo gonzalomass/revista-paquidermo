@@ -1,0 +1,34 @@
+---
+title: "El poder de las finanzas. ¿Quién manda en Costa Rica?"
+date: "2014-11-12T07:37:47"
+author: "luis-paulino-vargas-solis"
+slug: "el-poder-de-las-finanzas-quien-manda-en-costa-rica"
+excerpt: "Si usted revisa las tasas de interés que los bancos en Costa Rica –públicos y privados- cobran sobre el crédito destinado a actividades productivas como la agricultura,..."
+categories: ["Economía"]
+tags: ["Lo Recomendado", "Invitados Especiales"]
+wp_id: 11139
+---
+
+Si usted revisa las tasas de interés que los bancos en Costa Rica –públicos y privados- cobran sobre el crédito destinado a actividades productivas como la agricultura, la industria y la construcción, se encontrará con que éstas oscilan en el rango de 14 al 19% anual. Entretanto la inflación se sitúa en este momento en un 5% con tendencia decreciente (fue 3,68% para todo 2013). Si luego usted mira las tasas de interés sobre depósitos, se encontrará que para un año plazo se paga un interés de alrededor del 6,5%. Adviértanse entonces dos detalles:
+
+(a) el amplio margen entre las tasas activas (las que se cobran sobre créditos concedidos)  y tasas pasivas (las que se pagan sobre los depósitos);
+
+(b) el amplio margen que asimismo existe entre esas tasas activas y los índices de inflación.
+
+El punto (a) nos advierte sobre dos posibilidades: que la banca (tanto pública como privada) es muy ineficiente, lo cual se refleja en un margen muy amplio entre las tasas a las cuales se captan recursos y las tasas a las que se conceden los créditos, o bien que hay un juego de extracción de rentas, que los bancos realizan por medio de ese amplio margen. Lo más probable es que en la realidad lo que se da es una combinación de ambas cosas.
+
+El punto (b), por su parte, refuerza la tesis de la extracción de rentas, pero en este caso directamente del bolsillo de los clientes a los que los bancos conceden crédito, toda vez que se les hace pagar unas tasas de interés que, una vez compensada la inflación, dejan un amplio margen a favor de los bancos.
+
+Obsérvese, por otro lado, lo que ocurre con el tipo de cambio colón-dólar. Recordemos que por tres años consecutivos –entre los últimos meses de 2010 y finales de 2013- el dólar se mantuvo pegado en 500 colones o poquito más. Cierto que a inicios de 2014 las cosas cambiaron: a finales de enero empezó a darse una devaluación que llevó el tipo de cambio a cerca de 570 colones hacia el 10-11 de marzo. Luego de lo cual la intervención del Banco Central hizo que el valor del dólar volviese a deslizarse hacia abajo. Y si bien no volvió a los gloriosos 500 colones, si se ha estabilizado –desde hace ya más de cuatro meses- en los alrededores de 540 colones por dólar.
+
+¿Quién gana y quién pierde con esta estabilización del dólar? Es usual que se piense que la ganancia es para toda la población, entre otras cosas porque ello contribuye a que la inflación se estabilice y, obviamente, abarata relativamente los productos importados. Y, sin embargo, estos beneficios son discutibles, en primer lugar porque no obstante la relativamente baja inflación, los datos disponibles (elaborados por el INEC) claramente muestran que durante estos años de inflación reducida (2009 en adelante), los salarios sin embargo se han quedado a la zaga. A fin de cuentas, pues, el poder adquisitivo de los ingresos de la mayoría de la población va cuesta abajo.
+
+Es ciertamente paradójico: tipo de cambio estable, baja inflación y…¿salarios reales decrecientes? Creo que la explicación de esto último hay que buscarla en tres factores estrechamente relacionados entre sí: el debilitado dinamismo de la economía, el grave deterioro de la situación del empleo y la desorganización de los trabajadores y trabajadoras. Ello ofrece un cuadro propicio al deterioro de los salarios.
+
+Y, en fin, ¿por qué la economía se ha mantenido débil y, encima, por qué tiende a debilitarse aún más en los últimos dos años? Las razones son diversas y algunas tienen que ver con los efectos negativos derivados de la muy mediocre evolución de la economía mundial durante los últimos 7 años. Pero también hay factores internos que afectan. Uno de los cuales es, muy probablemente, el tipo de cambio. El asunto es que la estabilidad aparente que durante años ha mostrado éste último, implica, cuando se descuenta la evolución de la inflación, un aumento de los costos relativos con que –comparativamente a sus competidoras externas- producen las empresas costarricenses. Y ello afecta al sector turismo, a las actividades exportadoras pero también a las industrias y actividades económicas cuya producción compite con productos importados. Una forma de ilustrarlo es viendo la evolución que registran las exportaciones costarricenses. En los años anteriores a 2008 –especialmente el bienio 2006 y 2007- crecían en los alrededores del 15% anual. Tras el bajón de 2009 y hasta la actualidad, ello ya no es posible. Hubo un amago de recuperación en 2012, el cual demostró ser muy transitorio. En los últimos dos años el comportamiento de las exportaciones es simplemente decepcionante (su crecimiento es cero o negativo).
+
+Así pues, y en contra de lo que usualmente se cree, la situación que se registra en relación con el tipo de cambio colón-dólar genera mucho más daño que beneficio. Eso es así para la mayor parte de la economía y de la población, aunque no para los bancos. Para éstos el tipo de cambio férreamente estabilizado es un excelente negocio. En primer lugar porque ello propicia la atracción de capitales en dólares que alimentan la colocación de créditos con ganancias más que sustanciales para los bancos. En segundo lugar porque el tipo de cambio estable actúa como una ancla que frena la inflación y contribuye a mantenerla baja. Lo cual también favorece el negocio bancario, ya que, como hemos visto, estos colocan créditos sobre los cuales cobran tasas de interés mucho más altas que la inflación vigente.
+
+Todo este juego financiero en relación con tasas de interés y tipo de cambio redunda finalmente en lo mismo: jugosas ganancias para el sector financiero. No es casualidad que la actividad financiera crezca a tasas que exceden del 7% anual cuando la economía en su conjunto lo hace al 3,5%-3,6% anual. Visto de otra forma: la proporción que los servicios financieros representaban en el PIB era del 4,0% a inicios del nuevo siglo, alcanzó 4,7% en 2006 y salta al 5,8% en 2014.
+
+En síntesis: la conducción de la economía en gran medida responde a los intereses del negocio financiero (banca y flujos de capitales), con consecuencias muy dañinas para la actividad productiva, la generación del empleo y las situaciones de pobreza y desigualdad. Y aunque por una cuestión de extensión aquí no podré explicarlo, incluso toda la discusión sobre déficit fiscal y recortes presupuestarios está igualmente condicionada por el predominio de tales intereses.

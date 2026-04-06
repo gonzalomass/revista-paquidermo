@@ -1,0 +1,26 @@
+---
+title: "La democracia financiera"
+date: "2010-03-15T17:43:11"
+author: "luis-adrian-mora"
+slug: "la-democracia-financiera"
+excerpt: "Los principales medios de comunicación se regocijan ante la “fiesta democrática” del pasado 7 de febrero, y los sacerdotes y sacerdotisas de la opinión pública alaban la pureza del sistema. “Orgulloso..."
+categories: ["Democracia", "Realidad Nacional"]
+tags: ["Columna: La Rapiña"]
+wp_id: 446
+---
+
+Los principales medios de comunicación se regocijan ante la “fiesta democrática” del pasado 7 de febrero, y los sacerdotes y sacerdotisas de la opinión pública alaban la pureza del sistema. “Orgulloso de ser costarricense” dicen algunos, al son de la Patriótica. Otros, como Jacques Sagot se vuelven incluso *defensores del pueblo *desde el *7ème arrondisement* en París. Pero siempre hay un aguafiestas (como lo llamaria Pilar Cisneros) que se empeña en ver las realidades del proceso y en proponer algunas críticas al mismo.  Me propongo entonces, amargarles un poco el champagne, que este sea tomado en el hotel Crown Plaza Corobicí o en el famoso *Café de Flore*, tan apreciado por ciertos aristócratas ticos.
+
+La primera crítica consiste en admirar cómo nuestra democracia centenaria ha dado un gran paso en su modernización capitalista, puesto que brincó del financiamiento material (contribuciones de personas jurídicas y físicas) a las mejores formas de la finanza especulativa. Nada tienen que envidiarle a los corredores de bolsa de Nueva York, ni los magistrados del TSE, ni los y las diputadas de la Asamblea Legislativa. En efecto, el sistema de financiamiento por bonos resultó ser un manjar apetitoso para los bancos e incluso para las empresas.
+
+Veámos un ejemplo de estos nuevos “fondos de inversión”. Si un partido espera según las matemáticas empresariales de las encuestas, obtener un porcentaje de más de 20%, ello significa para un banco, una inversión clara que se puede desgranar en bonos A o B. A menor porcentaje de votos posibles, mayor riesgo de inversión. Así de simple, las tablas de excel están listas para los cálculos famosos, que sean candidatos o tomates, poco importa, las finanzas establecen lo que vale la política de tiquicia.
+
+Cualquier persona que haya estado involucrada en un proceso electoral sabe que la proyección de un candidato, de su mensaje y sus ideas por los medios masivos, es una ventaja incalculable. Y eso cuesta plata. De la misma forma, cualquiera que haya pasado el día de elección trabajando dentro de la maquinaria partidista sabe que tanto el transporte, como los refrigerios e incluso el obsequio de una camiseta cuentan. Por eso es de notar el masivo silencio que entre los *veladores *de la democracia* *tuvo este tema.
+
+¿Quién paga la música?
+
+El fallo financiero a favor de los bancos es claro. Ellos ponen el precio de l@s president@s, ellos financian y escogen, pues, la música con que se baila. No es de extrañar, por lo tanto, que nuestro nuevo vicepresidente sea, ni más ni menos, que un banquero. Del mismo lado de la cancha surgieron rápidamente los cuestionamientos contra él. Una “pelea de millonarios”, en palabras de Óscar López. En efecto, desde la vieja guardia salió el cañonazo para Liberman, [Jorge Guardia](http://wvw.nacion.com/ln_ee/2009/noviembre/10/opinion2153443.html) lo culpó de formar parte de la *clicka* que ha dominado las políticas económicas de este país en los últimos años, de la misma *clicka* que negoció el TLC (recordemos que el negociador estrella, [Alberto Trejos](http://wvw.nacion.com/ln_ee/2009/noviembre/18/opinion2163557.html) salió en defensa de su antiguo jefe), misma *clicka *al afin que se enriqueció obscenamente con la banca *off shore*.
+
+Don Luis dejó muy claro, en su entrevista con [El Financiero](http://www.elfinancierocr.com/), cuál será su política económica para los próximos cuatro años. Afirmó que “la gente” (entiéndase “los trabajadores de a pie”) se quejaba porque sus salarios habían aumentado únicamente 3%, cuando dicho porcentaje tenía que ser comparado con la inflación. Y si queríamos mantener esta baja, para atraer inversión, pues había que “ir bajando nuestras expectativas”. Las palabras sobran, la política se dibuja claramente: para los trabajadores, menores salarios, mayor rendimiento para el capital. Don Luis desarrolla algo que podríamos llamar “la ironía inflacionaria”, es decir, que los trabajadores no pidan más porque sus demandas empujan la inflación hacia arriba, lo cual hace huir a los inversores. Pero, sacando números sencillos, el aumento salarial real no es más que de un 1,37%, ya que la inflación en enero alcanzó el 1,63% Difícil de comparar, sin duda, con los rendimientos “off shore”.
+
+Estos dos señalamientos bastan para matizar un poco el aplauso acrítico de la *intelligentsia *oficialista. Si bien disfrutamos de un proceso sin violencia evidente, los mecanismos económicos que articulan propaganda, financiamiento y decisiones estratégicas, en miras al triunfo electoral, tienen que ser analizados y señalados, cosa que esperaríamos, por lo demás, de aquellos que se presentan como los garantes de la “institucionalidad democrática” y que pestan contra los *transnochados *que se atreven a criticar.

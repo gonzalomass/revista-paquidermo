@@ -1,0 +1,54 @@
+---
+title: "La muerte del intelectual"
+date: "2011-02-27T22:01:44"
+author: "terry-eagleton"
+slug: "la-muerte-del-intelectual"
+excerpt: "Noam Chomsky, uno de los intelectuales públicos más eximios del siglo XX y a quien se le ofrecen guardaespaldas cada vez que habla en algún campus de alguna universidad estadounid..."
+categories: ["Democracia", "Educación", "Internacional"]
+tags: ["Contribuciones Internacionales"]
+wp_id: 2887
+---
+
+Noam Chomsky, uno de los intelectuales públicos más eximios del siglo XX y a quien se le ofrecen guardaespaldas cada vez que habla en algún campus de alguna universidad estadounidense, una vez externó menosprecio respecto de la creencia de que la tarea del intelectual público era la de ‘decirle la verdad al poder’. En primer lugar, según señaló Chomsky, el poder, al fin y al cabo, ya sabe la verdad. No seamos tan excesivamente caritativos como para imaginar que nuestros gobernantes se mueven en una pura niebla de mistificación, como si creyeran honestamente que, por ejemplo, la guerra de Irak tiene motivaciones humanitarias, o que la inteligencia inglesa en realidad nunca ha cometido tortura de forma sistemática.
+
+Muy contrariamente, los poderes que determinan nuestro destino saben bastante bien qué se traen entre manos la mayoría de las veces y continúan actuando de la misma manera aunque sepan que se trata de una mezquindad moral o de algo escandalosamente indefendible. Si no es el trabajo de la izquierda hacerles saber estas cosas, se debe en parte a que tenemos mejores cosas que hacer, y en parte a que ellos no necesitan saber lo que ya saben. Además, el cambio político no se logra simplemente cambiando la mentalidad de la gente. Son sus intereses los que deben ser atacados, no sus opiniones.
+
+Por otra parte, según la argumentación de Chomsky, no son los gobernantes quienes necesitan la verdad, sino quienes son gobernados. El rol de la izquierda intelectual es servir a los dominados, no a los dominadores. El punto, en concordancia con un comentario de Marx, no es comprender el mundo, sino transformarlo, si bien nunca nadie ha cambiado un mundo que no se comprende y acá es dónde los intelectuales juegan un papel. O, si se quiere, las universidades.
+
+En este momento, sin embargo, hay muy pocos intelectuales en las universidades. Hay algunas personas a quienes se les llama académicos, pero eso es diferente. Los académicos se pasan la vida investigando preguntas tan cruciales como el sistema vaginal de una pulga (el título de una tesis doctoral en Cambridge que una vez me encontré); los intelectuales, por su parte, tienen más bien la tarea tanto más ardua de hacer que las ideas se reflejen en la sociedad como un todo. Y hace mucho tiempo, las universidades eran el lugar donde se podía encontrar intelectuales en grandes números.
+
+**La ausencia de intelectuales.** Si hoy en día no es posible encontrar numerosos intelectuales en las universidades, ello se debe en parte a que la cantidad de intelectuales de izquierda ha decrecido considerablemente. Un grupo de ellos, incluyendo a Jürgen Habermas, Salman Rushdie y Christopher Hitchens, se han pasado al lado de la derecha política a partir de 9/11 o bien están perdidamente enamorados del ‘mundo libre’. Ninguna generación militante de jóvenes ha remplazado a aquel grupo de E. P. Thompson y Raymond Williams, Edward Said y Susan Sonntag, Roland Barthes y Hannah Arendt.
+
+Pero el problema no consiste en que la izquierda intelectual esté pasada de moda, en comparación con los años 60 y 70 cuando existía una cultura intelectual socialista y feminista bastante próspera en los recintos universitarios. Esto no significa que todos los estudiantes por aquel entonces fueran fans de Marx o feministas; solamemente que estas ideas tenían un sentido cultural cotidiano, así como el Darwinismo en la época victoriana. El problema más acuciante de hoy en día es que las universidades en buena parte han dejado de jugar su papel clásico de fuentes de crítica.
+
+Simplemente no hay suficiente luz entre las universidades y las sociedades en su totalidad, como para que las universidades cumplan con esta misión. Las universidades no pueden ejercer una influencia crítica en una situación donde se las ha integrado completamente, así como un Piccaso que cuelga en el lobby del Chemical Bank no puede tener ingerencia alguna sobre el capitalismo financiero. En un sentido amplio, las instituciones académicas han dado un giro y, en vez de ser el dedo acusador del capitalismo corporativo, ahora son sus cómplices. La universidad es hoy en día algo así como un Walmart intelectual que produce mercancías llamadas ‘graduados’, en vez de comestibles y abarrotes.
+
+**Administrando la mente.** El juego libre de la mente ha sido administrado. Nuestra forma vital de dar cuenta de algo se ha convertido en mera contabilidad.**[*]** La lógica de la mercancía ha penetrado ahora la esfera de las necesidades humanas y de la educación, y ha engendrado allí síntomas patológicos. En las universidades, tal como en las corporaciones transnacionales, una fuerza laboral en buena parte desentendida debe hacer frente a una élite administrativa obsesionada con las finanzas.
+
+La utilidad es hoy en día la piedra de toque de la realidad, en cuyo caso uno podría dejar de leer Macbeth: la maldición de las brujas simplemente no puede ser cuantificada. El futuro de esta situación puede preverse con suficiente facilidad. Dentro de poco, los intelectuales ofrecerán a los estudiantes un menú: £80 por sus descubrimientos más revolucionarios; £45 por algunas cosas brillantes, pero no tanto; £15 por un campo estandarizado de ideas. En lo que atañe a la corrección de ensayos, £5 por cada comentario no parece demasiado excesivo. Mientras anticipo estos desarrollos con entusiasmo, ya tengo una ranura en la puerta de mi oficina en la que los estudiantes deben echar una libra, solamente para que se les permita entrar. Ya que no tienen dinero para comprar libros, yo mismo he inventado ya un esquema de préstamo.
+
+Cuando la crítica valora la actualidad a la luz de la posibilidad al medir el indicativo por la norma del subjuntivo, la ambición del capitalismo avanzado no es simplemente combatir las ideas radicales, y ni siquiera desacreditarlas, sino abolir la misma noción de que puede haber una alternativa seria al presente estado de cosas.
+
+Su tarea, dicho brevemente, es aniquilar ese poder peligroso conocido como imaginación. Todo tiempo pasado es la narrativa del inquebrantable progreso que va desde el molusco hasta el capitalismo del monopolio, destinado en la plenitud de los tiempos a dar nacimiento a esa encarnación del Espíritu del Mundo conocida como Gordon Brown. El futuro es simplemente el presente con más opciones. El apogeo de la historia es el libre mercado. Fue por este que los griegos antiguos riñeron y que las personas en pro de la igualdad de derechos se sublevaron.
+
+**Los guardianes culturales.** Cuando las universidades se convierten en meros entes integrados, el papel del intelectual crítico tiende a dar un viraje fuera de las paredes universitarias y mirar hacia los escritores y los artistas. Son ellos quienes ostentan el papel inenvidiable de ser los guardianes de los valores humanos en un orden social que se quita el sombrero ante estos valores en la teoría, al mismo tiempo que los desacata en la práctica. No obstante, aquí también nos hallamos ante un gran problema. Podemos confiar en los escritores y en los artistas como acérrimos defensores de las libertades individuales y civiles. De todas formas, este es el mismo aire de libertad que ellos disfrutan como profesionales. Pero una política semejante tiene sus límites, porque no puede ir más allá de un liberalismo inglés de clase media.
+
+Novelistas como Salman Rushdie, Martin Amis y Ian McEwan pueden ser todo lo vociferantes que quieran en su oposición al islamismo, pero es difícil imaginarles alzando la voz con tanta vehemencia a favor de, por ejemplo, el concilio para el sueldo de los trabajadores o de los derechos de los iraquíes para defenderse por sí mismos contra una invasión brutal. Dadas las condiciones de su trabajo, es improbable que los escritores y que los artistas tengan mucho sentido de colectividad.
+
+Hay algo desinteresado y valioso en sus reclamos a favor de la libre expresión. Con todo, en tanto defensores autonombrados de la civilización ante el barbarismo, cometen el error de no ver que cierto barbarismo es el otro lado de la moneda de la misma civilización y que éste no puede separarse de las tersas operaciones civilizatorias. Para cada catedral, hay una fosa llena de huesos; para cada obra artística, miseria humana y trabajo esclavo. Escribir novelas, como cualquier otra forma de actividad cultural, solamente es posible por el trabajo de otros. Y este no es un hecho respecto del cual Amis parezca estar al tanto.
+
+Las universidades no pueden ser transformadas de forma aislada. Para soltarlas de las garras del capitalismo avanzado, tenemos que tener una sociedad que disponga de los medios para la educación gratuita de la gente joven, donde haya también independencia académica en relación con intereses privados.
+
+Esto significa transformar el sistema económico que despilfarra billones en el lucro de los accionistas y en armas, al mismo tiempo que establece salarios de hambre, un paraíso fiscal para los más ricos, mercancías inútiles y muchas cosas más.
+
+Para lograr estas metas políticas, necesitamos, entre otras cosas, una nueva generación de intelectuales públicos preparada para hacer el duro análisis que se necesita, y que se involucre en la tarea de divulgar estos ideales también en el exterior. De otra forma, continuaremos en una situación como cuando Amis hizo sus odiosos comentarios acerca de perseguir y discriminar a inocentes musulmanes. Su amigo cercano Christopher Hitchens se dejó decir que esos comentarios eran simplemente ‘experimentos mentales’, mientras que su otro amigo cercano, Salman Rushdie, arguyó que Amis no había dicho nada discriminatorio, aunque había hablado abiertamente a favor de la discriminación.
+
+Es muy notable cómo la intelligetsia liberal revela cuán desinteresada es su pasión por la verdad y la justicia, excepto cuando se toca a sus amigotes.
+
+[*Terry Eagleton*](http://en.wikipedia.org/wiki/Terry_Eagleton)* fue [obligado](http://www.guardian.co.uk/education/2008/feb/07/highereducation.news)** a retirarse de la cátedra John Edward Taylor en literatura inglesa en la Universidad de Manchester en julio de 2008.*
+
+ 
+
+*** Nota:** Terry Eagleton establece en este punto un juego semántico con los términos ‘account’ (explicar, dar cuenta de algo) y ‘accountancy’ (contabilidad).
+
+*Publicado originalmente en *[*Red Pepper*](http://www.redpepper.org.uk/) (octubre de 2008)*. Se reproduce con expresa autorización de los editores. Traducción del inglés por Jethro Masís.*

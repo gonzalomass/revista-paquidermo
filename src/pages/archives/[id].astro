@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts
+    .filter((p) => p.data.wp_id)
+    .map((post) => ({
+      params: { id: String(post.data.wp_id) },
+      props: { slug: post.data.slug },
+    }));
+}
+
+const { slug } = Astro.props;
+const target = `/${slug}`;
+---
+
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <link rel="canonical" href={target} />
+    <title>Redireccionando...</title>
+  </head>
+  <body>
+    <p>Redireccionando a <a href={target}>{target}</a></p>
+  </body>
+</html>

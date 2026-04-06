@@ -1,0 +1,28 @@
+---
+title: "Mala ciencia"
+date: "2014-07-22T04:03:20"
+author: "llewllyn-hinkes-jones"
+slug: "mala-ciencia"
+excerpt: "Las políticas de investigación en el marco del libre mercado han desatado la charlatanería médica y el fraude científico, forzando a los consumidores a pagar de más sobre l..."
+categories: ["Ciencia"]
+tags: ["Contribuciones Internacionales", "Lo Recomendado"]
+wp_id: 10734
+---
+
+Las políticas de investigación en el marco del libre mercado han desatado la charlatanería médica y el fraude científico, forzando a los consumidores a pagar de más sobre los descubrimientos que como contribuyentes financiamos.
+
+Mientras podemos decir con certeza que aún existe un núcleo de ciencia prestigiosa, reproducible y respetable, este se encuentra rodeado por una nube de inexactitudes y artimañas. Descubrimientos que entusiasman, como posibles curas para el cáncer, son tragados y regurgitados por una prensa desesperada de contenido pero reacia o incapaz de descifrar las falsas informaciones, la metodología equivocada y las estadísticas erróneas usadas para conseguir los resultados. El entendimiento que el público tiene de temas controversiales como los organismos genéticamente modificados o los disruptores endocrinos, es confundido por la publicación de estudios inexactos que apoyan a alguno de los bandos en disputa. Esas historias son luego transformadas en “dietas de moda” de corta duración y temores por riesgos para la salud, tal y como los que vinculaban el autismo con la vacunación en el nacimiento.
+
+Aquellos resultados que se producen y publican rápidamente son más propensos a ser inexactos. Hacer ciencia de forma adecuada toma tiempo, pero refutar ciencia errónea toma todavía más. Por ejemplo, una reciente [prueba genética para el autismo](http://www.genomesunzipped.org/2013/10/guest-post-the-perils-of-genetic-risk-prediction-in-autism.php) que tomó nueve meses descartar, solo requirió de tres días para ser aprobada y enviada a imprenta. En ese lapso de tiempo, es probable que pocos de aquellos que oyeron la emocionante noticia se enteraran de la decepcionante corrección. Cuando un artículo que habla del descubrimiento de una [prueba genética de longevidad](http://www.nature.com/news/2011/110721/full/news.2011.429.html) es publicado con bombos y platillos, inmediatamente inspira una pequeña industria para proveer exámenes de longevidad. Cuando este artículo es retractado –no por fraude o mala conducta sino por una aproximación deficiente- esas pruebas genómicas no necesariamente desaparecen de la noche a la mañana. Sobreviven en una economía de “mercado gris” que lucra de la falta de conocimiento del público con respecto a la actualidad en la investigación científica.
+
+La privatización de la investigación académica no solo entorpece el proceso científico, también significa que la corrupción directa -cuando los científicos son sobornados por industrias privadas para engañar al público con respecto a toxinas en la comida o a contaminación del aire- tiene más oportunidades de seguir adelante. Investigadores desesperados por conseguir fondos para mantener sus posiciones y continuar con su trabajo son más propensos a ser financiados por industrias deseosas de distorsionar la ciencia a su antojo. Solo impulsa los perversos incentivos del libre mercado para beneficiarse de lo que una vez fueron instituciones públicas. Cuando el [riesgo para la salud por el efecto cancerígeno de los químicos ignífugos puede ser distorsionado por una industria ávida de hacer dinero a partir de su proliferación](http://www.chicagotribune.com/news/watchdog/flames/ct-met-flame-retardants-20120506,0,1627036.story), la ciencia deja de trabajar en función del interés público. Eventualmente, el enfoque basado en el mercado que se le da a la investigación académica deja de tratarse de ciencia y se trata ahora de atraer atención y dinero bajo un brillo de investigación científica.
+
+Si hay algo en el enfoque neoliberal de la investigación académica, es un retorno a los origines del sistema universitario privado, anterior a la titularidad[*], cuando numerosas escuelas eran sencillamente los laboratorios de investigación y brazos promocionales de la industria privada, en lugar de instituciones de conocimiento haciendo avanzar la ciencia en beneficio del interés público. En ese entonces, los profesores trabajaban a instancias de los donantes y la junta directiva. Podrían ser fácilmente despedidos si se mostraban críticos o si publicaban investigaciones que afectaran los beneficios de la escuela y sus donantes. [Apoyar los derechos laborales, abogar por políticas socialistas, creer en la evolución, luchar contra la esclavitud](http://www.jstor.org/discover/10.2307/4609390?uid=3737816&uid=2&uid=4&sid=21103836738501) o informar al público de las consecuencias tóxicas de los vapores nocivos de la fundición de cobre podría haber significado un despido inmediato.
+
+Con titularidad y financiamiento público, los investigadores pueden hablar libremente y enfocarse en temas que eviten proposiciones corto-plazistas basadas en el consumidor y la generación de dinero. Avances que quizás no tengan el potencial de generar ganancias inmediatas podrían desarrollarse sin la constante necesidad de publicar o perecer.
+
+--------
+
+*Artículo aparecido originalmente en [Jacobin](https://www.jacobinmag.com). Traducción de un extracto del artículo completo por Ignacio Arroyo para Paquidermo.*
+
+* Nota de los editores: Titularidad o también propiedad traduce el término inglés *tenure*, que le otorga al profesor universitario un contrato indefinido (generalmente para toda la vida) con la universidad y con ello plena autonomía docente e investigadora.

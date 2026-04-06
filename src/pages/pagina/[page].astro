@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import Pagination from '../../components/Pagination.astro';
+import { getCollection } from 'astro:content';
+import { getAuthorMap, getAuthorName } from '../../lib/authors';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  const sorted = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+  const postsPerPage = 12;
+  const totalPages = Math.ceil(sorted.length / postsPerPage);
+
+  return Array.from({ length: totalPages - 1 }, (_, i) => ({
+    params: { page: String(i + 2) },
+    props: {
+      posts: sorted.slice((i + 1) * postsPerPage, (i + 2) * postsPerPage),
+      currentPage: i + 2,
+      totalPages,
+    },
+  }));
+}
+
+const { posts, currentPage, totalPages } = Astro.props;
+const authorMap = await getAuthorMap();
+---
+
+<BaseLayout title={`Página ${currentPage}`} noindex>
+  <div class="grid md:grid-cols-2 gap-x-12 gap-y-6 md:gap-y-10">
+    {posts.map((post: any) => (
+      <PostCard
+        title={post.data.title}
+        date={post.data.date}
+        author={post.data.author}
+        authorName={getAuthorName(authorMap, post.data.author)}
+        slug={post.data.slug}
+        excerpt={post.data.excerpt}
+        categories={post.data.categories}
+      />
+    ))}
+  </div>
+
+  <Pagination currentPage={currentPage} totalPages={totalPages} />
+</BaseLayout>

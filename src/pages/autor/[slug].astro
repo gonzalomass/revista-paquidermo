@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const authors = await getCollection('authors');
+  const posts = await getCollection('posts');
+
+  return authors.map((author) => {
+    const authorPosts = posts
+      .filter((p) => p.data.author === author.data.slug)
+      .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+    return {
+      params: { slug: author.data.slug },
+      props: { author, posts: authorPosts },
+    };
+  });
+}
+
+const { author, posts } = Astro.props;
+---
+
+<BaseLayout title={author.data.name}>
+  <div class="mb-8" data-pagefind-filter="tipo:Autores">
+    <h1 class="font-display text-3xl md:text-4xl font-bold">{author.data.name}</h1>
+    <p class="text-paqui-gray mt-2">{posts.length} artículos publicados</p>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-x-12 gap-y-10">
+    {posts.map((post: any) => (
+      <PostCard
+        title={post.data.title}
+        date={post.data.date}
+        author={post.data.author}
+        authorName={author.data.name}
+        slug={post.data.slug}
+        excerpt={post.data.excerpt}
+        categories={post.data.categories}
+      />
+    ))}
+  </div>
+</BaseLayout>

@@ -1,0 +1,18 @@
+# Old WordPress URL patterns → new site
+
+# Category archives
+/archives/category/*  /categorias  301
+
+# Author archives
+/archives/author/*  /autores  301
+
+# Tag archives
+/archives/tag/*  /categorias  301
+
+# Old date-based permalinks (can't map individually, send to archive)
+/:year/:month/:day/*  /archivo  301
+
+# Old feed URLs
+/feed  /  301
+/feed/*  /  301
+/comments/feed  /  301

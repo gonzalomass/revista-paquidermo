@@ -1,0 +1,52 @@
+---
+title: "Encuentros entre el chisme y la literatura"
+date: "2017-06-08T11:03:05"
+author: "paquidermo"
+slug: "encuentros-entre-el-chisme-y-la-literatura"
+excerpt: "Es usual que la sola mención de la palabra chisme despierte en algunas valoraciones desfavorables. Valoraciones, cabe aclarar, de tipo moral en su mayoría. Esta postura, que contradice el goce que en ..."
+categories: ["Literatura"]
+tags: []
+wp_id: 13446
+---
+
+Es usual que la sola mención de la palabra chisme despierte en algunas valoraciones desfavorables. Valoraciones, cabe aclarar,  de tipo moral en su mayoría. Esta postura, que contradice el goce que en la práctica suele existir alrededor de lo que podría denominarse la actividad chismosa, puede ser rebatida si se toman en cuenta los estudios que, desde distintas disciplinas, buscan que las funciones del chisme se comprendan adecuadamente, y que se contrarreste el desprestigio con el que se le juzga.
+
+De lo anterior, pueden citarse enfoques que parten de la Antropología, la Psicología, la Educación, la Historia, entre otros. Por ejemplo, Aaron Ben-Ze’ev, en su artículo “The vindication of gossip”, rescata la labor social del chisme al fomentar la amistad entre quienes comparten la información; crear vínculos de intimidad, y ligado a esto,** **fomentar el sentido de pertenencia a un grupo que entiende el contenido de la información transmitida. Esta visión por lo tanto, rechaza el enfoque exclusivo sobre el contenido del mensaje, que en una visión aislada puede parecer moralmente negativo, y privilegia, más bien, un análisis de la acción comunicativa**.**
+
+También se ha resaltado su papel en el aprendizaje, ya que las anécdotas que se transmiten con el chisme contienen información de utilidad para desempeñarse en la vida diaria. Kathleen D. Vohs, en “Gossip as cultural learning”, cita el ejemplo de un sujeto que buscaba el reintegro de su dinero por la compra de un artículo de ventas por televisión. La empresa se negó a aplicar su política de devolución, pero el dinero se recuperó, al acudir a quien expidió la tarjeta de crédito mediante la cual se realizó el pago. Al poco tiempo, varios conocidos con problemas similares, comenzaron a aplicar la misma solución.
+
+Uno de los defensores del chisme, más reconocido en la actualidad, es Yuval Noah Harari (*De animales a dioses (Sapiens): Una breve historia de la humanidad*). Él postula que el chismorreo permitió a los Sapiens superar a otros homínidos, ya que funciona a modo de vehículo de conocimiento, que permite mayor organización social. El desarrollo del lenguaje permite el desarrollo del chisme, con ello más circulación de la información y sofisticación del lenguaje. Además, permite adquirir la capacidad de narrar historias. Cabe advertir que esta información de la que se habla no es, por ejemplo, una forma de hacer determinado, sino que suele girar alrededor de otros miembros de la sociedad. Con esto se conoce a los demás y se generan vínculos.
+
+Esta breve referencia a algunas posiciones favorables al chisme, desde distintas disciplinas, busca según se advirtió al inicio, mostrar alternativas al rechazo inmediato de lo relacionado con dicha actividad. Sin embargo, el presente artículo no pretende constituirse en una apología del chisme, la cual no sería para nada injusta; sino, analizar algunos puntos de contacto (o encuentros, como sugiere el título), que el mismo puede tener con la literatura. Para esto, se analizarán tres enfoques específicos, para evitar caer en una discusión estéril, al existir la tentación de afirmar con Capote que “toda la literatura es chisme”, según la frase atribuida al estadounidense (cuya autoría, aclaro, no me consta).
+
+El primer enfoque, se encuentra desde lo que podría llamarse el proceso creativo. Ya sea, por ejemplo, que la historia se base en el desarrollo de un chisme que el autor plantee, o que la misma trama involucre el ejercicio del chisme por parte de los personajes. Edgardo Cozarinsky (“El relato indefendible”, *Nuevo museo del chisme*), ubica la práctica comentada, en la novela de inicios del siglo XX.  Específicamente menciona como principales figuras de la relación entre chisme y novela de esta época a Henry James y Marcel Proust
+
+En este sentido, indica el autor que ambos “…*derivaron del chisme el impuso inicial para urdir sus complejos edificios narrativos; pero en vez de cancelarlo discretamente, como a un antepasado impresentable, o aun de sepultarlo como a la piedra basal regada con la sangre de un sacrificio propiciatorio, lo exhiben, lo canonizan en un método y reconocen en su aparente trivialidad la clave de todo conocimiento.*”
+
+Sin embargo, encuentra, dentro de este tema, diferencias entre cada escritor. En el caso de Proust, sostiene que su visión del chisme lo relaciona con una forma de quebrar el exceso de realidad en el relato, tan usual en la narrativa vigente en el momento, propicia para que se pierda la atención del lector. Permite, entonces, resaltar pequeñas cosas que pasan desapercibidas cuando el espectador identifica los hechos de la novela con su propia cotidianeidad. Proust veía en el chisme la posibilidad de ofrecer una verdad propia de la novela, independiente de lo que pueda ser verdadero o no en el mundo real. Por este motivo, asegura que el chisme es lo que hace una novela tal.
+
+Por otra parte, atribuye a James considerar el chisme como un germen de historia que, además de funcionar de punto de partida, permite luego complicarla, hacerla crecer, variar, desarrollarse. Por este motivo, puede entenderse que el chisme forma parte de su método narrativo. Pero también se vale de este recurso para guiar al lector en su obra. Por ejemplo, mediante la entrega de información en forma fragmentaria, a veces por un narrador, a veces con el uso de personajes secundarios que revelen información solamente al lector, y no a otros personajes.
+
+A manera de segundo enfoque, puede citarse la inserción de chisme como fundamento, o atracción principal de la obra. Aquí se pueden ubicar varios de los textos de David Markson, sin embargo, se hará referencia específica a *La soledad del lector*: un libro experimental en el que se intercalan pequeños párrafos que contienen el desarrollo de una trama difusa cuyos personajes son el Protagonista y el Lector; con otros que se refieren a nombres, fechas, frases aisladas, y lo que nos interesa, chisme histórico.
+
+El chisme histórico puede entenderse como aquel que corresponde a datos de la vida de personajes conocidos, sea del arte, la literatura, la política, etcétera. Lo anterior puede explicarse mejor con un ejemplo, tomado del libro de Markson:
+
+“*La cuestión de verdad versus leyenda en aquello de que Alejandro Haya arrasado Persépolis alentado por Tais.*
+
+*La certeza de que el exceso de vino tuvo algo que ver.”*
+
+No se encuentra en *La soledad del lector* un hilo conductor que una las referencias de chisme entre ellas o con la aparente trama que se narra, por lo que resultan más como referencias sueltas. Tampoco se hace mayor énfasis en las fuentes de donde es tomada dicha información. Quedando a la responsabilidad del lector de tomar los datos que se le ofrecen como verídicos o no.
+
+En esta misma categoría puede incluirse al ya citado Cozarinsky, quien en “Cuadros de una exposición” y “De las reservas del museo” (*Nuevo museo del chisme*), ofrece al lector una serie de relatos sobre personajes similares a los expuestos por Markson. Sin embargo, se diferencia de este último por varias razones. En primer lugar, es expresa la referencia del argentino a que lo escrito corresponde a piezas de chisme colocadas a manera de exposición de museo (de ahí el nombre del libro). Por otra parte, no existe ninguna trama aparente que sirva de marco para cada una de las historias.
+
+Por último, en su colección sí viene citada la fuente  de la que se toma lo narrado. En algunos casos vendrá de obras impresas, como la *Vida de los césares *de Suetonio, o *Anecdotario*, de Alfonso Reyes; en otros casos, la mayoría, se tratará de fuentes orales citadas directamente, como Jorge Luis Borges, Alberto Maguel o Victoria Ocampo. Otras no serán tan precisas, como cuando atribuye lo expuesto a “periodistas argentinos y austriacos”, a “fuentes innumerables”, o “tradición oral”.
+
+Como puede verse, ambos autores colocan los datos de chisme sin buscar convertirlos en narraciones propias. El valor de su propuesta está en el montaje, en la selección y ubicación de cada fragmento para dar sentido a su obra, una novela experimental en el caso de Markson, y una “galería” del chisme en el caso de Cozarinsky. Se diferencian, por tanto, de la tercera forma que se plantea en este artículo, correspondiente al caso en el que el texto toma la figura del chisme de manera intencional, para crear una historia de ficción, o que al menos lo aparenta.
+
+Para ejemplificar lo anterior, tomemos *El país de las certezas,* de Fabián Coto Chaves Quienes han comentado este compendio de relatos cortos, coinciden en que el mismo abarca desde los temas más locales hasta otros de corte cosmopolita. En algunos de los pertenecientes a esta categoría, narra eventos protagonizados por distintas figuras históricas, ya sea de la música, el cine o la política por citar ejemplos.
+
+En este sentido, puede verse cómo Coto se refiere a los recuerdos que los mangos dorados servidos en desayunos continentales traían al General MacArthur; o a las reflexiones de un olvidado Alan Freed. Así mismo, a un encuentro entre Kruschev y el artista Zhutovsky en la galería de este último, y a la cantante Orlova elaborando el soundtrack de la II Guerra Mundial para el Ejército Rojo.
+
+Estos son solo algunos ejemplos ilustrativos, de los que ofrece el libro. Lo que se puede afirmar es la falta de certezas respecto a la veracidad de los sucesos narrados por Coto, y ahí es donde se encuentra la función del chisme en esta obra.
+
+Como se ha dicho, lo que se pretende es una muestra concreta de la relación entre el chisme y la literatura Al no ser exhaustiva, se dejan para estudios futuros, temas como el análisis de la biografía y autobiografía, géneros chismosos por excelencia; o, desde el punto de vista de la gestión cultural de actividades literarias, la importancia de conocer la participación de dos autores en triángulos amorosos, a la hora de elegirlos para ser parte de un conversatorio. Solo por mostrar las múltiples ramificaciones de este tema.

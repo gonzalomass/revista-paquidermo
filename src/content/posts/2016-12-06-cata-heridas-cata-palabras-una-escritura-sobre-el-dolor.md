@@ -1,0 +1,30 @@
+---
+title: "Cata-heridas, Cata-palabras: una escritura sobre el dolor"
+date: "2016-12-06T14:39:08"
+author: "paquidermo"
+slug: "cata-heridas-cata-palabras-una-escritura-sobre-el-dolor"
+excerpt: "Reseña de Tiembla, memoria. Catalina Murillo. (Uruk, 2016). La memoria es el recordatorio de una herida. La novela Tiembla, memoria de Catalina Murillo (Uruk, 2016) parece la de un amor que se pierde ..."
+categories: ["Crítica literaria"]
+tags: []
+wp_id: 13329
+---
+
+Reseña de *Tiembla, memoria*. Catalina Murillo. (Uruk, 2016).
+
+ 
+
+La memoria es el recordatorio de una herida. La novela *Tiembla, memoria* de Catalina Murillo (Uruk, 2016) parece la de un amor que se pierde y se vuelca en el luto y en la muerte metafórica. La autora realiza un recorrido por las estaciones que comprenden el amor, el desamor y la resistencia; desde una perspectiva íntima, con una estructura epistolar y un lenguaje agudo, logra reflexionar acerca de la pérdida, la amistad y la vida de una mujer madura, que atestigua y padece el amor.
+
+De primera entrada, resulta interesante la disposición capitular de *Tiembla, memoria*, al igual que la trama, alude a un proceso de colapso: empieza con un estado de plenitud como la euforia y el éxtasis hasta desembocar en la agonía y la muerte. De esta forma se desarrolla la novela, siguiendo la pista que nos da el personaje de Cata, del que hablaremos más adelante, cuando se repite una y otra vez estas palabras: *de catástrofe a catarsis*.  Así se desencadena una caída a partir del rotundo: “Ya no estoy enamorado de ti”; asimismo este es el desenlace del primer segmento de la novela que se desarrolla en un Madrid bohemio y sensual. Luego se da paso a la segunda parte del texto que consiste en una decepción amorosa; de esta manera, parece que la escritora no teme abrir la herida, en tanto más bien la recorre, la examina y la habita como si nos llevara a pasear por la geografía de su dolor.
+
+Se recurre a un desdoblamiento para hablarnos del dolor. Hay dos Catalinas: una omnipresente que da la sensación de ser una idea que flota sobre la Cata de carne y hueso, como una suerte de testigo ocular y cósmico que al mismo tiempo presencia, relata y vive: en ella confluyen la primera persona (el *yo* que enuncia) y la tercera persona (el *ella* que vive y sufre). La otra es Cata, la que vaga por las calles de Madrid; de la que se intuye es la idea encarnada en la materia: la que vive la pérdida y experimenta ese dolor que, en el desdoblamiento, será diseccionado en la novela lo que nos asegura que viviremos junto a ella el éxtasis y el posterior duelo de una mujer que por primera vez se ha enamorado.
+
+Otra figura presente en la novela es Corazón Patiño, la amiga de Catalina con quien mantiene correspondencia. Es un personaje complejo que surge bajo una luz diferente en comparación con Catalina; se ubica como el contrapeso al frenesí de Cata, y por instantes la saca de sus monólogos internos y de sus reflexiones. Es el personaje de Patiño quien cumple un función todavía más importante en la novela, pues permite vitalizar a Cata Botellas y al mismo tiempo exacerba las viejas y las nuevas heridas: confronta y contribuye a (de)formar el personaje. Es decir, Corazón es parte de Botellas y Botellas de Corazón: ambas se  inventan mutuamente en una correspondencia que trasciende lo epistolar y amalgama a estos dos personajes que se contrarían y complementan.
+
+Respecto a la construcción de los personajes, los femeninos destacan en contraposición con los masculinos; estos últimos se diluyen en una masa incorpórea porque su caracterización es tan homogénea que no permite una distinción contundente y que no alcanzan a concretarse; ni siquiera un personaje como Juan Valiente, el amado de Cata, resulta convincente. En cambio, Murillo logra que los personajes femeninos tengan independencia y fuerza, desde Patiño hasta Wendy, todas son voces bien logradas; no obstante, es pertinente señalar que los personajes femeninos, incluida Cata, caen en redundancia en cuanto al estereotipo de mujer, si bien distinto al de ama de casa abnegada, son caricaturizadas como seres que pregonan de su falta de ataduras emocionales y sexuales y que termina por convertirlas en parodias de sí mismas.
+
+Catalina Murillo en este texto consigue reflexionar acerca del amor, la mujer en su faceta laboral, romántica y sexual. Además, explora el tema de la amistad, el arraigo o desarraigo al lugar de procedencia (Costa Rica); este último punto recuerda a escritoras como Yolanda Oreamuno, en cuanto al exilio que se lleva de la ficción a la realidad. Así no solamente se refiere a las fronteras geográficas, sino el exilio ideológico impuesto en esta región tropical cuya percepción, nos recuerda *María la noche* (Lumen, 1985) de  Ana Cristina Rossi, es la de una infancia o juventud borrosa de la que se hace necesario escapar.
+
+La palabra juega un papel primordial en esta narración, porque edifica y destruye; como sucede hacia el final del texto, cuando Cata acude a la doctora Adán quien le recomienda enfrentarse a su dolor, por lo que le pide pronunciar el nombre de su viejo amor: Juan Valiente. Así pues, Cata debe pronunciarlo y no evadirlo. Por consiguiente, el poder del verbo adquiere un sentido complejo, tanto dentro del mundo ficcional como en la narrativa de Murillo, ya que las palabras se transfiguran en dolor; así es necesario pronunciar las palabras en voz alta y probablemente también que sean leídas para que se cumpla su poder sanador.
+
+La narrativa de Catalina Murillo evidencia un tratamiento lúdico del lenguaje, lo cual propicia una lectura desenvuelta; de igual forma, consigue una escritura sincera e íntima que logra involucrarnos en ese proceso de luto. Por otro lado, la técnica del desdoblamiento y la creación de un personaje que funciona como un *alter ego *de Cata Botellas es el mayor logro de este texto, pues conjuga el proceso de sanación de una herida profunda y la reflexión sobre este dolor: nos damos cuenta de que por medio de la palabra se sufre pero también se sana.

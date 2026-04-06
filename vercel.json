@@ -1,0 +1,11 @@
+{
+  "redirects": [
+    { "source": "/archives/category/:path*", "destination": "/categorias", "statusCode": 301 },
+    { "source": "/archives/author/:path*", "destination": "/autores", "statusCode": 301 },
+    { "source": "/archives/tag/:path*", "destination": "/categorias", "statusCode": 301 },
+    { "source": "/feed", "destination": "/", "statusCode": 301 },
+    { "source": "/feed/:path*", "destination": "/", "statusCode": 301 },
+    { "source": "/comments/feed", "destination": "/", "statusCode": 301 },
+    { "source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug*", "destination": "/archivo", "statusCode": 301 }
+  ]
+}

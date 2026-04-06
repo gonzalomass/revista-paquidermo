@@ -1,0 +1,59 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts');
+const categoryMap = new Map<string, { name: string; slug: string; count: number }>();
+
+for (const post of posts) {
+  for (const cat of post.data.categories) {
+    const slug = cat.toLowerCase().replace(/\s+/g, '-');
+    if (!categoryMap.has(slug)) {
+      categoryMap.set(slug, { name: cat, slug, count: 0 });
+    }
+    categoryMap.get(slug)!.count++;
+  }
+}
+
+const categories = Array.from(categoryMap.values()).sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout title="Categorías" noindex>
+  <h1 class="font-display text-2xl md:text-4xl font-bold mb-4 md:mb-6">Categorías</h1>
+
+  <input
+    type="text"
+    id="filter"
+    placeholder="Filtrar categorías..."
+    class="w-full border border-gray-300 px-4 py-2 mb-6 text-sm focus:outline-none focus:border-paqui-red"
+  />
+
+  <div id="list" class="grid md:grid-cols-3 gap-4">
+    {categories.map((cat) => (
+      <a
+        href={`/categoria/${cat.slug}`}
+        data-name={cat.name.toLowerCase()}
+        class="filter-item border border-gray-200 p-4 hover:border-paqui-red transition-colors group flex justify-between items-center"
+      >
+        <span class="font-semibold group-hover:text-paqui-red transition-colors">{cat.name}</span>
+        <span class="text-sm text-paqui-gray">{cat.count}</span>
+      </a>
+    ))}
+  </div>
+
+  <p id="no-results" class="hidden text-paqui-gray text-sm mt-4">No se encontraron categorías.</p>
+</BaseLayout>
+
+<script is:inline>
+  document.getElementById('filter').addEventListener('input', function () {
+    var q = this.value.toLowerCase();
+    var items = document.querySelectorAll('.filter-item');
+    var visible = 0;
+    items.forEach(function (el) {
+      var match = el.getAttribute('data-name').indexOf(q) !== -1;
+      el.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    document.getElementById('no-results').style.display = visible ? 'none' : 'block';
+  });
+</script>

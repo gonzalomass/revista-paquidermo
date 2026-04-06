@@ -1,0 +1,57 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  noindex?: boolean;
+}
+
+const { title, description = 'Revista Paquidermo — prensa rosa', noindex = false } = Astro.props;
+const pageTitle = title ? `${title} | Revista Paquidermo` : 'Revista Paquidermo';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{pageTitle}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700;800;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-paqui-light text-paqui-dark font-sans antialiased">
+    <header class="bg-paqui-dark text-white">
+      <div class="max-w-6xl mx-auto px-4 py-4 md:py-8">
+        <a href="/" class="block">
+          <img src="/logo.svg" alt="Revista Paquidermo" class="h-16 md:h-28 mx-auto invert" />
+        </a>
+        <p class="text-center text-xs md:text-sm text-gray-400 mt-2 md:mt-3 tracking-[0.3em] uppercase">prensa rosa</p>
+      </div>
+      <nav class="border-t border-gray-700 bg-paqui-red">
+        <div class="max-w-6xl mx-auto px-4 flex justify-center gap-3 md:gap-8 text-xs md:text-sm font-medium uppercase tracking-wider py-2.5 md:py-3 flex-wrap">
+          <a href="/" class="text-white/90 hover:text-white transition-colors">Inicio</a>
+          <a href="/archivo" class="text-white/90 hover:text-white transition-colors">Archivo</a>
+          <a href="/autores" class="text-white/90 hover:text-white transition-colors">Autores</a>
+          <a href="/categorias" class="text-white/90 hover:text-white transition-colors">Categorías</a>
+          <a href="/buscar" class="text-white/90 hover:text-white transition-colors">Buscar</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="max-w-6xl mx-auto px-4 py-6 md:py-10" {...noindex ? {'data-pagefind-ignore': ''} : {'data-pagefind-body': ''}}>
+      <slot />
+    </main>
+
+    <footer class="bg-paqui-dark text-gray-400 mt-16">
+      <div class="max-w-6xl mx-auto px-4 py-8 text-center text-sm">
+        <img src="/logo.svg" alt="Revista Paquidermo" class="h-10 mx-auto invert opacity-40 mb-4" />
+        <p>&copy; Revista Paquidermo 2010–2021. Archivo digital.</p>
+      </div>
+    </footer>
+  </body>
+</html>

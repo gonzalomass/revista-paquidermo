@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-serif: Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: Inter, system-ui, -apple-system, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+
+  --color-paqui-red: #c41e3a;
+  --color-paqui-dark: #1a1a1a;
+  --color-paqui-gray: #4a4a4a;
+  --color-paqui-light: #f8f7f4;
+  --color-paqui-accent: #c41e3a;
+}

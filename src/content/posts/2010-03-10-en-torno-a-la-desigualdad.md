@@ -1,0 +1,26 @@
+---
+title: "En torno a la desigualdad"
+date: "2010-03-10T11:05:38"
+author: "agustin-gutierrez-carro"
+slug: "en-torno-a-la-desigualdad"
+excerpt: "Estoy convencido de que el problema más grave de este país es la desigualdad. En parte por datos arrojados por diversas investigaciones desde hace varios años, y en parte porque lo intuyo y lo siento ..."
+categories: ["Realidad Nacional"]
+tags: ["Columna: Ahí está el detalle"]
+wp_id: 36
+---
+
+Estoy convencido de que el problema más grave de este país es la desigualdad. En parte por [datos](http://www.estadonacion.or.cr/Info2008/Paginas/equidad.html#desigualdad) arrojados por diversas investigaciones desde hace varios años, y en parte porque lo intuyo y lo siento cuando camino por la calle, voy al supermercado o converso con la gente. Es esta segunda perspectiva la que quiero explorar aquí, pues por más fácil que sea -[según Ofelia](http://wvw.nacion.com/ln_ee/2010/febrero/21/pais2274620.html)- recolectar estos datos; lo realmente difícil es observar los seres humanos detrás de ellos. Ser empático y sentirlos.
+
+Y es que, para pensar temas sociales y éticos, como éste, también hay que sentir. Y eso difícilmente se puede hacer desde el clima controlado de una oficina. Ojo, con esto no quiero decir que nos pongamos melodramáticos y nos vayamos un día a dormir a un tugurio. Eso es pura y dura [demagogia](http://wvw.nacion.com/ln_ee/2008/abril/16/pais1495521.html). Pero sí conviene aguzar una mirada sentida, para vislumbrar los efectos de la desigualdad en los espacios que habitamos. Porque, finalmente, la desigualdad no vive en los libros de la biblioteca, sino que se manifiesta en el deterioro de nuestra convivencia.
+
+Para destacar este aspecto cotidiano y peligrosamente inadvertido de la inequidad, dirijo esa mirada a un espacio que he habitado a lo largo de mi vida, como la mayoría de los niños de este país: la cancha de futbol del barrio. Claro que, como la desigualdad no se manifiesta en habilidades futbolísticas, para valorarla utilizaré como referente la evolución educativa de los que hemos compartido ese espacio recreativo.
+
+De una cantidad aproximada de 80 personas, que hemos jugado regularmente en esa cancha, 4 cursamos en colegios privados y 76 en colegios públicos. De esos 76, únicamente 10 terminaron el colegio, y sólo 3 entraron a la universidad; mientras que de los 4 de colegios privados, todos ingresamos a la universidad. Finalmente, de los 76 que salieron de colegios públicos, sólo 15 tienen trabajo regular y están asegurados, los restantes 61 tienen empleos informales. Allí, en la mejenga de los sábados, está presente: la grosera diferencia entre la educación pública y privada, la deserción, la reducción de oportunidades para una amplia mayoría y el empleo informal. Elementos todos estos que reflejan algunas de las causas detrás de la desigualdad. Pero en este caso las cifras resultan más elocuentes, pues, aunque carecen de exactitud científica, puedo ver las personas detrás de ellas, mis compas mejengueros de toda la vida.
+
+Imagino que algunos pensarán que vivo en una zona muy jodida, pues no. Vivo entre San Ramón de Tres Ríos y San Rafael de Montes de Oca, una zona de alto desarrollo humano de acuerdo con el Estado de la Nación, pero de las [que más se ha deteriorado](http://estadonacion.or.cr/estadoregion2008/regional2008/ponencias/Ponencia-Rojas-municipios-CR.pdf) en los últimos años. Les pregunto a ustedes ¿saben cómo son esos porcentajes en sus barrios? ¿han pensado cómo la desigualdad afecta su entorno? Los invito a que lo hagan, yo me sorprendí.
+
+Muchas cosas han cambiado en este país en los últimos años, y no todas son negativas –no hay que caer en la falacia de nuestro pasado ideal–, pero sin duda la brecha que se ha abierto entre ricos y pobres sí lo es. Y además es especialmente peligrosa, pues aunque podría pensarse que este distanciamiento sólo afecta a los dos grupos que se separan, en realidad genera tensiones y conflictos a lo largo de todo el cuerpo social. Este aumento de la desigualdad en nuestro país, implica el distanciamiento entre los mundos de sus habitantes, y por lo tanto, una mayor dificultad para imaginar a los otros y reconocernos en ellos. Lo que termina por generar un sentimiento de desconfianza que va permeando todas las relaciones, hasta que el temor se impone como el tono dominante. Y entonces el otro aparece siempre como un extraño amenazante.
+
+Finalmente, hay otro elemento que ha contribuido a acrecentar la desigualdad, y los sentimientos de desconfianza y temor que ésta genera, pero que no está relacionado, al menos directamente, con la concentración de la riqueza. Se trata, paradójicamente, de la desaparición de espacios como esa cancha de futbol, que dio pie a esta columna. Históricamente estos espacios, como lo fueron las escuelas y colegios públicos, los parques, las plazas, los turnos y las cantinas; sirvieron como puentes para comunicar los diferentes estratos sociales. Actualmente, los que todavía existen, están en claro deterioro.
+
+De manera que hoy, los diferentes mundos que componen nuestro país, no sólo están cada vez más distantes, sino que cada vez hay menos puentes que los comunican. Mientras no logremos revertir estas tendencias, será muy difícil mantener una convivencia pacífica.

@@ -1,0 +1,26 @@
+---
+title: "Economía de tres centavos"
+date: "2015-08-06T00:03:58"
+author: "helio-gallardo"
+slug: "economia-de-tres-centavos"
+excerpt: "Desnuda por la exacerbación de su práctica de un “periodismo” de mala calidad y por el fiasco de su “ola publicitaria” acerca de los salarios en determinados sectores públicos, La Nación S.A., que cre..."
+categories: ["Capitalismo", "Corrupción", "Crónica", "Economía", "Neoliberalismo", "Medios de Comunicación", "Política", "Corrupción", "Democracia", "Movimiento Social", "Protesta", "Realidad Nacional", "Resistencia", "Sociedad"]
+tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+wp_id: 12427
+---
+
+Desnuda por la exacerbación de su práctica de un “periodismo” de mala calidad y por el fiasco de su “ola publicitaria” acerca de los salarios en determinados sectores públicos, La Nación S.A., que cree ejercer un poder que le permite ‘no perder nunca’, usa sus opinionistas oficiales para asear un guiso cocinado inicialmente por el ‘reportero’ Otto Guevara. Como uno de los temas es que los empleados públicos deben tener salarios tan bajos como los que paga la empresa privada, al que se añade que esos trabajadores cobran millones porque los respaldan sindicatos, el opinionista Jorge Guardia inicia una de sus columnas con la siguiente canción: “Los defensores de las prebendas salariales del sector público son astutos y beligerantes. Tratan de enrarecer la discusión con otros temas en la esperanza de que, pasados los tres días convencionales de cada escándalo mediático, las cosas vuelvan a su lugar y nada pase. Me parece muy peligroso” (LN: 28/07/15).
+
+Para Guardia, los ‘beligerantes’ son los otros. Él no. Él es un economista racional y ponderado. Por eso utiliza “prebendas” (en español remite a lucrar con poco trabajo). Los prebendarios flojos son al mismo tiempo ‘astutos’ con su alcance de “artificiosos” y “engañadores”. Pero Guardia, al agredir, finge no enrarecer nada. Busca que el “escándalo” mediático urdido por La Nación S.A. supere tres días.
+
+El no-beligerante Guardia continúa: Los prebendistas quieren discutir también los salarios del sector privado. Pero Guardia dice, no se puede. Da una razón que estima esencial: “… el sistema de mercado opera como corrector automático de salarios privados bajo tres principios: vinculación con los costos de producción, desempeño individual (productividad) y movilidad laboral”. O sea, contra el mercado capitalista (tal como funciona en Costa Rica) ni la Virgen de los Ángeles. Pero quizás los taimados prebendarios no quieren discutir el dogma del Mercado, o al menos no de primera entrada. Tal vez los haraganes pillos buscan debatir las necesidades de los trabajadores del sector privado y de sus familias. Los pagos por debajo del salario de ley. La elusión programada de impuestos. O la prohibición de hecho de sindicatos en el sector privado de la democrática Costa Rica. Mercado, productividad y movilidad laboral no solo expresan principios económicos. Portan también determinaciones sociales, políticas y culturales.
+
+Brinca el neutro Guardia: “Los salarios públicos deben ser “dignos” y “justos”, dicen, (los prebendistas) pero no es fácil definir la dignidad o justicia sin caer en subjetividad. Bajo el sistema de precios sí se puede verificar cuáles son salarios de mercado” (paréntesis nuestro). Guardia no le entra a las tareas difíciles que implican cálculos subjetivos. Las juicios subjetivos son propios de ‘astutos sinvergüenzas’. Para él no existen ni empresarios de carne y hueso con sus deseos y compromisos ni ciudadanía social (descrita por T. Marshall hace mucho: derecho a un mínimo de bienestar económico; derecho a  la vida de un ser civilizado). A Guardia pensar derechos humanos ante la objetividad del Mercado le suena a tarea prohibida.
+
+Economistas del Banco Mundial, citados por Eduardo Lizano, advierten que desde finales del siglo XX “… no se ha dado una convergencia entre el ingreso por habitante de Costa Rica y el de Estados Unidos”. El crecimiento económico del país no tiene la forma de ser “luz en la colina”. Enfatizan su juicio con un ‘la pobreza se estanca y la desigualdad aumenta (…) El coeficiente de Gini ha desmejorado” (LN: 26/07/2015) ¿Este rumbo será efecto solo de los salarios públicos o concurrirán en él otros factores? El carácter neoligárquico y dependiente de grupos empresariales costarricenses y la apatía política para entrarle al financiamiento de un sistema educativo nacional moderno, por ejemplo, por citar factores que afectan al “mercado puro” que Guardia rehúsa pensar. Yoriko Kasukawa, representante de la ONU, vivió tres años en Costa Rica y juzga: “La desigualdad ha venido creciendo en los últimos 20 años al contrario de otros países” (LN: 3/08/2015). ¿Tendrá esto algo que ver con el carácter del emprendedurismo local o es solo “culpa” de los salarios públicos? Guardia declara no factible, por arduo, pensar esto.
+
+La ópera de tres centavos versa sobre enredos entre miserables que se niegan a dialogar sus problemas y prefieren imponer intereses y gulas. Alguno termina preso. Pero cuando se trata de sociedades, ésta no va a la cárcel. La sociedad misma deviene tortura y presidio. Esto no parece peligroso. Lo es.
+
+---------------------
+
+Créditos de la imagen destacada: [Otto (Rodriguez)](https://www.flickr.com/photos/otrarove/)

@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { getAuthorMap, getAuthorName } from '../../lib/authors';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const categoryMap = new Map<string, { name: string; slug: string; posts: any[] }>();
+
+  for (const post of posts) {
+    for (const cat of post.data.categories) {
+      const slug = cat.toLowerCase().replace(/\s+/g, '-');
+      if (!categoryMap.has(slug)) {
+        categoryMap.set(slug, { name: cat, slug, posts: [] });
+      }
+      categoryMap.get(slug)!.posts.push(post);
+    }
+  }
+
+  return Array.from(categoryMap.values()).map((cat) => ({
+    params: { slug: cat.slug },
+    props: {
+      name: cat.name,
+      posts: cat.posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()),
+    },
+  }));
+}
+
+const { name, posts } = Astro.props;
+const authorMap = await getAuthorMap();
+---
+
+<BaseLayout title={name}>
+  <div class="mb-8" data-pagefind-filter="tipo:Categorías">
+    <h1 class="font-display text-3xl md:text-4xl font-bold">{name}</h1>
+    <p class="text-paqui-gray mt-2">{posts.length} artículos</p>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-x-12 gap-y-10">
+    {posts.map((post: any) => (
+      <PostCard
+        title={post.data.title}
+        date={post.data.date}
+        author={post.data.author}
+        authorName={getAuthorName(authorMap, post.data.author)}
+        slug={post.data.slug}
+        excerpt={post.data.excerpt}
+        categories={post.data.categories}
+      />
+    ))}
+  </div>
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+title: "La iglesia católica de Costa Rica y la homosexualidad: Carta al señor Arzobispo"
+date: "2014-07-09T06:09:08"
+author: "luis-paulino-vargas-solis"
+slug: "la-iglesia-catolica-de-costa-rica-y-la-homosexualidad-carta-al-senor-arzobispo"
+excerpt: "Monseñor José Rafael Quirós Quirós, Arzobispo Metropolitano: Me dirijo a usted de forma atenta y respetuosa para comentar la nota que usted hizo pública en días recient..."
+categories: ["Realidad Nacional"]
+tags: ["Invitados Especiales", "Lo Recomendado"]
+wp_id: 10699
+---
+
+Monseñor José Rafael Quirós Quirós, Arzobispo Metropolitano:
+
+Me dirijo a usted de forma atenta y respetuosa para comentar la nota que usted hizo pública en días recientes, y la cual usted tituló “La Iglesia no discrimina”.
+
+Celebro que usted deplore –como lo hace al inicio de su nota- el que alrededor  de los asuntos relacionados con las minorías sexualmente diversas de Costa Rica, se dé lugar a actitudes y discursos que promueven la confrontación. Sin embargo, y con todo el respeto que usted se merece, le hago ver que su carta es, en sí misma, una invitación abierta a la confrontación, y ello en dos sentidos. Primero, puesto que, de forma explícita, usted niega el reconocimiento de algunos de los derechos básicos que esas minorías reclaman ¿O acaso usted imagina que quienes formamos esas minorías habríamos de interpretar como un gesto de amistad el que se nos nieguen incluso los derechos más elementales? Segundo, porque al mismo tiempo, y de forma bastante clara, usted desliza insinuaciones ofensivas y degradantes en contra de las personas que somos parte de esas minorías. Su discurso es entonces contradictorio pero además es inexacto cuando afirma que son “algunos Medios de Comunicación” (sic) los que “…estimulan un ambiente de confrontación”. No son tales medios quienes lo hacen. La confrontación late -intensa y belicosa- en las palabras que usted escribe.
+
+He de decirle que, por supuesto, resulta muy inspirador y gratificante leer una vez más que la iglesia acoge y respeta a las personas homosexuales. Aunque usted no lo dice en su nota, puedo válidamente suponer que usted adhiere a la condición -impuesta por la doctrina oficial- según la cual ese respeto y acogida están subordinados a que la persona homosexual se mantenga en castidad y renuncie a su vida sexual. He de decirle, sin embargo, que tal imposición constituye en realidad otra forma de violencia en contra de tales personas –una invitación a la confrontación, por lo tanto- que no lo es menos por mucho maquillaje de “amor” con que se le quiera embellecer. Ello es así, especialmente en lo que respecta a las personas homosexuales católicas, tan groseramente maltratadas por su iglesia. Bien sabemos, y mucho respetamos, que los curas hayan decidido vivir en castidad (compromiso que, como es de general conocimiento, frecuentemente cae en el olvido), pero ello no les autoriza para pretender que la misma receta le sea impuesta a personas a las que no les interesa seguir ese proyecto de vida. El sexo de la persona con quien uno se acuesta no debería ser nunca, ni en sitio alguno, razón para determinar el trato que a una persona se le dé. Es también lamentable que la oficialidad católica no comprenda que una vida sexual satisfactoria es, para la mayoría de las personas, una condición necesaria para el logro de una buena calidad de vida.
+
+Hay también violencia en la afirmación según la cual las personas homosexuales damos motivo de “detrimento” en perjuicio “de la institución matrimonial y la familia”. Cosa que se reitera y reafirma cuando unos renglones más abajo se afirma que la “unión del hombre y la mujer…debe ser defendida de toda amenaza que ponga en peligro su solidez y existencia”. Es perfectamente claro, dado el contexto planteado, que la tal “amenaza” proviene de estas mismas minorías.
+
+Todo lo anterior es simplemente falso pero, sobre todo, es injurioso. Los problemas que viven el tipo de familias que ustedes defienden y la concepción de matrimonio a la cual se aferran no son provocados por estas minorías. Esta es además una insinuación estigmatizante, la cual convoca a la violencia y la discriminación en contra de estas minorías. Son palabras de confrontación que contradicen la prédica de amor e inclusión del Jesús evangélico.
+
+Dice usted además cosas que, de tan desatinadas, resultan muy llamativas. Por ejemplo, esta frase suya: “…es necesario marcar la diferencia entre la tendencia homosexual como fenómeno privado y el mismo como conducta pública”. Es una frase oscura y confusa que se presta a variedad de interpretaciones. Una posibilidad es que haga referencia a la práctica homoerótica. De ser ese el caso, estaríamos entrando en el terreno del absurdo total ya que, hasta donde se sabe, estas minorías jamás han reivindicado el “derecho” a tener sexo en público. Ahora, que si de lo que se trata es de impedir que las personas homosexuales hagamos pública nuestra condición de tal, entonces estaríamos en presencia de un llamado a la violación de principios constitucionales fundamentales, relativos a la libertad de expresión.
+
+Otro detalle: el tipo de unión matrimonial al que ustedes hacen referencia, y la correspondiente forma de familia, no tienen nada de “natural”, según lo que la oficialidad de la iglesia sustenta y usted claramente sugiere en su nota. Es preocupante que las jerarquías católicas aún no lo sepan. La propia Biblia lo ilustra, puesto que en ella abundan las historias de poligamia, no siendo claro por qué ustedes insisten en darle validez eterna a algunos contenidos de ese libro (particularmente aquellos que dan material para alimentar el odio en contra de las minorías sexualmente diversas), mientras ignoran a conveniencia algunos otros que resultan menos propicios a la ideología que ustedes defienden.
+
+La Biblia es sin duda un libro complejo, cuya exégesis demanda mucho estudio y cuyas posibilidades de lectura e interpretación son variadas. De ahí es posible extraer justificaciones que promuevan la confrontación, al alimentar el odio en contra de algunas personas, en especial las que son sexualmente diversas. Pero también ese libro podría dar razones para propiciar el abrazo amoroso, que será tal solo si es respetuoso de lo diverso que hay en el género humano. Es muy deplorable que –incluso en desmedro de lo dicho por el Papa Francisco- usted privilegie lo primero por sobre lo segundo.
+
+----------
+
+*Originalmente en [Soñar con los pies en la tierra](http://sonarconlospiesenlatierra.blogspot.de).*
