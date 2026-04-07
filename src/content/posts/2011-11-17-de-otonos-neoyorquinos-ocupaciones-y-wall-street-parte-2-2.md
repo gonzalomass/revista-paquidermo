@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-otonos-neoyorquinos-ocupaciones-y-wall-street-parte-2-2"
 excerpt: "5:00pm. Sábado 1 de octubre, 2011 (día 15 de la ocupación) Decididos a celebrarle el cumpleaños a un buen amigo en común, mi compañero de apartamento y yo le organizamos una cena en el aparta para eso..."
 categories: ["Internacional", "Minorías", "Democracia"]
-tags: ["Columna: Una golondrina no hace verano"]
+tags: []
+columna: "Una golondrina no hace verano"
 wp_id: 4987
 ---
 

@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "preguntar-sobre-los-muertos"
 excerpt: "El Playón. Estoy en San Salvador desde hace unos días. Hace un calor infernal, un amigo dice que de cuando en cuando el diablo se aparece chingo y pregunta porqué hace tanto calor. Hay varios temas ta..."
 categories: ["Historia", "América Central", "La muerte"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 8963
 ---
 

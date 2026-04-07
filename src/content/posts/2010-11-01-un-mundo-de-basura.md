@@ -5,7 +5,8 @@ author: "alonso-munoz"
 slug: "un-mundo-de-basura"
 excerpt: "Imagen por TuTuWoN Todos hacemos compras. Necesitamos comprar lo que nos comemos, tomamos, usamos, etc. Vemos el proceso tan normal como necesario. “Comprar, usar, botar” es tan cot..."
 categories: ["Ambiente", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2506
 ---
 

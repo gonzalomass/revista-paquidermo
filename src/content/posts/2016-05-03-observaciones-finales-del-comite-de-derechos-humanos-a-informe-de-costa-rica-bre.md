@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "observaciones-finales-del-comite-de-derechos-humanos-a-informe-de-costa-rica-bre"
 excerpt: "Las recientes observaciones del Comité de Derechos Humanos de Naciones Unidas a Costa Rica en materia de derechos humanos constituyen una nueva advertencia sobre la imperiosa necesidad de remediar álg..."
 categories: ["América Latina", "Derechos Humanos", "Minorías", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13182
 ---
 

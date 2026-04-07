@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-burbuja"
 excerpt: "Me considero una persona sumamente privilegiada. Al igual que muchos de los que leerán esta columna tengo la gran fortuna de ser costarricense. Tengo unos padres excepcionales y gozo de privilegios qu..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: La Burbuja"]
+tags: []
+columna: "La Burbuja"
 wp_id: 152
 ---
 

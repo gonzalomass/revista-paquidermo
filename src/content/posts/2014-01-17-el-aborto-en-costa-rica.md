@@ -5,7 +5,8 @@ author: "carolina-sanchez-hernandez-henriette-raventos-vorst"
 slug: "el-aborto-en-costa-rica"
 excerpt: "[caption id=\"attachment_1478\" align=\"aligncenter\" width=\"500\"] Imagen por Libertinus[/caption] :: Carolina Sánchez Hernández & Henriette Raventós Vorst :: Se ha comprobado que la educación sexual temp..."
 categories: ["Derechos Humanos", "Género"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9796
 ---
 

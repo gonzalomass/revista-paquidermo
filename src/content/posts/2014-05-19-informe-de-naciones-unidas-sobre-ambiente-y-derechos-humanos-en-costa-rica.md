@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "informe-de-naciones-unidas-sobre-ambiente-y-derechos-humanos-en-costa-rica"
 excerpt: "David Oliete © :: Nicolás Boeglin (*) :: Desde varias semanas está disponible el texto del informe del Experto independiente de las Naciones Unidas sobre la cuestión de las obligaciones de derechos hu..."
 categories: ["Ambiente", "Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10442
 ---
 

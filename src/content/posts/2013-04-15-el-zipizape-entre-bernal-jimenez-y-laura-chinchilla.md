@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-zipizape-entre-bernal-jimenez-y-laura-chinchilla"
 excerpt: ":: Héctor Solano-Chavarría[1] :: \"No quiere oír a nadie; oye nada más a los acólitos que la rodean. Eso no está bien\", declaró a La Nación Bernal Jiménez, presidente del Partido Liberación Nacional (P..."
 categories: ["Uncategorized", "Movimiento Social"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8185
 ---
 

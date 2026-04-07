@@ -5,7 +5,8 @@ author: "ariel-foster-perez"
 slug: "nos-estan-embarrando-de-tisa"
 excerpt: "El pasado 3 de junio, el medio informativo de Wikileaks advirtió sobre los Anexos de Regulación Nacional (Aneex on Domestic Regulation), presentados durante la quinta ronda de..."
 categories: ["Política", "América Latina", "América Central", "Capitalismo", "Ciencia", "Tecnología", "Economía", "Neoliberalismo", "Democracia", "Movimiento Social", "Protesta", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12347
 ---
 

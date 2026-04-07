@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "marca-pais"
 excerpt: ""
 categories: ["Realidad Nacional", "Sostenibilidad"]
-tags: ["Lo Recomendado", "Sección Audiovisual"]
+tags: ["Lo Recomendado"]
+seccion: "Audiovisual"
 wp_id: 9215
 ---
 

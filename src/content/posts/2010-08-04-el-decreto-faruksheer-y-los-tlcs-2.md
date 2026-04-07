@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-decreto-faruksheer-y-los-tlcs-2"
 excerpt: "La compañía que se adueño de una nación. Es uno de esos casos dónde la vida imita la ficción, una metáfora de nuestros tiempos. Un rico hombre, de gran profundidad religiosa según se dice, se siente o..."
 categories: ["Economía", "Internacional", "Política", "Sociedad"]
-tags: ["Columna: La Burbuja"]
+tags: []
+columna: "La Burbuja"
 wp_id: 1954
 ---
 

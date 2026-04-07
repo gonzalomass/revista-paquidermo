@@ -5,7 +5,8 @@ author: "david-diaz-arias"
 slug: "elecciones-presidenciales-en-nicaragua"
 excerpt: "Entramos al verano y todo parece indicar el inicio de una temporada de temperaturas que machacan los cuerpos y almas de los habitantes de Managua, quizá la capital más caliente de Cen..."
 categories: ["Política", "Internacional", "Democracia"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 3324
 ---
 

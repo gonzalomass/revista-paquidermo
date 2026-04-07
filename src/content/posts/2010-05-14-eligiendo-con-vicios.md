@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "eligiendo-con-vicios"
 excerpt: "Es casi tradición en Costa Rica dejar de hablar de temas electorales una vez pasados los comicios nacionales. Más común aún es limitar la discusión del sistema electoral al s..."
 categories: ["Democracia"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1199
 ---
 

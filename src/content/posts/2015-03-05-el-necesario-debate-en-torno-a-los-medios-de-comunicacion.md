@@ -5,7 +5,8 @@ author: "rosemary-castro-solano"
 slug: "el-necesario-debate-en-torno-a-los-medios-de-comunicacion"
 excerpt: "En medio de afirmaciones categóricas de que su gobierno es presa de un acoso mediático, el primer día de marzo Luis Guillermo Solís pidió abrir la discusión en torno al pape..."
 categories: ["América Latina", "Política", "Democracia"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11457
 ---
 

@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "lo-que-se-enfrenta-en-las-elecciones"
 excerpt: "Fotografía de Somnath Mukherjee Este artículo habla de los partidos políticos de Costa Rica como si existieran. No los hay. Hoy existen maquinarias electorales y bandas de corrupta administración del ..."
 categories: ["Política", "Corrupción", "Democracia", "Electoral", "Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 9759
 ---
 

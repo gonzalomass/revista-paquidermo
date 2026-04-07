@@ -5,7 +5,8 @@ author: "bryan-gonzalez-hernandez"
 slug: "vamos-a-quemar-la-conferencia-episcopal"
 excerpt: "¿Desde cuando la iglesia católica teme al fuego? ¡Ah!, claro, desde que dejaron de ser ellos los que quemaban... Desde que perdió el monopolio de la hoguera, esta institución no hace más que quejarse y victimizarse por cualquier crítica que se les haga. Y cómo no van a quejarse, si antes no tenían que escuchar crítica"
 categories: ["Realidad Nacional", "Religión", "Violencia contra las mujeres"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4432
 ---
 

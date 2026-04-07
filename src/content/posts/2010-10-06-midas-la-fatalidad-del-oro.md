@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "midas-la-fatalidad-del-oro"
 excerpt: "El oro es un metal social. Es decir, que su valor reside en una muy compleja asignación histórica y cultural que nos ha hecho comprender que es hermoso, precioso, ligado a lo imperecedero y hasta sagr..."
 categories: ["Ambiente", "Realidad Nacional"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 2413
 ---
 

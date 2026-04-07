@@ -5,7 +5,8 @@ author: "marco-feoli"
 slug: "matar-no-es-igual-a-hacer-dibujos"
 excerpt: "El diario El Clarín, que no es precisamente un ejemplo de periódico progresista, tituló su edición de hoy así: “Barbarie terrorista en París, contra la libertad”. Sin paliativos ni c..."
 categories: ["Internacional", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11272
 ---
 

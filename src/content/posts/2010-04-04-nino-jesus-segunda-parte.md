@@ -5,7 +5,8 @@ author: "rolando-tellini"
 slug: "nino-jesus-segunda-parte"
 excerpt: "La carta dirigida a la Iglesia de Irlanda no aplacó los sentimientos de indignación de más de 1300 víctimas (conocidas) en esa nación, mayoritariamente católica, ya que Ratzinger..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 894
 ---
 

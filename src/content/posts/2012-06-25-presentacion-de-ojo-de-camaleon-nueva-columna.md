@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros"
 slug: "presentacion-de-ojo-de-camaleon-nueva-columna"
 excerpt: "Foto de Esteban Chinchilla Usualmente entendemos la ciencia en relación a los avances tecnológicos (a los que definitivamente está ligada) pero olvidamos que responde a un impulso básico del ser human..."
 categories: ["Ciencia"]
-tags: ["Columna: Ojo de Camaleón"]
+tags: []
+columna: "Ojo de Camaleón"
 wp_id: 6017
 ---
 

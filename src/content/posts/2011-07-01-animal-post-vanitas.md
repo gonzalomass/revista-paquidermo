@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "animal-post-vanitas"
 excerpt: ""
 categories: ["Imagen"]
-tags: ["Columna: (Paréntesis de Papel)"]
+tags: []
+columna: "(Paréntesis de Papel)"
 wp_id: 4182
 ---
 

@@ -5,7 +5,8 @@ author: "gustavo-fuchs"
 slug: "la-semilla-del-autoritarismo-respuesta-a-gustavo-roman"
 excerpt: "En un artículo publicado por el diario La Nación, el señor Gustavo Román Jacobo intenta ¿explicar? a los lectores del diario el fenómeno del Partido Podemos en España, y los peligr..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10895
 ---
 

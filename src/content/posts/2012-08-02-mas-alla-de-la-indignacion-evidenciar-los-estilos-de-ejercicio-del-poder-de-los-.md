@@ -5,7 +5,8 @@ author: "ciska-raventos"
 slug: "mas-alla-de-la-indignacion-evidenciar-los-estilos-de-ejercicio-del-poder-de-los-"
 excerpt: "Hace 5 años, en el contexto de la campaña del referendo sobre el TLC se filtró a la prensa un memorándum privado del vicepresidente de la república, Kevin Casas y el diputado que presidía la comisión de reformas electorales de la Asamblea Legislativa, Fernando Sánchez. Estaba dirigido al presidente Oscar Arias Sánchez."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Sección: Periscopio", "Invitados Especiales"]
+tags: ["Invitados Especiales"]
+seccion: "Periscopio"
 wp_id: 6179
 ---
 

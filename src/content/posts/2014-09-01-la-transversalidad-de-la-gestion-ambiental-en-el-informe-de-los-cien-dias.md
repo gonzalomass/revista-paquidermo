@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "la-transversalidad-de-la-gestion-ambiental-en-el-informe-de-los-cien-dias"
 excerpt: "“Nos preocupan también algunas señales que habíamos visualizado para estos momentos (...) y nuestra pregunta es ¿cuáles van a ser las acciones concretas que va a tomar su gobierno para trasnversalizar..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 10891
 ---
 

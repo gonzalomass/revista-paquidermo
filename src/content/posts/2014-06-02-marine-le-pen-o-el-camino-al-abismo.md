@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "marine-le-pen-o-el-camino-al-abismo"
 excerpt: "Francia es una nación que no ha logrado saldar sus cuentas con la historia colonial que la estructura. En sus calles se ve hoy la huella humana de ese imperio colonial que comenzó desde el siglo XVI y..."
 categories: ["Internacional", "Política"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 10525
 ---
 

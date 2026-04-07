@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "un-fantasma-recorre-costa-rica"
 excerpt: "Un fantasma recorre Costa Rica: es el fantasma del militarismo. Por más increíble que parezca ha estallado en Costa Rica el deseo por restablecer un ejército, fuerzas armadas, milicias, llámele como q..."
 categories: ["Derechos Humanos", "Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 2726
 ---
 

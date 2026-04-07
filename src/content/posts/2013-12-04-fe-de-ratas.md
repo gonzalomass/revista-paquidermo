@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "fe-de-ratas"
 excerpt: "En el filme Los Infiltrados, de Martin Scorsese, aparece una metáfora muy interesante sobre las “ratas” en el contexto de la lucha policíaca contra el crimen organizado. Existen “ratas” en ambos bando..."
 categories: ["Libertad de expresión", "Medios de Comunicación", "Política"]
-tags: ["Lo Recomendado", "Columna: Cementerio de Elefantes"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 9582
 ---
 

@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "dos-buenos-articulos-y-un-editorial-lamentable"
 excerpt: "El 9 de Julio La Nación publicó dos artículos interesantes y un editorial lamentable. En el primer artículo Vargas Cullell propone una linda iniciativa, aunque el título es malo y el medio idóneo para..."
 categories: ["Acceso a la información", "Capitalismo", "Cultura", "Economía", "Neoliberalismo", "Libertad de expresión", "Medios de Comunicación", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Ahí está el detalle"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 12273
 ---
 

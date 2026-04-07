@@ -5,7 +5,8 @@ author: "ariel-calderon-gonzalez"
 slug: "las-50-sombras-de-justo"
 excerpt: "Recientemente, paseando por los estantes de la feria del libro, volví a ver la última entrega de la creadora de 50 sombras de Grey y no pude evitar pensar en lo mucho que me recordaba Cristian Grey a ..."
 categories: ["Feminismo", "Derechos Humanos", "Género", "Política", "Realidad Nacional", "Religión", "Violencia contra las mujeres"]
-tags: ["Columna: Universos Cotidianos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Universos Cotidianos"
 wp_id: 12691
 ---
 

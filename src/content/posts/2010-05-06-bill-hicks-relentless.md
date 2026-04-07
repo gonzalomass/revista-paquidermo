@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "bill-hicks-relentless"
 excerpt: "Ver las demás partes >>>"
 categories: ["Sociedad"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1169
 ---
 

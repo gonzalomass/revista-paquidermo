@@ -5,7 +5,8 @@ author: "mauricio-herrera-rodriguez"
 slug: "ecocaminata-cristal-la-negrita"
 excerpt: "Dos hechos entretienen la opinión pública costarricense al comenzar el mes de agosto: la celebración del primer peregrinaje “ecológico” a la Basílica de los Ángeles y la transmutación del estadio de la Liga Deportiva Alajuelense en portaestandarte de un banco canadiense. Los dos hechos están relacionados y ponen en evidencia el estado de las cosas en nuestro país."
 categories: ["Ambiente", "Realidad Nacional", "Religión"]
-tags: ["Columna: Arroz con Mango"]
+tags: []
+columna: "Arroz con Mango"
 wp_id: 4394
 ---
 

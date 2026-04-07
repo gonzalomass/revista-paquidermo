@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "un-anos-despues-arribistas-moralistas-y-funambulos"
 excerpt: "Imagen: © Emmanuel Salé for openphoto.net Las siguientes reflexiones no pretenden generar un balance pausado y objetivo sobre el primer año de la Administración Solís. Al contrario, se trata de alguna..."
 categories: ["Uncategorized"]
-tags: ["Lo Recomendado", "Columna: La Rapiña"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 11850
 ---
 

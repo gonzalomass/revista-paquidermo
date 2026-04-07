@@ -5,7 +5,8 @@ author: "alonso-fonseca"
 slug: "mascarada"
 excerpt: ""
 categories: ["Cultura", "Imagen"]
-tags: ["Columna: Procedimientos del mamífero"]
+tags: []
+columna: "Procedimientos del mamífero"
 wp_id: 2714
 ---
 

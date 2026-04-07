@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "memoria-derechos-humanos-y-sociedad-critica-a-ivan-molina-jimenez"
 excerpt: "El historiador Iván Molina Jiménez publicó en los días finales de diciembre un texto denominado “Militantes de la memoria”. Su lectura me ha motivado algunas críticas que expongo a continuación sobre ..."
 categories: ["Derechos Humanos", "Historia"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 5314
 ---
 

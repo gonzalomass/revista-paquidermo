@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "del-48-a-los-38-hay-mucho-menos-que-diez"
 excerpt: "Hay días que uno cree nunca llegarán. Que no quiere que lleguen nunca, por más avisos y augurios en el camino. El pasado jueves 15 de noviembre de 2012 fue uno de esos días. Hace exactamente dos años ..."
 categories: ["Independencia Judicial", "Política"]
-tags: ["Columna: Ahí está el detalle", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 7414
 ---
 

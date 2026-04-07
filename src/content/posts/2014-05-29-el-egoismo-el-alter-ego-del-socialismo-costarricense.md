@@ -5,7 +5,8 @@ author: "jaime-gutierrez-alfaro"
 slug: "el-egoismo-el-alter-ego-del-socialismo-costarricense"
 excerpt: "Con el mes de mayo se puede decir que cerramos un “año político” que ha estado cargado de discusiones ideológicas sin fondo y con un consenso generalizado en torno a la ur..."
 categories: ["Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10497
 ---
 

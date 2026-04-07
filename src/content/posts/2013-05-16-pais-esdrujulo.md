@@ -5,7 +5,8 @@ author: "ana-beatriz-hernandez"
 slug: "pais-esdrujulo"
 excerpt: "Ivan Aivazovsky Había una vez un gobierno neurótico, Parte de un partido patético, Que viajaba en aviones narcóticos. Tenía mascotas mediáticas, La vergüenza raquítica Y un..."
 categories: ["Uncategorized", "Realidad Nacional"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8356
 ---
 

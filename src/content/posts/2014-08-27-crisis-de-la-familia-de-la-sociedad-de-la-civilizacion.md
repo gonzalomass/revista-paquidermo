@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "crisis-de-la-familia-de-la-sociedad-de-la-civilizacion"
 excerpt: "El concepto de crisis. Es común leer o escuchar en el mundo de hoy tanto sobre crisis en la familia, lo que suele remitir a situaciones internas entre sus miembros adultos, jóvenes, niños y ancianos, ..."
 categories: ["Sociedad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10874
 ---
 

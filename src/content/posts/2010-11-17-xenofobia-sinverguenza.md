@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "xenofobia-sinverguenza"
 excerpt: "Me parece que tanto Lecciones del San Juan como el Editorial: Un ejército de xenofobia han sido valientes y, por lo demás, irreprochables artículos que han demostrado un hecho que aún me deja estupefa..."
 categories: ["Educación", "Medios de Comunicación", "Minorías", "Realidad Nacional"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 2599
 ---
 

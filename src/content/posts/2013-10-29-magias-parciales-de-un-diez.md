@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "magias-parciales-de-un-diez"
 excerpt: "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} Normal 0 false 21 false false false ES-MX X-NONE X-NONE /*..."
 categories: ["América Latina", "Cultura"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9414
 ---
 

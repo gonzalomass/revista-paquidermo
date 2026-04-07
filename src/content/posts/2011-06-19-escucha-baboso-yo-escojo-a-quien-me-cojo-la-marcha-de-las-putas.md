@@ -5,7 +5,8 @@ author: "amelia-taracena-feral"
 slug: "escucha-baboso-yo-escojo-a-quien-me-cojo-la-marcha-de-las-putas"
 excerpt: "Imagen por Amelia Taracena Feral De un paso acelerado, bajo las gradas de la estación de metro General Anaya, es viernes por la tarde y el metro está a reventar. Ya adentro..."
 categories: ["América Latina", "Minorías", "Sexualidad", "Violencia contra las mujeres"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4103
 ---
 

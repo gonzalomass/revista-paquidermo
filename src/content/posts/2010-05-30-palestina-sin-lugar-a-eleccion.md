@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "palestina-sin-lugar-a-eleccion"
 excerpt: "Los últimos acontecimientos con la negación a Noam Chomsky de ingresar en Cisjordania, las atrocidades en tierra santa vuelven a ponerse en evidencia. Por supuesto que no es lo mismo hablar de un inte..."
 categories: ["Internacional"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 1331
 ---
 

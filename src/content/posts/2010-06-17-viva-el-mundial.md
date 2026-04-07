@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "viva-el-mundial"
 excerpt: "Comenzó el Mundial. ¡Qué alegría! ¡Qué felicidad! ¡Viva el fútbol! ¡Viva la emoción! Al fin, después de cuatro largos años, nuestro ridículo del 2006 ya quedó en el pasado. Ahora no hay que estresarse..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 1495
 ---
 

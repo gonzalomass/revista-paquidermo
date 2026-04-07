@@ -5,7 +5,8 @@ author: "mauricio-herrera-rodriguez"
 slug: "visas-a-mexicanos-seguridad-o-demagogia"
 excerpt: "Imagen por S. Ramírez Recientemente el viceministro de Gobernación y exdirector de Migración, don Mario Zamora, mencionó la posibilidad de imponer el requisito del visado a todo..."
 categories: ["Derechos Humanos", "Minorías", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2549
 ---
 

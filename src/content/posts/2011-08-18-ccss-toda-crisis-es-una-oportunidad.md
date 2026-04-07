@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "ccss-toda-crisis-es-una-oportunidad"
 excerpt: "Estamos a las puertas de una nueva recesión mundial y el sistema de liberalización de mercado sufre severos cuestionamientos. Todo el esquema de política económica que puso en funcionamiento el neoliberalismo está mostrando sus graves falencias visibles en las economías europeas y la norteamericana."
 categories: ["Realidad Nacional", "Medios de Comunicación", "Salud"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 4426
 ---
 

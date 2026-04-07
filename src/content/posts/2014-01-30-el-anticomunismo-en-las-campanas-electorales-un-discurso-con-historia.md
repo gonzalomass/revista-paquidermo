@@ -5,7 +5,8 @@ author: "manuel-gamboa-brenes"
 slug: "el-anticomunismo-en-las-campanas-electorales-un-discurso-con-historia"
 excerpt: "Imagen: Caleb Charland :: Manuel Gamboa Brenes* :: El discurso sobre el comunismo y el anti comunismo en campañas electorales, tan presente en la coyuntura de las elecciones presidenciales de Costa Ri..."
 categories: ["Historia", "Memoria", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9925
 ---
 

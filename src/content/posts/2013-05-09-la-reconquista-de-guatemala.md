@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-reconquista-de-guatemala"
 excerpt: "Foto: Human Rights Film Festival “Este Dios Verdadero que viene del cielo sólo de pecado hablará, sólo de pecado será su enseñanza. Inhumanos serán sus soldados, crueles sus mastines bravos.” Chilam B..."
 categories: ["América Central", "Derechos Humanos"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 8334
 ---
 

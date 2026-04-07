@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "amenazas-a-la-libertad-de-expresion-en-costa-rica"
 excerpt: "*Cierre de medios: ADN Radio, Diario Ahora, Al Día, Revista Su Casa, Revista Soho, Vuelta en U... *Comunicadores despedidos: 167 en dos años... *Expulsión o renuncia de periodistas por \"diferencias co..."
 categories: ["América Latina", "Libertad de expresión"]
-tags: ["Lo Recomendado", "Sección: Editorial"]
+tags: ["Lo Recomendado"]
+seccion: "Editorial"
 wp_id: 11705
 ---
 

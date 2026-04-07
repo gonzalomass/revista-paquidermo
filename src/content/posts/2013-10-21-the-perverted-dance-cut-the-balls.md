@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "the-perverted-dance-cut-the-balls"
 excerpt: "http://www.youtube.com/watch?v=80X0pbCV_t4&feature=youtu.be"
 categories: ["Marxismo", "Filosofía"]
-tags: ["Sección Audiovisual", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Audiovisual"
 wp_id: 9391
 ---
 

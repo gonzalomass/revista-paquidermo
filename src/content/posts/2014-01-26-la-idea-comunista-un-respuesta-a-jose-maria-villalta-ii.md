@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "la-idea-comunista-un-respuesta-a-jose-maria-villalta-ii"
 excerpt: "Imagen: Javier Pérez Continuamos en este artículo defendiendo la idea y el proyecto comunista, frente a las acusaciones esgrimidas por José María Villalta durante la campaña electoral. ¿El comunismo e..."
 categories: ["Marxismo", "Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 9846
 ---
 

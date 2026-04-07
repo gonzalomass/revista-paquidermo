@@ -5,7 +5,8 @@ author: "diego-delfino"
 slug: "guillermo-barquero-un-aliento-de-dragon"
 excerpt: "“Era uno de esos días larguísimos en los que pasan demasiadas cosas, que se llena de orgías, muertes, colgamientos, linchamientos, gritos de verdugo y mamadas”. En Combustión human..."
 categories: ["Cultura", "Entretenimiento", "Literatura", "Literatura"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12780
 ---
 

@@ -5,7 +5,8 @@ author: "alejandra-montiel"
 slug: "12-de-octubre-acto-civico"
 excerpt: ":: Alejandra Montiel :: Más o menos para estas fechas, cuando Ella llegaba cansada de trabajar dos turnos, cuando ya todo estaba cerrado, cuando recién terminábamos de comer, yo dejaba caer la bomba: ..."
 categories: ["Realidad Nacional"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 6878
 ---
 

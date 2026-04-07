@@ -5,7 +5,8 @@ author: "cristina-mora-jiliuta"
 slug: "los-neonazis-masacran-ucrania-y-en-costa-rica-el-demonio-es-putin"
 excerpt: "Caminar por la calle y encontrarse una horca en medio de la plaza del barrio le helaría la sangre a cualquiera. Esto les pasa a los ucranianos a diario cuando caminan por l..."
 categories: ["Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10450
 ---
 

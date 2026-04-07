@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "un-testimonio-sobre-correr-deporte-e-ideologia-ii"
 excerpt: "**Un hombre bueno.** Quede con un querido amigo para ir a “tirar”, compañero de muchas luchas, nos conocemos desde hace mucho, desde que nuestros respectivos colegios eran rivales en el campeonato de basquetbol local y depusieron, momentáneamente, sus diferencias para enfrentar una reforma en las pruebas de bachillerato."
 categories: ["Crónica", "Deportes"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 14364
 ---
 

@@ -5,7 +5,8 @@ author: "david-ulloa"
 slug: "yo-tampoco-quiero-que-me-la-metan"
 excerpt: "Imagen: Florent Talnet … Este artículo forma parte de No te metas con mi cucu: un dossier dedicado enteramente a la penetración anal desde diversas perspectivas, que se inspira en las declaraciones de..."
 categories: ["Derechos Humanos", "Política", "Sexualidad"]
-tags: ["Sección Doxa", "Lo Recomendado", "Dossier"]
+tags: ["Lo Recomendado", "Dossier"]
+seccion: "Doxa"
 wp_id: 10051
 ---
 

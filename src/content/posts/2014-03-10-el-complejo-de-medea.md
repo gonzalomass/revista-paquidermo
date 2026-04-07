@@ -5,7 +5,8 @@ author: "sitaira-cubillo"
 slug: "el-complejo-de-medea"
 excerpt: "Imagen: Catherine Nelson ¿Por qué la misma población que cree que el aborto es homicidio comienza a apoyar el aborto por violación? Por decisión ‘internacional’ de las organizaciones feministas, el 8 ..."
 categories: ["Derechos Humanos", "Feminismo"]
-tags: ["Columna: Torcidxs", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Torcidxs"
 wp_id: 10172
 ---
 

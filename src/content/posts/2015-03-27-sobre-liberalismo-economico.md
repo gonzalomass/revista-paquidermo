@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "sobre-liberalismo-economico"
 excerpt: "Imagen: Gerhard Richter :Esteban Mora:: No soy anti-liberal. Desde Locke hasta Tocqueville me gustan mucho. Adam Smith es un monstruo: Leontief decía que la economía era una ciencia muy atrasada porqu..."
 categories: ["Economía", "Filosofía"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11581
 ---
 

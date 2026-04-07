@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "la-pina-de-costa-rica-ante-la-comision-interamericana-de-derechos-humanos"
 excerpt: "::Nicolás Boeglin (*):: Este próximo 20 de marzo del 2015, la Comisión Interamericana de Derechos Humanos (CIDH) celebrará una audiencia para escuchar los alegatos de comunidades de Costa Rica víctima..."
 categories: ["Sostenibilidad", "América Central", "Ecología"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11542
 ---
 

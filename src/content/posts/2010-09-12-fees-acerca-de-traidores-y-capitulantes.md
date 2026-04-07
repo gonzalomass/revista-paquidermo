@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "fees-acerca-de-traidores-y-capitulantes"
 excerpt: "Imagen por fotospagoda No se si amerite llamársele debate o si el término por aplicar debiera ser otro, pero el caso es que la resolución finalmente alcanzada en la negociación rectores-gobierno ha su..."
 categories: ["Educación", "Política", "Realidad Nacional"]
-tags: ["Invitados Especiales", "Columna: Soñar con los pies en la tierra"]
+tags: ["Invitados Especiales"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 2275
 ---
 

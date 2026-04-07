@@ -5,7 +5,8 @@ author: "rosemary-castro-solano"
 slug: "que-pasa-la-nacion-les-comio-la-lengua-el-raton"
 excerpt: ":: Rosemary Castro Solano* :: Hace más o menos quince días, la marquesina principal de la versión digital del periódico La Nación, ponía como la noticia más leída “Grupo de empresarios jóvenes financi..."
 categories: ["Libertad de expresión", "Medios de Comunicación", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9668
 ---
 

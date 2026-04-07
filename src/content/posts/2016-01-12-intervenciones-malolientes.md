@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "intervenciones-malolientes"
 excerpt: "La primera declaración del Presidente mexicano, Enrique Peña Nieto, sobre la recaptura del conocido como “Chapo Guzmán” tuvo al menos un mérito. Llamó al criminal por su nombre ciudadano: Joaquín Guzm..."
 categories: ["América Latina", "Capitalismo", "Drogas", "Política"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12981
 ---
 

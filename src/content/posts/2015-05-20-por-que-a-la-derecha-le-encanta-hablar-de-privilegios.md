@@ -5,7 +5,8 @@ author: "connor-kilpatrick"
 slug: "por-que-a-la-derecha-le-encanta-hablar-de-privilegios"
 excerpt: "Imagen: vlax vox Hace un mes escribí un post corto acerca de cómo algunas personas –particularmente liberales [en el sentido estadounidense del término: personas abiertas a opini..."
 categories: ["Democracia", "Economía", "Marxismo"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11868
 ---
 

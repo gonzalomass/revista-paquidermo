@@ -5,7 +5,8 @@ author: "solentiname"
 slug: "carta-abierta-a-lojotros"
 excerpt: "Imagen: Dean O'Callaghan Mirá: Te escribo no para que contestés, porque no me interesa que me respondás o me leás, sino porque si no te digo estas cosas y las dejo serenarse, se me e..."
 categories: ["Política", "Electoral", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10160
 ---
 

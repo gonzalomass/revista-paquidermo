@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "presentado-informe-de-comision-de-investigacion-sobre-ultima-ofensiva-de-israel-"
 excerpt: "Desde el pasado 22 de junio está disponible el informe de la Comisión Independiente, creada por el Consejo de Derechos Humanos de las Naciones Unidas en julio del 2014, sobre la ..."
 categories: ["Derechos Humanos", "Historia", "Memoria", "Internacional", "Política", "Democracia", "Protesta", "Geopolítica", "Resistencia", "Religión", "Sociedad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12177
 ---
 

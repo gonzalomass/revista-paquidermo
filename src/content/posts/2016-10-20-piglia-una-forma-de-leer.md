@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "piglia-una-forma-de-leer"
 excerpt: "Hablar de Ricardo Piglia es hablar de un escritor, un impostor y una escritura. Es hablar, entonces, del Ricardo Piglia que escribe y dicta cursos, que se aventura a formular versiones de la literatur..."
 categories: ["Cultura", "Literatura"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 13246
 ---
 

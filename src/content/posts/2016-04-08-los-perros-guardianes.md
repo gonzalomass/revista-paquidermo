@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "los-perros-guardianes"
 excerpt: "En 1931, el escritor Paul Nizan publicaba Los perros guardianes. Se trata de un pequeño pero feroz ensayo sobre aquellos mandarines intelectuales protectores del poder político. Nizan mostraba cómo la..."
 categories: ["Acceso a la información", "América Latina", "Corrupción", "Economía", "Neoliberalismo", "Política", "Corrupción", "Geopolítica"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 13112
 ---
 

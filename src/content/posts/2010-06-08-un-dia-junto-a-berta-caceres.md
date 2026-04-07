@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "un-dia-junto-a-berta-caceres"
 excerpt: "“Nuestra lucha es por la justicia, y el mal gobierno se llena de criminales y asesinos. Nuestra lucha es por la historia, y el mal gobierno propone olvido.” Cuarta Declaración de la Selva Lacandona. C..."
 categories: ["América Latina", "Política"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 1388
 ---
 

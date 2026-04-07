@@ -5,7 +5,8 @@ author: "verny-campos-cabezas"
 slug: "donde-esta-el-texto"
 excerpt: "Imagen por Krudo “Un libro tiene que hurgar en las heridas, incluso provocarlas. Un libro ha de ser un peligro.” Desgarradura, E.M.Cioran Cuando recibí la visita de uno de m..."
 categories: ["Educación", "Literatura", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2400
 ---
 

@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "borreguismo-cultural-la-mirada-que-no-cesa"
 excerpt: "La grande. La biblioteca de Alejandría sufrió varias veces la infamia de las llamas. En la última de todas, el jefe musulmán que ordenó su destrucción dijo: \"Si está en contra del islam es blasfemia y..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Vacaciones en Fobos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vacaciones en Fobos"
 wp_id: 8135
 ---
 

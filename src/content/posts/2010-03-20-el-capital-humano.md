@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "el-capital-humano"
 excerpt: "Hace algunos años trabajé en una empresa multinacional como responsable del equipo de comunicación corporativa. Fue una gran experiencia entrar directamente en contacto con la dinámica de las relacion..."
 categories: ["Economía"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 729
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "resena-sobre-el-pais-de-las-certezas-de-fabian-coto"
 excerpt: "Alejandro Marín Las críticas literarias de Fabián Coto nos han convencido de que la labor de reseñar un libro comienza con un trago de whisky. Reseñar un libro o cualquier otra empresa. Fabián es homb..."
 categories: ["América Latina", "Literatura"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11773
 ---
 

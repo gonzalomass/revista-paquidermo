@@ -5,7 +5,8 @@ author: "esteban-mora"
 slug: "sobre-algunos-elefantes-en-la-habitacion"
 excerpt: "En estas elecciones se ha hablado mucho de ‘contradicciones ideológicas’, de ‘camaleonismo político’ o de ‘posiciones ambivalentes’, especialmente en ataques dirigidos al FA. De lo q..."
 categories: ["Política", "Democracia"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9938
 ---
 

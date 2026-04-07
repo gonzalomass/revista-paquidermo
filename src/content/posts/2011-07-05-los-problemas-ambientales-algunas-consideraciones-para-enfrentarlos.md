@@ -5,7 +5,8 @@ author: "mauricio-herrera-rodriguez"
 slug: "los-problemas-ambientales-algunas-consideraciones-para-enfrentarlos"
 excerpt: "Los problemas ambientales se derivan de nuestra relación con el medio que nos rodea (natural y no natural) y existen desde que el ser humano es ser humano. El ser humano transforma su medio para hacer de la tierra un hogar, es decir, necesita alterar la naturaleza para poder vivir. Por lo tanto, toda acción humana tiene una repercusión en el medio: desde la construcción de una choza para protegernos del frío o los animales, hasta la construcción de una fábrica de microchips."
 categories: ["Democracia", "Ambiente"]
-tags: ["Sección Debates"]
+tags: []
+seccion: "Debates"
 wp_id: 4193
 ---
 

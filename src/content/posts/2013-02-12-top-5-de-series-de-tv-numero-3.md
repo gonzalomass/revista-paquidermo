@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "top-5-de-series-de-tv-numero-3"
 excerpt: "En un ensayo de 1982, La soledad de los moribundos, Norbert Elias se lamenta de las pocas y frívolas palabras con las que contamos para acompañar a quienes se disponen a morir. Es como si ante la prox..."
 categories: ["Cultura", "Entretenimiento"]
-tags: ["Lo Recomendado", "Columna: Boca a Boca"]
+tags: ["Lo Recomendado"]
+columna: "Boca a Boca"
 wp_id: 7917
 ---
 

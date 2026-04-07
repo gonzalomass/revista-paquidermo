@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "costa-rica-on-sale"
 excerpt: "El debate desatado recientemente entre el Diario Digital El País y La Nación, sobre una posible venta de este último al Grupo Caracol, así como la referencia a un trabajo previo de Koen Voorend y quie..."
 categories: ["Economía"]
-tags: ["Columna: Vagamundo", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 6235
 ---
 

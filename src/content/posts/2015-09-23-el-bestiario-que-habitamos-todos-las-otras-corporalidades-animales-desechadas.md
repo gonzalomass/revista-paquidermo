@@ -5,7 +5,8 @@ author: "edvan-cordova-vega"
 slug: "el-bestiario-que-habitamos-todos-las-otras-corporalidades-animales-desechadas"
 excerpt: "En su libro, Precarious Life: The Powers of Mourning and Violence (2004), Judith Butler explora una ética de la no violencia. Toma como punto de partida el “rostro del Otro” d..."
 categories: ["Ambiente", "Cotidianidad", "Cultura", "Capitalismo", "Ecología", "Economía", "Neoliberalismo", "Filosofía", "Sostenibilidad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12656
 ---
 

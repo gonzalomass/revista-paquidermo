@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "2006-parte-tres-nadie-prestaba-atencion-a-esos-actos-pero-en-ellos-se-encontraba"
 excerpt: "Fotografía de Eva Carazo Prólogo Juan Carlos firmó el último documento de esa mañana, su paso por la oficina fue breve. Le dijo a su secretaria que volvería después de almuerzo y que por favor se disc..."
 categories: ["Estado de Derecho"]
-tags: ["Lo Recomendado", "Columna: Del Higuerón por la Izquierda"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 7630
 ---
 

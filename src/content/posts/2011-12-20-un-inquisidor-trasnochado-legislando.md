@@ -5,7 +5,8 @@ author: "diego-chaves-aguilar"
 slug: "un-inquisidor-trasnochado-legislando"
 excerpt: ":: Diego Chaves Aguilar* :: Para un país que pregona un discurso defensor de Derechos Humanos cada vez que tiene la oportunidad, parecen descontextualizados el afán y el odio de algunos legisladores y..."
 categories: ["Democracia", "Derechos Humanos", "Sexualidad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5158
 ---
 

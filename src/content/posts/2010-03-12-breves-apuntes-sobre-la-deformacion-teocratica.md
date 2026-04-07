@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "breves-apuntes-sobre-la-deformacion-teocratica"
 excerpt: "Antes de comenzar, pido perdón por tomarme la palabra en las manos: ya es de todos sabido que las mujeres no deberíamos hablar mucho porque cuando lo hacemos chorreamos miel en la oreja de Adán y, com..."
 categories: ["Derechos Humanos", "Realidad Nacional", "Religión"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 168
 ---
 

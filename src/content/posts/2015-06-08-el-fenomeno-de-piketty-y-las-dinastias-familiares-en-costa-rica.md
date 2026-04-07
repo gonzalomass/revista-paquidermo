@@ -5,7 +5,8 @@ author: "fabiola-pomareda"
 slug: "el-fenomeno-de-piketty-y-las-dinastias-familiares-en-costa-rica"
 excerpt: "La pregunta de ¿a dónde va a parar la riqueza?, que plantea el libro “El Capital en el siglo XXI” del francés Thomas Piketty y el análisis de fuentes históricas y estadísticas q..."
 categories: ["Economía", "Neoliberalismo", "Internacional", "Marxismo", "Política", "Sociedad"]
-tags: ["Columna: En Voz Alta.", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "En Voz Alta."
 wp_id: 11986
 ---
 

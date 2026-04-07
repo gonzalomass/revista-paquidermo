@@ -5,7 +5,8 @@ author: "pablo-bonilla-elizondo"
 slug: "cinco-desaciertos-en-obras-de-arte-publico-emplazadas-en-san-jose"
 excerpt: ":: Pablo Bonilla Elizondo (*) :: Con el afán de unirme a las últimas tendencias de escritura, en particular de esas marcadas por ranquins y numeraciones que pretenden ordenar el panorama heteróclito d..."
 categories: ["Cultura", "Arquitectura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11026
 ---
 

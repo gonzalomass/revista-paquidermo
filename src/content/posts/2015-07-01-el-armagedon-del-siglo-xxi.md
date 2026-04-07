@@ -5,7 +5,8 @@ author: "gustavo-roman-jacobo"
 slug: "el-armagedon-del-siglo-xxi"
 excerpt: "Las grandes batallas de nuestro tiempo no son solo conflictos de intereses. También lo son de ideas, de ideales o de tradiciones de pensamiento. Yo propongo agruparlas en tr..."
 categories: ["Capitalismo", "Cultura", "Economía", "Neoliberalismo", "Historia", "Libertad de expresión", "Política", "Democracia", "Estado de Derecho", "Religión", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12183
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-cuerpo-de-las-mujeres"
 excerpt: ""
 categories: ["Medios de Comunicación", "Violencia contra las mujeres", "video"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 4668
 ---
 

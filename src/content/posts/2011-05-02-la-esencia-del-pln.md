@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-esencia-del-pln"
 excerpt: "Hay mucha gente que se sorprende del desmán liberacionista del 1ero de Mayo. La jugarreta que pretendía llevar a cabo el partido oficialista, cambiando a última hora las reglas de votación, buscaba de..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 3358
 ---
 

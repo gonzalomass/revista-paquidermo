@@ -5,7 +5,8 @@ author: "sitaira-cubillo"
 slug: "tactos-rectales"
 excerpt: "Porcelana diseñada por Frank Kozik y K.Olin Tribu ... Este artículo forma parte de No te metas con mi cucu: un dossier dedicado enteramente a la penetración anal desde diversas perspectivas, que se in..."
 categories: ["Derechos Humanos", "Sexualidad", "Sociedad"]
-tags: ["Columna: Torcidxs", "Lo Recomendado", "Dossier"]
+tags: ["Lo Recomendado", "Dossier"]
+columna: "Torcidxs"
 wp_id: 10034
 ---
 

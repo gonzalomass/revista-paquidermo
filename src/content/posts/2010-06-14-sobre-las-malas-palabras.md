@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "sobre-las-malas-palabras"
 excerpt: "Cualquiera que haya asistido al catecismo, que haya ido a clases de educación cívica (y/o educación para el hogar) o que haya crecido en una de esas familias que insisten en guardar las apariencias, s..."
 categories: ["Sociedad"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 1431
 ---
 

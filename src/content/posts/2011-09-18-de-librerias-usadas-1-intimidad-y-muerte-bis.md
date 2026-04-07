@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-librerias-usadas-1-intimidad-y-muerte-bis"
 excerpt: "El libro revive con la muerte, y sin la muerte no tendríamos esta creación característicamente urbana que es la librería usada. Tampoco tendríamos esa otra creación maravillosa: las tiendas de ropa usada. La librería usada no se sostendría con el mero intercambio o desprendimiento voluntario de libros; si algo es seguro y necesario es la muerte, y una vez muerto el muerto, ya ni siquiera es un desprendimiento forzado lo que acontece, es una entrega de segundos a terceros, una donación a algún centro cultural o biblioteca o una venta a una librería usada. O, y esto lamentablemente sucede, un viaje a la cámara de gas de los libros: las recicladoras."
 categories: ["Cultura"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 4675
 ---
 

@@ -5,7 +5,8 @@ author: "maria-del-mar-obando"
 slug: "la-cama-restaurada"
 excerpt: "Aunque esta campaña política ha expuesto sobre la debacle económica que se aproxima, ha señalado el fin de nuestra hermosa democracia centenaria que p"
 categories: ["Electoral", "Humor", "Política", "Realidad Nacional", "Sexualidad"]
-tags: ["Columna: Tocata y fuga", "Elecciones 2018", "Lo Recomendado"]
+tags: ["Elecciones 2018", "Lo Recomendado"]
+columna: "Tocata y fuga"
 wp_id: 13691
 ---
 

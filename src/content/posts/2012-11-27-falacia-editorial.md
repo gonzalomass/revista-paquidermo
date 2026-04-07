@@ -5,7 +5,8 @@ author: "rosemary-castro-solano"
 slug: "falacia-editorial"
 excerpt: ":: Rosemary Castro Solano* :: “De noche, todos los gatos son negros” dice el refrán popular para explicar cómo, en tiempos de oscuridad, todos los problemas suelen verse desde la misma óptica. Este re..."
 categories: ["Editorial", "Independencia Judicial", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7465
 ---
 

@@ -5,7 +5,8 @@ author: "maria-del-mar-obando"
 slug: "hacia-el-pene-sin-pena"
 excerpt: "Hikaru Cho © “Bajo la sombra del deseado me senté y su fruto fue dulce a mi paladar” Cantar de los Cantares 2:3 Pene es el nombre aburrido con el que se permite, oficialmente, llamar al órgano eréctil..."
 categories: ["Sexualidad"]
-tags: ["Columna: Tocata y fuga", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
 wp_id: 10337
 ---
 

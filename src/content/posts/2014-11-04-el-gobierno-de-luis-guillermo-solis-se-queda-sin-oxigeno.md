@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "el-gobierno-de-luis-guillermo-solis-se-queda-sin-oxigeno"
 excerpt: "En los últimos días de octubre, La Nación publicó algunas notas donde hacía referencia a la presunta ruptura –o cuanto menos alejamiento- entre el gobierno de Luis Guillermo Solís y los sindicatos. Po..."
 categories: ["Realidad Nacional"]
-tags: ["Invitados Especiales", "Lo Recomendado", "Columna: Soñar con los pies en la tierra"]
+tags: ["Invitados Especiales", "Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 11117
 ---
 

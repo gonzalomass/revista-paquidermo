@@ -5,7 +5,8 @@ author: "billy-soto"
 slug: "manual-basico-para-producir-guaro-de-contrabando"
 excerpt: "Nota de los editores: Alessandro Baricco decía que las invasiones bárbaras del Siglo XX empezaron cuando los gringos produjeron vino hollywoodense. Si vais a ver a un viejo artesano de vino, decía Bar..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10695
 ---
 

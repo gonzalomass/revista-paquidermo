@@ -5,7 +5,8 @@ author: "dra-yamileth-gonzalez"
 slug: "sobre-el-convenio-fees-y-la-suspension-de-la-caminata"
 excerpt: "Con el fin de debatir los hechos ocurridos en las últimas semanas y especialmente los días jueves, viernes y sábado de la semana recién concluida, la Revista Paquidermo decidió reproducir la nota difu..."
 categories: ["Democracia", "Educación", "Política", "Realidad Nacional"]
-tags: ["Sección Debates"]
+tags: []
+seccion: "Debates"
 wp_id: 2181
 ---
 

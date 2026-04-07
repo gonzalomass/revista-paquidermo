@@ -5,7 +5,8 @@ author: "priscilla-carballo-villagra"
 slug: "ser-profesora-joven-en-las-sedes-regionales-universitarias"
 excerpt: "Cuando me preguntan cómo es dar clases en la Sede de Occidente me vienen varias reflexiones a la cabeza. Primero, quisiera plantear que en la Universidad de Costa Ric..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1157
 ---
 

@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "el-modelo-tico-el-de-algunos-pocos"
 excerpt: "Fotografía: EfeVerde El excelente trabajo \"Nuestro nombre es Costa Rica\" abrió las puertas al debate sobre el modelo de desarrollo costarricense. Políticos del PLN encabezados por René Castro y coment..."
 categories: ["América Central", "Economía", "Neoliberalismo", "Política"]
-tags: ["Columna: Vagamundo", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 9699
 ---
 

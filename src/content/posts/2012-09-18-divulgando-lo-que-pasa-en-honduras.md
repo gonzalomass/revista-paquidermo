@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "divulgando-lo-que-pasa-en-honduras"
 excerpt: "Seguimos divulgando lo que pasa en Honduras, que es hoy el país-laboratorio para las nuevas estrategias colonialistas. POSICIONAMIENTO El Movimiento Autentico Reivindicador Campesino del Aguán (MARCA)..."
 categories: ["América Central", "Derechos Humanos", "Estado de Derecho"]
-tags: ["Sección: Periscopio", "Contribuciones Internacionales"]
+tags: ["Contribuciones Internacionales"]
+seccion: "Periscopio"
 wp_id: 6238
 ---
 

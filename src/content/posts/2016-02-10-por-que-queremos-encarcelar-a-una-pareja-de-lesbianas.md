@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "por-que-queremos-encarcelar-a-una-pareja-de-lesbianas"
 excerpt: "Según nuestro Código de Familia el matrimonio es la base esencial de la familia y tiene por objeto la vida en común, la cooperación y el mutuo auxilio. En Costa Rica, hay varias razones por las que un..."
 categories: ["Derechos Humanos", "Política", "Realidad Nacional", "Sexualidad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13044
 ---
 

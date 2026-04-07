@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "felices-compras"
 excerpt: "Regresamos en enero, pero aquí les dejamos de regalo navideño, la transcripción completa de la Sentencia de Crucitas: Recomendamos su lectura a partir del V. Considerando Al ser las diez horas cuarent..."
 categories: ["Ambiente", "Derechos Humanos", "Minorías", "Realidad Nacional"]
-tags: ["Sección: Editorial"]
+tags: []
+seccion: "Editorial"
 wp_id: 2690
 ---
 

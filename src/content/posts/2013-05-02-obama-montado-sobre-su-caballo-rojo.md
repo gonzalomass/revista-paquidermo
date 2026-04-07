@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "obama-montado-sobre-su-caballo-rojo"
 excerpt: "Foto: Liam d'Noit :: Marco A. Gandásegui (hijo)* El presidente de EEUU, Barack Obama, se reunirá el sábado con los mandatarios de los 8 países miembros del Sistema de Integración Económica Centroameri..."
 categories: ["Drogas", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8286
 ---
 

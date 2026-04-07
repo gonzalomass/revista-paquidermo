@@ -5,7 +5,8 @@ author: "alejandro-marin"
 slug: "la-guerra-fria-del-futbol"
 excerpt: "Púgiles y boxísticos aseguraron que, de haber estado sobre el césped, habrían aplastado la cara del árbitro a golpes. Otros, apelando a la ética y al fair play, culparon a Andrés..."
 categories: ["Capitalismo", "Corrupción", "Cultura", "Entretenimiento", "Deportes", "Economía", "Neoliberalismo", "Fútbol", "Medios de Comunicación", "Geopolítica", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12424
 ---
 

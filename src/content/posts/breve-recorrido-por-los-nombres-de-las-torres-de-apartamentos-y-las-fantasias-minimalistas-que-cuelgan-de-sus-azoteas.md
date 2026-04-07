@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "breve-recorrido-por-los-nombres-de-las-torres-de-apartamentos-y-las-fantasias-minimalistas-que-cuelgan-de-sus-azoteas"
 excerpt: "“URBN Escalante, diseñado para los que quieren vivir la historia,"
 categories: ["Arquitectura", "Cultura", "Humor"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 14277
 ---
 

@@ -5,7 +5,8 @@ author: "rocio-zamora"
 slug: "pueblos-sobre-expuestos"
 excerpt: "Fotografía de CRHoy Notas externas sobre el problema actual de la comunidad de Salitre y el problema del otro. “Lo que hace falso a un fetiche no es tanto su carencia de contenido de verdad, algo no s..."
 categories: ["Uncategorized"]
-tags: ["Columna: Distancia y Contacto", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Distancia y Contacto"
 wp_id: 9203
 ---
 

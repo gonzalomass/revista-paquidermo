@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "contra-el-justo-medio"
 excerpt: "Una de las estrategias recurrentes de las oligarquía local es dividir a la opinión pública sobre la base de que, allí donde existen dos extremos, lo “pura vida” es ubicarse en el centro. Así: tan repu..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 1029
 ---
 

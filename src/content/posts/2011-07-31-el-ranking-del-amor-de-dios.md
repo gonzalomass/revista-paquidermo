@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "el-ranking-del-amor-de-dios"
 excerpt: "Hace un par de días descubrí que toda mi vida había estado equivocada. Desde que tengo uso de razón, y sí, tengo que confesarlo, regodeándome por las reacciones que mis palabras causaban sobre la mayo..."
 categories: ["Realidad Nacional", "Religión"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 4342
 ---
 

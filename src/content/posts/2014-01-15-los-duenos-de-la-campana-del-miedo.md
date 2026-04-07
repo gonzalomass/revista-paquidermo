@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "los-duenos-de-la-campana-del-miedo"
 excerpt: "Las últimas semanas y sobre todo la proyección electoral de una segunda ronda entre el PLN y el partido Frente Amplio ha desatado la campaña del miedo. El memorando de Kevin Casas y Fernando Sánchez n..."
 categories: ["América Central", "Política"]
-tags: ["Columna: Vagamundo", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 9786
 ---
 

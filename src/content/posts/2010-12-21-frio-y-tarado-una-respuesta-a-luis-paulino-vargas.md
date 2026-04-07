@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "frio-y-tarado-una-respuesta-a-luis-paulino-vargas"
 excerpt: "El 8 de diciembre Luis Paulino Vargas publicó un artículo titulado ¿Un pueblo frío y tarado? El argumento de Vargas es simple: la izquierda revolucionaria comparte el universo mental de la derecha bel..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 2683
 ---
 

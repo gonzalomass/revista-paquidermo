@@ -5,7 +5,8 @@ author: "bryan-gonzalez-hernandez"
 slug: "religion-y-guerra-en-costa-rica-una-union-carnal"
 excerpt: "Imagen por Viento Espectral De entrada podría parecer extraña la relación entre la iglesia católica (*), el “observatorio ciudadano por la vida y la familia” y su campañ..."
 categories: ["Política", "Religión", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1826
 ---
 

@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "depresion-social"
 excerpt: "En texto de finales de julio de este año, Jorge Vargas, columnista de La Nación S.A., se realiza la pregunta que, en versión original, planteó el muy posteriormente Premio Nobel Mario Vargas Llosa en ..."
 categories: ["Cultura", "América Latina", "Historia", "Memoria", "Medios de Comunicación", "Política"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12751
 ---
 

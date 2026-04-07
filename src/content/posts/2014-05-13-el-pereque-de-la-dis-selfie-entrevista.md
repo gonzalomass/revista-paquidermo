@@ -5,7 +5,8 @@ author: "solentiname"
 slug: "el-pereque-de-la-dis-selfie-entrevista"
 excerpt: "Tom Frantzen © Ante el clamor en el ghetto de Tuiter de no revolver chayotes con manzanas y opinar con jundamento, en estas alamedas decidimos hacernos una autoentrevista para expone..."
 categories: ["Política", "Estado de Derecho"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10420
 ---
 

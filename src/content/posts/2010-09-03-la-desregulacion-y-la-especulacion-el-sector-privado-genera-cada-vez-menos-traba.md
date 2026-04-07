@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-desregulacion-y-la-especulacion-el-sector-privado-genera-cada-vez-menos-traba"
 excerpt: "La selectividad de las acciones más agresivas de las autoridades políticas encargadas de velar por la estabilidad de la economía estadounidense, se ha comprobado, respondió casi con total unanimidad a..."
 categories: ["América Latina", "Economía", "Internacional", "Política"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 2203
 ---
 

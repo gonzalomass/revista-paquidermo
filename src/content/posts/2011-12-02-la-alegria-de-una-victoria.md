@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-alegria-de-una-victoria"
 excerpt: "Veloz y expansiva, fue la alegría que recorrió las redes sociales y un poco más tarde algunas calles y bares, al divulgarse la noticia de que la Sala I confirmó la sentencia del Tribunal Contencioso A..."
 categories: ["Ambiente", "Democracia", "Estado de Derecho", "Corrupción"]
-tags: ["Sección: Editorial"]
+tags: []
+seccion: "Editorial"
 wp_id: 5076
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-malestar-de-las-audiencias"
 excerpt: "Una audiencia más sensible, más culta, más política en sus prácticas y sus agendas, mantiene luchas diarias y permanentes contra lo que considera el deterioro en la construcción de contenidos que los ..."
 categories: ["Capitalismo", "Cultura", "Cotidianidad", "Entretenimiento", "Medios de Comunicación"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13104
 ---
 

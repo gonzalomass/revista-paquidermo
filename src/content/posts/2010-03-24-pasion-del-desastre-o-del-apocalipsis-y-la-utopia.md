@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "pasion-del-desastre-o-del-apocalipsis-y-la-utopia"
 excerpt: "“La vida entera de las sociedades en las que imperan las condiciones de producción modernas se anuncia como una inmensa acumulación de espectáculos. Todo lo directamente experimentado se ha convertido..."
 categories: ["Filosofía"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 752
 ---
 

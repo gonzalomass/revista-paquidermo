@@ -5,7 +5,8 @@ author: "pamela-cunningham-chacon"
 slug: "igualiticos-no-diferenticos"
 excerpt: "El día 31 de agosto se celebra el Día del Negro y la Persona Afro Descendiente en Costa Rica. No falta año en que alguien pregunte, ¿y por qué no hay día del blanco? O q..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10887
 ---
 

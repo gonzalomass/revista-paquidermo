@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "todos-los-15-de-setiembre-son-inolvidables-todos-los-anarquistas-rezan-el-padre-"
 excerpt: "Imagen por thombo2 Hay variadas condiciones para que un territorio sea considerado un “Estado-Nación”, muchas de ellas son discutidas ampliamente y conforme avanza la discusión se van agregando elemen..."
 categories: ["Medios de Comunicación", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 2309
 ---
 

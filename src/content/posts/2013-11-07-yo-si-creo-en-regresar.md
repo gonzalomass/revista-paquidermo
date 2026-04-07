@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "yo-si-creo-en-regresar"
 excerpt: "72 544x376 Normal 0 21 false false false ES X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"Tabla normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-n..."
 categories: ["Realidad Nacional", "América Central"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9453
 ---
 

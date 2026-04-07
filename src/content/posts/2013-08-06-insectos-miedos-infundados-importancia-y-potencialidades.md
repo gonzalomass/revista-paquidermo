@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "insectos-miedos-infundados-importancia-y-potencialidades"
 excerpt: "Foto gagilas Entro al supermercado. Me espera un anuncio gigante de un insecticida de uso doméstico: “mata solo bichos”, con caricaturas de lo que parecen ser cucarachas criminales. Al principio me ca..."
 categories: ["Gastronomía", "Ciencia", "Ecología"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 8990
 ---
 

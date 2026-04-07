@@ -5,7 +5,8 @@ author: "hugo-mora-poltronieri"
 slug: "los-inicios-del-orgullo-gay"
 excerpt: ":: Hugo Mora Poltronieri (*) :: Posiblemente una gran parte de los miembros del sector LGBT hemos oído hablar o leído, sobre lo ocurrido en Nueva York cierta noche de junio de 1969. Tanto es así, que ..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10633
 ---
 

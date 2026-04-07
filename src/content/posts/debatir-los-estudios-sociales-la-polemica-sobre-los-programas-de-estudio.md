@@ -5,7 +5,8 @@ author: "jessica-ramirez-achoy"
 slug: "debatir-los-estudios-sociales-la-polemica-sobre-los-programas-de-estudio"
 excerpt: "La discusión en redes sociales que ha desatado la exhibición de un ejercicio de selección única, en un libro de texto para secundaria de una editorial"
 categories: ["Educación"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 14344
 ---
 

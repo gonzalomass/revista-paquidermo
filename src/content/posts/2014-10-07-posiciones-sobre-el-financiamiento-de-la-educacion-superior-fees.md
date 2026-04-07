@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "posiciones-sobre-el-financiamiento-de-la-educacion-superior-fees"
 excerpt: "Siempre es un debate el presupuesto para la educación superior en Costa Rica. Primero, porque los políticos de turno se llenan la boca esgrimiendo la importancia de la educación para el desarrollo, pe..."
 categories: ["Uncategorized"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11019
 ---
 

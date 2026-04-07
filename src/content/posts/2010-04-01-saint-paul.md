@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "saint-paul"
 excerpt: "Una de las cosas buenas de la semana santa es que nos permite relajarnos y darnos algunos permisos. Entre muchas licencias, que no viene al caso comentar aquí, los paquidermos nos hemos permitido refe..."
 categories: ["Filosofía"]
-tags: ["Columna: Con-sentimiento In-formado"]
+tags: []
+columna: "Con-sentimiento In-formado"
 wp_id: 824
 ---
 

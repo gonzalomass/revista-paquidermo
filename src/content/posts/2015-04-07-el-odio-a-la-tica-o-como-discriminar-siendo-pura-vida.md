@@ -5,7 +5,8 @@ author: "santiago-navarro-cerdas"
 slug: "el-odio-a-la-tica-o-como-discriminar-siendo-pura-vida"
 excerpt: "Imagen: Priscila Monge ::Santiago Navarro Cerdas*:: Playos, niquillas y pobretones. “Yo no tengo nada contra los playos, hasta tengo amigos gays…”, “no no, yo no discrimino a los nicas, los niquillas ..."
 categories: ["América Central", "Migraciones"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11663
 ---
 

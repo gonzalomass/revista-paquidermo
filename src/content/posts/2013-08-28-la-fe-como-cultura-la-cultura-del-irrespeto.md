@@ -5,7 +5,8 @@ author: "jesus-cardenas-duran"
 slug: "la-fe-como-cultura-la-cultura-del-irrespeto"
 excerpt: "Cuando pensamos en el concepto “fe”, pensamos en confianza. Para muestra, tenemos frases populares como “la fe mueve montañas”, “esa es la fe”, “tenga fe”, “le tengo fe a es..."
 categories: ["Cultura", "Derechos Humanos", "Estado de Derecho", "Religión", "Sociedad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9125
 ---
 

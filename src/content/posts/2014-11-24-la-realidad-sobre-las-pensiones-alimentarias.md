@@ -5,7 +5,8 @@ author: "leda-castillo-navarro"
 slug: "la-realidad-sobre-las-pensiones-alimentarias"
 excerpt: "Los beneficios que se derivan de la participación económica de las mujeres tanto para sus familias como el desarrollo humano del país es algo que ya se ha podido constatar...."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11171
 ---
 

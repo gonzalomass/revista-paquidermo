@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "conferencia-del-presidente-rafael-correa-en-la-universidad-de-costa-rica"
 excerpt: "https://www.youtube.com/watch?v=C-4dn-s8oYA"
 categories: ["Política"]
-tags: ["Sección Audiovisual", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Audiovisual"
 wp_id: 10410
 ---
 

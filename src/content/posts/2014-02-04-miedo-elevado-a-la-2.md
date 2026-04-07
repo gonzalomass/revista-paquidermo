@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "miedo-elevado-a-la-2"
 excerpt: "Imagen: Beili Liu Hubo un tipo de miedo que se expresó en la campaña electoral: el miedo de los grandes ricos a perder así sea una mínima porción de sus privilegios y su influencia política. Eso se ex..."
 categories: ["Política", "Democracia", "Electoral"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10009
 ---
 

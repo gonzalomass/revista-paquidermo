@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "critica-de-la-razon-pura"
 excerpt: "En ciertas ocasiones, hago la broma de que voy a cerrar la editorial. Siempre por diversos motivos: sentimientos ecológicos hacia los árboles, compra de una finca, vender los equipos de impresión para..."
 categories: ["Cultura", "Cotidianidad", "Educación", "Literatura", "Literatura"]
-tags: ["Columna: Mejor que ficción", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 12946
 ---
 

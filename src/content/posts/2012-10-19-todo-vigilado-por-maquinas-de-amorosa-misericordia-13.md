@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "todo-vigilado-por-maquinas-de-amorosa-misericordia-13"
 excerpt: "Adam Curtis - All Watched Over by Machines of Loving Grace 1/3 - Love and Power Subs Español Spanish from avefenix1954 on Vimeo. Esta es la historia del sueño que surgió en la década de 1990 de que la..."
 categories: ["Filosofía"]
-tags: ["Sección Audiovisual", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Audiovisual"
 wp_id: 7073
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "sanchez-seagal-y-el-estupor"
 excerpt: "¿Qué tendrá en la cabeza Fernando Sánchez? Me lo pregunto una y otra vez desde aquel famoso memorando donde proponía ganar el Referéndum sobre el TLC a punta de miedo. Ahora, lo vemos salir en fotos y..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 1409
 ---
 

@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "mision-y-vision-empresarial-material-fresquito-para-una-teoria-de-lo-siniestro"
 excerpt: "En el mundo hay cosas terriblemente mal escritas, pero entre todas, y dejando de lado las obras maestras del Diario Extra y las tesis de ciertas universidades privadas, hay un tipo de texto que puede ..."
 categories: ["Cultura"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 8814
 ---
 

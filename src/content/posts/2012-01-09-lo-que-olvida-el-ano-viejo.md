@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "lo-que-olvida-el-ano-viejo"
 excerpt: "“Lo que no sirve, que no estorbe”, recita algún adagio popular que cobra vida a fin de año, cuando todos parecen prometerse cambiar sus vidas y dejar sus vicios atrás. O como cuando hermosas familias, sonrientes y regordetas, vienen a depositar a custodia de nuestras instituciones de salud aquello que estorba; aquello que podría entorpecer sus vacaciones. Unas palabras a los doctores, un beso en la frente del abuelo, y las camas se llenan de ancianos abandonados, sacrificados a un olvido temporal por el bien de las vacaciones familiares."
 categories: ["Minorías", "Salud"]
-tags: ["Columna: Crónicas del cangrejo"]
+tags: []
+columna: "Crónicas del cangrejo"
 wp_id: 5280
 ---
 

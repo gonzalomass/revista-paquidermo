@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "discusion-cristiana-sobre-la-tolerancia"
 excerpt: "Comencé el 2011 con el pie izquierdo. Por dicha. Recién comenzado el año, me vi envuelto en un altercado con algunas personas cercanas por haber pretendidamente publicado en mi muro de Facebook coment..."
 categories: ["Derechos Humanos", "Política", "Religión"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 2760
 ---
 

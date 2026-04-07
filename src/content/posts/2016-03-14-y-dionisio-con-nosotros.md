@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "y-dionisio-con-nosotros"
 excerpt: "¿A quién se le hubiera ocurrido que este partido iba a durar 120 minutos más penales? Sin duda a mí no, sino no me hubiera tomado esas 6 cervezas que en ese momento contemplaba vacías en la orilla de ..."
 categories: ["Crónica", "Cultura", "Entretenimiento", "Deportes", "Fútbol"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13091
 ---
 

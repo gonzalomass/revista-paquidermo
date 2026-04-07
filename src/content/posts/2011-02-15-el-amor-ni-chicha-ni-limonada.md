@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-amor-ni-chicha-ni-limonada"
 excerpt: "Si San Valentín vivió debe estar retorciéndose en su tumba. No sé cómo este santo llegó a ser el santo del amor. Los santos no son muy casamenteros que digamos. Es increíble esto del romance. El roman..."
 categories: ["Sexualidad", "Sociedad"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 2843
 ---
 

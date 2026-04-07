@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "vargas-llosa-y-el-legado-del-papa"
 excerpt: "Foto: nerosunero Ciertamente la renuncia de un Papa no es algo que suceda todos los días. Por eso no es de extrañar que la decisión de Joseph Ratzinger de abandonar el supu..."
 categories: ["Cultura", "Religión"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8019
 ---
 

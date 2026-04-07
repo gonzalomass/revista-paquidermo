@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-soberania-de-los-bancos-el-caso-del-ataque-financiero-a-grecia"
 excerpt: "Los problemas crediticios de Grecia han sido, quizá, el ejemplo último más visible de la intensificación de los ataques de grandes bancos a las finanzas públicas de un creciente número de Estados alre..."
 categories: ["Economía"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 915
 ---
 

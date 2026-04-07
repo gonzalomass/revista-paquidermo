@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-economia-de-las-rentas-monopolicas-los-rescates-de-los-bancos-y-el-fat-spread"
 excerpt: "Han sido enormes los esfuerzos de los Estados y las instituciones internacionales encargadas de velar por la salud de las finanzas internacionales (en especial la Reserva Federal de los EEUU, una inst..."
 categories: ["Economía", "Política"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 1731
 ---
 

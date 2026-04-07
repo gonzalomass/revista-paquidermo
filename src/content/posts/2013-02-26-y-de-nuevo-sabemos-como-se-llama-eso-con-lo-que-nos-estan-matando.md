@@ -5,7 +5,8 @@ author: "andrea-mickus"
 slug: "y-de-nuevo-sabemos-como-se-llama-eso-con-lo-que-nos-estan-matando"
 excerpt: "El pasado 15 de febrero, como para conmemorar el décimo aniversario de las protestas globales que precedieron a la guerra en Irak (absoluta prueba siglo-veintiuno de que las protes..."
 categories: ["Cultura", "Literatura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7992
 ---
 

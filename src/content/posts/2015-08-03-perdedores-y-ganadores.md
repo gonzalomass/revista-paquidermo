@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "perdedores-y-ganadores"
 excerpt: "Con la “nueva”, aunque muy anciana mentalmente, camada de opinionistas oficiales concurrentes en La Nación S.A., añadidos a la señora Marín Raventós y a los señores Mesalles (¿cesado alguno?) y Montan..."
 categories: ["Cultura", "Cotidianidad", "Derechos Humanos", "Filosofía", "Libertad de expresión", "Medios de Comunicación", "Política", "Geopolítica", "Realidad Nacional", "Religión", "Sociedad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12410
 ---
 

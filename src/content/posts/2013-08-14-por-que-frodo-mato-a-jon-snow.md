@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "por-que-frodo-mato-a-jon-snow"
 excerpt: "1. El título El título es el aspecto más importante del texto. Eso al menos es lo que le dirá a uno cualquier escritor o académico que haya fracasado financieramente. Es una premisa trillada. Los mism..."
 categories: ["Cultura", "Contracultura"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 9025
 ---
 

@@ -5,7 +5,8 @@ author: "bryan-gonzalez-hernandez"
 slug: "la-guerra-como-deporte"
 excerpt: "En Costa Rica el cinismo vulgar del gobierno parece no tener límites. Primero hacen gala de su colonialismo mental y del nivel de entreguismo y adscripción a la política exterior estadounidense cuando para combatir, supuestamente, al crimen nos recetan “soldados en las calles”. Luego, para hacer frente a la “inminente invasión” nicaragüense nos recomendaron -previa intensa campaña nacionalista xenofóbica promilitarista- la constitución de una “Policía de Fronteras”, algo que parecería un ejército, actuaría como ejército, se equiparía como ejército, se entrenaría como ejército, pero que no sería un ejército. Ahora nos dicen que los ejercicios militares en los que participa Costa Rica son unas “olimpiadas deportivas” y no “militares”, como lo evidenció el reportaje del 17 de junio de 2011 del diario “La Teja”."
 categories: ["Deportes", "América Latina", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4133
 ---
 

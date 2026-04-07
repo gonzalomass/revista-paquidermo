@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "un-poeta-joven"
 excerpt: "En el cambio de milenio, la editorial Perro Azul publicaba un libro con una tapa poco menos que genial: contra un fondo verde, la imagen de un carro (un grabado en madera del artista Hernán Arévalo); ..."
 categories: ["Literatura"]
-tags: ["Columna Bífida"]
+tags: []
+columna: "Bífida"
 wp_id: 5882
 ---
 

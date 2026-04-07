@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "el-congreso-de-espana-y-el-reconocimiento-de-palestina-como-estado-balance-y-per"
 excerpt: "El pasado 18 de noviembre, el pleno del Congreso de España adoptó una resolución mediante la cual “insta” al Poder Ejecutivo a reconocer a Palestina como Estado. Las casi dos hor..."
 categories: ["Internacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11205
 ---
 

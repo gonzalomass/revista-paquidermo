@@ -5,7 +5,8 @@ author: "sitaira-cubillo"
 slug: "una-travesti-en-bicicleta"
 excerpt: "Salí de la casa a comprarme unas pinzas. Las mías, las que siempre uso, no las encontré. Así que salí, en bicicleta. Como no me había quitado el bigote con mis pinzas, no podía salir caminando, porque..."
 categories: ["Género"]
-tags: ["Columna: Torcidxs", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Torcidxs"
 wp_id: 11114
 ---
 

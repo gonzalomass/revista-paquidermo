@@ -5,7 +5,8 @@ author: "rodrigo-alonso-villalobos-duran"
 slug: "de-lost-y-los-finales-abiertos"
 excerpt: "Recientemente terminó la serie Lost. El tan ansiado final quedó, para muchos, debiendo. Como nunca tuve la oportunidad de ver la serie completa, no me desesperé p..."
 categories: ["Cultura", "Medios de Comunicación"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1420
 ---
 

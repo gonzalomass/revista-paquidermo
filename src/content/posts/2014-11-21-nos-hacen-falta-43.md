@@ -5,7 +5,8 @@ author: "mario-zuniga-nunez"
 slug: "nos-hacen-falta-43"
 excerpt: "¿Dónde están? ¿qué han hecho con ellos? No cesan de sucederse estas y muchas otras preguntas mientras la indignación crece por los 43 normalistas desaparecidos en Iguala, Esta..."
 categories: ["América Latina"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 11168
 ---
 

@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "retorna-la-derecha-en-america-latina"
 excerpt: "Solidaridad Global, Argentina, julio 2012. Un barrio llamado América Latina. La letra del Nocturno a mi barrio de Pichuco Troilo reza, en lo casi pertinente, cuando algunos le reprochan al músico habe..."
 categories: ["América Latina", "Política"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10821
 ---
 

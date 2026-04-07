@@ -5,7 +5,8 @@ author: "alejandro-cristia-batista"
 slug: "cuando-los-espacios-publicos-convergen-y-compiten"
 excerpt: ":: Alejandro Cristiá Batista (*):: El espacio es el escenario en donde ocurren los procesos sociales e individuales, pero cuando el espacio es creado, no por las necesidades sociales, sino por las nec..."
 categories: ["Política", "Cultura", "Arquitectura", "Protesta", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12490
 ---
 

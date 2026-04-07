@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "los-limites-de-lo-que-se-ve-la-nueva-conflictividad-obrera"
 excerpt: "La ciencia ficción y la ideología"
 categories: ["Capitalismo", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Movimiento Obrero", "Sitrasep"]
+tags: ["Movimiento Obrero", "Sitrasep"]
+columna: "¡Qué Panfle!"
 wp_id: 14258
 ---
 

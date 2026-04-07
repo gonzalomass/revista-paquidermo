@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "secretos-y-secreciones-de-estado"
 excerpt: "“…el discurso no es simplemente aquello que traduce las luchas o los sistemas de dominación, sino aquello por lo que, y por medio de lo cual se lucha, aquel poder del que quiere uno adueñarse.” M. Fou..."
 categories: ["Democracia", "Medios de Comunicación", "Política"]
-tags: ["Sección: Editorial"]
+tags: []
+seccion: "Editorial"
 wp_id: 2982
 ---
 

@@ -5,7 +5,8 @@ author: "carolina-quintero-valverde"
 slug: "carta-a-mi-misma"
 excerpt: "i Mi mejor amiga quedó embarazada sin querer cuando dejaba de ser niña, me contó cuando tenía 6 meses. No sabía lo que era la pastilla del día después, usaba un anillo..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10374
 ---
 

@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "una-novela-que-es-polvo-camino-y-esperanza"
 excerpt: "Joe Iurato © Al sur de los recuerdos, la primera novela de Alonso Muñoz, es la cuidadosa reelaboración de un motivo fundamental en la literatura: el viaje. Así, a través de la mirada de Ana, la protag..."
 categories: ["Uncategorized"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 10270
 ---
 

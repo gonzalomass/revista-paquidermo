@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-midnight-express-x"
 excerpt: "Entre las experiencias más intimas y personales de las que gozamos los seres humanos, definitivamente resalta la masturbación. Desde temprana edad descubrimos nuestras zonas erógenas con curiosidad y recelo; procurando nadie nos vea, ni sepa lo que estamos haciendo, ya que se nos ha enseñado a sentir vergüenza de nuestra desnudez  y, más aún, de nuestra sexualidad. El morbo nos atrae a hablar de él en la misma forma en que nos repele, y todos habremos vivido algún momento incómodo donde nuestra privacidad, en esos momentos de íntima entrega al placer, se ve perturbada por algún golpe en la puerta, un teléfono que suena, o peor aún, un intruso en la habitación."
 categories: ["Salud", "Sexualidad"]
-tags: ["Columna: Crónicas del cangrejo"]
+tags: []
+columna: "Crónicas del cangrejo"
 wp_id: 4929
 ---
 

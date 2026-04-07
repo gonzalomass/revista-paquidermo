@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "pedro-mairal-oido-absoluto"
 excerpt: "Las noches de jueves jugábamos fútbol 5 (a veces fútbol 7) en un club cerca del Abasto en Buenos Aires. El Open Gallo. Era un grupo de escritores reunidos por el deporte rey. Funes era el crack. Mucho..."
 categories: ["Literatura"]
-tags: ["Columna Bífida"]
+tags: []
+columna: "Bífida"
 wp_id: 5570
 ---
 

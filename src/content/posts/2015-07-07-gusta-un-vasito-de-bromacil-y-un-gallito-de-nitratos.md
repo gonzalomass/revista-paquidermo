@@ -5,7 +5,8 @@ author: "gabriela-arguedas"
 slug: "gusta-un-vasito-de-bromacil-y-un-gallito-de-nitratos"
 excerpt: "Dicen el refrán: Dime de qué presumes y te diré de qué careces. Apliquemos el refrán a los títulos de las campañas publicitarias del ICT y del MINAE en los últimos años: Costa Rica no tiene ingredient..."
 categories: ["Capitalismo", "Ciencia", "La muerte", "Derechos Humanos", "Ecología", "Economía", "Neoliberalismo", "Política", "Movimiento Social", "Protesta", "Realidad Nacional", "Salud"]
-tags: ["Lo Recomendado", "Columna: Periscopio"]
+tags: ["Lo Recomendado"]
+columna: "Periscopio"
 wp_id: 12226
 ---
 

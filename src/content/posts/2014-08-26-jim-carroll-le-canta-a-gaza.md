@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "jim-carroll-le-canta-a-gaza"
 excerpt: "Siempre es difícil acercarse a situaciones en las que se entremezclan el coraje más sorprendente y la crueldad más inconmensurable. Supongo que tiene que ver con una insondable tendencia cultural a la..."
 categories: ["Cultura"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 10871
 ---
 

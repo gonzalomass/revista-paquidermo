@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "habacuc-escritor"
 excerpt: "No se me ocurre un personaje de la fauna urbana capitalina de artistas o sucedáneos que genere tantas opiniones adversas, por no decir incendiarias. Ni defensas tan ardientes o bien documentadas y arg..."
 categories: ["Literatura"]
-tags: ["Lo Recomendado", "Columna Bífida"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 6140
 ---
 

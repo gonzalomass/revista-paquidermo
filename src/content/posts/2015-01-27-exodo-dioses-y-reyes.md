@@ -5,7 +5,8 @@ author: "alonso-ramirez-cover"
 slug: "exodo-dioses-y-reyes"
 excerpt: "Crítica de cine: Exodus: Gods and Kings (2014). Dirección de Ridley Scott. Éxodo: Dioses y Reyes es una película cuyas decisiones artísticas han generado bastante controvers..."
 categories: ["Cine"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11313
 ---
 

@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "se-vende-un-pais-portatil"
 excerpt: "“Oferta un país portátil Domesticado en engaños Se garantizan por años La ausencia de honestidad” Rubén Blades No hace un par de semanas la presidenta Laura Chinchilla y el flameante Ministro de Comun..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 4252
 ---
 

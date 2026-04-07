@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "todos-nosotros-somos-el-resultado-de-factores-historicos"
 excerpt: "Entrevista con David Cruz Hace una semana David Cruz estaba en media reunión de trabajo cuando lo llamaron de Guatemala para decirle que había ganado el VII Premio Mesoamericano Luis Cardoza y Aragón...."
 categories: ["Cultura", "Entrevistas", "Literatura"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 5267
 ---
 

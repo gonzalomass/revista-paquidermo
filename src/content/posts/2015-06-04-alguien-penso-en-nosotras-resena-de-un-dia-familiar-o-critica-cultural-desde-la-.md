@@ -5,7 +5,8 @@ author: "ariane-grau"
 slug: "alguien-penso-en-nosotras-resena-de-un-dia-familiar-o-critica-cultural-desde-la-"
 excerpt: "“Cuando no se ha cuidado del corazón y la mente en los años jóvenes, bien se puede temer que la ancianidad sea desolada y triste”, José Martí. “Necesitamos una organización social en..."
 categories: ["Amistad", "Cultura", "Cotidianidad", "Entretenimiento"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11970
 ---
 

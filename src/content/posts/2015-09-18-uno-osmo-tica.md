@@ -5,7 +5,8 @@ author: "sergio-villena"
 slug: "uno-osmo-tica"
 excerpt: "El pasado 16 de setiembre de 2015 tuvo lugar una nueva versión del Art City Tour en San José. En esta ocasión, la Pila de la Melaza del MADC fue el escenario para UNO. Se t..."
 categories: ["Crónica", "Cultura", "Entretenimiento"]
-tags: ["Lo Recomendado", "Sección Doxa", "Invitados Especiales"]
+tags: ["Lo Recomendado", "Invitados Especiales"]
+seccion: "Doxa"
 wp_id: 12642
 ---
 

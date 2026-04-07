@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "eligiendo-con-vicios-ii-fenomenos-y-efectos"
 excerpt: "En el artículo anterior presenté una explicación técnica sobre la manera como en Costa Rica se transforman votos en escaños. También argumenté que la existencia de un subcoci..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1394
 ---
 

@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "debate-general-en-sesion-de-la-asamblea-general-de-naciones-unidas-sobre-situaci"
 excerpt: ":: Nicolás Boeglin (*) :: El pasado 6 de agosto del 2014, en medio de diversas manifestaciones de repudio de la comunidad internacional en contra de Israel, la Asamblea General de Naciones Unidas exam..."
 categories: ["Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10856
 ---
 

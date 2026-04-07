@@ -5,7 +5,8 @@ author: "gladys-tzul"
 slug: "que-esta-pasando-en-guatemala-las-luchas-comunales-analizadas-por-un-preso-polit"
 excerpt: ":: Entrevista de Gladys Tzul (*) a Ramiro Choc :: Ramiro Choc es un dirigente q’eqchi’ que ha protagonizado luchas campesinas en Izabal, las Verapaces y Petén. Junto con dos de sus seis hermanas han p..."
 categories: ["América Latina", "América Central", "Crónica", "Derechos Humanos", "Historia", "Internacional", "Centroamérica", "Libertad de expresión", "Minorías", "Política", "Democracia", "Movimiento Social", "Protesta", "Resistencia", "Sociedad"]
-tags: ["Sección: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 12291
 ---
 

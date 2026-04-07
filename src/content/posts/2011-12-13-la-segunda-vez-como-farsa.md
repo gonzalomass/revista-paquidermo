@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-segunda-vez-como-farsa"
 excerpt: "El primero en quien pensé viendo a Chema Figueres revivir como don Pepe en la entrevista de Teletica, fue aquel señor de bigote espeso que una vez, hace más de quince años, vi moverse al ritmo del bug..."
 categories: ["Política", "Realidad Nacional", "Corrupción"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 5119
 ---
 

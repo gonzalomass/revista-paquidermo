@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "marchar-un-primero-de-mayo-en-una-perfecta-democracia-occidental"
 excerpt: "Montreal es una Ciudad con mayúscula, repleta de actos culturales, parques, plazas, carriles exclusivos para bicicletas, un sistema de transporte público cercano a la perfección, río, una isla artific..."
 categories: ["Cultura", "Contracultura", "Derechos Humanos", "Economía", "Neoliberalismo", "Internacional", "Libertad de expresión", "Política", "Democracia", "Protesta", "Geopolítica", "Sociedad"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 11958
 ---
 

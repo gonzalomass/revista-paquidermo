@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "los-ojos-de-gary-gilmore"
 excerpt: "Gary Gilmore fue un tipo cuyo único logro en la vida había sido cometer el homicidio de dos personas y haber sido ejecutado por el estado de Utah por ello. Su ejecución sirvió para que Norman Mailer e..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 6848
 ---
 

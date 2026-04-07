@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "editorial-la-in-justa-in-decencia-de-orozco"
 excerpt: "Nadie sensato podría esperar que a Justo Orozco se le condene sumariamente en un día, sin seguir el debido proceso. No se trata de eso, ni de linchamientos o ajusticiamientos virtuales. Nos interesa a..."
 categories: ["Cultura", "Derechos Humanos", "Editorial", "Feminismo", "Género", "Política", "Movimiento Social", "Protesta", "Estado de Derecho", "Realidad Nacional", "Resistencia", "Religión", "Sexualidad", "Sociedad", "Violencia contra las mujeres"]
-tags: ["Lo Recomendado", "Sección: Editorial"]
+tags: ["Lo Recomendado"]
+seccion: "Editorial"
 wp_id: 12210
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "a-pesar-del-riesgo"
 excerpt: "Consideraciones en torno a la rebeldía de género a partir de la historia de Sitaira en La Paz del Pueblo de Quince Duncan Para muchas personas, la primera revolución es la supervivencia La Radical Gai..."
 categories: ["Derechos Humanos", "Sexualidad", "Sociedad"]
-tags: ["Columna: Torcidxs"]
+tags: []
+columna: "Torcidxs"
 wp_id: 1789
 ---
 

@@ -5,7 +5,8 @@ author: "pablo-bonilla-elizondo"
 slug: "a-proposito-de-las-pintadas-realizadas-en-la-fachada-de-la-asamblea-legislativa"
 excerpt: ":: Pablo Bonilla Elizondo (*) :: A consecuencia de las pintadas realizadas en la fachada de la Asamblea Legislativa, producto de la marcha en contra de los recortes en el presupuesto nacional al Minis..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11163
 ---
 

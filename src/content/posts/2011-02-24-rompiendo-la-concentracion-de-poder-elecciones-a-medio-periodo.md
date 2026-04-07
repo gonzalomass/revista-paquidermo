@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "rompiendo-la-concentracion-de-poder-elecciones-a-medio-periodo"
 excerpt: "Hay que poner atención: 2008, el Banco Centroamericano de Integración Económica (BCIE) dona a Costa Rica dos millones de dólares, los Arias deciden utilizarlo para múltiples consultorías (varias sin s..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 2881
 ---
 

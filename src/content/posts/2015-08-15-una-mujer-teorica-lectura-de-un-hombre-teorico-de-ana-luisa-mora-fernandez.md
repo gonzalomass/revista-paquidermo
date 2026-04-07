@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "una-mujer-teorica-lectura-de-un-hombre-teorico-de-ana-luisa-mora-fernandez"
 excerpt: "Soy un hombre teórico. Es ese el primer verso del primer poema del primer libro publicado de Ana Luisa Mora Fernández (San José, 1989). Acto seguido, el libro avanza impulsado por el combustible impla..."
 categories: ["Cultura", "Literatura"]
-tags: ["Columna Bífida", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 12471
 ---
 

@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "y-mientas-tanto"
 excerpt: "No es que tenga exceso de tiempo libre -¡ya quisiera!-, es que por esas cosas de la vida me toca tragarme toneladas de noticias al día y de cuando en cuando aparecen algunas que me gusta saborear. Est..."
 categories: ["Derechos Humanos", "Realidad Nacional", "Religión", "Sexualidad"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 1907
 ---
 

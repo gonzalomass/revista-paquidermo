@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "las-encrucijadas-de-la-legalizacion-de-la-marihuana-en-uruguay"
 excerpt: "a Nico, María, Nata, Vero y el Pollito, mis hermanos urugayos La propuesta presentada esta semana por el presidente uruguayo José Mujica de legalizar la marihuana, así como de impulsar en foros intern..."
 categories: ["América Latina"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 6013
 ---
 

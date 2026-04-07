@@ -5,7 +5,8 @@ author: "nicole-moeller-gonzalez"
 slug: "mini-faldas-encarceladas-en-camerun"
 excerpt: "Machismo, una vivencia de la cual ninguna mujer en el mundo se ha podido salvar. Y digo ninguna, porque estoy segura que ninguna mujer se ha librado de la amargura que ca..."
 categories: ["Sociedad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10516
 ---
 

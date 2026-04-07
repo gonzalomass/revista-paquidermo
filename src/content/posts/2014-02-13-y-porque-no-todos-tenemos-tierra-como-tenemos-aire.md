@@ -5,7 +5,8 @@ author: "sofia-yglesias"
 slug: "y-porque-no-todos-tenemos-tierra-como-tenemos-aire"
 excerpt: "Imagen: Brock Davis Jorge Debravo quería que todos tuviéramos una parcela de tierra como tenemos nuestra parcela de aire. Hay 150 familias[*] en Puntarenas que quieren tierra, qui..."
 categories: ["Uncategorized", "Derechos Humanos", "Economía", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10074
 ---
 

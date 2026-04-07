@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "maquilas-informativas-del-siglo-xxi-el-caso-del-grupo-nacion-parte-ii"
 excerpt: "Andrew Smith © Hace algunos meses, a raíz de la remodelación del edificio del Grupo Nación, escribí un artículo en el cual planteaba cómo el nuevo espacio físico -ese galerón de alta tecnología que se..."
 categories: ["Medios de Comunicación", "Realidad Nacional"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 10192
 ---
 

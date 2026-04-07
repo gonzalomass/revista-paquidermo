@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "dispararos-al-aire-sobre-la-colision-electoral"
 excerpt: "Damanfe Una coalición electoral requeriría al menos un par de partidos bien formados, y aquí no tenemos más que fetos. Aceptémoslo de una vez por todas, en la oposición de este país sólo hay partidos ..."
 categories: ["Democracia"]
-tags: ["Columna: Ahí está el detalle", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 8743
 ---
 

@@ -5,7 +5,8 @@ author: "abraham-trillo"
 slug: "hugo-el-delito-multiple-de-ser-indigena"
 excerpt: "“La justicia es como la serpiente que sólo muerde a los que andan descalzos.” Monseñor Óscar Arnulfo Romero En el año 2009, el Juez Sexto de Primera Instancia de Toluca, Estado de..."
 categories: ["América Latina", "Derechos Humanos"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 7161
 ---
 

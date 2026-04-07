@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "no-se-que-esta-pasando-pero-esta-pasando-ahora"
 excerpt: "\"Pollice Verso\", pintura de Jean-León Gérôme. Cerca del nuevo estadio nacional hay un pequeño negocio de comida árabe, digo árabe porque no tengo certeza de la nacionalidad de los dueños del negocio. ..."
 categories: ["Internacional", "Medios de Comunicación", "Realidad Nacional"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 3266
 ---
 

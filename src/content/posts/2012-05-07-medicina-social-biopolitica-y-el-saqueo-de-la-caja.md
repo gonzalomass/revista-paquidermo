@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "medicina-social-biopolitica-y-el-saqueo-de-la-caja"
 excerpt: "El progresivo saqueo de la CCSS amenaza con acabar un sistema de salud que durante décadas ha otorgado cobertura a la mayor parte de la población costarricense. Desde ese punto de vista, dicho saqueo ..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 5865
 ---
 

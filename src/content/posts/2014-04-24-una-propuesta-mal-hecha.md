@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "una-propuesta-mal-hecha"
 excerpt: "Blu © El presidente Luis Guillermo Solís debe gobernar, sin duda, de acuerdo a la lectura que él y su equipo dan a su programa de gobierno, acción que será legítimamente tensionada por partidos y sect..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10334
 ---
 

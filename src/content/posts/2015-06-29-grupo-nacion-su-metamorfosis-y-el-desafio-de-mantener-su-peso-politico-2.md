@@ -5,7 +5,8 @@ author: "fabiola-pomareda"
 slug: "grupo-nacion-su-metamorfosis-y-el-desafio-de-mantener-su-peso-politico-2"
 excerpt: "Muchas personas lloraron el cierre de ADN Radio. La emisora abandonó las ondas radiales el pasado 30 de abril al tiempo que mediante un comunicado corporativo, el presidente del Grupo Nación, Manuel J..."
 categories: ["Realidad Nacional", "Sociedad", "Acceso a la información", "Medios de Comunicación", "Neoliberalismo", "Economía", "Capitalismo"]
-tags: ["Lo Recomendado", "Columna: En Voz Alta."]
+tags: ["Lo Recomendado"]
+columna: "En Voz Alta."
 wp_id: 12121
 ---
 

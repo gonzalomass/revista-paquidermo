@@ -5,7 +5,8 @@ author: "fray-francisco-sequeira-morales-op"
 slug: "nueva-ley-antimaras-en-el-salvador"
 excerpt: "Creo que debemos ir con calma en todo juicio y apreciación sobre el tema. Con los ánimos caldeados es difícil comunicarnos sin violencia, y es este el primer ..."
 categories: ["América Latina", "Democracia", "Derechos Humanos", "Minorías", "Política"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2296
 ---
 

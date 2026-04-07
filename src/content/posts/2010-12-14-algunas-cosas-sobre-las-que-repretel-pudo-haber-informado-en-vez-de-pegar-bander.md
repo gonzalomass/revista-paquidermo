@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "algunas-cosas-sobre-las-que-repretel-pudo-haber-informado-en-vez-de-pegar-bander"
 excerpt: "El conflicto con el gobierno de Daniel Ortega y el dragado dirigido por el antiguo enemigo declarado del primero, Edén Pastora (CC. Comandante 0 (por ciento de votos)), se desvió hacia una insulsa luc..."
 categories: ["Internacional", "Medios de Comunicación", "Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 2669
 ---
 

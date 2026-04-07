@@ -5,7 +5,8 @@ author: "mariangela-pluchino"
 slug: "dios-creo-a-la-mujer-europea-asi-en-rosado"
 excerpt: "A propósito de la inauguración del Festival de Cine Europeo en el Cine Magaly. “Yo hablo como proletaria de la femeinidad.” V. Despentes El problema no fueron los errores de ..."
 categories: ["Cultura", "Cine"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10731
 ---
 

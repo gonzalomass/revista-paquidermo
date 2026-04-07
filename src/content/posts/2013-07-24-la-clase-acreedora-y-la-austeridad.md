@@ -5,7 +5,8 @@ author: "ignacio-ramirez"
 slug: "la-clase-acreedora-y-la-austeridad"
 excerpt: ":: Ignacio Ramírez ::  Es en tiempos de crisis cuando más resaltan quienes en realidad tienen el comando sobre las instituciones y cursos de acción que determinan la actividad económica. Hoy en día en occidente ese actor económico dominante, en detrimento de otros grupos de poder tradicionales, es el sector financiero. Y su receta preferida para afrontar los numerosos problemas económicos de la actualidad ha sido, sin lugar a dudas, la implementación de políticas de austeridad."
 categories: ["Economía", "Geopolítica"]
-tags: ["Lo Recomendado", "Columna: Desbalances"]
+tags: ["Lo Recomendado"]
+columna: "Desbalances"
 wp_id: 8880
 ---
 

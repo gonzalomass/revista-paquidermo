@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-escuela-segun-pierre-bourdieu"
 excerpt: ""
 categories: ["Sociedad"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1329
 ---
 

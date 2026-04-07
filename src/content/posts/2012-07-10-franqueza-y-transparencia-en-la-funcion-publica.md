@@ -5,7 +5,8 @@ author: "julio-solis-moreira"
 slug: "franqueza-y-transparencia-en-la-funcion-publica"
 excerpt: "Desde hace varios años los gobiernos hablan con gran preocupación del papel de la ética pública y la lucha contra la corrupción en la función gubernamental. Se han creado múl..."
 categories: ["Realidad Nacional", "Corrupción"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 6106
 ---
 

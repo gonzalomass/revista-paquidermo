@@ -5,7 +5,8 @@ author: "emanuel-rodriguez"
 slug: "parte-ii-sobre-la-citacion-y-la-apropiacion"
 excerpt: "In the work of Pia Fries , based on Renaissance and Baroque prints, it is possible to glimpsesomething of the workings of art history as a process of sedimentation and layering. At the same time, the ..."
 categories: ["Pintura"]
-tags: ["Lo Recomendado", "Columna: Un Delay"]
+tags: ["Lo Recomendado"]
+columna: "Un Delay"
 wp_id: 11589
 ---
 

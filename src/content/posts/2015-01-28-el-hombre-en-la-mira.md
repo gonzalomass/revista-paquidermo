@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "el-hombre-en-la-mira"
 excerpt: "Las cosas esenciales de la política son imperceptibles detrás del tumulto de la opinión. El juego político se asemeja aveces a un mar tranquilo, donde nada sucede, mientras por debajo las corrientes t..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 11326
 ---
 

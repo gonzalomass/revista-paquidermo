@@ -5,7 +5,8 @@ author: "bernal-herrera"
 slug: "drogas-guerras-y-occidente"
 excerpt: "A principios del siglo XIX, Europa adquiría mercancías de lujo en China, pero no teniendo mucho que le interesara a los chinos, debía pagar en plata sus importaciones. Para reparar este déficit comerc..."
 categories: ["América Latina", "Geopolítica"]
-tags: ["Columna: Decoloniales"]
+tags: []
+columna: "Decoloniales"
 wp_id: 5068
 ---
 

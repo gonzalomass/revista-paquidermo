@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "fin-de-semana-con-la-izquierda-estudiantil"
 excerpt: "\"Lenin los salve\". Helio Gallardo Viernes, seis de la tarde, Plaza de la (sub)cultura. Congele la imagen. Va caminando, sus botas negras la hacen resaltar, su crucifijo invertido la diferencia, pero n..."
 categories: ["América Latina", "Política"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 1531
 ---
 

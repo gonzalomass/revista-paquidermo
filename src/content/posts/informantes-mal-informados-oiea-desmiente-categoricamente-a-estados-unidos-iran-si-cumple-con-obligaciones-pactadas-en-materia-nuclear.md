@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "informantes-mal-informados-oiea-desmiente-categoricamente-a-estados-unidos-iran-si-cumple-con-obligaciones-pactadas-en-materia-nuclear"
 excerpt: "A diferencia de lo afirmado oficialmente por las máximas autoridades de Estados Unidos y unos pocos días antes por las de Israel — véase notahttps://w"
 categories: ["Geopolítica", "Internacional"]
-tags: ["Medio Oriente", "Sección Doxa", "Trump"]
+tags: ["Medio Oriente", "Trump"]
+seccion: "Doxa"
 wp_id: 13909
 ---
 

@@ -5,7 +5,8 @@ author: "luis-vega-campos"
 slug: "mi-voto-no-es-ni-pac-ni-fa-mi-voto-es-progresista-y-es-por-costa-rica"
 excerpt: "Imagen: Aakash Nihalani ...esto no se trata de hablar de Salchichón, tarimas de madera, carros... pero ver que comemos el mismo salchichón, que lo vendemos al mismo precio... Le..."
 categories: ["Política", "Democracia"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9942
 ---
 

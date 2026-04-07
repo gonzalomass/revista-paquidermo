@@ -5,7 +5,8 @@ author: "esteban-mata"
 slug: "las-trece-rosas"
 excerpt: "Con la punta de los dedos se quita el cabello de la cara y abre los ojos. Siente la baranda fría, dura, como el vendaval que azota la media noche de este Madrid que se ve menos hist..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11154
 ---
 

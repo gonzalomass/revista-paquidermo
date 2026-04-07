@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "por-que-temen-a-villalta"
 excerpt: "La actual campaña electoral está quedando marcada por un elemento inédito: el ascenso, por completo inesperado, de un partido y un candidato considerados de “izquierda”. Cierto que la campaña de 2002 ..."
 categories: ["Neoliberalismo", "Política", "Realidad Nacional"]
-tags: ["Invitados Especiales", "Lo Recomendado", "Columna: Soñar con los pies en la tierra"]
+tags: ["Invitados Especiales", "Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 9517
 ---
 

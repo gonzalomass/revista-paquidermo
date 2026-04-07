@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "quid-rides-mutato-nomine-de-te-fabula-narratur"
 excerpt: "El título del artículo es un verso del poeta latino Horacio y se podría traducir: “¿De qué ríes? Si cambias de nombre, el cuento habla de ti”. Esta fue mi sensación al leer Referendo sobre uniones hom..."
 categories: ["Medios de Comunicación", "Realidad Nacional", "Sexualidad"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 1632
 ---
 

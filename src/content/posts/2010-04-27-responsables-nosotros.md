@@ -5,7 +5,8 @@ author: "victor-alvarado-davila"
 slug: "responsables-nosotros"
 excerpt: "La Universidad merecía la apaleada del lunes 12 de Abril. ¿“Muy feo”? ¿Nuestros pequeños oídos no están preparados para tales afirmaciones? ¿Acaso merecemos un mejor trato..."
 categories: ["Medios de Comunicación"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1107
 ---
 

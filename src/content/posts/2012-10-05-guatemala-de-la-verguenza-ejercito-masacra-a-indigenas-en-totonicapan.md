@@ -5,7 +5,8 @@ author: "ollantay-itzamna"
 slug: "guatemala-de-la-verguenza-ejercito-masacra-a-indigenas-en-totonicapan"
 excerpt: "Foto: Ollantay Itzamná :: Ollantay Itzamná* :: Como hace 520 años atrás, se sigue masacrando a las poblaciones indígenas en Guatemala en defensa de intereses foráneos. Los Acuerdos de Paz, firmados ha..."
 categories: ["América Central"]
-tags: ["Sección: Periscopio"]
+tags: []
+seccion: "Periscopio"
 wp_id: 6632
 ---
 

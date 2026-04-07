@@ -5,7 +5,8 @@ author: "alexander-pomares-oreamuno"
 slug: "union-civil-entre-personas-del-mismo-sexo"
 excerpt: "Todas las personas que habiten el mismo país deberían tener los mismos derechos y deberes. Muchas “minorías” han luchado por años por hacer valer sus derechos, es deci..."
 categories: ["Derechos Humanos", "Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1368
 ---
 

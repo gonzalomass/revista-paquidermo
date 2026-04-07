@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "le-ebriedad-del-triunfo"
 excerpt: "Hablar de un gobierno del PAC resulta improcedente. Llamarlo gobierno del FAC (aduciendo una presunta alianza con el Frente Amplio), como hace un ocurrente diputado del PLN, es grotesco pero comprensi..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11316
 ---
 

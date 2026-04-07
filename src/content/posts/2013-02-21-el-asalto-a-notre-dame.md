@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "el-asalto-a-notre-dame"
 excerpt: "Son las once de la mañana del Domingo de Pascua de 1950. Cerca de diez mil parisinos atienden a la misa de domingo en la catedral de Notre-Dame, cuatro de estos diez mil se encuentran nerviosos, están..."
 categories: ["Religión", "Contracultura"]
-tags: ["Lo Recomendado", "Columna: Potlacth"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 7965
 ---
 

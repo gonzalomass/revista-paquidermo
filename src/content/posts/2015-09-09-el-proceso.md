@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "el-proceso"
 excerpt: "Dice mi abuela, que decía Borges, que a Kafka hay que leerlo como si fuera una pesadilla. Alegorías grises del absurdo, son sus textos. Por eso sería un error interpretarlas de manera literal y, en es..."
 categories: ["Entretenimiento", "Cultura", "Literatura", "Ficción", "Literatura"]
-tags: ["Columna: Ahí está el detalle", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 12606
 ---
 

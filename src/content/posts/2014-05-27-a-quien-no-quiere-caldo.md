@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "a-quien-no-quiere-caldo"
 excerpt: "Dice el refrán que a quien no quiere caldo se le dan o dos o tres tazas. A los que señalamos que la decisión de mantener la DIS por parte del nuevo Presidente era polémica, añadiendo que si se buscaba..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10481
 ---
 

@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "el-deber-ser-o-te-extrano-como-extranan-los-adolescentes"
 excerpt: "Se inauguró hace unos días la escultura de un artista argelino que retoma el instante preciso en que Zidane acaba de embestir a Materazzi en la final de Alemania 2006. Un momento glorioso, probablemen..."
 categories: ["Literatura", "Deportes"]
-tags: ["Columna Bífida", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 6641
 ---
 

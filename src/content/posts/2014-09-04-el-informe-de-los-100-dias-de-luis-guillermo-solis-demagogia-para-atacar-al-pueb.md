@@ -5,7 +5,8 @@ author: "hector-monestel-jessica-barquero-roberto-herrera-jhon-vega-y-laura-moru
 slug: "el-informe-de-los-100-dias-de-luis-guillermo-solis-demagogia-para-atacar-al-pueb"
 excerpt: "Las fuerzas populares deben saber leer el significado del informe de los 100 días del gobierno de Luis Guillermo Solís..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10903
 ---
 

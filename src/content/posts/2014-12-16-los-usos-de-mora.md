@@ -5,7 +5,8 @@ author: "victor-hugo-acuna"
 slug: "los-usos-de-mora"
 excerpt: "Agradezco esta invitación del Archivo Nacional a responder a la pregunta: ¿Cuál es la importancia de don Juan Rafael Mora, visto desde 2014? Debo advertir que no voy a responder, al menos en forma uní..."
 categories: ["Historia", "Memoria"]
-tags: ["Columna: Tientos y Resistencias", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Tientos y Resistencias"
 wp_id: 11238
 ---
 

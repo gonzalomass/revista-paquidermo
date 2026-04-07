@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "el-show-debe-continuar"
 excerpt: "Dios es una corta obra de teatro de un solo acto escrita por Woody Allen, que trata acerca una obra de un tal Lorenzo Miller, que a su vez trata sobre un público que ve una obra que escribió Woody All..."
 categories: ["Cultura"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 6681
 ---
 

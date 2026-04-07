@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "comunismo-la-idea-sobre-un-simposio"
 excerpt: "\" No puede confundirse esto con la profecía de un \"nuevo mundo feliz\" en el que desaparecieran mágicamente los conflictos humanos: al contrario, se podría decir que sólo entonces estaríamos en condici..."
 categories: ["Economía", "Política"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 1112
 ---
 

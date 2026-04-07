@@ -5,7 +5,8 @@ author: "seidy-salas-viquez"
 slug: "detras-de-las-50-sombras-lo-que-un-libro-dice-a-las-mujeres"
 excerpt: "Hace un par de años me regalaron la trilogía de las 50 sombras. Uno de los hechos que me motivó a leer esta obra es saber que fue best seller entre las mujeres lectoras de mucho..."
 categories: ["Cultura", "Cine"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11384
 ---
 

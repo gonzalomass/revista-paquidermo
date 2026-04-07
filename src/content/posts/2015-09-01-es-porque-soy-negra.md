@@ -5,7 +5,8 @@ author: "pamela-cunningham-chacon"
 slug: "es-porque-soy-negra"
 excerpt: "Cuando una es afrodescendiente en Costa Rica se acostumbra a ciertas cosas. Se acostumbra a que la gente asuma que uno es de cierto lugar geográfico (Limón), que sepa ci..."
 categories: ["Protesta", "Cultura", "Derechos Humanos", "Historia", "Memoria", "Homenaje", "Política", "Realidad Nacional", "Resistencia", "Sociedad"]
-tags: ["Sección Doxa", "Lo Recomendado", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12558
 ---
 

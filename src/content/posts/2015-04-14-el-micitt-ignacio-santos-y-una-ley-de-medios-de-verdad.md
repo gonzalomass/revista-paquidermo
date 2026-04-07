@@ -5,7 +5,8 @@ author: "simon-aviles"
 slug: "el-micitt-ignacio-santos-y-una-ley-de-medios-de-verdad"
 excerpt: "Imagen: Pelando el Ojo Era previsible. Ante la más mínima oportunidad, muchos medios periodísticos y representantes políticos iban a salir a gritar que el Gobierno de Costa Rica se qu..."
 categories: ["Libertad de expresión", "Medios de Comunicación"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11702
 ---
 

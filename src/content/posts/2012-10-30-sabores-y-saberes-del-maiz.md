@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "sabores-y-saberes-del-maiz"
 excerpt: "Diversos actores sociales, entre ellos la líder india Vandana Shiva, convocaron para este mes de octubre a una jornada mundial por la defensa de las semillas criollas, como forma de visibilizar el pro..."
 categories: ["América Central", "Ambiente", "Salud"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 7138
 ---
 

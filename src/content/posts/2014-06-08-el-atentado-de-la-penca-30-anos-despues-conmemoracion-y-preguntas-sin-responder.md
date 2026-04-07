@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "el-atentado-de-la-penca-30-anos-despues-conmemoracion-y-preguntas-sin-responder"
 excerpt: ":: Nicolas Boeglin (*) :: Foto del principal sospechoso (al centro, con gorra y anteojos) de colocar la bomba, extraída de una nota de la BBC, \" Peter Torbiornsson: My guilt over La Penca bombing\". Fo..."
 categories: ["Realidad Nacional"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10541
 ---
 

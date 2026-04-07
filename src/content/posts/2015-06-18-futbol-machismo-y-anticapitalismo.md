@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "futbol-machismo-y-anticapitalismo"
 excerpt: "Futbol, machismo y anticapitalismo. La selección femenina de fútbol acaba de concluir el mundial, fue emocionante. La mejor presentación de la historia del fútbol femenino, dos empates ante Corea del ..."
 categories: ["Fútbol", "Capitalismo", "Cultura", "Entretenimiento", "Economía", "Neoliberalismo", "Género", "Marxismo", "Política", "Sociedad"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 12079
 ---
 

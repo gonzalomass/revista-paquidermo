@@ -5,7 +5,8 @@ author: "victor-hugo-acuna"
 slug: "futbol-una-pedagogia-civica"
 excerpt: "Evidentemente que la comunidad imaginada llamada Costa Rica vive en estos días un momento de supremo arrebato, gracias a su Selección Nacional de Fútbol. Este frenesí colectivo narcisista, del cual pa..."
 categories: ["Deportes"]
-tags: ["Columna: Tientos y Resistencias", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "Tientos y Resistencias"
 wp_id: 10616
 ---
 

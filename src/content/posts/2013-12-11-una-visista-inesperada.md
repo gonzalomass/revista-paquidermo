@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "una-visista-inesperada"
 excerpt: "http://www.youtube.com/watch?v=AI6Ubmy5OcY Las duras vivencias de las personas migrantes centroamericanas y la urgencia por construir sociedades más hospitalarias han dado lugar a la campaña de sensib..."
 categories: ["América Central"]
-tags: ["Lo Recomendado", "Sección Doxa", "Videos"]
+tags: ["Lo Recomendado", "Videos"]
+seccion: "Doxa"
 wp_id: 9615
 ---
 

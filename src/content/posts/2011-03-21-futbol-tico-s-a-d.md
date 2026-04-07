@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "futbol-tico-s-a-d"
 excerpt: "Entre las grandes ventajas de seguir el campeonato costarricense del fútbol de la Primera División están sus virtudes educativas: gracias a él los aficionados cada día aprendemos más de derecho. No pa..."
 categories: ["Deportes", "Economía", "Realidad Nacional"]
-tags: ["Columna: Habitualidades"]
+tags: []
+columna: "Habitualidades"
 wp_id: 3048
 ---
 

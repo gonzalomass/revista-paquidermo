@@ -5,7 +5,9 @@ author: "sofia-montenegro"
 slug: "los-viudos-de-chavez"
 excerpt: ":: Sofía Montenegro* :: No voy a hablar sobre Chávez, porque efectivamente ya todo está dicho. Las monumentales honras fúnebres del desaparecido líder venezolano son inolvidables, sobre todo por las m..."
 categories: ["Feminismo", "Internacional", "Política"]
-tags: ["Columna: Periscopio", "Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+columna: "Periscopio"
+seccion: "Doxa"
 wp_id: 8100
 ---
 

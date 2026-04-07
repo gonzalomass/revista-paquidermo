@@ -5,7 +5,8 @@ author: "fabiola-pomareda"
 slug: "empresarios-creen-que-pequeno-grupo-quiere-sabotear-logros-del-pais"
 excerpt: "Economistas, empresarios, banqueros y políticos que participaron en el foro “Costa Rica: ¿Hacia dónde vamos?”, organizado por la Revista Summa, hablaron sobre los factores de riesgo que enfrenta la ec..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: En Voz Alta."]
+tags: []
+columna: "En Voz Alta."
 wp_id: 11149
 ---
 

@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "catarsis-orgasmicas-pero-insuficientes"
 excerpt: "Si estas letras fueran solo un ejercicio catártico me bastaría con vomitar una larga lista de insultos hasta que se me acabe el aire o se me baje un poco el asco: chulo, descarado, sinvergüenza, ladró..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 4901
 ---
 

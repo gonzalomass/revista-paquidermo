@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "monteverde-un-2-de-agosto-huyendo-de-la-romeria"
 excerpt: "Para la familia Valverde Phillips y el niño en los ojos. La huída Aprovechando que el feriado del 2 de agosto fue viernes, mi esposa y yo decidimos huir del rebaño peregrino y emprendimos el viaje hac..."
 categories: ["Crónica", "Turismo", "Amistad", "Realidad Nacional"]
-tags: ["Columna: Ahí está el detalle", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 9218
 ---
 

@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "4-de-abril-en-la-plaza-syntagma"
 excerpt: "Primer Acto: Atenas, Grecia La plaza Syntagma, en Atenas, amaneció como siempre. No conozco esa plaza, solamente la he visto en fotos y en la tele, pero supongo que abundarán en ella, como en casi tod..."
 categories: ["Democracia", "Economía", "Internacional"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 5793
 ---
 

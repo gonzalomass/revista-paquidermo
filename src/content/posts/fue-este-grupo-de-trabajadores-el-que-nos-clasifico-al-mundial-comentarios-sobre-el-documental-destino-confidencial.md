@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "fue-este-grupo-de-trabajadores-el-que-nos-clasifico-al-mundial-comentarios-sobre-el-documental-destino-confidencial"
 excerpt: "“Voy a declarártelo sin omitir cosa alguna. No se alegrará tu ánimo de saberlo, como yo no me alegro tampoco, pues Tiresias me ordenó que recorriera m"
 categories: ["Fútbol", "Memoria"]
-tags: ["Columna: ¡Qué Panfle!", "Italia 90"]
+tags: ["Italia 90"]
+columna: "¡Qué Panfle!"
 wp_id: 14017
 ---
 

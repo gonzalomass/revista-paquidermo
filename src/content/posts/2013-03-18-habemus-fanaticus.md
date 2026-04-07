@@ -5,7 +5,8 @@ author: "gustavo-vargas-salazar"
 slug: "habemus-fanaticus"
 excerpt: "Fuente: Salvado sin trigo Durante la semana he visto una de las manifestaciones más increíbles del pensamiento colectivo y el fanatismo. No, no fueron los partidos de la C..."
 categories: ["Religión", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8083
 ---
 

@@ -5,7 +5,8 @@ author: "esteban-fernandez"
 slug: "las-confesiones-de-un-profesor-de-filosofia-y-la-reforma-curricular-de-la-escuel"
 excerpt: "Camilo Retana publicó un artículo en el que señalaba, centralmente, que vivimos en una cultura donde todo el mundo intenta convencer a alguien de algo. Señala también que él cr..."
 categories: ["Educación", "Religión", "Sociedad"]
-tags: ["Sección Debates"]
+tags: []
+seccion: "Debates"
 wp_id: 3366
 ---
 

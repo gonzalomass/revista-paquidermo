@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "mi-mas-profundo-repudio-permitanme-desahogarme"
 excerpt: "Esto es como siempre, una cuestión moral, y la moral mantiene los valores patriarcales del sistema capitalista que los acoge. Es una mirada clasista y racista llevada a su más vergonzoso extremo."
 categories: ["América Central"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 5804
 ---
 

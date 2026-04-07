@@ -5,7 +5,8 @@ author: "pablo-bonilla-elizondo"
 slug: "tedx-latindex-y-liz-norton"
 excerpt: ":: Pablo Bonilla Elizondo (*) :: Recientemente leí dos artículos que considero pueden ser interesantes de confrontar, no porque sean dos posiciones contrarias de un mismo tema, ni porque sean dos vari..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11092
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "sobre-un-hombre-y-un-cartel"
 excerpt: "Con el respeto y cariño que les tengo a quienes hacemos parte del equipo de la Revista Paquidermo, he de decirles que este post en la página de facebook de Revista Paquidermo, le..."
 categories: ["Uncategorized"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 9676
 ---
 

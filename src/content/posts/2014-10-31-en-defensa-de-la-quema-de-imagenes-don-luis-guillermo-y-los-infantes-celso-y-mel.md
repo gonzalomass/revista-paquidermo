@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "en-defensa-de-la-quema-de-imagenes-don-luis-guillermo-y-los-infantes-celso-y-mel"
 excerpt: "“Crimen de lesa majestad es el que se acomete contra el pueblo romano o contra su seguridad”. Ulpiano “Sin un compromiso claro, contundente y constatable con la seguridad jurídica, Costa Rica carecerá..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 11110
 ---
 

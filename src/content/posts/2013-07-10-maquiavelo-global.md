@@ -5,7 +5,8 @@ author: "bernal-herrera"
 slug: "maquiavelo-global"
 excerpt: "Hace quinientos años, en 1513, Maquiavelo escribió El príncipe, su obra más conocida. Tomando en cuenta su difusión e impacto, la atención que el aniversario ha recibido es notoriamente escasa. Ello n..."
 categories: ["Internacional", "Política"]
-tags: ["Lo Recomendado", "Columna: Decoloniales"]
+tags: ["Lo Recomendado"]
+columna: "Decoloniales"
 wp_id: 8757
 ---
 

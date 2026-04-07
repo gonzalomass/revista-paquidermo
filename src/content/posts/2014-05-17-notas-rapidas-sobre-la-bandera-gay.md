@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "notas-rapidas-sobre-la-bandera-gay"
 excerpt: "· Los sucesos: el izamiento de la bandera de la diversidad sexual en el jardín de la Casa Presidencial causa indignación entre quienes ven en este signo del gobierno entrante una injusta actitud parci..."
 categories: ["Derechos Humanos"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 10436
 ---
 

@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "bendiciones-costa-rica-una-nueva-propuesta-de-marca-pais"
 excerpt: "En definitiva, nada debería entorpecer la tarea patriótica de promover a Costa Rica en el exterior, mediante una marca que concentre lo mejor y más representativo de nuestra identidad. Bendiciones Cos..."
 categories: ["Cultura", "Realidad Nacional"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 10466
 ---
 

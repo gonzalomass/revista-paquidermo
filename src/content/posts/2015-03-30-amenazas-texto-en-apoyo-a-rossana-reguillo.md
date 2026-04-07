@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "amenazas-texto-en-apoyo-a-rossana-reguillo"
 excerpt: "La primera vez que leí una carta de amenaza yo vivía en Guatemala. Una organización amiga, con la que mi posgrado compartía libros y profesores, recibió un correo electrónico donde se les espetaba imp..."
 categories: ["América Latina", "Derechos Humanos"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 11616
 ---
 

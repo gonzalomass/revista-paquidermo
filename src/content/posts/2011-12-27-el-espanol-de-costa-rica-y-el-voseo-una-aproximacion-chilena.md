@@ -5,7 +5,8 @@ author: "gonzalo-roig"
 slug: "el-espanol-de-costa-rica-y-el-voseo-una-aproximacion-chilena"
 excerpt: ":: Gonzalo Roig* :: Este artículo no es otra cosa que una sudamericana secuela del artículo “El español de Costa Rica: entre el tuteo y el guatafóc” de Laura Flores, publicado hace unos días atrás. Co..."
 categories: ["Cultura", "América Latina", "Historia"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5221
 ---
 

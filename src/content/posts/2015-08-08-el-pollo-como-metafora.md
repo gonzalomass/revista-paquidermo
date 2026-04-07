@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "el-pollo-como-metafora"
 excerpt: "Hace un tiempo hicimos un asado en la casa. Más bien, en el patio del taller de Germinal. No recuerdo cómo se dio, pero le dije a Gaby que hiciéramos asado y birras ese viernes. Una amiga de ella cump..."
 categories: ["Cotidianidad", "Gastronomía", "Imagen", "Literatura", "Ficción", "Literatura"]
-tags: ["Columna: Mejor que ficción", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 12436
 ---
 

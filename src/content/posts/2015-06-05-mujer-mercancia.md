@@ -5,7 +5,8 @@ author: "victoria-darling"
 slug: "mujer-mercancia"
 excerpt: "La incomodidad del piropo callejero, la necesidad de correrse de lugar en el ómnibus, el cuidado de las partes íntimas en el metro, la televisión. Las publicidades de productos ..."
 categories: ["América Latina", "Crónica", "Cotidianidad", "Derechos Humanos", "Feminismo", "Género", "Internacional", "Sexualidad", "Sociedad", "Violencia contra las mujeres"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11975
 ---
 

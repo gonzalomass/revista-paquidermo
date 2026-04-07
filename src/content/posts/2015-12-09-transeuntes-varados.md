@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "transeuntes-varados"
 excerpt: "El Gobierno de Costa Rica, primero por medio de su Ministro de Relaciones, al que se sumó el Presidente Luis Guillermo Solís, acusaprincipalmente al Gobierno de Nicaragua por la presa de miles de emig..."
 categories: ["Internacional", "Derechos Humanos", "Migraciones", "Política", "Geopolítica"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12951
 ---
 

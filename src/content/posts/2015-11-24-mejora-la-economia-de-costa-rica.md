@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "mejora-la-economia-de-costa-rica"
 excerpt: "El gobierno de don Luis Guillermo Solís nos da un mensaje de optimismo: la economía de Costa Rica da signos de considerable y sostenida mejoría. Mencionan básicamente dos tipos de indicadores: los del..."
 categories: ["Economía", "Neoliberalismo", "Política"]
-tags: ["Columna: Soñar con los pies en la tierra", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12911
 ---
 

@@ -5,7 +5,8 @@ author: "hector-hernandez"
 slug: "bajo-la-lluvia-dios-no-existe"
 excerpt: "\"Time to take her home her dizzy head is conscience laden time to wait too long, time to wait too long to wait too long these conversations kill\" Big Empty, Stone Temple Pilots Queridos elefantes, poc..."
 categories: ["Literatura", "Realidad Nacional"]
-tags: ["Columna: Metáforas Torcidas"]
+tags: []
+columna: "Metáforas Torcidas"
 wp_id: 5494
 ---
 

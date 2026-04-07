@@ -5,7 +5,8 @@ author: "emanuel-rodriguez"
 slug: "un-secreto-deseo-de-traerlos-de-vuelta"
 excerpt: "\"Atravesar el bosque para saber que está vacío, y por siempre\". Linterna China, Leopoldo María Panero (2013) \"Surface and appearance: that is the space of seduction. Seduction as a mastering of the re..."
 categories: ["Cultura"]
-tags: ["Columna: Un Delay", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Un Delay"
 wp_id: 11103
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "porque-escribir-sobre-game-of-thrones"
 excerpt: "No creo ser un gran fanático de Game of Thrones (GoT), pero su cuarta temporada me conquistó. No he leído la saga Canción de Hielo y Fuego, aunque espero poder hacerlo, y mientras empiezo a escribir e..."
 categories: ["Cultura", "Entretenimiento"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10708
 ---
 

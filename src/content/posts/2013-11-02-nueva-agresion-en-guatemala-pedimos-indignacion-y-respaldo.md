@@ -5,7 +5,8 @@ author: "comunidad-de-estudios-mayas"
 slug: "nueva-agresion-en-guatemala-pedimos-indignacion-y-respaldo"
 excerpt: "Los hechos: El sábado 26 de octubre fue una tarde terrible para la familia Tzul Tzul. Desde temprano corrió el rumor en la aldea Paqui, del departamento de Totonicapá..."
 categories: ["América Central", "Derechos Humanos", "Feminismo"]
-tags: ["Sección: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 9427
 ---
 

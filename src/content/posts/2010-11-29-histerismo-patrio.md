@@ -5,7 +5,8 @@ author: "guillermo-chacon-chaves"
 slug: "histerismo-patrio"
 excerpt: "Imagen por Mauro en patineta De este conflicto entre Costa Rica y Nicaragua lo que más me inquieta es el miedo y el odio que se ha despertado en nuestra población. De rep..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2642
 ---
 

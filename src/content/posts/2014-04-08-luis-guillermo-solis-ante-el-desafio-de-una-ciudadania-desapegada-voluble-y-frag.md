@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "luis-guillermo-solis-ante-el-desafio-de-una-ciudadania-desapegada-voluble-y-frag"
 excerpt: "Barbara Franc © Todavía en el mes de diciembre de 2013, y en plena campaña electoral, Luis Guillermo Solís no pasaba de ser un rostro desconocido, al que apenas muy vagamente se lograba identificar co..."
 categories: ["Política", "Electoral"]
-tags: ["Invitados Especiales", "Lo Recomendado", "Columna: Soñar con los pies en la tierra"]
+tags: ["Invitados Especiales", "Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 10282
 ---
 

@@ -5,7 +5,8 @@ author: "carmen-lyra"
 slug: "carmen-lyra-palestina-en-el-juego-imperialista-1947"
 excerpt: "La cuestión de Palestina es una brasa que Bevin y Truman tratan de quitarse de la propia mano para echarla en la palma del otro. Bevin dice que la decisión del Presidente Truman para..."
 categories: ["Política", "Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10752
 ---
 

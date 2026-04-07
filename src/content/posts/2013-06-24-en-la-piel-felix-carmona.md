@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "en-la-piel-felix-carmona"
 excerpt: "Desde INVENTARIA nos llega una nueva producción audiovisual, se trata de una serie-web busca dar a conocer a los artistas que ciertamente nos marcan para siempre. En la Piel https://www.youtube.com/wa..."
 categories: ["Cultura", "Imagen", "Entrevistas", "video"]
-tags: ["Lo Recomendado", "Sección Audiovisual"]
+tags: ["Lo Recomendado"]
+seccion: "Audiovisual"
 wp_id: 8622
 ---
 

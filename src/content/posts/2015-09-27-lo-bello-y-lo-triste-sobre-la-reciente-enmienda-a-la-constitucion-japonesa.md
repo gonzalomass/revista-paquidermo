@@ -5,7 +5,8 @@ author: "esteban-cordoba"
 slug: "lo-bello-y-lo-triste-sobre-la-reciente-enmienda-a-la-constitucion-japonesa"
 excerpt: "“Desde que tengo hijos y nietos mi vida no se acaba conmigo. Mi preocupación se extiende hasta ellos. En un mes cumpliré 72 años y este pensamiento armamentista quizá no m..."
 categories: ["Internacional", "Derechos Humanos", "Historia", "Política", "Geopolítica"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12671
 ---
 

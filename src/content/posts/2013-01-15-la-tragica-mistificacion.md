@@ -5,7 +5,8 @@ author: "guillermo-navarro-alvarado"
 slug: "la-tragica-mistificacion"
 excerpt: "Cuando las noticias corren como espasmos patológicos dentro del sistema organizado de relaciones sociales, aunque estas parezcan ser formas irracionales de gobernación..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 7655
 ---
 

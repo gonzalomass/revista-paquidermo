@@ -5,7 +5,8 @@ author: "larissa-arroyo-navarrete"
 slug: "la-urgencia-de-la-despenalizacion-del-aborto"
 excerpt: ":: Larissa Arroyo Navarrete (*) :: ¿Cuándo vas a ser mamá? Desde niña, me enseñaron que la maternidad \"vendría\". Vendría como me “vino” la regla, como fui aumentando de talla de brassier, como salí de..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11008
 ---
 

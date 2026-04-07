@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "idus-de-octubre"
 excerpt: "Aprovechando los ‘Idus’, en este caso de Octubre, el Semanario Universidad (o su Director, Ernesto Rivera, que no es exactamente lo mismo) abrió un espacio de Ideas y Debates con el que se propone “ab..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Feminismo", "Medios de Comunicación", "Política", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Pensar América Latina"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12814
 ---
 

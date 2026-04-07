@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "la-guerra-de-los-climas"
 excerpt: "No debemos esperar a que conservadores y liberales de los países industrializados se pongan de acuerdo en una discusión que no deviene en alternativas viables para la población mundial y es más bien un pulso entre la economía petrolera hegemónica y el capitalismo verde. La verdadera guerra en torno al clima, se da entre las sociedades que calientan y contaminan el planeta y aquellas que con sus prácticas productivas ecológicas revierten estos procesos."
 categories: ["Ambiente", "Economía", "Geopolítica"]
-tags: ["Columna: La Chayotera"]
+tags: []
+columna: "La Chayotera"
 wp_id: 6229
 ---
 

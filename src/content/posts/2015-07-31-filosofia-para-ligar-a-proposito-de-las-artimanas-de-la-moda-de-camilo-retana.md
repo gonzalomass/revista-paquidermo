@@ -5,7 +5,8 @@ author: "luis-richmond-p"
 slug: "filosofia-para-ligar-a-proposito-de-las-artimanas-de-la-moda-de-camilo-retana"
 excerpt: "Durante la presentación del libro del filósofo Camilo Retana, Las artimañas de la moda: una genealogía del poder vestimentario (de ahora en adelante Las artimañas), escrito a pa..."
 categories: ["Cultura", "Cotidianidad", "Filosofía", "Género", "Literatura"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12395
 ---
 

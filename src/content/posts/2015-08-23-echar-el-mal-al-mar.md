@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "echar-el-mal-al-mar"
 excerpt: "En un extendido artículo, Ricardo Hausmann, autor que ha sido de todo, suponemos que brillantemente, y que ahora labora en Harvard y preside alguna dependencia del Foro Económico Mundial, desea sosten..."
 categories: ["Economía", "Capitalismo", "Neoliberalismo", "Internacional", "Política", "Geopolítica", "Sociedad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12521
 ---
 

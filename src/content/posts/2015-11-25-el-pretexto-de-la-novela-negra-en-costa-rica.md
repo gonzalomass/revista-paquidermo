@@ -5,7 +5,8 @@ author: "german-hernandez"
 slug: "el-pretexto-de-la-novela-negra-en-costa-rica"
 excerpt: "Que en la trama de una novela cualquiera aparezca una nave extraterrestre u ocurra en el futuro, no lo convierte en ficción científica, como tampoco en un relato que tenga un de..."
 categories: ["Cultura", "Literatura", "Ficción", "Literatura"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12917
 ---
 

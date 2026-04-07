@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "objetivo-no-identificado-parte-ii"
 excerpt: "I. OTRAS (RE)CONSIDERACIONES. En los días desde que expusimos la primera parte de este trabajo, hemos recibido buena retroalimentación de parte de algunos amigos y colegas. Es importante ahora comenta..."
 categories: ["Cultura", "Literatura"]
-tags: ["Columna: Vacaciones en Fobos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vacaciones en Fobos"
 wp_id: 8274
 ---
 

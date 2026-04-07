@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "confesiones-de-un-tico-sobre-nicaragua"
 excerpt: "Imagen: Volcán Momotombo por Dalbera El actual conflicto fronterizo con Nicaragua –que ha generado algunas de las peores manifestaciones de intolerancia y xenofobia que alg..."
 categories: ["Minorías", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2621
 ---
 

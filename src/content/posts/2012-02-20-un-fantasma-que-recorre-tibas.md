@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "un-fantasma-que-recorre-tibas"
 excerpt: "A pesar de lo que anteriores “Habitualidades” podrían inducir a pensar, no me referiré en esta ocasión a las tribulaciones que aquejan al equipo de fútbol con más afición en San Juan de Tibás, sino a ..."
 categories: ["Marxismo", "Economía", "Medios de Comunicación"]
-tags: ["Columna: Habitualidades"]
+tags: []
+columna: "Habitualidades"
 wp_id: 5604
 ---
 

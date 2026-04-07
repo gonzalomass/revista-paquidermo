@@ -5,7 +5,8 @@ author: "sergio-boza-villareal"
 slug: "i-las-sombras-y-el-temor-a-la-oscuridad"
 excerpt: "Es nuestro deber luchar por la libertad. Es nuestro deber para ganar. Debemos amar y proteger a las demás. No tenemos nada qué perder sino nuestras cadenas. Assata Shakur B..."
 categories: ["Sexualidad", "Derechos Humanos", "Cultura", "América Central", "Minorías"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 8022
 ---
 

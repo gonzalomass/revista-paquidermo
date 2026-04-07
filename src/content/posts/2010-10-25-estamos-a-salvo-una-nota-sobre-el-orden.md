@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "estamos-a-salvo-una-nota-sobre-el-orden"
 excerpt: "Cualquiera que encienda su televisor a las seis de la mañana podrá observar el espectáculo: policías por todas partes, destrozando puertas, pegando gritos, asestando garrotazos a diestra y siniestra. ..."
 categories: ["Derechos Humanos", "Medios de Comunicación", "Política", "Realidad Nacional"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 2486
 ---
 

@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros"
 slug: "la-fisica-de-los-tiros-libres"
 excerpt: "Un buen tiro libre es absolutamente emocionante y queda en la memoria de todos, por más o menos futboleros que seamos. Si lo dudan empiecen por ver este (http://www.youtube.com/watch?v=t0GESlaVNdE ), ..."
 categories: ["Ciencia", "Deportes"]
-tags: ["Lo Recomendado", "Columna: Ojo de Camaleón"]
+tags: ["Lo Recomendado"]
+columna: "Ojo de Camaleón"
 wp_id: 9493
 ---
 

@@ -5,7 +5,8 @@ author: "ricardo-barrientos"
 slug: "antejuicio-la-trinchera-del-kaibil-corrupto"
 excerpt: ":: Ricardo Barrientos (*):: Confiscación de bienes mal habidos, captura, humillación pública, juicio y la ruina total es lo que está viviendo ya Roxana Baldetti luego de su renuncia al cargo de vicepr..."
 categories: ["Uncategorized"]
-tags: ["Lo Recomendado", "Sección: Periscopio", "Contribuciones Internacionales"]
+tags: ["Lo Recomendado", "Contribuciones Internacionales"]
+seccion: "Periscopio"
 wp_id: 12539
 ---
 

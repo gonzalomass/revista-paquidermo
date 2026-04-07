@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "el-miedo-y-las-cifras"
 excerpt: "La última encuesta de UNIMER para La Nación S.A. platea que ha habido un rebajo importante de la cantidad de personas que perciben la inseguridad como principal problema del país. Si se interpreta a l..."
 categories: ["Derechos Humanos"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 8163
 ---
 

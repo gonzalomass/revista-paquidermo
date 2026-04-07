@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "anatomia-de-un-filme-anti-sistema"
 excerpt: "Dos de mis películas favoritas del año 2015 The Big Short (La Gran Apuesta) y Spotlight (En Primera Plana) tienen una característica en común: son filmes “anti-sistema”. Pero, ¿qué es un filme “anti-s..."
 categories: ["Cultura", "Cine", "Resistencia"]
-tags: ["Columna: Cementerio de Elefantes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 13050
 ---
 

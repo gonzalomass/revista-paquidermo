@@ -5,7 +5,8 @@ author: "cesar-barrantes"
 slug: "repensar-la-fe"
 excerpt: "Imagen por R. Edelmann Mientras Harriet, -su esposa, inspiración y cómplice intelectual- agonizaba por la tuberculosis, John Stuart Mill desahogaba todo su dolor en el papel y la..."
 categories: ["Derechos Humanos", "Religión", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2145
 ---
 

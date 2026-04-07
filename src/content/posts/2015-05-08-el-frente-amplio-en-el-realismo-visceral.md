@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "el-frente-amplio-en-el-realismo-visceral"
 excerpt: "He sido cordialmente invitado a formar parte del realismo visceral. Por supuesto, he aceptado. No hubo ceremonia de iniciación. Mejor así. Juan García Madero – Los Detectives Salvajes de Roberto Bolañ..."
 categories: ["Política"]
-tags: ["Dossier", "Lo Recomendado", "Columna: Del Higuerón por la Izquierda"]
+tags: ["Dossier", "Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 11831
 ---
 

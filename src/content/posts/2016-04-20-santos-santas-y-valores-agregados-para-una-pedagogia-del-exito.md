@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "santos-santas-y-valores-agregados-para-una-pedagogia-del-exito"
 excerpt: "School House, Sun Valley, Santa Ana High School, Father’s Home Elementary School, Saint Vincent School, Santa Mónica School Limitada, Stepping Stones, Saint Patrick School, Mont Berkeley, Saint Gregor..."
 categories: ["Cultura", "Educación", "Economía", "Sociedad"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 13153
 ---
 

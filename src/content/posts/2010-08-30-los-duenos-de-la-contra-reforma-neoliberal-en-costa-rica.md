@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "los-duenos-de-la-contra-reforma-neoliberal-en-costa-rica"
 excerpt: "“Me he sentido a gusto con mis ideas. He peleado con la honda de David por mis ideas y han prevalecido, han triunfado y esa es la Costa Rica que le dejo a doña Laura. Le dejo la mesa servida; los gran..."
 categories: ["Economía", "Educación", "Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 2185
 ---
 

@@ -5,7 +5,8 @@ author: "fernanda-gutierrez"
 slug: "la-microhistoria-y-el-acoso-callejero"
 excerpt: "A mediados de la década de 1970 surgió una corriente historiográfica llamada microhistoria, cuyo mayor hito posiblemente ha sido el trabajo de Carlo Ginzburg con el libro El q..."
 categories: ["Cultura", "Derechos Humanos", "Feminismo", "Género", "Política", "Movimiento Social", "Protesta", "Sexualidad", "Sociedad"]
-tags: ["Sección Doxa", "Lo Recomendado", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12735
 ---
 

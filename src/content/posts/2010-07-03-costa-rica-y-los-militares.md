@@ -5,7 +5,8 @@ author: "carlos-fallas"
 slug: "costa-rica-y-los-militares"
 excerpt: "Imagen por Matheus Desde chiquillo en la escuela me enseñaron el himno, los colores de la bandera, quién fue Juan Santamaría, y que Costa Rica era una país de paz y democracia. Con ..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1676
 ---
 

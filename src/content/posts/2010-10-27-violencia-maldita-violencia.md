@@ -5,7 +5,8 @@ author: "alonso-fonseca"
 slug: "violencia-maldita-violencia"
 excerpt: ""
 categories: ["Cultura", "Sociedad"]
-tags: ["Columna: Procedimientos del mamífero"]
+tags: []
+columna: "Procedimientos del mamífero"
 wp_id: 2490
 ---
 

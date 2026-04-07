@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "mitologia-y-publicidad-de-colombia-a-cool-ombia"
 excerpt: "Aparece en primer plano un turista medianamente joven y sonriente. Es calvo y simpático, y cuenta que ha llegado a Colombia de visita, pero que, preso por sus encantos, ha decidido quedarse. Colombia ..."
 categories: ["América Latina", "Derechos Humanos", "Política", "Sociedad"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 2739
 ---
 

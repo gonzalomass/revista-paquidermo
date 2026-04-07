@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-maquina-de-hacer-idiotas"
 excerpt: "Menguar el ya de por sí pobre presupuesto para el sector cultura costarricense no debe permitirse; como ciudadanía debemos combatir el empobrecimiento de la memoria, archivo y legado cultural de Costa Rica y el desbanco del sector de artistas independientes. Es un tema de atención inmediata y radical."
 categories: ["Cultura", "Política", "Realidad Nacional"]
-tags: ["Columna: Escapularia"]
+tags: []
+columna: "Escapularia"
 wp_id: 4896
 ---
 

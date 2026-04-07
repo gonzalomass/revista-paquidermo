@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "bill-maher-religulous"
 excerpt: "Ver las demás partes..."
 categories: ["video"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1379
 ---
 

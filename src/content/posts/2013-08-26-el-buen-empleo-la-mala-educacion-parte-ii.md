@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "el-buen-empleo-la-mala-educacion-parte-ii"
 excerpt: "Prólogo Martes cuatro de la tarde. Carlos cursaba el tercer año de Dirección de Negocios cuando sentado en el quinto pupitre de la cuarta fila de la puerta hacia la ventana decidió levantar la mano, c..."
 categories: ["Educación", "Desempleo", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 9121
 ---
 

@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "de-feria-las-ferias"
 excerpt: "A inicios del 2006, una ruptura sentimental me llevó a cambiar drásticamente de aires. El cambio implicó una mudanza hacia el este de San José, y ahí desarrollé el hábito que más alegría me ha produci..."
 categories: ["Gastronomía", "Economía", "Entrevistas", "Movimiento Social", "Protesta"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Segunda Lectura"
 wp_id: 9074
 ---
 

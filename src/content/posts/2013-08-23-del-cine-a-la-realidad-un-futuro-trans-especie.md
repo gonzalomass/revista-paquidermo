@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "del-cine-a-la-realidad-un-futuro-trans-especie"
 excerpt: "“Que la oposición al «humanismo» no implica en absoluto la defensa de lo inhumano, sino que abre otras perspectivas, debería resultar un poco más evidente.” – Martin Heidegger La humanidad no es algo ..."
 categories: ["Cultura", "Cine", "Filosofía", "Sociedad"]
-tags: ["Columna: Cementerio de Elefantes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 9109
 ---
 

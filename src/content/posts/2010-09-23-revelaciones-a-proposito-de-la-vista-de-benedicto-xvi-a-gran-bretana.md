@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "revelaciones-a-proposito-de-la-vista-de-benedicto-xvi-a-gran-bretana"
 excerpt: "En (con) su reciente visita oficial al Reino Unido, el Papa Benedicto XVI tocó cuerdas muy sensibles y de gran resonancia simbólica e histórica en tierra de anglicanos. Esto no es de sorprender; baste..."
 categories: ["Internacional", "Política", "Religión"]
-tags: ["Columna: Con-sentimiento In-formado"]
+tags: []
+columna: "Con-sentimiento In-formado"
 wp_id: 2358
 ---
 

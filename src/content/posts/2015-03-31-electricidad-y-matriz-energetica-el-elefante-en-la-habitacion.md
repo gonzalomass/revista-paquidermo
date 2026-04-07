@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "electricidad-y-matriz-energetica-el-elefante-en-la-habitacion"
 excerpt: "En días pasados se ha generado una confusión en la prensa nacional e internacional por la noticia de que, en lo que va del año, el país se ha mantenido con un consumo eléctrico 100% proveniente de fue..."
 categories: ["Ambiente", "América Central"]
-tags: ["Lo Recomendado", "Columna: La Chayotera"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 11620
 ---
 

@@ -5,7 +5,8 @@ author: "rocio-zamora"
 slug: "generar-espacios-producir-cultura"
 excerpt: "La Galería 1887 surge en el año 2000 como un proyecto de la Dirección de Cultura bajo varios objetivos principales: visibilizar y elaborar catálogos de artistas que trabajan fuera de la capital, impul..."
 categories: ["Cultura"]
-tags: ["Columna: Distancia y Contacto"]
+tags: []
+columna: "Distancia y Contacto"
 wp_id: 6251
 ---
 

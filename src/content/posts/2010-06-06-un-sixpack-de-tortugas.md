@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "un-sixpack-de-tortugas"
 excerpt: "“El sol brilló, sin alternativa, sobre lo nada nuevo”. Así empieza la novela Murphy (1938), de Samuel Beckett. Entonces escribía en inglés, lengua que luego abandonó por el francés. Beckett se pasó de..."
 categories: ["Realidad Nacional"]
-tags: ["Columna Bífida"]
+tags: []
+columna: "Bífida"
 wp_id: 1384
 ---
 

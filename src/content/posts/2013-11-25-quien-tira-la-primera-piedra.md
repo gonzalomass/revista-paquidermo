@@ -5,7 +5,8 @@ author: "gustavo-fuchs"
 slug: "quien-tira-la-primera-piedra"
 excerpt: "Graduación de cadetes Boinas Azules. Antigua sede del Movimiento Costa Rica Libre (MCRL), Bº Amón, San José, CR. En recientes semanas, Johnny Araya y sus seguidores del PLN han ..."
 categories: ["América Latina", "América Central", "Historia", "Memoria"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9509
 ---
 

@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "pequena-cronica-que-incluye-a-silvio-rodriguez"
 excerpt: "Era algo así como el año 2000 y me encontraba en un congreso de estudiantes en La Habana. La ciudad estaba empapelada con carteles que pedían la liberación de Elían Gonzáles, un niño de seis años que ..."
 categories: ["Uncategorized", "Cultura"]
-tags: ["Lo Recomendado", "Columna: Ausencias Presentes"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 8204
 ---
 

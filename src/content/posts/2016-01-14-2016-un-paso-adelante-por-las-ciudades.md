@@ -5,7 +5,8 @@ author: "roy-allan-jimenez-cespedes"
 slug: "2016-un-paso-adelante-por-las-ciudades"
 excerpt: ":: Roy Allan Jiménez Céspedes (*) :: El año 2016 nos trae un acontecimiento que desde el punto de vista de las ciudades puede ser un nuevo comienzo: las elecciones municipales. Después del febrero sab..."
 categories: ["Cultura", "Arquitectura", "Política", "Electoral", "Sociedad", "Sostenibilidad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12993
 ---
 

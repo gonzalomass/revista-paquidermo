@@ -5,7 +5,8 @@ author: "bryan-gonzalez"
 slug: "costa-rica-colonia-bajo-estado-de-sitio"
 excerpt: "Costa Rica no es una nación soberana, es una colonia, sin dignidad alguna. Mientras América Latina responde, protesta y condena las declaraciones de John Kerry, quien afirma que América Latina es el p..."
 categories: ["América Latina", "América Central", "Derechos Humanos", "Política", "Estado de Derecho", "Geopolítica"]
-tags: ["Lo Recomendado", "Columna: Atitodo y Otras Yerbas"]
+tags: ["Lo Recomendado"]
+columna: "Atitodo y Otras Yerbas"
 wp_id: 8293
 ---
 

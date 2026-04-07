@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "el-nacimiento-de-un-dictador"
 excerpt: "Foto cortesía de: Edgar Mora Guerrero El presidente Villalta bajó del avión en busca de una Coca Cola. Sudaba como un cerdo. –¿Por qué hace tanto calor en este pueblucho? —pensó al llegar a algún luga..."
 categories: ["Electoral"]
-tags: ["Lo Recomendado", "Columna: Cementerio de Elefantes"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 9532
 ---
 

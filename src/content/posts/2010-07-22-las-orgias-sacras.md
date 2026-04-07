@@ -5,7 +5,8 @@ author: "cesar-barrantes"
 slug: "las-orgias-sacras"
 excerpt: "Imagen por welshkaren Altivo y fornido, místico, en el brazo izquierdo empuña una AK-47 que apunta al cielo gris de una tarde común en Managua; más abajo, en la diestra, una herra..."
 categories: ["Política", "Religión", "Sexualidad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1816
 ---
 

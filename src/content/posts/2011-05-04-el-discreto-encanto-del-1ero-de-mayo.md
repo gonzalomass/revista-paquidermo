@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "el-discreto-encanto-del-1ero-de-mayo"
 excerpt: "En los 70’s Luis Buñuel, ayudado por su cómplice habitual Jean Claude Carrière, filmó una obra esencial de su filmografía y del cine en general (y del surrealismo en particular): “el Discreto Encanto ..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 3363
 ---
 

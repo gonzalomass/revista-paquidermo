@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "atando-cabos-en-torno-a-la-marcha-por-la-vida-sic"
 excerpt: "(Fotografía de Gianluca Giannone) Pensar, y hacerlo bien (puesto que, seguramente, hacerlo mal no equivale a pensar, sino sólo a chisporrotear), se asemeja a la labor de atar cabos: de ir construyendo..."
 categories: ["Política", "Realidad Nacional", "Religión"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 9486
 ---
 

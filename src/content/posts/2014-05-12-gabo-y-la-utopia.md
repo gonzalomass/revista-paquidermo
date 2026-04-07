@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "gabo-y-la-utopia"
 excerpt: "Pejac © Frente a la opresión, el saqueo y el abandono, nuestra respuesta es la vida. Ni los diluvios ni las pestes, ni las hambrunas ni los cataclismos, ni siquiera las guerras eternas a través de los..."
 categories: ["Literatura", "Cultura"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 10415
 ---
 

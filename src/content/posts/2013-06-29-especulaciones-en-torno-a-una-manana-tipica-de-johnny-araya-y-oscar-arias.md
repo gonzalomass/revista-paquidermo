@@ -5,7 +5,8 @@ author: "fabian-coto-chaves"
 slug: "especulaciones-en-torno-a-una-manana-tipica-de-johnny-araya-y-oscar-arias"
 excerpt: "Imagen del perfil de figura pública en facebook. A Johnny Araya usualmente se le pegan las cobijas. Sin embargo su voluntad palmareña lo impele y lo encumbra de tal modo que va despe..."
 categories: ["Riamos para no llorar", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8662
 ---
 

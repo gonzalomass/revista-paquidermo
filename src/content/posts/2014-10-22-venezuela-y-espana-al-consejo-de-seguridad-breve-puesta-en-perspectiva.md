@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "venezuela-y-espana-al-consejo-de-seguridad-breve-puesta-en-perspectiva"
 excerpt: ":: Nicolas Boeglin (*) :: Foto de documentos y \"regalos\" de España, Nueva Zelanda, Turquía y Venezuela distribuidos a los delegados durante la votación realizada en la Asamblea General de Naciones Uni..."
 categories: ["Internacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11072
 ---
 

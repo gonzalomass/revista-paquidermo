@@ -5,7 +5,8 @@ author: "jorge-corrales"
 slug: "comentario-a-proposito-de-un-articulo-de-esteban-mora"
 excerpt: "Gracias a un amigo, me llegó una copia de un artículo de Esteban Mora publicado en la Revista Paquidermo del 14 de febrero del 2015, el cual lleva por título “Smith y Spencer en Cos..."
 categories: ["Economía", "Filosofía"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11525
 ---
 

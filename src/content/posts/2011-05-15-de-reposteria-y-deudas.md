@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-reposteria-y-deudas"
 excerpt: "Procuraba ser cortés al respecto, explicando que esas cosas no eran para mí, agradeciendo buenas intenciones. Intentos de tolerancia que no siempre tienen cabida ni reciprocidad, ya que a pesar de tomarme el tiempo en decir que no, mi decisión era siempre recibida con desapruebo. Era algo para todos inconcebible; nadie me estaba pidiendo que me auto flagelara con ramitas de apio, solo me pedían que rezara, y yo, malagradecido, me rehusaba a hacerlo. Ahí, el que no reza, algo tiene de subversivo; no está enfermo, o se quiere morir."
 categories: ["Religión", "Salud", "Sociedad"]
-tags: ["Columna: Crónicas del cangrejo"]
+tags: []
+columna: "Crónicas del cangrejo"
 wp_id: 3402
 ---
 

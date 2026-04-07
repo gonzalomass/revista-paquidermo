@@ -5,7 +5,8 @@ author: "david-diaz-arias"
 slug: "tres-prejuicios-sobre-la-ciencia-ficcion-costarricense"
 excerpt: "La revista Filología y Lingüística de la Universidad de Costa Rica dedicó el número 1 de su volumen 40 (enero-junio del 2014) al tema de la ciencia ficción costarricense. Esta f..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11306
 ---
 

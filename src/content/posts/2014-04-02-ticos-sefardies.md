@@ -5,7 +5,8 @@ author: "marco-feoli"
 slug: "ticos-sefardies"
 excerpt: "Thomas Doyle © Un alocado e imparable posteo de una dudosa noticia acerca de la generosa disposición del Gobierno español de conceder la nacionalidad a los descendientes de sefardíes..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10262
 ---
 

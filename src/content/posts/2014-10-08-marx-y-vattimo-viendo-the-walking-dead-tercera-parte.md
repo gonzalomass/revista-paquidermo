@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "marx-y-vattimo-viendo-the-walking-dead-tercera-parte"
 excerpt: "Recuadro Nº 1: Una escena y un verso. “I'm going to get myself in fighting trim Scope out every angle of unfair advantage I'm going to bribe the officials, I'm going to kill all the judges It's going ..."
 categories: ["Cultura"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 11022
 ---
 

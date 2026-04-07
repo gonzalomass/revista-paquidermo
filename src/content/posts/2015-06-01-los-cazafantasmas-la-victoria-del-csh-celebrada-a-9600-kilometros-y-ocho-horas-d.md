@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "los-cazafantasmas-la-victoria-del-csh-celebrada-a-9600-kilometros-y-ocho-horas-d"
 excerpt: "Desde las gradas del Morera Soto, con 16 años, vi a Miguel Jasper Simpson Lacey anotar de cabeza y sellar el triunfo y campeonato contra la Liga Deportiva Alajuelense. Fue un 26 de m..."
 categories: ["Cultura", "Entretenimiento", "Deportes", "Fútbol"]
-tags: ["LuisChaves", "Columna Bífida", "Lo Recomendado"]
+tags: ["LuisChaves", "Lo Recomendado"]
+columna: "Bífida"
 wp_id: 11942
 ---
 

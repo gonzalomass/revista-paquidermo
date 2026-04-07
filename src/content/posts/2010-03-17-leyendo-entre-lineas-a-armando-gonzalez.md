@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "leyendo-entre-lineas-a-armando-gonzalez"
 excerpt: "(O contra “El estilo de Doña Laura”) El Grupo Nación viene insistiendo desde que finalizaron las votaciones en que la elección de Laura Chinchilla y la continuidad de Liberación Nacional en el poder s..."
 categories: ["Democracia"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 710
 ---
 

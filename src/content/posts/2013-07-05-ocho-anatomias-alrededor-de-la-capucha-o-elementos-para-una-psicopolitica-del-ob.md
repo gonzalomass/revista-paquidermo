@@ -5,7 +5,8 @@ author: "santiago-navarro-cerdas"
 slug: "ocho-anatomias-alrededor-de-la-capucha-o-elementos-para-una-psicopolitica-del-ob"
 excerpt: "1. Un fantasma hace temblar. A las manifestaciones políticas durante el último año en San José un fantasma les recorre, uno con una tela en su cara y dos huecos que solo deja ve..."
 categories: ["Movimiento Social", "América Central", "Política", "Protesta"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8717
 ---
 

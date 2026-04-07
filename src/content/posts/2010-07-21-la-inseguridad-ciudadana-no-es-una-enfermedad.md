@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "la-inseguridad-ciudadana-no-es-una-enfermedad"
 excerpt: "La metáfora que utiliza el señor Hernando Gómez Buendía, consultor del PNUD, en la entrevista que publica el Semanario Universidad el pasado 14 de julio es completamente desacertada, porque constituye..."
 categories: ["Derechos Humanos", "Realidad Nacional"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 1809
 ---
 

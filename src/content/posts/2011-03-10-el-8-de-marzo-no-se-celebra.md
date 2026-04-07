@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-8-de-marzo-no-se-celebra"
 excerpt: ""
 categories: ["América Latina", "Derechos Humanos", "Realidad Nacional", "Violencia contra las mujeres", "video"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 2958
 ---
 

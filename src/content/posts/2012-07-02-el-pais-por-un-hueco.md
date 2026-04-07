@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "el-pais-por-un-hueco"
 excerpt: "Comienzo repitiendo lo que ya se dijo toda la semana pasada: Costa Rica se está yendo por un hueco. El #CráterCR no es más que una literalidad de la vida cotidiana en el país. Un gobierno sin rumbo, c..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 6063
 ---
 

@@ -5,7 +5,8 @@ author: "koen-voorend"
 slug: "madiba-nelson-gracias"
 excerpt: "Foto: Allan Mcdonald Apeldoorn, el pueblo más insignificante y aburrido de Holanda, 2003. Sábado, 3.15 a.m. En una borrachera un amigo \"buscapleitos\", buscó pleito, y yo, porque era..."
 categories: ["Derechos Humanos", "Historia", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9590
 ---
 

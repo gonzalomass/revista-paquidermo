@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "capitalism-a-love-story"
 excerpt: "Más información en el website de Michael Moore >>>"
 categories: ["Economía", "Medios de Comunicación"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1609
 ---
 

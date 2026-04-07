@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "juventud-sin-futuro"
 excerpt: "“También les queda no decir amén no dejar que les maten el amor recuperar el habla y la utopía ser jóvenes sin prisa y con memoria situarse en una historia que es la suya” Mario Benedetti “Sin casa, s..."
 categories: ["Democracia", "Internacional", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 3429
 ---
 

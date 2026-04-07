@@ -5,7 +5,8 @@ author: "bernal-herrera"
 slug: "el-dia-que-la-mierda-tenga-algun-valor"
 excerpt: "Foto: Maurice Koop Una de las cosas que, en una primera reacción, causan más sorpresa al ser observada, es que los pobres deben pagar, de forma regular y por muy numerosos productos y servicios, basta..."
 categories: ["Migraciones", "Sociedad"]
-tags: ["Columna: Decoloniales", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Decoloniales"
 wp_id: 7731
 ---
 

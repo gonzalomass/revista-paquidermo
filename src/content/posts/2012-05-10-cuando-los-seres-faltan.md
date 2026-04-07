@@ -5,7 +5,8 @@ author: "rocio-zamora"
 slug: "cuando-los-seres-faltan"
 excerpt: "Cuando los seres faltan, nos dice Blanchot, el ser aparece como la profundidad de la disimulación en la que se vuelve ausencia y, cuando la disimulación aparece, la disimulación convertida en apariencia hace “desaparecer todo”, pero de este “todo ha desaparecido” hace aún una apariencia, hace que, de ahora en adelante, la apariencia tenga su punto de partida en “todo ha desaparecido”"
 categories: ["Imagen"]
-tags: ["Columna: Distancia y Contacto"]
+tags: []
+columna: "Distancia y Contacto"
 wp_id: 5877
 ---
 

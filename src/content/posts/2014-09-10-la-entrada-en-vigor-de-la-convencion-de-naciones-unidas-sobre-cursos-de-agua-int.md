@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "la-entrada-en-vigor-de-la-convencion-de-naciones-unidas-sobre-cursos-de-agua-int"
 excerpt: ":: Nicolás Boeglin (*) :: Introducción. El pasado 17 de agosto del 2014, entró oficialmente en vigor la \"Convención sobre el derecho de los usos de los cursos de agua internacionales para fines distin..."
 categories: ["Internacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10925
 ---
 

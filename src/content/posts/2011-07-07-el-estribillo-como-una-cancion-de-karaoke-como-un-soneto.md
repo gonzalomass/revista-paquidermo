@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "el-estribillo-como-una-cancion-de-karaoke-como-un-soneto"
 excerpt: "Ahora resulta que todo el mundo ha leído a Yolanda Oreamuno, todo el mundo es crítico de Yolanda Oreamuno, todo el reguero de aspirantes a escritores que obligatoriamente creen formarse en filología o letras van a hacer su tesis sobre Yolanda Oreamuno y después de eso, ser escritores. Es más, a como está la vara hasta yo mismo quiero publicar a Yolanda Oreamuno, en estos momentos es una mina de oro."
 categories: ["Cultura"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4200
 ---
 

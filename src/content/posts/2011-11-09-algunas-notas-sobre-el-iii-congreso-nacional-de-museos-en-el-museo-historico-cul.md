@@ -5,7 +5,8 @@ author: "rocio-zamora"
 slug: "algunas-notas-sobre-el-iii-congreso-nacional-de-museos-en-el-museo-historico-cul"
 excerpt: "Este martes 1º de noviembre dio inicio el III Congreso Nacional de Museos, bajo el lema  “Innovación + Museos”. Una de las conferencias más interesantes, en la cual se trataron temas concernientes a un congreso de museos, fue la expuesta por Georgina Di Carli, directora del Instituto Latinoamericano de Museología (ILAM). La directora del ILAM llamó la atención sobre la importancia de incluir a las comunidades como actores sociales imprescindibles para la conservación del patrimonio cultural, ya que el museo, en lugar de ser considerado como el custodio del patrimonio cultural, debería ser su facilitador."
 categories: ["Cultura"]
-tags: ["Columna: Distancia y Contacto"]
+tags: []
+columna: "Distancia y Contacto"
 wp_id: 4933
 ---
 

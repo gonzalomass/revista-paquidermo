@@ -5,7 +5,8 @@ author: "mauricio-alvarez"
 slug: "el-erratico-transitar-entre-vidas-david-maradiaga-20-anos-presente"
 excerpt: ":: Mauricio Álvarez (*) :: \"Es agosto y escribo, sin darme cuenta, al ritmo de tu propia muerte.\" David murió el 14 de Julio de 1995 pero no fue encontrado sino hasta el mes siguiente. Fue una muerte ..."
 categories: ["Sociedad", "Ambiente", "América Latina", "América Central", "Capitalismo", "Corrupción", "Crónica", "Derechos Humanos", "Ecología", "Economía", "Neoliberalismo", "Homenaje", "Política", "Corrupción", "Democracia", "Movimiento Social", "Protesta", "Resistencia"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12441
 ---
 

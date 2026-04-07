@@ -5,7 +5,8 @@ author: "gustavo-coronado-chacon"
 slug: "preguntas-frecuentes-acerca-del-reglamento-para-el-control-nacional-de-fracciona"
 excerpt: ":: Gustavo Coronado Chacón (*):: Recientemente se ha levantado un “polvorín” con relación a la propuesta de reforma al Reglamento para el Control Nacional de Fraccionamiento y Urbanizaciones. Comenzó ..."
 categories: ["Cultura", "Arquitectura", "Política", "Realidad Nacional", "Sociedad", "Sostenibilidad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12056
 ---
 

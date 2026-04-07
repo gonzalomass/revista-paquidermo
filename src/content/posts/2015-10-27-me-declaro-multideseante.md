@@ -5,7 +5,8 @@ author: "alejandra-madrigal-cordoba"
 slug: "me-declaro-multideseante"
 excerpt: "Leyendo, hace algún tiempo, la primera novela de Anacristina Rossi, María la noche1, llegué a la conclusión de que el personaje principal, Mariestela, se construía a s..."
 categories: ["Cultura", "Cotidianidad", "Sexualidad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12799
 ---
 

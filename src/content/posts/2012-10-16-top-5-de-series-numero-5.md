@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "top-5-de-series-numero-5"
 excerpt: "Foto: YvaS Hasta hace algunos años todavía se decía que la tele era mala. Sus potenciales riesgos eran homologables solo a los de la masturbación: si jalársela de más podía provocar que le salieran a ..."
 categories: ["Entretenimiento", "Medios de Comunicación"]
-tags: ["Columna: De Boca a Boca", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "De Boca a Boca"
 wp_id: 7000
 ---
 

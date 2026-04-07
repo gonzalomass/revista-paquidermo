@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "entrevistas-al-espiritu-santo"
 excerpt: "(Phenakistoscope de Joseph Plateau) Intuyendo quizás el fin de los tiempos, La Nación S.A. se dedica a entrevistar al Espíritu Santo. Bueno, a alguno de sus portavoces regionales porque la Autoconcien..."
 categories: ["Drogas", "Religión", "Política", "Corrupción"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 9527
 ---
 

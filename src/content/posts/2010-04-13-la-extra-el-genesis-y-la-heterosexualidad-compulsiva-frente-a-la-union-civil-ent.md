@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-extra-el-genesis-y-la-heterosexualidad-compulsiva-frente-a-la-union-civil-ent"
 excerpt: "Con excepción de algunos marginales artículos y algunas “milagrosas” primeras planas, hay una sola combinación posible para La Teja y La Extra: pene y vagina; combinación que no en balde incita el per..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Torcidxs"]
+tags: []
+columna: "Torcidxs"
 wp_id: 985
 ---
 

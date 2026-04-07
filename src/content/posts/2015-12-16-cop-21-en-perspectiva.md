@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "cop-21-en-perspectiva"
 excerpt: "Reducir emisiones para revertir el cambio climático no implica necesariamente resolver los conflictos ecológico-distributivos Tras dos semana de negociaciones en la Vigésimo Primera Conferencia de las..."
 categories: ["Ambiente", "Capitalismo", "Política", "Geopolítica", "Salud"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 12965
 ---
 

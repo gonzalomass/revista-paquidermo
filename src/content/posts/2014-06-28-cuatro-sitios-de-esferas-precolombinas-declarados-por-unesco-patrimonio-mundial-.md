@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "cuatro-sitios-de-esferas-precolombinas-declarados-por-unesco-patrimonio-mundial-"
 excerpt: ":: Nicolás Boeglin (*) :: En el marco de la XXXVIII sesión del Comité de Patrimonio Mundial realizada en la ciudad catarí de Doha del 15 al 25 de junio, la UNESCO declaró oficialmente este 23 de junio..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10626
 ---
 

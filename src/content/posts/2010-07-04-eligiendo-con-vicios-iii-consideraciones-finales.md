@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "eligiendo-con-vicios-iii-consideraciones-finales"
 excerpt: "En las dos entregas anteriores sobre el tema del subcociente electoral he planteado el carácter discriminatorio y antidemocrático de dicha barrera electoral. Como ya he dicho es discriminatorio en tan..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 1693
 ---
 

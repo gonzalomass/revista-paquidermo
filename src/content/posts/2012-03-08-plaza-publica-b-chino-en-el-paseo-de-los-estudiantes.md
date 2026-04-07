@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "plaza-publica-b-chino-en-el-paseo-de-los-estudiantes"
 excerpt: "Plaza Pública es la nueva sección de Revista Paquidermo con la que queremos propiciar un debate más abierto sobre asuntos de interés nacional o internacional. Diversas voces aportarán su punto de vist..."
 categories: ["Arquitectura", "Historia"]
-tags: ["Sección Plaza Pública"]
+tags: []
+seccion: "Plaza Pública"
 wp_id: 5675
 ---
 

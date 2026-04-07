@@ -5,7 +5,8 @@ author: "bryan-gonzalez"
 slug: "nos-morituri"
 excerpt: "Fotografía: La Guerra Fría Tampoco los muertos estarán seguros ante el enemigo cuando éste venza. Y este enemigo no ha cesado de vencer. Walter Benjamin. El pasado no pasa. Porque la guerra continúa. ..."
 categories: ["América Latina", "Derechos Humanos", "Filosofía"]
-tags: ["Lo Recomendado", "Columna: Atitodo y Otras Yerbas"]
+tags: ["Lo Recomendado"]
+columna: "Atitodo y Otras Yerbas"
 wp_id: 9263
 ---
 

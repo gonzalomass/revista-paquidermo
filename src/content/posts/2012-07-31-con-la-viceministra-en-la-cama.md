@@ -5,7 +5,8 @@ author: "marcos-chinchilla-montes"
 slug: "con-la-viceministra-en-la-cama"
 excerpt: "Cuál fue el error de Karina? Simple y sencillamente ser mujer. Recordarán que Bill Clinton siguió en la presidencia de los Estados Unidos de América y en otros cargos internacionales luego de ser presidente, mientras que la carrera de Mónica Lewinsky fue torpedeada por la prensa y los sectores más conservadores de ese país."
 categories: ["Derechos Humanos", "Realidad Nacional", "Sexualidad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 6168
 ---
 

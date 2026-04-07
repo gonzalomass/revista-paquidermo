@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "berlin-verano"
 excerpt: "Siempre pasa: buscando una cosa encontré otra. Corrí la mesa y las sillas contra la pared y armé la tienda de campaña en el comedor. Un poco de aseo antes de devolvérserla a la amiga que nos la prestó..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Entretenimiento", "Gastronomía"]
-tags: ["Columna Bífida", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 12665
 ---
 

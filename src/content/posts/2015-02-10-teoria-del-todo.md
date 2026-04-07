@@ -5,7 +5,8 @@ author: "alonso-ramirez-cover"
 slug: "teoria-del-todo"
 excerpt: "Si Mente Brillante (2001) y Mi Pie Izquierdo (1989) decidieran hacer una película biográfica bastante convencional, creo que el producto se llamaría La Teoría del Todo (2014)...."
 categories: ["Cultura", "Cine"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 11367
 ---
 

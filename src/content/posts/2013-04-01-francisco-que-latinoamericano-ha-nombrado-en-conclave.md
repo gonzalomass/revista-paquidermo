@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "francisco-que-latinoamericano-ha-nombrado-en-conclave"
 excerpt: "Foto: Gobierno de la Ciudad de Buenos Aires :: Javier Torres Vindas :: El nombramiento de Jorge Mario Bergoglio como el Papa 266, autodenominado Francisco I, es el primero a un Papa no europeo desde G..."
 categories: ["Política", "América Latina", "Religión"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8139
 ---
 

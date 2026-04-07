@@ -5,7 +5,8 @@ author: "miguel-regueyra-edelman"
 slug: "dicen-que-beto-moreno-ha-muerto"
 excerpt: "El Beto Moreno que yo conocí, intenso, apasionado, díscolo, creativo, no puede haber muerto. El cuerpo que yacía en la funeraria, el que fue cremado, no era Beto Moreno. ..."
 categories: ["Cultura", "Homenaje"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12998
 ---
 

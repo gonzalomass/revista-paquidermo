@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "sexualidad-humana-y-revolucion-feminista"
 excerpt: "El término “revolución” se usa poco hoy por hoy. Si es poco utilizado, conviene aclarar algunos de sus caracteres. Social, política y culturalmente se habla de ‘revolución’ cuando uno o varios actores..."
 categories: ["Feminismo", "Sexualidad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11001
 ---
 

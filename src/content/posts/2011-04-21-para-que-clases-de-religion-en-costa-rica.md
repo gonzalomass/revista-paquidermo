@@ -5,7 +5,8 @@ author: "andrey-pineda-sancho"
 slug: "para-que-clases-de-religion-en-costa-rica"
 excerpt: "Imagen por Daquella manera La noticia publicada por el diario La Nación (22/02/2011) titulada “Un 43% de colegiales desistieron de llevar Religión” vuelve a poner sobre el t..."
 categories: ["Educación", "Religión", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 3315
 ---
 

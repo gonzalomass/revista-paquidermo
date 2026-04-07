@@ -5,7 +5,8 @@ author: "esteban-mora"
 slug: "smith-y-spencer-en-costa-rica"
 excerpt: "Imagen: Yue Minjun Quienes se jactan de “dirigir” el país simplemente no pueden sacar la cabeza del liberalismo económico, y tal vez algo más. Recordemos que hay una diferencia entre ..."
 categories: ["América Central", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11379
 ---
 

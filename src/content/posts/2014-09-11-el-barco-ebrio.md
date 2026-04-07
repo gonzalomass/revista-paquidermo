@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "el-barco-ebrio"
 excerpt: "Algunos meses después del 5 de mayo de 2012 mucha gente en América Latina miraba con júbilo la elección de François Hollande. \"El cambio es ahora\" era el lema de su campaña. Algunos correos circulaban..."
 categories: ["Internacional"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 10928
 ---
 

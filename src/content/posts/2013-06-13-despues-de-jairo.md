@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "despues-de-jairo"
 excerpt: "Ilustración de Lauren Vargas El mundo llora la muerte de Jairo Mora Sandoval e inmersos en un mar de dudas, los verdaderos motivos de su asesinato siguen siendo confusos. La BBC publica un titular que..."
 categories: ["Ambiente", "Ciencia"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 8525
 ---
 

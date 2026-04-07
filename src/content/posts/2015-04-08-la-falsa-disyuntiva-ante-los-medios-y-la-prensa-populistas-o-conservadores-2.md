@@ -5,7 +5,8 @@ author: "gustavo-roman-jacobo"
 slug: "la-falsa-disyuntiva-ante-los-medios-y-la-prensa-populistas-o-conservadores-2"
 excerpt: "Imagen:Priscilla Monge Si usted, de Panamá para abajo, propone reformas al sistema de medios, le dirán reaccionario. Si las propone de Panamá para arriba, le dirán Chavista. U..."
 categories: ["América Central", "Medios de Comunicación"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11677
 ---
 

@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "el-origen-del-simio-empatico"
 excerpt: "“Somos criaturas sociales por excelencia. Nuestra supervivencia depende de entender las acciones, intenciones y emociones de los otros”. Dr. Giacomo Rizzolatti. Luego de cuatro décadas de estudiar el ..."
 categories: ["Ciencia", "Ecología"]
-tags: ["Lo Recomendado", "Columna: La Chayotera"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 9706
 ---
 

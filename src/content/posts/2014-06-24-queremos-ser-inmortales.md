@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "queremos-ser-inmortales"
 excerpt: "Para mi Tata 1 Celso, sin duda el integrante del grupo con mayor facilidad de palabra, dijo a un periodista la frase que titula este texto. No es cosa menor, lleva a un peldaño más alto lo que dijo Br..."
 categories: ["Deportes"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "Ausencias Presentes"
 wp_id: 10613
 ---
 

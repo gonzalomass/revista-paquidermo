@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "hombres-lobo-intentan-curarse-con-linguistica-en-el-mit"
 excerpt: "Todos hemos estado ahí. Las orejas calientes, la voz ya un poco afectada, lo que te estabas tomando ya está tibio, lo que estabas comiendo ya está frío, y el cretino del otro lado te ve satisfecho, co..."
 categories: ["Medios de Comunicación", "Sociedad"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 1358
 ---
 

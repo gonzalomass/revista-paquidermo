@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "un-domingo"
 excerpt: "Para estar solo un rato, el domingo fui a la Feria del Agricultor. De camino pasé a votar, sin convicción y sin amargura, en las elecciones municipales. Tuve la mala suerte de entrar a la Escuela Napo..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Literatura"]
-tags: ["Columna Bífida", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 13082
 ---
 

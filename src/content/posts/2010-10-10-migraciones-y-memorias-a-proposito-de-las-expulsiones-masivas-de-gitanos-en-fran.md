@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "migraciones-y-memorias-a-proposito-de-las-expulsiones-masivas-de-gitanos-en-fran"
 excerpt: "A mi abuelo materno lo llegué a conocer el día de su funeral. Emigró de Nicaragua a Costa Rica siendo muy joven. Un día de tantos conoció a una muchacha de Naranjo de Alajuela. Le llevaba nada y más m..."
 categories: ["Derechos Humanos", "Internacional", "Política"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 2423
 ---
 

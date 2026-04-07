@@ -5,7 +5,8 @@ author: "hector-solano-chavarria"
 slug: "2015-un-terreno-movedizo"
 excerpt: "Imagen: David Zwirner El levantamiento del veto de la reforma procesal laboral (RPL) por parte del presidente Luis Guillermo Solís (LGS), en diciembre pasado, como se indic..."
 categories: ["Uncategorized"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11371
 ---
 

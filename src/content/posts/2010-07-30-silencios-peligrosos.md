@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "silencios-peligrosos"
 excerpt: "Los temas que se discuten a nivel nacional y la forma de tratarlos, no son accidentales. Claro que esto no significa, como les gusta creer a los fanáticos de las conspiraciones, que detrás de cada tem..."
 categories: ["América Latina", "Política", "Realidad Nacional"]
-tags: ["Columna: Ahí está el detalle"]
+tags: []
+columna: "Ahí está el detalle"
 wp_id: 1913
 ---
 

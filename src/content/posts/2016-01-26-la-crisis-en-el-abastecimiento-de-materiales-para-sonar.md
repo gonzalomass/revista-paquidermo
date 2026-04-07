@@ -5,7 +5,8 @@ author: "carlos-andres-umana-gonzalez"
 slug: "la-crisis-en-el-abastecimiento-de-materiales-para-sonar"
 excerpt: "Los estudiantes franceses que se tomaron las calles en mayo de 1968, demandaron al presente la elasticidad de sus márgenes y con la bandera de la libertad al frente,..."
 categories: ["Filosofía", "Política", "Memoria", "Cultura"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13016
 ---
 

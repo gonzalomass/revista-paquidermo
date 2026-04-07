@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-sinrazon-de-la-fuerza"
 excerpt: "La rapiña de esta semana iba a estar dedicada al pito del árbitro y su interpretación inquisidora. Sin embargo, situaciones más terrestres nos apelan. En efecto, sería convertirme en cómplice guardar ..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 986
 ---
 

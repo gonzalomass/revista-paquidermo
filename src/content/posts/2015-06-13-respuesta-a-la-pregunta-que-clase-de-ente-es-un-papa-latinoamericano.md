@@ -5,7 +5,8 @@ author: "roberto-fragomeno"
 slug: "respuesta-a-la-pregunta-que-clase-de-ente-es-un-papa-latinoamericano"
 excerpt: "(Pregunta formulada por Helio Gallardo) Sigamos parafraseando a Kant y digamos: un Papa Latinoamericano es el reingreso de muchos a una gozosa minoría de edad. Pero no podemos ..."
 categories: ["América Latina", "Filosofía", "Internacional", "Política", "Religión"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12046
 ---
 

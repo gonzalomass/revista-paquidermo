@@ -5,7 +5,8 @@ author: "ignacio-garcia"
 slug: "la-invencion-de-un-delito-propiedad-intelectual-y-vendedores-ambulantes-en-costa"
 excerpt: "La propiedad intelectual es un constructo social de muy reciente aparición en las políticas penales en el mundo occidental. La Organización Mundial de la Propiedad Intelectual se cr..."
 categories: ["Acceso a la información", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5317
 ---
 

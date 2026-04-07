@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "buscando-ladrillos-utopicos"
 excerpt: "La frase, con todo y el acento portugués con que fue pronunciada, la llevo impresa en la memoria. Tengo grabado el momento, la escena exacta en que esas palabras fueron dichas, y debo confesar que su ..."
 categories: ["Democracia", "Internacional", "Política"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 2719
 ---
 

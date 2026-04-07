@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "un-ejercito-de-xenofobia"
 excerpt: "Imagen por Xurxo Martínez :: Revista Paquidermo :: Unamuno decía que el fascismo se curaba leyendo y que el racismo se curaba viajando. Siguiendo dicha reflexión podemos concluir que los ticos, en su ..."
 categories: ["Derechos Humanos", "Internacional", "Política", "Realidad Nacional"]
-tags: ["Sección: Editorial"]
+tags: []
+seccion: "Editorial"
 wp_id: 2532
 ---
 

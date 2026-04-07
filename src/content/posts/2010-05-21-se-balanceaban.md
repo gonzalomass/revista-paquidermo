@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "se-balanceaban"
 excerpt: "Durante los 56 años anteriores a Eulalia, cada una de las 8 películas producidas en el país se anunciaba como “la primera obra cinematográfica costarricense”. Cada una de las productoras se promociona..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Sobre la Tela de una Araña"]
+tags: []
+columna: "Sobre la Tela de una Araña"
 wp_id: 1245
 ---
 

@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "blindando-centroamerica"
 excerpt: "Fuera de la mediatizada escaramuza “pastoriana” y del berrinche de René Castro, ¿Qué se puede estar jugando actualmente en Centroamérica? En el caso de Costa Rica, de julio a noviembre de 2010 el gobi..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 2556
 ---
 

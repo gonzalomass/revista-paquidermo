@@ -5,7 +5,8 @@ author: "hector-hernandez"
 slug: "heterocity"
 excerpt: "Yo que era un solitario bailando me quedé sin hablar, mientras tú me fuiste demostrando que el amor es bailar Café Tacuba La subjetividad es una ficción como también lo es el dinero. Tal vez dos de la..."
 categories: ["Literatura"]
-tags: ["Columna: Metáforas Torcidas"]
+tags: []
+columna: "Metáforas Torcidas"
 wp_id: 5827
 ---
 

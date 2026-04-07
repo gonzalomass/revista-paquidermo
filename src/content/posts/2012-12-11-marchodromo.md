@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "marchodromo"
 excerpt: "Fotografía de Guillermo Barquero Recientemente, aunque no sabría decir, el internet tiene esa particularidad de doblar un poco las categorías temporales y la memoria, leí una nota de un diario español..."
 categories: ["Democracia"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 7555
 ---
 

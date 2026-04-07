@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-historia-de-las-cosas"
 excerpt: ""
 categories: ["Economía"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1074
 ---
 

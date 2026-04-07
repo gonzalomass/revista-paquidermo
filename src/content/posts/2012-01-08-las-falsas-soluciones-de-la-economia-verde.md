@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "las-falsas-soluciones-de-la-economia-verde"
 excerpt: "Mientras tanto, el planeta espera los resultados de una nueva cumbre mundial, donde las calificadas misiones internacionales viajarán en vuelo directo de primera clase y debatirán con los eruditos del ambiente para proponer un mundo mejor, mientras pintan de verde los letreros de Texaco y Walmart; donde mozos analfabetos servirán salmón de Alaska y se beberá agua embotellada de Noruega; donde se recostarán los expertos del cambio climático en mecedoras de ébano y las enviadas diplomáticas lucirán, el día de la gala, sus diamantes de Botswana, enchapados en plata peruana y oro de la mina sudafricana."
 categories: ["Ambiente", "Ecología"]
-tags: ["Columna: La Chayotera"]
+tags: []
+columna: "La Chayotera"
 wp_id: 5277
 ---
 

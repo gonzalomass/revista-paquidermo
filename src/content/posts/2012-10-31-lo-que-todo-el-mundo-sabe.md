@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "lo-que-todo-el-mundo-sabe"
 excerpt: "Pienso en Leonard Cohen, pienso que él lo sabe todo, por viejo y por diablo. Más específicamente en Everybody knows: la tercera canción de octavo disco de estudio, Im your man, que ha sido la canción ..."
 categories: ["Cultura"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 7145
 ---
 

@@ -5,7 +5,8 @@ author: "alonso-fonseca"
 slug: "monkey-respect"
 excerpt: ""
 categories: ["Imagen"]
-tags: ["Columna: Procedimientos del mamífero"]
+tags: []
+columna: "Procedimientos del mamífero"
 wp_id: 4207
 ---
 

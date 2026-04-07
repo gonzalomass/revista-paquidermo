@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "remeber-agroman-o-por-que-el-ins-no-debe-de-hacer-la-carretera-a-san-ramon"
 excerpt: ":: Dean CóRnito :: * Tomada la decisión de cancelar la concesión de la carretera San José – San Ramón, viene ahora lo difícil, que es cómo rescatar el proyecto. Ya han empezado a surgir ideas, siendo ..."
 categories: ["América Central", "Política", "Corrupción", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8349
 ---
 

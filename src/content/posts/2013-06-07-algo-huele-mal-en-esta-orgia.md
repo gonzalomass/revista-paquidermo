@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "algo-huele-mal-en-esta-orgia"
 excerpt: "Dan Witz - Orgy En la página de FB de Paquidermo recogimos los siguientes [Titulares del Viernes]: 1. Johnny Araya inicia su campaña presidencial en el redondel de toros de Palmares. Se siente César p..."
 categories: ["Política", "Realidad Nacional", "Riamos para no llorar"]
-tags: ["Lo Recomendado", "Columna: Ahí está el detalle"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 8472
 ---
 

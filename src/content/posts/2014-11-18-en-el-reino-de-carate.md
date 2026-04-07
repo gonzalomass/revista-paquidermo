@@ -5,7 +5,8 @@ author: "alvaro-torres-crespo"
 slug: "en-el-reino-de-carate"
 excerpt: "En el cañón del Río Carate está nuestro país. Costa Rica, tierra de la Contradicción y de la historia Fácil. El Reino de Carate en Osa es oro, es hotel, es medioambiente. Ha..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11158
 ---
 

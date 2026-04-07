@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "tiembla-catalina"
 excerpt: "Sobre Tiembla, memoria (Uruk Editores, 2016) de Catalina Murillo Fotografía por José Vicente Rodríguez Muñoz. En el 2013 se reeditó Largo domingo cubano y acompañé a Catalina en la presentación. Entre..."
 categories: ["Uncategorized"]
-tags: ["Columna Bífida"]
+tags: []
+columna: "Bífida"
 wp_id: 13218
 ---
 

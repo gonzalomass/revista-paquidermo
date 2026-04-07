@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "mis-bendiciones"
 excerpt: "Un principio elemental para la libertad religiosa, para cualquier tipo de convivencia entre personas que creen y piensan distinto, es que jamás se aplique de forma generalizada una moral religiosa por..."
 categories: ["Cultura", "Política", "Democracia", "Realidad Nacional", "Religión"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13041
 ---
 

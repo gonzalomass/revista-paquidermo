@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "toque-de-lo-alto-viaje-al-interior-de-la-mente-de-un-tipo-de-creyente"
 excerpt: "Claro que hablo a propósito de la película pero no voy a hablar de la película. Quiero más bien exponer (para mayor claridad de quienes desconocen esos mundos) la dimensión subjetiva de esas personas ..."
 categories: ["Cultura", "Realidad Nacional", "Religión", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13195
 ---
 

@@ -5,7 +5,8 @@ author: "hector-hernandez"
 slug: "trabajos-de-este-reino"
 excerpt: "Foto: Jpazkual “Un corrido es una historia de los atardeceres, de las reflexiones comunitarias en voz alta y con guitarra, o con guitarra eléctrica; un corrido o una canción fronteriza, que para el ca..."
 categories: ["Drogas", "Literatura"]
-tags: ["Lo Recomendado", "Columna: Metáforas Torcidas"]
+tags: ["Lo Recomendado"]
+columna: "Metáforas Torcidas"
 wp_id: 7928
 ---
 

@@ -5,7 +5,8 @@ author: "gabriela-arguedas"
 slug: "te-hundo-para-luego-tratar-de-salvarte"
 excerpt: "La culpa y la caridad se desvanecen tan pronto como se sienten. Volverán, por supuesto. Pero nunca de la misma manera y siempre habrá, a la mano, algo con qué saciarlas. Asumir una responsabilidad, de..."
 categories: ["Capitalismo", "Cultura", "La muerte", "Derechos Humanos", "Economía", "Neoliberalismo", "Internacional", "Medios de Comunicación", "Migraciones", "Geopolítica"]
-tags: ["Columna: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Periscopio"
 wp_id: 12587
 ---
 

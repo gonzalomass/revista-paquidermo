@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "se-acerca-los-eeuu-a-la-insolvencia"
 excerpt: "Fue noticia mundial hace unos días, la evaluación negativa que la compañía calificadora de riesgo S&P vaticinó para el futuro cercano de la deuda del Gobierno Federal de los EEUU, que por el momento aún conserva su nota crediticia máxima.  Para intentar mitigar la fuerte caída en los mercados de valores producto de la noticia (al final de la semana, los mercados de valores se habían recuperado por completo), en poco tiempo salieron comunicados desde la Casa Blanca y el Departamento del Tesoro negando la posibilidad de que los EEUU eventualmente sufriera una degradación de su nota crediticia, que por cierto, significaría afrontar costos significativamente mayores en la administración de su deuda (al estar obligados a pagar mayores intereses para compensar por el mayor riesgo)."
 categories: ["Economía", "Internacional"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 3368
 ---
 

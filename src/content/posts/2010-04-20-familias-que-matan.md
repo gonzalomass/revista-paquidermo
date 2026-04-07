@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "familias-que-matan"
 excerpt: "Existen en nuestro país una serie de dañinos lugares comunes y prejuicios que, irónicamente, parecen otorgarle cierta distinción a quienes los repiten. Tal es el caso de la “recuperación” de unos valo..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Habitualidades"]
+tags: []
+columna: "Habitualidades"
 wp_id: 1059
 ---
 

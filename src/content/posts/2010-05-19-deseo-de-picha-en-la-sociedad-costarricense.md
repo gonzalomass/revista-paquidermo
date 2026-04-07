@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "deseo-de-picha-en-la-sociedad-costarricense"
 excerpt: "La sociedad costarricense tiene varias neurosis y una de ellas es el deseo de picha. “¡Qué picha!” “¡Qué pichudo!”, y —aunque ni cuenta nos demos— “¡E-ssa vaara!”, son frases comunes, que expresan ese..."
 categories: ["Sexualidad", "Sociedad"]
-tags: ["Columna: Torcidxs"]
+tags: []
+columna: "Torcidxs"
 wp_id: 1231
 ---
 

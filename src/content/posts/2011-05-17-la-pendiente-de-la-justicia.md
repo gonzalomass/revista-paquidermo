@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-pendiente-de-la-justicia"
 excerpt: "Imagen por El Pelos Briseño “La justicia es una necesidad social, porque el derecho es la regla de la vida para la asociación política, y la decisión de lo justo es lo que constituye el derecho.” Aris..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Sección: Editorial"]
+tags: []
+seccion: "Editorial"
 wp_id: 3406
 ---
 

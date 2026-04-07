@@ -5,7 +5,8 @@ author: "laura-rivas"
 slug: "receta-de-lagrimas-de-cocodrilo"
 excerpt: "Ingredientes 1 Ex-presidente 7 Televisoras 1 Periodista 1 Liberación Partido 12 Espacios publicitarios 4 Cucharadas de azúcar ½ Cucharadita de canela Luces, cámaras y micrófonos al g..."
 categories: ["Medios de Comunicación", "Prensa Rosa", "Corrupción"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5089
 ---
 

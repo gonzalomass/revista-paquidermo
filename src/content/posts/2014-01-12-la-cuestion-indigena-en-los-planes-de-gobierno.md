@@ -5,7 +5,8 @@ author: "gisella-diaz-azofeifa"
 slug: "la-cuestion-indigena-en-los-planes-de-gobierno"
 excerpt: "Propaganda del Partido Liberación Nacional. Traducción del bribri: “Johnny es nuestro jefe”. :: Gisella Díaz-Azofeifa* :: Como bien se ha hecho en señalar a lo largo de esta campaña, el derecho al vot..."
 categories: ["América Central", "Política", "Electoral"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9750
 ---
 

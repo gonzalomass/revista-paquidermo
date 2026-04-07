@@ -5,7 +5,8 @@ author: "julio-arias"
 slug: "guerra-contra-las-drogas"
 excerpt: "Imagen por Gerard Girbes El terrorismo de América Latina se llama narcotráfico y la metáfora bélica tan común y elocuente en los discursos políticos parece haber perdido su sentido l..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1706
 ---
 

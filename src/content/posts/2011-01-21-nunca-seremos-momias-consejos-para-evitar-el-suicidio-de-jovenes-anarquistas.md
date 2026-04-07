@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "nunca-seremos-momias-consejos-para-evitar-el-suicidio-de-jovenes-anarquistas"
 excerpt: "Decía George Orwell en su libro más famoso que la libertad es la capacidad de poder decir que 2+2=4; la simple enunciación de la verdad obvia es el principio básico de la libertad, el resto, agrega, v..."
 categories: ["América Latina", "Política"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 2734
 ---
 

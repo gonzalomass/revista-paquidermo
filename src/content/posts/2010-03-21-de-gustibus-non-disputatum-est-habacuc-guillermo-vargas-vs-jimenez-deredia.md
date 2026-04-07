@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "de-gustibus-non-disputatum-est-habacuc-guillermo-vargas-vs-jimenez-deredia"
 excerpt: "Ya lo sé: el criterio más extendido es que, en lo que al arte se refiere, nos adentramos en aguas algo nebulosas, propiamente en el ámbito de las opiniones de cada cual y del mero gusto subjetivo. Cad..."
 categories: ["Cultura", "Filosofía"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 732
 ---
 

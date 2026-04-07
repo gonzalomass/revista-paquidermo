@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "superando-el-darwinismo-social"
 excerpt: "Sin hacer una defensa general de las ideas de Darwin, es preciso desmentir a aquellos que siguen utilizando equivocadamente algunos de sus principios. Por ejemplo, en un artículo de opinión aparecido en La Nación (10-1-2012), se le menciona innecesariamente para decir que la paz representa una desventaja frente a la violencia, la cual se describe como “el estado normal del planeta”."
 categories: ["Ciencia", "Sociedad"]
-tags: ["Columna: La Chayotera"]
+tags: []
+columna: "La Chayotera"
 wp_id: 5618
 ---
 

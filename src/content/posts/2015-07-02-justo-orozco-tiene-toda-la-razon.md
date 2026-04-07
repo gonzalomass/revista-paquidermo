@@ -5,7 +5,8 @@ author: "hold-migroin"
 slug: "justo-orozco-tiene-toda-la-razon"
 excerpt: "Justo Orozco tiene toda la razón: la palabra de un hombre vale más y tiene más credibilidad que la de una mujer. Y si además, como es su caso, se trata de un hombre de dios, pues ma..."
 categories: ["Crónica", "Cultura", "Derechos Humanos", "Feminismo", "Género", "Política", "Corrupción", "Movimiento Social", "Protesta", "Realidad Nacional", "Religión", "Sexualidad", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12198
 ---
 

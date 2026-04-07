@@ -5,7 +5,8 @@ author: "adriana-sanchez-lovell"
 slug: "de-las-ciencias-sociales-y-la-eleccion-de-carrera"
 excerpt: "Imagen por Morrissey (Facultad de Ciencias Sociales de la UBA, Argentina) Las palabras a continuación surgen parcialmente, de una participación que tuve en un encuentro de..."
 categories: ["Realidad Nacional", "Economía", "Educación"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 3821
 ---
 

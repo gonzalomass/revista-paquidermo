@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-misterio-de-no-voto-a-ciegas-de-la-nacion-y-otras-presiones"
 excerpt: "No voto a ciegas es una investigación desarrollada por lo más y mejor de La Nación durante 4 meses, plasmada en una aplicación para comparar datos de los candidatos y partidos sobre los más variados t..."
 categories: ["Libertad de expresión", "Acceso a la información", "Medios de Comunicación", "Política", "Democracia", "Electoral"]
-tags: ["Lo Recomendado", "Sección: Editorial"]
+tags: ["Lo Recomendado"]
+seccion: "Editorial"
 wp_id: 9866
 ---
 

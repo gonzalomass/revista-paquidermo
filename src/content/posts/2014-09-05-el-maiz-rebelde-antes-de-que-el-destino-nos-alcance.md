@@ -5,7 +5,8 @@ author: "gabriela-miranda"
 slug: "el-maiz-rebelde-antes-de-que-el-destino-nos-alcance"
 excerpt: "“Ellos quieres sembran, tienen adentro / granos de compasión, semillas / de esperanza y abrazo para todos”. Los sembradores, Jorge Debravo La endíadis “maíz rebelde” de Otto René Castillo, poeta y com..."
 categories: ["Resistencia", "América Latina"]
-tags: ["Columna: La Media Columna", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Media Columna"
 wp_id: 10911
 ---
 

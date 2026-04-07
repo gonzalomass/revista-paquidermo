@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "obando-para-principiantes"
 excerpt: "Debajo de este libro, del conjunto de relatos que lo conforman, hay un orden. El universo desmesurado, expansivo, invasor de la escritura de Obando propone aquí, en una colección trabajada y seleccion..."
 categories: ["Literatura"]
-tags: ["Lo Recomendado", "Columna Bífida"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 8319
 ---
 

@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "soft-power-especial-detras-de-camaras"
 excerpt: "La película está tan quemada que fijo ya la han pasado hasta los domingos en la noche por canal 7 o 6, o por los dos. Todos conocemos la historia de memoria... o al menos deberíamos. Que Estados Unido..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 3008
 ---
 

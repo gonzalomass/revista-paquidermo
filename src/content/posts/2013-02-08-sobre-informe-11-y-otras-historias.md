@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "sobre-informe-11-y-otras-historias"
 excerpt: "El mundillo vallecentralista universitario (UCR) ha dado pie a un nuevo debate. Esta vez se trata del premio de Divulgación cultural Joaquín García Monge, otorgado al programa Informe 11: las historia..."
 categories: ["Cultura"]
-tags: ["Lo Recomendado", "Columna: Vagamundo"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 7905
 ---
 

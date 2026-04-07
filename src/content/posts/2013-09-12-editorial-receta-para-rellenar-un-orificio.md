@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "editorial-receta-para-rellenar-un-orificio"
 excerpt: "Paso 1: Colocar en una fila al lado del hueco a Laura Chinchilla, René Castro, Pedro Castro, Francisco Jiménez, Francisco Chacón, Carlos Roverssi, la nueva ministra de salud que nadie sabe cómo se lla..."
 categories: ["Política", "Corrupción", "Democracia", "Movimiento Social"]
-tags: ["Sección: Editorial", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Editorial"
 wp_id: 9248
 ---
 

@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "llamada-a-consulta-de-embajadores-en-israel-en-senal-de-repudio"
 excerpt: ":: Nicolás Boeglin (*) :: Ante la ofensiva israelí en Gaza que sigue día tras día bombardeando a la población palestina de manera totalmente indiscriminada, las reacciones de la comunidad internaciona..."
 categories: ["Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10809
 ---
 

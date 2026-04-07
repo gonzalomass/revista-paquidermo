@@ -5,7 +5,8 @@ author: "jesus-fonseca"
 slug: "ahora-resulta-senor-ministro"
 excerpt: "Ahora resulta que es el Frente Amplio el que inventó los problemas de corrupción galopante e impune de este y el gobierno anterior. Ahora resulta que es el Frente Amplio el que, pretextando un problema de defensa nacional, hizo el mamarracho de la trocha, donde algunos políticos y un saco de empresarios inescrupulosos se burlaron del patriotismo de la ciudadanía, para hacer un despilfarro de dinero, con el que se llenaron los bolsillos y dejaron al país en un ridículo internacional."
 categories: ["Medios de Comunicación", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8824
 ---
 

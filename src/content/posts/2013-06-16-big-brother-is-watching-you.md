@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "big-brother-is-watching-you"
 excerpt: "“If you want a picture of the future, imagine a boot stamping on a human face, forever.” George Orwell, 1984. A mí no me avergüenza confesar que tiendo a creer que los asuntos de este mundo se manejan..."
 categories: ["Tecnología", "Política"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 8563
 ---
 

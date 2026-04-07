@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-tumba-de-europa"
 excerpt: "“Nature, berce-le chaudement, il a froid”. Le dormeur du val Como si la poesía pudiese algo contra el horror. Rimbaud describe a un soldado que duerme en un valle hermoso. Lo abraza la naturaleza llen..."
 categories: ["Capitalismo", "Crónica", "Derechos Humanos", "Internacional", "Migraciones", "Política", "Movimiento Social", "Geopolítica", "Resistencia"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 12580
 ---
 

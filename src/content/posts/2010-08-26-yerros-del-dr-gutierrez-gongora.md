@@ -5,7 +5,8 @@ author: "edwin-alvarado-mena"
 slug: "yerros-del-dr-gutierrez-gongora"
 excerpt: "Imagen por Roberto Rizzato Sé de buena fuente que tremendo revuelo se suscitó en la reciente Asamblea Nacional de Chinches y Alipatos. ¿El culpable? Un connotado médico, de n..."
 categories: ["Ambiente", "Democracia", "Medios de Comunicación", "Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2172
 ---
 

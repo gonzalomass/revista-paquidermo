@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "cerrar-la-fabrica"
 excerpt: "Foto: Arquimaza La pregunta se me vino de nuevo a la mente acostada en la camilla, cuando ya tenía puesta la bata, el gorrito y hasta esas graciosas botas verdes, y esperaba a que se abrieran las puer..."
 categories: ["Derechos Humanos", "Salud", "Sexualidad", "Violencia contra las mujeres"]
-tags: ["Columna: Botellita de jerez", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Botellita de jerez"
 wp_id: 8012
 ---
 

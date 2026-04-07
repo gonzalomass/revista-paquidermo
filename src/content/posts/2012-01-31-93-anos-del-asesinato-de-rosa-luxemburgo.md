@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "93-anos-del-asesinato-de-rosa-luxemburgo"
 excerpt: "EN MEMORIA DE LA “ROSA ROJA” El pasado 15 de enero se cumplieron 93 años del asesinato de Rosa Luxemburgo, una de las más grandes revolucionarias del siglo XX. Rosa Luxemburgo nació en 1871 en Polonia..."
 categories: ["Economía", "Política", "Internacional"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 5381
 ---
 

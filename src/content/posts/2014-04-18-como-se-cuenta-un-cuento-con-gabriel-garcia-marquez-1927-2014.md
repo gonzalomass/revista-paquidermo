@@ -5,7 +5,8 @@ author: "hernan-jimenez"
 slug: "como-se-cuenta-un-cuento-con-gabriel-garcia-marquez-1927-2014"
 excerpt: "Bruce Munro © Hace algunos años, y gracias al apoyo de Fundacine, tuve la inolvidable oportunidad de asistir en La Habana al taller de guión cinematográfico 'Cómo se cuenta un cue..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10317
 ---
 

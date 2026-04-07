@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "reflexiones-sobre-la-violencia-8-dias-despues-evitar-la-politica-de-olvido-y-per"
 excerpt: "“Manifestantes desfilaron con orden y respeto; Policía custodió, como es su deber; autoridades de la CCSS escucharon. ¡Así debe ser!” (Laura Chinchilla, desde España, 15 de noviembre 2012, en su cuent..."
 categories: ["Política", "Democracia", "Estado de Derecho"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 7355
 ---
 

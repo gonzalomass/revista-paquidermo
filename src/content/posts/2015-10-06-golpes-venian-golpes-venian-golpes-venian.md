@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "golpes-venian-golpes-venian-golpes-venian"
 excerpt: "En el Chile del Pleistoceno Medio, cuando en un pleito aparecían puñetazos, mordiscos y patadas y alguno de los luchadores recibía una paliza comunal o descomunal, según se mire, el episodio se contab..."
 categories: ["Acceso a la información", "Crónica", "Medios de Comunicación", "Política", "Sociedad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12715
 ---
 

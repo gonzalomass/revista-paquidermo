@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "deficit-fiscal-en-costa-rica-el-apocalipsis"
 excerpt: "Según se afirma el déficit fiscal podría ocasionar una verdadera hecatombe. Y, sin embargo, mucho de lo que se afirma es simplemente falso. En otros casos se trata de advertencias que, siendo válidas,..."
 categories: ["Capitalismo", "Economía", "Neoliberalismo", "Medios de Comunicación", "Política", "Corrupción", "Democracia", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: Soñar con los pies en la tierra", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12416
 ---
 

@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "me-desmienten"
 excerpt: "En texto anterior acoté que resultaba difícil mencionar algún acierto en la práctica que se hace pública, o los medios tornan pública, de la recién iniciada administración Solís. Por los mismos días, ..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10566
 ---
 

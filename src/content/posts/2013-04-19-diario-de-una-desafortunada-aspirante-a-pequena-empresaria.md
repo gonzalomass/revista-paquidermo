@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "diario-de-una-desafortunada-aspirante-a-pequena-empresaria"
 excerpt: "Foto: http://www.adriancoto.com/ Llámeme ignorante: no sabía que una planilla del INS se reporta todos los meses. De hecho, estaba sentada en la casa muy tranquila, porque había pagado mi primera póli..."
 categories: ["Economía"]
-tags: ["Lo Recomendado", "Columna: Segunda Lectura"]
+tags: ["Lo Recomendado"]
+columna: "Segunda Lectura"
 wp_id: 8249
 ---
 

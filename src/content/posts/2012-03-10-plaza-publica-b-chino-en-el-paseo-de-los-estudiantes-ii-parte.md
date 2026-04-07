@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "plaza-publica-b-chino-en-el-paseo-de-los-estudiantes-ii-parte"
 excerpt: "::  Víctor Hugo Acuña Ortega  ::  Ayer en la tarde hice un recorrido por el Paseo de los estudiantes, en ambas direcciones, para reconocer ese sector de la ciudad capital por el cual nunca paso a pie y pocas veces en automóvil y con el fin de escribir este artículo. Debo decir que la caminata comportó algún nivel de riesgo porque los trabajos de remodelación emprendidos por la Municipalidad de San José ya se iniciaron y dar un mal paso era una eventualidad plausible y, en todo caso, ensuciar los zapatos un tributo a pagar."
 categories: ["Arquitectura", "Historia"]
-tags: ["Sección Plaza Pública"]
+tags: []
+seccion: "Plaza Pública"
 wp_id: 5741
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "ratificaciones-y-nombramientos-a-cargo-del-poder-legislativo"
 excerpt: "La declaratoria de inconstitucionalidad del decreto Nº 39210-MP-S, que autoriza realizar la FIV en Costa Rica; afecta derechos de la ciudadanía y, a la vez, reitera la importancia que tiene para la vi..."
 categories: ["Derechos Humanos", "Acceso a la información", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13053
 ---
 

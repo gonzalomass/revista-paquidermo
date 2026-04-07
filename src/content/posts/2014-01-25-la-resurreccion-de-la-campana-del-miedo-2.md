@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "la-resurreccion-de-la-campana-del-miedo-2"
 excerpt: "Decía Tomas Hobbes que la única pasión de su vida había sido el miedo. La frase, sobre cuyo contexto no viene a cuento extenderse acá, bien podría ajustarse a algunos aspirantes presidenciales en la p..."
 categories: ["América Central", "Política", "Democracia"]
-tags: ["Lo Recomendado", "Columna: De Boca a Boca"]
+tags: ["Lo Recomendado"]
+columna: "De Boca a Boca"
 wp_id: 9858
 ---
 

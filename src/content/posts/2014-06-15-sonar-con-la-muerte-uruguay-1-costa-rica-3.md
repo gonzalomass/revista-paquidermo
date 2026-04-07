@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "sonar-con-la-muerte-uruguay-1-costa-rica-3"
 excerpt: "La rotonda de la Hispanidad es un mar de meados. Huele a cantina de pueblo de antes de la ley antitabaco. Nos asomamos luego de que Italia le colocara el segundo a Inglaterra, con una sensación extrañ..."
 categories: ["Deportes"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "Segunda Lectura"
 wp_id: 10570
 ---
 

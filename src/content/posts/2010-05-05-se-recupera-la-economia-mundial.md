@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "se-recupera-la-economia-mundial"
 excerpt: "Es cierto que los índices de los principales mercados bursátiles del mundo tenían, hasta abril pasado, más de un año de estar creciendo sostenidamente. En los EE UU, los precios de las viviendas se lo..."
 categories: ["Economía"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 1164
 ---
 

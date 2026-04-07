@@ -5,7 +5,8 @@ author: "esteban-cordoba"
 slug: "costa-rica-santa-catolica-apostolica-y-romana"
 excerpt: "Imagen por Atheist Bus Canada Apuesta por un ateísmo militante en el marco del referéndum del odio. Costa Rica manifiesta una Religión Oficial en su Constitución. Un porce..."
 categories: ["Derechos Humanos", "Política", "Realidad Nacional", "Religión"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1990
 ---
 

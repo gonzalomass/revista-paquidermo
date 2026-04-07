@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "xenofobia-y-psicoanalisis"
 excerpt: "Imagen por Onefromrome Basta con que echemos una ojeada a los noticieros para darnos cuenta de que el tema de la inmigración –ya sea “legal” o “ilegal”– se ha convertido en..."
 categories: ["Derechos Humanos", "Minorías", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2301
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "a-traves-del-espejo-de-caldera-y-lo-que-costa-rica-encontro-del-otro-lado"
 excerpt: "Corría el mes de enero de este 2010 cuando Óscar Arias entró, a lo Gregorio Samsa, en una metamorfosis que lo convirtió en el “presidente manos de tijera”. Los últimos meses de su mandato se convirtie..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 2494
 ---
 

@@ -5,7 +5,8 @@ author: "mariano-salas"
 slug: "politica-confecionalista-de-la-iglesia-catolica"
 excerpt: "Imagen por Laura Pardo La Iglesia Católica en Costa Rica es un grupo de poder político bien constituido y reconocido como tal por los demás actores, tanto los movimientos y organiz..."
 categories: ["Realidad Nacional", "Religión"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1435
 ---
 

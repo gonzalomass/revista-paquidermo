@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "explicando-los-papeles-de-panama-o-por-que-un-perro-se-lame-sus-genitales"
 excerpt: "La única cosa realmente sorprendente de la filtración de los Panama Papers es que no tienen nada de sorprendente: ¿No descubrimos exactamente lo que esperábamos descubrir de ellos? Sin embargo, una co..."
 categories: ["Capitalismo", "Corrupción", "Filosofía", "Política", "Geopolítica"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13120
 ---
 

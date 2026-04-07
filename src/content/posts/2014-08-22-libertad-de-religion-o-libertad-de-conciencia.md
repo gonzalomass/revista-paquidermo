@@ -5,7 +5,8 @@ author: "hugo-mora-poltronieri"
 slug: "libertad-de-religion-o-libertad-de-conciencia"
 excerpt: ":: Hugo Mora Poltronieri (*) :: A la propuesta del Estado laico, presentada por la diputada María E. Venegas en la administración anterior, le han salido “novios” de donde menos se esperaba. Primerame..."
 categories: ["Realidad Nacional", "Religión"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10864
 ---
 

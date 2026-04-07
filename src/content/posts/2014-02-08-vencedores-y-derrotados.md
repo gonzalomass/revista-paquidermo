@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "vencedores-y-derrotados"
 excerpt: "Imagen: Jamie Beck & Kevin Burg La Nación S.A. encabezó su párrafo electoral del 3 de febrero con el siguiente versito: “El primer gobierno del PAC o un tercer gobierno consecutivo del PLN. Ese es el ..."
 categories: ["Política", "Democracia", "Electoral", "Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10045
 ---
 

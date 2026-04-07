@@ -5,7 +5,8 @@ author: "karina-fonseca-vindas"
 slug: "entre-derechas-centros-e-izquierdas-como-se-configura-la-participacion-de-las-mu"
 excerpt: "Imagen: Freya Jobbins :: Karina Fonseca Vindas :: A pesar de la efervescencia generada por las elecciones presidenciales en Costa Rica, poco se habla del papel que han venido ocupando las mujeres en e..."
 categories: ["Uncategorized", "Política", "Realidad Nacional", "Resistencia"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10084
 ---
 

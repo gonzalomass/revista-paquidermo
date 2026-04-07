@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "costa-rica-y-el-indice-de-desempeno-ambiental-epi-un-desplome-mas-que-preocupant"
 excerpt: "Imagen: Fintan Magee :: Nicolás Boeglin* :: La última medición en materia de desempeño ambiental (indicador EPI, desarrollado por las Universidades de Yale y de Columbia) arroja un preocupante descens..."
 categories: ["Realidad Nacional", "Ecología"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10122
 ---
 

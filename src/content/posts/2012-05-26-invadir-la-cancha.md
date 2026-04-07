@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "invadir-la-cancha"
 excerpt: "Sábado 19 de mayo, 2012. Hace una hora rompimos la espera de 19 años, hace 10 segundos saltaba abrazado a desconocidos, coreándole al campeón en un mosh jubiloso. Ahora estoy de cuat..."
 categories: ["Deportes"]
-tags: ["Lo Recomendado", "Columna Bífida"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 5939
 ---
 

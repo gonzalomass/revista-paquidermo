@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-jugosa-receta-de-la-refineria-china"
 excerpt: "Sarah Laufer"
 categories: ["Política"]
-tags: ["Lo Recomendado", "Invitados Especiales", "Sección Audiovisual"]
+tags: ["Lo Recomendado", "Invitados Especiales"]
+seccion: "Audiovisual"
 wp_id: 8612
 ---
 

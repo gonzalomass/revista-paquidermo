@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "espanistan-de-la-burbuja-inmobiliaria-a-la-crisis"
 excerpt: ""
 categories: ["Economía", "Internacional", "Sociedad", "video"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 3844
 ---
 

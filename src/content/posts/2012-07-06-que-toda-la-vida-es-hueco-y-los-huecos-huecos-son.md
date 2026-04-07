@@ -5,7 +5,8 @@ author: "manuel-ortega-alvarez"
 slug: "que-toda-la-vida-es-hueco-y-los-huecos-huecos-son"
 excerpt: "Quince minutos de Heredia a San José, en plena hora pico, en autobús, por la Uruca y una parte de la autopista General Cañas… ¡Oh Agujero milagroso!, ¡Oh Abismo de infinita virtud! Quizás el deseo feb..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Apotegmas"]
+tags: []
+columna: "Apotegmas"
 wp_id: 6101
 ---
 

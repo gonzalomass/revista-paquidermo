@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "conciencia-de-clase-media"
 excerpt: "Esta clase social ha llegado a tal punto, que prefiere endeudarse y regalar su dinero a Universidades de garaje, antes que exigir a su gobierno mejorar la calidad de la educación superior. Prefiere criticar sin razón marchas y manifestaciones, que preguntarse “¿qué estarán demandando estos ciudadanos?”. Prefiere llenar de rejas"
 categories: ["Economía", "Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 4660
 ---
 

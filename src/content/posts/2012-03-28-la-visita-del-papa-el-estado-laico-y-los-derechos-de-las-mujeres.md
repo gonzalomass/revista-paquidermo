@@ -5,7 +5,8 @@ author: "elizabeth-maier"
 slug: "la-visita-del-papa-el-estado-laico-y-los-derechos-de-las-mujeres"
 excerpt: ":: Elizabeth Maier* :: En un país cuya historia moderna se escribió con la sangre de las disputas por el Estado laico y su oferta de diversidad religiosa y cívica, la visita del Papa en tiempos pre-el..."
 categories: ["América Latina", "Feminismo", "Estado de Derecho"]
-tags: ["Sección: Periscopio"]
+tags: []
+seccion: "Periscopio"
 wp_id: 5783
 ---
 

@@ -5,7 +5,8 @@ author: "ignacio-arroyo-trejos"
 slug: "de-madre-tierra-a-virgen-maria-el-mito-secuestrado"
 excerpt: "A través de los siglos ciertas religiones han logrado secuestrar del imaginario colectivo, aquella simbología universal que nos identifica como humanidad. Arquetipos que quizás se remontan a una edad humana previa, antes del reinado de la propiedad y el dinero, cuando los grupos humanos recorrían el planeta sin dudar -tanto como lo hacen hoy- de los beneficios de la colectividad y la cooperación resultaba una ventaja adaptativa para la sobrevivencia."
 categories: ["Religión"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4601
 ---
 

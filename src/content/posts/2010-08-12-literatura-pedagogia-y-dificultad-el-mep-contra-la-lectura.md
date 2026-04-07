@@ -5,7 +5,8 @@ author: "melvin-campos"
 slug: "literatura-pedagogia-y-dificultad-el-mep-contra-la-lectura"
 excerpt: "Imagen por Angel Boligan Admito que el enojo y la incredulidad me embargaron cuando supe de los nuevos programas de Literatura del Ministro y su MEP. Pero, como el hígado nunca es ..."
 categories: ["Cultura", "Literatura", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2075
 ---
 

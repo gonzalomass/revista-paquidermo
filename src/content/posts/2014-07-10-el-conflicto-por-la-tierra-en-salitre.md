@@ -5,7 +5,8 @@ author: "gisella-diaz-azofeifa"
 slug: "el-conflicto-por-la-tierra-en-salitre"
 excerpt: ":: Gisella Díaz-Azofeifa (*) :: Después del éxito de la Sele en el mundial, al que le debemos tantas alegrías, emociones y sobretodo enseñazas, la situación que vive hoy la comunidad indígena de Salit..."
 categories: ["Derechos Humanos", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10702
 ---
 

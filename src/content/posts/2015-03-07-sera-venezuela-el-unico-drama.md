@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "sera-venezuela-el-unico-drama"
 excerpt: "Imagen: Armando Reverón Un documento de un sector de la oposición venezolana, que sus autores llaman “El Acuerdo Nacional para la Transición”, ha instalado con claridad en el escenario de ese país el ..."
 categories: ["Uncategorized"]
-tags: ["Lo Recomendado", "Columna: Pensar América Latina"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11452
 ---
 

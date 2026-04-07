@@ -5,7 +5,8 @@ author: "gustavo-fuchs"
 slug: "hablando-de-modelos"
 excerpt: "Imagen de la agencia publicitaria rusa Voskhod La sorpresiva encuesta de Unimer que ha posicionado a José María Villalta como favorito para las elecciones de febrero, ha desenca..."
 categories: ["Política", "Corrupción", "Electoral", "Geopolítica", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9782
 ---
 

@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "las-butacas-de-la-caverna"
 excerpt: "Luis Eduardo Aute, en su canción inspirada en la película “Los 400 Golpes”, se disculpa por “confundir el cine con la realidad”, pero, inmediatamente después, vuelve a confesar que en realidad “todo e..."
 categories: ["Entretenimiento", "Imagen"]
-tags: ["Columna: Cementerio de Elefantes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 7097
 ---
 

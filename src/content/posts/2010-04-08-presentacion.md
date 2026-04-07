@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "presentacion"
 excerpt: "Cuando me propusieron esta columna, averigüé de qué se trataba y supe que Paquidermo ofrece mucha libertad de acción, pero sé que la idea es la de un contenido crítico. Pensé y pensé, cosa que no me s..."
 categories: ["Sociedad"]
-tags: ["Columna: Vos Sospechá"]
+tags: []
+columna: "Vos Sospechá"
 wp_id: 911
 ---
 

@@ -5,7 +5,8 @@ author: "carlos-cortes"
 slug: "elefantes-de-grafito-de-warren-ulloa-arguello"
 excerpt: "La presentación de una novela policíaca impone un estricto protocolo hacia el lector, la omertá literaria, el silencio: no contar quién es el culpable. Narrar los hechos sin desvel..."
 categories: ["Cultura", "Literatura", "Literatura"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12938
 ---
 

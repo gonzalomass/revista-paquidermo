@@ -5,7 +5,8 @@ author: "edvan-cordova-vega"
 slug: "cuerpos-para-desechar-y-odiar-el-genocidio-trans-en-centroamerica"
 excerpt: "Hoy estoy consumido por los nombres y la ausencia de estos, de nuestros muertos. Cada año, el Observatorio de Personas Trans Asesinadas-Trans Murder Monitoring (TMM)-, n..."
 categories: ["América Central", "Derechos Humanos", "Feminismo", "Género", "Internacional", "Centroamérica", "Política", "Movimiento Social", "Protesta", "Estado de Derecho", "Realidad Nacional", "Resistencia", "Sexualidad", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12262
 ---
 

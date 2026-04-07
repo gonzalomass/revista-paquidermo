@@ -5,7 +5,8 @@ author: "manuel-ortega-alvarez"
 slug: "de-arroces-record-y-nombres"
 excerpt: "Foto: Lapatilla En una enorme cazuela de dos metros y medio de diámetro, con un descomunal peso de 1,3 toneladas, 735 kilos de arroz, 260 kilos de pollo, 230 kilos de lechón, 1200 huevos, cebollinos, ..."
 categories: ["América Central", "Contracultura", "Política"]
-tags: ["Columna: Apotegmas", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Apotegmas"
 wp_id: 8001
 ---
 

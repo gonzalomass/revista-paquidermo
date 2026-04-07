@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { getAuthorMap, getAuthorName } from '../lib/authors';
+import { slugify } from '../lib/slugify';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -22,6 +23,7 @@ const formattedDate = dateObj.toLocaleDateString('es-CR', {
   month: 'long',
   year: 'numeric',
 });
+
 ---
 
 <BaseLayout title={post.data.title} description={post.data.excerpt}>
@@ -58,6 +60,18 @@ const formattedDate = dateObj.toLocaleDateString('es-CR', {
           <svg class="w-4 h-4 text-paqui-muted shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="12" height="12" rx="1"/><path d="M2 6h12M5 2v4M11 2v4"/></svg>
           <time datetime={post.data.date} class="text-paqui-muted">{formattedDate}</time>
         </span>
+        {post.data.columna && (
+          <span class="inline-flex items-center gap-1.5">
+            <svg class="w-4 h-4 text-paqui-muted shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2v12M8 2v12M13 2v12"/></svg>
+            <a href={`/columna/${slugify(post.data.columna)}`} class="text-paqui-gray hover:text-paqui-red transition-colors">{post.data.columna}</a>
+          </span>
+        )}
+        {post.data.seccion && (
+          <span class="inline-flex items-center gap-1.5">
+            <svg class="w-4 h-4 text-paqui-muted shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h12M2 8h12M2 12h12"/></svg>
+            <a href={`/seccion/${slugify(post.data.seccion)}`} class="text-paqui-gray hover:text-paqui-red transition-colors">{post.data.seccion}</a>
+          </span>
+        )}
       </div>
 
       <div class="mt-8 w-16 h-[2px] bg-paqui-red"></div>
@@ -73,7 +87,7 @@ const formattedDate = dateObj.toLocaleDateString('es-CR', {
           <svg class="w-3.5 h-3.5 text-paqui-muted shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M13.5 8.5l-5 5-6-6V2.5h5l6 6z"/><circle cx="5.5" cy="5.5" r="1"/></svg>
           <span class="text-[11px] font-sans font-medium uppercase tracking-wider text-paqui-muted mr-1">Etiquetas</span>
           {post.data.tags.map((tag: string) => (
-            <span class="text-xs font-sans text-paqui-gray bg-paqui-warm px-2.5 py-1">{tag}</span>
+            <a href={`/etiqueta/${slugify(tag)}`} class="text-xs font-sans text-paqui-gray bg-paqui-warm px-2.5 py-1 hover:text-paqui-red hover:bg-paqui-warm/80 transition-colors">{tag}</a>
           ))}
         </div>
       </footer>

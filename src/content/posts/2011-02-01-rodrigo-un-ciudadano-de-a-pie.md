@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "rodrigo-un-ciudadano-de-a-pie"
 excerpt: "“Todo el tema de Rodrigo Arias es una infamia, porque díganme ustedes cuál costarricense no ha tomado el teléfono y ha llamado a un ministro que sea amigo para hacerle una consulta. Eso no es un delit..."
 categories: ["Democracia"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 2771
 ---
 

@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "de-calles-y-extravios"
 excerpt: "Hace unos meses leí un libro que cambió mi vida. No viene a cuento decir aquí porqué. El caso es que se trata de una historia en la que cierto personaje, viajero incansable, llega a un sitio del que, ..."
 categories: ["Cultura", "Política", "Sociedad"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 2211
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "medio-queso-no-hay-peor-ciego-que-el-que-no-quiere-ver"
 excerpt: "¿Quiénes son estxs campesinxs? ¿De dónde vienen? ¿Qué los llevó a tomar la decisión, bastante drástica y riesgosa, de invadir las tierras? ¿Para qué se utilizaba la tierra antes de que fuera “invadida”? ¿Quiénes son los holandeses? ¿Cuál es la relación entre ellos y Elmer Varela? ¿Qué sabemos de la forma en que tanto Varela como ellos adquirieron la propiedad?"
 categories: ["Realidad Nacional"]
-tags: ["Columna: Una golondrina no hace verano"]
+tags: []
+columna: "Una golondrina no hace verano"
 wp_id: 5860
 ---
 

@@ -5,7 +5,8 @@ author: "adriana-gonzalez-serrano"
 slug: "dicho-y-hecho"
 excerpt: "Hace rato ya que la autonomía universitaria es una piedra en el zapato del gobierno, a quien, por cierto, no parece importarle la educación pública en general, ni mucho ..."
 categories: ["Derechos Humanos", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1026
 ---
 

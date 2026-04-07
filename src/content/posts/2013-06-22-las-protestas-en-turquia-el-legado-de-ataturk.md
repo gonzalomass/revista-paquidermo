@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "las-protestas-en-turquia-el-legado-de-ataturk"
 excerpt: "Durante un reciente viaje que hice a Inglaterra tuve la suerte de trabar amistad con un brillante y agradable joven turco que estudiaba en la Universidad del Bósforo, una d..."
 categories: ["Internacional", "Religión"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8599
 ---
 

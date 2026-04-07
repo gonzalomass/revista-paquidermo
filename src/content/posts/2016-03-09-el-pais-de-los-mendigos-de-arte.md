@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-pais-de-los-mendigos-de-arte"
 excerpt: "Entré en el auditorio de Derecho de la UCR para olvidarme del tiempo, encandilado por una película de Orson Welles. Víctima del sueño más que soñador, terminé suspendiendo mi vigilia en la penumbra, a..."
 categories: ["Crónica", "Cultura"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13087
 ---
 

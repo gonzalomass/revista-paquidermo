@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "costa-rica-crisis-del-empleo-y-mentiritas-empresariales"
 excerpt: "Imagen: Sara García Es seguramente cierto que la economía de Costa Rica ha perdido competitividad, lo cual tiene importancia en cuanto somos una economía capitalista y un..."
 categories: ["Economía", "Desempleo", "Neoliberalismo"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11467
 ---
 

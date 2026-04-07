@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-tocola-ano-40-d-c-despues-de-cotico"
 excerpt: "A mediados de la década de 1970, cuando la izquierda costarricense apenas salía de una proscripción legal de 27 años, y luego de un acontecimiento tan paradigmático para la radicalización política juv..."
 categories: ["Capitalismo", "Cultura", "Drogas"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13100
 ---
 

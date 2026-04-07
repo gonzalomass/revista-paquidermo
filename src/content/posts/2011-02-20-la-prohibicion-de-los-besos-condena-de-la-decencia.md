@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "la-prohibicion-de-los-besos-condena-de-la-decencia"
 excerpt: "Mi compañera y yo salimos a comer con unos amigos. En el momento que nos sentamos a la mesa del restaurante nos previnieron: no se besen. Tras la confusión inicial pregunté por qué. Nos contaron que a..."
 categories: ["Minorías", "Sexualidad", "Sociedad"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 2864
 ---
 

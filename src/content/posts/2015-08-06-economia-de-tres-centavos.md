@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "economia-de-tres-centavos"
 excerpt: "Desnuda por la exacerbación de su práctica de un “periodismo” de mala calidad y por el fiasco de su “ola publicitaria” acerca de los salarios en determinados sectores públicos, La Nación S.A., que cre..."
 categories: ["Capitalismo", "Corrupción", "Crónica", "Economía", "Neoliberalismo", "Medios de Comunicación", "Política", "Corrupción", "Democracia", "Movimiento Social", "Protesta", "Realidad Nacional", "Resistencia", "Sociedad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12427
 ---
 

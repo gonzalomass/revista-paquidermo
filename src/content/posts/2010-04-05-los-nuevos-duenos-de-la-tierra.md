@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "los-nuevos-duenos-de-la-tierra"
 excerpt: "“Estoy convencido que la tierra agrícola va a ser una de las mejores inversiones de nuestros tiempos. Eventualmente, por supuesto, los precios de los alimentos serán lo suficientemente altos como para..."
 categories: ["Economía"]
-tags: ["Columna: La Burbuja"]
+tags: []
+columna: "La Burbuja"
 wp_id: 902
 ---
 

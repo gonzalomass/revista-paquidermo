@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "cronicas-del-mundial-iv-justicia-poetica"
 excerpt: "Es una noche suamposa en Pernambuco. La misma que me hace sudar la pesadilla en mi cuarto. El estadio está medio vacío, el juego está medio malo, los griegos apenas si se mueven, los pies de la sele e..."
 categories: ["Deportes"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "Segunda Lectura"
 wp_id: 10636
 ---
 

@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "arrebatina"
 excerpt: "“Al segundo plato fue la arrebatiña”, Zola, La Fortuna de los Rougon En 1852, en el fondo de un salón amarillento, cerca de la plaza de un triste pueblo del Mediodía francés, un grupo de viejos panzon..."
 categories: ["Literatura", "Política"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 7538
 ---
 

@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "autonomia-estrategias-y-sintomas"
 excerpt: "¿Autonomía qué? El tema de la autonomía universitaria es ambiguo, y esto no es accidental. Aunque muchas normas de rango constitucional presentan esta característica, precisamente por su generalidad y..."
 categories: ["Democracia", "Derechos Humanos"]
-tags: ["Columna: Ahí está el detalle"]
+tags: []
+columna: "Ahí está el detalle"
 wp_id: 1032
 ---
 

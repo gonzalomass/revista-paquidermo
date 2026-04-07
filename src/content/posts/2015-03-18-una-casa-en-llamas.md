@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "una-casa-en-llamas"
 excerpt: "Imagen: Imagenes en Costa Rica (CSH 3- América 0) En el sueño, estaba de pie en la otra acera, frente a una casa en llamas. Pasaban sombras corriendo que, iluminadas por el fuego, se convertían en car..."
 categories: ["América Latina", "Crónica", "Deportes"]
-tags: ["Lo Recomendado", "Columna Bífida"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 11555
 ---
 

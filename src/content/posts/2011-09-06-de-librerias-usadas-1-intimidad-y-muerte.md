@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-librerias-usadas-1-intimidad-y-muerte"
 excerpt: "Un visitante de librerías usadas tiene asiento de primera fila a pequeños fragmentos de las vidas de otras personas, tiene asiento de primera fila para presenciar el aburguesamiento de nuestras prácticas de lectura, y no porque él no lea aburguesadamente, sino porque a través de la ventana que da al paisaje de la lectura ajena gana la distancia que le provee un marco. Este pase particular a un aspecto de las vidas de otras personas, este pase a sus lecturas, a sus eventuales recuerdos, a objetos de su uso, a pensamientos subrayados o anotaciones escuetas; este pase, decía, adquiere otro coloración, definitivamente una más colorida, a pesar de, o más bien gracias a, el evento que la rodea: la muerte."
 categories: ["Cultura", "Sociedad"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 4651
 ---
 

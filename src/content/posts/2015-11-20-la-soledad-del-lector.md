@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "la-soledad-del-lector"
 excerpt: "Estoy parado al frente de mi biblioteca. En flashback, veo las bibliotecas y los libros que me han acompañado o he visto, hasta la edad que tengo en este momento. Aquellas bibliotecas de libros escola..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Literatura"]
-tags: ["Columna: Mejor que ficción", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 12903
 ---
 

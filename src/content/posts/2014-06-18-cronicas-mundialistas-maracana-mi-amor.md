@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "cronicas-mundialistas-maracana-mi-amor"
 excerpt: "Es el 29 de junio de 1986 y el Azteca tiembla, igual que el barrio Sagrada Familia en Pérez Zeledón, igual que el resto de América Latina, que a los gritos celebra un mundial de fútbol robado en tiemp..."
 categories: ["Deportes"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "Segunda Lectura"
 wp_id: 10586
 ---
 

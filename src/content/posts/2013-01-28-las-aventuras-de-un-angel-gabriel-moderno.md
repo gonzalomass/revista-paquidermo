@@ -5,7 +5,8 @@ author: "yuan-hsi-chiang"
 slug: "las-aventuras-de-un-angel-gabriel-moderno"
 excerpt: "\"Hoy vi el arco iris más grande y hermoso de toda mi vida... Luego me llamaron, y recibí las noticias de Gabriel.” Eso fue lo que me dijo nuestro amigo mutuo de la infancia Benny..."
 categories: ["Homenaje", "Amistad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7802
 ---
 

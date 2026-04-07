@@ -5,7 +5,8 @@ author: "gabriela-cob"
 slug: "ciclovias-la-ruta-a-ciudades-inclusivas"
 excerpt: ":: Gabriela Cob* :: Muchos países ya han despertado ante la abrumadora realidad de cómo los autos han inundado nuestras ciudades, vivimos la violencia vial todos los días sin excepción cuando recibimo..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7122
 ---
 

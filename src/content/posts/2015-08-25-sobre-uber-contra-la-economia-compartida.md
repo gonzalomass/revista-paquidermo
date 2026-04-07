@@ -5,7 +5,8 @@ author: "avi-asher-schapiro"
 slug: "sobre-uber-contra-la-economia-compartida"
 excerpt: ":: Avi Asher-Schapiro (*) :: Las compañías de “economía compartida” como Uber trasladan los riesgos de las corporaciones a los trabajadores, debilitan las protecciones laborales y bajan el nivel de lo..."
 categories: ["Uncategorized"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado", "Contribuciones Internacionales"]
+tags: ["Doxa", "Lo Recomendado", "Contribuciones Internacionales"]
+seccion: "Doxa"
 wp_id: 12533
 ---
 

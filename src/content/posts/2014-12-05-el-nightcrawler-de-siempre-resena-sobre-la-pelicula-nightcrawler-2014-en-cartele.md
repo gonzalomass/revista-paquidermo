@@ -5,7 +5,8 @@ author: "andres-aguilar-q"
 slug: "el-nightcrawler-de-siempre-resena-sobre-la-pelicula-nightcrawler-2014-en-cartele"
 excerpt: "A continuación: enorme cantidad de spoilers. “The greatest trick the Devil ever pulled was convincing the world he didn’t exist.” The Usual Suspects (1995) http://www.youtube.c..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11202
 ---
 

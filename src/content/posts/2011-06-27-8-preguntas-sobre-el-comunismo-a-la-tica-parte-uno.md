@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "8-preguntas-sobre-el-comunismo-a-la-tica-parte-uno"
 excerpt: "Frente Amplio es la organización de izquierda más conocida en Costa Rica, sus principales dirigentes han señalado que su objetivo es realizar un socialismo “a la tica”. Manuel Mora Valverde, el dirige..."
 categories: ["Historia", "Política"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 4153
 ---
 

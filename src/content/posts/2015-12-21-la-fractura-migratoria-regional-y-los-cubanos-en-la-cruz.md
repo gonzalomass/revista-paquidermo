@@ -5,7 +5,8 @@ author: "abelardo-morales-gamboa"
 slug: "la-fractura-migratoria-regional-y-los-cubanos-en-la-cruz"
 excerpt: ":: Abelardo Morales-Gamboa :: No de ahora con los inmigrantes cubanos, sino desde hace tres décadas, la región está dividida en torno a sus agendas de migración y políticas migratorias. Mientras que..."
 categories: ["Migraciones", "Geopolítica", "Política", "América Latina"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12972
 ---
 

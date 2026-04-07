@@ -5,7 +5,8 @@ author: "margarita-salas"
 slug: "orgullosamente-lesbiana"
 excerpt: "El mundo en que vivimos está pintado de heterosexual y cada vez que se asoman grietas en esa pinturilla de mentiras, la policía del deseo alista brochas y sotanas para tapizar de..."
 categories: ["Derechos Humanos", "Feminismo", "Género", "Libertad de expresión", "Medios de Comunicación", "Política", "Movimiento Social", "Protesta", "Estado de Derecho", "Realidad Nacional", "Resistencia", "Sexualidad", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12154
 ---
 

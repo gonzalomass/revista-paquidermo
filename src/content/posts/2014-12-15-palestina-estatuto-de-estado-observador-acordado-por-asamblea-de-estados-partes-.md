@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "palestina-estatuto-de-estado-observador-acordado-por-asamblea-de-estados-partes-"
 excerpt: "La Asamblea de los Estados Partes en el Estatuto de Roma (que establece desde 1998 la Corte Penal Internacional - CPI) se reúne desde el pasado Lunes 8 hasta el próximo 17 de dic..."
 categories: ["Internacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11235
 ---
 

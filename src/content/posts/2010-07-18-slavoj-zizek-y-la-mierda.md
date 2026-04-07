@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "slavoj-zizek-y-la-mierda"
 excerpt: ""
 categories: ["Sociedad"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1782
 ---
 

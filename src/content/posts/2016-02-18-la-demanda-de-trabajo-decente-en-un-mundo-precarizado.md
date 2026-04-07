@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-demanda-de-trabajo-decente-en-un-mundo-precarizado"
 excerpt: "Por descontado, aceptaremos que no sólo es una reivindicación legítima, sino además apremiante. Múltiples actores sociales y políticos concuerdan en que, al margen del capital educativo de los individ..."
 categories: ["Economía", "Desempleo", "Neoliberalismo", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13067
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "luis-guillermo-solis-presidente"
 excerpt: "André Feliciano © El Partido Acción Ciudadana se apresta por primera vez en la historia a ejercer la tarea de gobernar el país. Lo logró después de 14 años de su fundación y, curiosamente, con un cand..."
 categories: ["Política", "Electoral", "Realidad Nacional"]
-tags: ["Sección: Editorial", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Editorial"
 wp_id: 10290
 ---
 

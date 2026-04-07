@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "costa-rica-el-pais-mas-gay-del-mundo"
 excerpt: "Antes de encender la alarma de los valores, los rosarios y la tradición del ‘ser costarricense’: sí, Costa Rica es el país más GAY del mundo, y así nos vende el ICT. Y antes de sufrir demanda legal, a..."
 categories: ["Derechos Humanos", "Minorías", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 4729
 ---
 

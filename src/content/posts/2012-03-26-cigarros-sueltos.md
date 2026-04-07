@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "cigarros-sueltos"
 excerpt: "Para César Manso y Adrián Poveda La penúltima imagen suya que guardo es tres cuartos de cuerpo asomado por la ventana de copiloto del pick-up, precedido por una carcajada prodigiosa, gritando “¡chupam..."
 categories: ["Literatura", "Realidad Nacional"]
-tags: ["Columna Bífida"]
+tags: []
+columna: "Bífida"
 wp_id: 5776
 ---
 

@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "el-reconocimiento-de-palestina-por-parte-de-suecia-balance-y-perspectivas"
 excerpt: ":: Nicolás Boeglin (*) :: El pasado 30 de octubre, Suecia procedió a reconocer oficialmente a Palestina como Estado. La amplia cobertura mediática dada a este hecho se explica debido a que se trata de..."
 categories: ["Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11121
 ---
 

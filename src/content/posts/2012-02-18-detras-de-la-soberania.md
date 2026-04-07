@@ -5,7 +5,8 @@ author: "gustavo-fuchs"
 slug: "detras-de-la-soberania"
 excerpt: "“[Frente a los argumentos de la oposición] es urgente, prioritario y patriótico votar este plan fiscal”. Fabio Molina, Diputado PLN. Nuevas tensiones han surgido a raíz de la co..."
 categories: ["Ambiente", "América Central", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5601
 ---
 

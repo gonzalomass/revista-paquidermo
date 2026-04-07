@@ -5,7 +5,8 @@ author: "santiago-navarro-cerdas"
 slug: "un-relato-personal-sobre-la-ccss-o-acerca-de-ganado-enfermedades-naturismo-elite"
 excerpt: "La enfermedad en el lugar que cura. A inicios de diciembre estuve internado seis días en el hospital Calderón Guardia. Un día me sentí una masa testicular, me fui a revisar y en..."
 categories: ["Capitalismo", "Economía", "Neoliberalismo", "Política", "Corrupción", "Salud"]
-tags: ["Lo Recomendado", "Doxa", "Sección Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12987
 ---
 

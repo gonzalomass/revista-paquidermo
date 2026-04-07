@@ -5,7 +5,8 @@ author: "alejandro-alvarado-alcazar"
 slug: "cletafication"
 excerpt: ":: Alejandro Alvarado Alcázar (*) :: La discusión sobre los procesos de gentrificación en las ciudades latinoamericanas, ha posicionado en el debate una de las dimensiones menos consideradas de esta d..."
 categories: ["Capitalismo", "Cultura", "Economía", "Historia", "Marxismo", "Política", "Movimiento Social", "Realidad Nacional", "Sociedad"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12381
 ---
 

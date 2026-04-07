@@ -5,7 +5,8 @@ author: "adriana-naranjo"
 slug: "obregon-entra-en-la-monarquia"
 excerpt: "Hace dos meses escribí un comentario sobre la “auto-defensa” que publicó Manuel Obregón en La Nación (\"El cambio lo haremos nosotros\" ) en torno a las críticas por su participaci..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 810
 ---
 

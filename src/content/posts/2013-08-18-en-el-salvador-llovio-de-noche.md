@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "en-el-salvador-llovio-de-noche"
 excerpt: "Monumento a la Memoria y la Verdad, San Salvador. para Miguel Un día fuimos a la playa, la gente disfrutó intensamente del sol y el rugido del mar debajo de las gaviotas. Al final del atardecer se ace..."
 categories: ["Cotidianidad", "Cultura"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 9032
 ---
 

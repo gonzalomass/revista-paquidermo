@@ -5,7 +5,8 @@ author: "david-ulloa"
 slug: "canibalismo"
 excerpt: "Thomas Hawk © A los 19 años me comía las uñas de solo pensar en decirle a mami que tenía novio y me sudaban las manos cuando ese novio me las tomaba en plena Plaza de la Cultura. Tar..."
 categories: ["Sexualidad"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10353
 ---
 

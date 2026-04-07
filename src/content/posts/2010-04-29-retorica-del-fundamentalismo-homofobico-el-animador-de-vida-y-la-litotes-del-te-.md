@@ -5,7 +5,8 @@ author: "daniel-fernandez-fernandez"
 slug: "retorica-del-fundamentalismo-homofobico-el-animador-de-vida-y-la-litotes-del-te-"
 excerpt: "Día 22 de abril del año 2010, el canal 7 de la televisión de Costa Rica, presenta en su edición del medio día una entrevista titulada Homosexuales: ¿Nacen o se hacen? ..."
 categories: ["Sexualidad", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1126
 ---
 

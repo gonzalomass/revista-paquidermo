@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "de-francisco-robles-a-francisco-robles"
 excerpt: "Dios no quiere rodillas humilladas en los templos, sino piernas de fuego galopando, mentes pariendo brasas, labios haciendo besos. Jorge Debravo No soy el único cuyo nombre se repite acá o afuera. Tan..."
 categories: ["Religión", "Sexualidad"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 4369
 ---
 

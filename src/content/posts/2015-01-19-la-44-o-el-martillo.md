@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "la-44-o-el-martillo"
 excerpt: "O “Stack-o-Lee”, o “Stagolee”, es un hombre malo. Las cientos de canciones que han llevado su nombre y su mito desde las épocas posteriores a la guerra civil estadounidense lo definen siempre como un ..."
 categories: ["Cultura"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 11290
 ---
 

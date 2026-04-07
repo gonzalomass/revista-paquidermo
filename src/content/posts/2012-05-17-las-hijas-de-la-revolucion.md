@@ -5,7 +5,8 @@ author: "ana-silvia-monzon"
 slug: "las-hijas-de-la-revolucion"
 excerpt: "La invasión estadounidense en 1954 tuvo un fuerte impacto en la sociedad guatemalteca. El recuento de daños, que cada vez se hace más claro, incluye entre otros el rompimiento de un naciente Estado de derecho, la expulsión de un presidente electo, la pérdida de una oportunidad histórica para empezar a configurar una sociedad incluyente"
 categories: ["Estado de Derecho"]
-tags: ["Sección: Periscopio"]
+tags: []
+seccion: "Periscopio"
 wp_id: 5893
 ---
 

@@ -5,7 +5,8 @@ author: "fabiola-pomareda"
 slug: "automotores-orletti-memorias-de-la-dictadura-argentina"
 excerpt: "El lugar se conserva muy parecido al año 1976, aunque en claro deterioro. En la planta baja funcionaba el taller mecánico y consiste en un oscuro y frío salón de unos 8 metros d..."
 categories: ["América Latina"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11331
 ---
 

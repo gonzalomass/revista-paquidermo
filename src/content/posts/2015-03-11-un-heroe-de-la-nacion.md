@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "un-heroe-de-la-nacion"
 excerpt: "Imagen: Luciano Goizueta Desde que los empresarios y publicistas de La Nación S.A. resolvieron hacer de su periódico la voz de toda Costa Rica, o sea de su pueblo soberano (el punto toca los artículos..."
 categories: ["América Latina", "Medios de Comunicación"]
-tags: ["Lo Recomendado", "Columna: Pensar América Latina"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11487
 ---
 

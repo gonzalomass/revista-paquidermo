@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "muertos-al-cielo-vivos-en-la-tierra"
 excerpt: "De acuerdo a la sapiencia china, toda persona que fallece ha estado viva. Resulta inevitable por ello que quienes la amaron, respetaron e incluso admiraron en vida, resientan su muerte, la lloren y ex..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10758
 ---
 

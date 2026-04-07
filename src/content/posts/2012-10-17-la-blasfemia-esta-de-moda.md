@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "la-blasfemia-esta-de-moda"
 excerpt: "Foto: Adel Z La blasfemia está de moda. Es un tema “in” en estos días y nadie que medio sea aficionado a las noticias, o a las “noticias”, puede negarlo. Solo en las últimas semanas Internet, y un poq..."
 categories: ["Religión"]
-tags: ["Columna: Botellita de jerez", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Botellita de jerez"
 wp_id: 7057
 ---
 

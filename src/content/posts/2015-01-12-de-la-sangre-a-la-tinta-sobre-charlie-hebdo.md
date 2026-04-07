@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "de-la-sangre-a-la-tinta-sobre-charlie-hebdo"
 excerpt: "Tratar de decir algo después de lo que ha sucedido estos días en Francia puede ser pretensioso. Los ríos de tinta que se han desbordado en las últimas horas, inundando las redes sociales y proclamando..."
 categories: ["Política", "Internacional"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 11269
 ---
 

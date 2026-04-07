@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros"
 slug: "que-es-el-sonido"
 excerpt: "No sé si los niños de hoy aún lo hacen. Si no… ¡de lo que se pierden! El teléfono de cordel y vasos plásticos fue una de esas tareas escolares que me marcó (sí, nada como tener un alma sencilla). Podr..."
 categories: ["Ciencia"]
-tags: ["Columna: Ojo de Camaleón"]
+tags: []
+columna: "Ojo de Camaleón"
 wp_id: 6204
 ---
 

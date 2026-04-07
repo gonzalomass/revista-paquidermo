@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "presentacion-de-la-columna"
 excerpt: "Las chayoteras crecen rápido y lo abrazan todo."
 categories: ["Ecología"]
-tags: ["Columna: La Chayotera"]
+tags: []
+columna: "La Chayotera"
 wp_id: 5274
 ---
 

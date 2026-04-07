@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-fe-es-mas-barata-que-la-varilla-de-construccion"
 excerpt: "Históricamente los desastres naturales han desatado clamores al cielo, pero en un caso como el reciente terremoto del 5 de septiembre, las voces son de agradecimiento por la protección otorgada por un..."
 categories: ["Ciencia"]
-tags: ["Columna: Ojo de Camaleón", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ojo de Camaleón"
 wp_id: 6421
 ---
 

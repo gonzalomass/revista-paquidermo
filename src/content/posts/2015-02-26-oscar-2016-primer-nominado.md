@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "oscar-2016-primer-nominado"
 excerpt: ""
 categories: ["Caricatura", "Imagen"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 11421
 ---
 

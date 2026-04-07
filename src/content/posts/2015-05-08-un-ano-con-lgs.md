@@ -5,7 +5,8 @@ author: "victor-hugo-acuna"
 slug: "un-ano-con-lgs"
 excerpt: "Imagen: El domador de pulgas, Xilografía. Max Jiménez. ¿Ha satisfecho el presidente Luis Guillermo Solís las expectativas de más de un millón de personas que lo eligieron hace un año? La pregunta es r..."
 categories: ["América Central", "Política"]
-tags: ["Dossier", "Columna: Tientos y Resistencias"]
+tags: ["Dossier"]
+columna: "Tientos y Resistencias"
 wp_id: 11827
 ---
 

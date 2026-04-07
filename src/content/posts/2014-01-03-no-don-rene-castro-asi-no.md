@@ -5,7 +5,8 @@ author: "nayuribe-chavarria"
 slug: "no-don-rene-castro-asi-no"
 excerpt: "Foto: Oscar Cruz :: Nayuribe Chavarria :: No Don René. No se desprestigia un video con verdades insultando, ni desprestigiando a otros. No se argumenta de esta manera. Se me ocurren maneras de “pagarl..."
 categories: ["Riamos para no llorar", "Política", "Realidad Nacional"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9662
 ---
 

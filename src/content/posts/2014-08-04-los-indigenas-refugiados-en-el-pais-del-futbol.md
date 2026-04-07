@@ -5,7 +5,8 @@ author: "rodrigo-sequeira"
 slug: "los-indigenas-refugiados-en-el-pais-del-futbol"
 excerpt: "Director de la película ÍNDIO CIDADÃO? - ¿ORIGINARIO CIUDADANO? (BRASIL/D.F., 2014). El manifiesto “DEMARCAÇÃO JÁ” (en referencia a la demarcación inmediata de tierras indígenas..."
 categories: ["Política", "Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10786
 ---
 

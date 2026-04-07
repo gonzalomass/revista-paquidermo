@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "quieren-hablar-de-privilegiados"
 excerpt: "Sin duda en Costa Rica hay privilegiados: Hay 2 costarricenses en la lista de las 12 personas más ricas de Centroamérica: - Ramón Mendiola Sánchez, director de Florida Ice & Farm Co. (Fifco), numero 3..."
 categories: ["América Latina", "América Central", "Capitalismo", "Economía", "Neoliberalismo", "Historia", "Política", "Movimiento Social", "Protesta", "Realidad Nacional", "Resistencia", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: ¡Qué Panfle!"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 12358
 ---
 

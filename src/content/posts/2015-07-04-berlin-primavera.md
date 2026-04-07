@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "berlin-primavera"
 excerpt: "La primavera no entró como en las películas. Empezó con días nubosos, envueltos en una brisa gélida. Esto tuvimos que explicárselo a LaMayor y LaMenor que esperaban un cambio de interruptor en el clim..."
 categories: ["Sociedad", "Crónica", "Cultura", "Cotidianidad", "Internacional"]
-tags: ["Lo Recomendado", "Columna Bífida"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 12217
 ---
 

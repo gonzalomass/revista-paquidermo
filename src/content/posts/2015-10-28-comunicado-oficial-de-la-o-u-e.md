@@ -5,7 +5,8 @@ author: "laura-rivas"
 slug: "comunicado-oficial-de-la-o-u-e"
 excerpt: "A quien interese, En vista de la contagiosa alarma mundial por las recientes declaraciones emitidas por la OMS y como organización autónoma y superior en temas de patología, la..."
 categories: ["Caricatura", "Ciencia", "Cultura", "Gastronomía", "La muerte", "Salud"]
-tags: ["Lo Recomendado", "Doxa", "Sección Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12805
 ---
 

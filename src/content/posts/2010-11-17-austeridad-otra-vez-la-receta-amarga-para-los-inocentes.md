@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "austeridad-otra-vez-la-receta-amarga-para-los-inocentes"
 excerpt: "Después de justificar la mayor asistencia financiera en la historia de las intervenciones Estatales, para rescatar a un puñado de multimillonarios incompetentes (y/o corruptos), las fuerzas políticas ..."
 categories: ["Economía", "Internacional"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 2594
 ---
 

@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "contradicciones-de-villalta"
 excerpt: "Imagen: Los carpinteros Esta campaña electoral en Costa Rica ha sido calificada de sorpresiva e inusual. Es ciertamente inusual que un partido de izquierda lidere las encuestas. Lo que no resulta nuev..."
 categories: ["Política", "Electoral"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 9827
 ---
 

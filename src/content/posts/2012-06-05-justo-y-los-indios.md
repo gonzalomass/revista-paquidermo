@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "justo-y-los-indios"
 excerpt: "Inmediatamente, usando una lógica a prueba de errores, el español los acusó de sodomía, práctica viciosa, pecado nefando, violación a la ley natural, desvío inhumano y demoníaco. Ante el horror de dicho acto, optó por lo que consideró ser el castigo más justo: que todos los indios, amarrados y desnudos, fueran comidos por los perros..."
 categories: ["Derechos Humanos"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 5966
 ---
 

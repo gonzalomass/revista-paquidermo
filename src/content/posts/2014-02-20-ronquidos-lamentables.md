@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "ronquidos-lamentables"
 excerpt: "Imagen: Elizabeth Patterson Conocidos los resultados de la elección parlamentaria y presidencial, saltan a la vista los claros perdedores de esta fase: la maquina electoral del pseudo partido Liberaci..."
 categories: ["Política", "Democracia", "Electoral"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10106
 ---
 

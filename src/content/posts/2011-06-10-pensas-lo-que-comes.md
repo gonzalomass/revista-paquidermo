@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "pensas-lo-que-comes"
 excerpt: ""
 categories: ["Cultura", "Imagen"]
-tags: ["Columna: (Paréntesis de Papel)"]
+tags: []
+columna: "(Paréntesis de Papel)"
 wp_id: 3834
 ---
 

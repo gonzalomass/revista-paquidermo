@@ -5,7 +5,8 @@ author: "roberto-mignone"
 slug: "puentes-entre-la-poblacion-refugiada-y-las-empresas"
 excerpt: ":: Roberto Mignone (*) :: Cuando llegué a Costa Rica como Representante del ACNUR en 2012, sabía que este país ha tenido una gran tradición de protección y también que es la segunda nación en América ..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10868
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-recuento-de-los-danos"
 excerpt: "A finales del mes pasado en un popular programa matutino de radio conducido por Amelia Rueda, la gente opinaba sobre cuáles eran las noticias más importantes de 2010. Las opiniones no estaban tan divi..."
 categories: ["América Latina", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 2710
 ---
 

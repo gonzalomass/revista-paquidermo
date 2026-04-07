@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "la-carne-contraataca"
 excerpt: "Una reportera con alguna noción de latín fue quien avanzó la nota sobre la renuncia de Benedicto XVI. Pero correspondió a otra periodista, Pillar Troleros, filtrada por pasillos intersticiales del Pal..."
 categories: ["Religión"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 7939
 ---
 

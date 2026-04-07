@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "con-el-cholo-a-la-cabeza"
 excerpt: "A mediados de la década de los 90, un cabezazo de Simeone dio el campeonato de Liga del Doblete. Hoy, el Cholo está a la cabeza del Atlético de Madrid. Con el 1 a 0 a favor, salió al Allianz Arena con..."
 categories: ["Crónica", "Cultura", "Deportes", "Fútbol"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13186
 ---
 

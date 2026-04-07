@@ -5,7 +5,8 @@ author: "bryan-gonzalez-hernandez"
 slug: "en-costa-rica-construimos-un-pais-seguro"
 excerpt: "No olvidemos que esta administración ya declaró quienes son realmente sus enemigos: “los grupos radicales” que se opongan al saqueo del país, que señalándolo así sientan las bases de una declaratoria de guerra civil-social y la disposición de matar/morir de cada una de las personas que conforman esta nación."
 categories: ["Democracia", "Derechos Humanos", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4632
 ---
 

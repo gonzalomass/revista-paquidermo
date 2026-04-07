@@ -5,7 +5,8 @@ author: "gary-lehring"
 slug: "elecciones-legislativas-en-costa-rica-demuestran-el-descontento-del-votante-con-"
 excerpt: "Imagen: Evan Holm :: Gary Lehring* :: Tras el fracaso sorpresa del Frente Amplio para entrar en la segunda ronda electoral de abril, de muchos de sus partidarios ha surgido que la segunda ronda será s..."
 categories: ["Política", "Democracia", "Electoral"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10089
 ---
 

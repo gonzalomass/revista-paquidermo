@@ -5,7 +5,8 @@ author: "jose-pablo-segreda-johanning"
 slug: "sobre-goles-y-tumbas"
 excerpt: "“Nuestra moral se construye entre los dos arcos. Nos crían en ciertos valores admirables y perversos y podemos elegir entre ser leales a ellos o a la gente que cruzamos en el camino.” Osvaldo Soriano ..."
 categories: ["La muerte", "Deportes"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9006
 ---
 

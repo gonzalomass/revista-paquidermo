@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros"
 slug: "el-meteorito-ruso"
 excerpt: "El viernes 15 de febrero mi despertador sonó, como todos los días, a las 5:55 am. Palmotazo desconsolado para callar el pito, buscar a tientas el control de la tele en una mesa de noche atestada de co..."
 categories: ["Ciencia"]
-tags: ["Columna: Ojo de Camaleón", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ojo de Camaleón"
 wp_id: 7973
 ---
 

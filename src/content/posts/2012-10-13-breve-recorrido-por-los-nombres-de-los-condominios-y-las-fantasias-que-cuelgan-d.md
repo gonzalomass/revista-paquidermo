@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "breve-recorrido-por-los-nombres-de-los-condominios-y-las-fantasias-que-cuelgan-d"
 excerpt: "“Cortijo Los Laureles, es el Condominio Residencial más importante, lujoso, ambicioso y exclusivo de toda Centroamérica. Es el primer Condominio residencial de estilo refinado, verdaderamente Europeo...."
 categories: ["Uncategorized", "Cultura", "Arquitectura"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 6678
 ---
 

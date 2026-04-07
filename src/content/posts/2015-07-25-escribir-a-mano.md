@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "escribir-a-mano"
 excerpt: "Un día vamos a negarnos tres veces. Pero no hoy. Este martes es la noche en que el editor le recuerda a todos que se metió en esto porque escribía. Y cuando digo se-metió-en-esto, quiero decir que rel..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Literatura", "Libertad de expresión", "Literatura"]
-tags: ["Columna Bífida", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 12361
 ---
 

@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "un-vistazo-al-inframundo"
 excerpt: "En el mundo subterráneo, las “alianzas” entre distintos organismos alcanzan formas insospechadas para quienes habitamos sobre la superficie. Por ejemplo, nueve de cada diez plantas que crecen en la ti..."
 categories: ["Ecología", "Sostenibilidad"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 9625
 ---
 

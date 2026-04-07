@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "de-pineras-y-suicidios-ipad"
 excerpt: "\"Las víctimas se suicidaron ante la voluntad de la empresa de compensar generosamente a sus familias\" Terry Gou, Consejero Delegado de Foxconn El 45% de los trabajadores elige ir a trabajar aunque est..."
 categories: ["Derechos Humanos", "Economía", "Realidad Nacional"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 1580
 ---
 

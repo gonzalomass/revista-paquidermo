@@ -5,7 +5,8 @@ author: "jose-solano"
 slug: "un-nuevo-vejamen-para-los-empleados-publicos"
 excerpt: "Foto: Zero Kelvin / Tico El anteproyecto de Ley para el Ordenamiento de las Retribuciones Adicionales al Salario Base del Sector Público se encuentra actualmente en discusión entre l..."
 categories: ["Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7063
 ---
 

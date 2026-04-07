@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-nueva-marsellesa"
 excerpt: "Hace tan sólo tres años, desde las páginas de La Nación, se lanzaban cientos de halagos y buenos presagios para Nicolás Sarkozy. Para la oligarquía y los nuevos ricos de tiquicia, el self made man fra..."
 categories: ["Internacional", "Política"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 2023
 ---
 

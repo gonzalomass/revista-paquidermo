@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "politica-exterior-para-llevar"
 excerpt: "Imagen por Bejan En el país de “los nunca jamás” las ocurrencias en materia de política exterior de la actual administración Chinchilla (Arias Reloaded) rebotan entre el frenesí c..."
 categories: ["Internacional", "Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 1711
 ---
 

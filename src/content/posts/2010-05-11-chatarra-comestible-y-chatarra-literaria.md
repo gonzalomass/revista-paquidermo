@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "chatarra-comestible-y-chatarra-literaria"
 excerpt: "Hay en estos días chatarra para todos los gustos: chatarra televisiva y farandulera, chatarra mediática y publicitaria, política-chatarra, chatarra-chatarra; pero hay dos tipos en especial, que, a mi ..."
 categories: ["Cultura"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 1190
 ---
 

@@ -5,7 +5,8 @@ author: "marco-feoli"
 slug: "elogio-a-las-malas-palabras"
 excerpt: "Hace unas semanas, el viceministro de Hacienda, Fernando Rodríguez, al hilo de un reportaje que se transmitía en televisión sobre abusadores sexuales, soltó en Twitter esta perla: “U..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10771
 ---
 

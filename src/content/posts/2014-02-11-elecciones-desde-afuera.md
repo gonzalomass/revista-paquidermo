@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "elecciones-desde-afuera"
 excerpt: "Fotografía: Alpay Erdem Son las 2 am y no puedo dormir. Estamos en París, llegamos hace varios días y estamos durmiendo en el apartamento de un amigo. María y yo en la cama, mientras Felipe se debate ..."
 categories: ["Política", "Democracia", "Electoral"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 10064
 ---
 

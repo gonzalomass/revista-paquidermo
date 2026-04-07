@@ -5,7 +5,8 @@ author: "esteban-mata"
 slug: "un-viejo-loco-al-que-le-decian-pepe"
 excerpt: "El viejo empezó a hablar. El auditorio lo escuchaba y todos babeaban. El auditorio olía a perfume fino y a sonrisa posada, y el viejo, a monte y a sol. El auditorio estaba lleno de ..."
 categories: ["América Latina"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11343
 ---
 

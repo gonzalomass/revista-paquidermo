@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "dare-el-himno-de-la-internacional-y-el-papa"
 excerpt: "A un amigo que por esas extrañas paradojas de la vida lo mataron las drogas, le gustaba repetir lo que él mismo había convertido en una máxima: lo único peor que un borracho es un borracho rehabilitad..."
 categories: ["Política", "Realidad Nacional", "Religión"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 3355
 ---
 

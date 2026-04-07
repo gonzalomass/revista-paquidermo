@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "dos-o-tres-cosas-que-se-de-ella-la-historia"
 excerpt: "Preservo la convicción de que es necesario mantener una relación sana con el pasado, más allá de los espejismos y hedonismos de un presente siempre actual y siempre en fuga, y por encima de la obsesión reciente por una memoria petrificada y fantasmal. En mi opinión, tal relación pasa necesariamente por un conocimiento histórico empírico, racional y secular."
 categories: ["Historia"]
-tags: ["Columna: Tientos y Resistencias"]
+tags: []
+columna: "Tientos y Resistencias"
 wp_id: 5511
 ---
 

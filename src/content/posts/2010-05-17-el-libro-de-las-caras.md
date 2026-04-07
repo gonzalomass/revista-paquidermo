@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-libro-de-las-caras"
 excerpt: "Un día de estos Facebook tuvo que apagar su servicio de Chat, porque cualquier usuario con cuatro clics podía llegar a ver las conversaciones que estaba teniendo cualquiera de sus amigos. Bien, pensé...."
 categories: ["Medios de Comunicación", "Tecnología"]
-tags: ["Columna: Hipocondria"]
+tags: []
+columna: "Hipocondria"
 wp_id: 1219
 ---
 

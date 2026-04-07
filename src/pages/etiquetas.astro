@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts');
+const tagMap = new Map<string, { name: string; slug: string; count: number }>();
+
+for (const post of posts) {
+  for (const tag of post.data.tags) {
+    const slug = tag.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    if (!tagMap.has(slug)) {
+      tagMap.set(slug, { name: tag, slug, count: 0 });
+    }
+    tagMap.get(slug)!.count++;
+  }
+}
+
+const tags = Array.from(tagMap.values()).sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout title="Etiquetas" noindex>
+  <header class="mb-10">
+    <h1 class="font-display text-3xl md:text-4xl font-bold text-paqui-dark">Etiquetas</h1>
+    <p class="mt-2 text-sm font-sans text-paqui-muted">{tags.length} etiquetas en el archivo</p>
+  </header>
+
+  <input
+    type="text"
+    id="filter"
+    placeholder="Buscar etiqueta..."
+    class="w-full border-b border-paqui-rule bg-transparent px-0 py-3 text-sm font-sans text-paqui-body focus:outline-none focus:border-paqui-red placeholder:text-paqui-muted transition-colors mb-10"
+  />
+
+  <div id="list" class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-8">
+    {tags.map((tag) => (
+      <a
+        href={`/etiqueta/${tag.slug}`}
+        data-name={tag.name.toLowerCase()}
+        class="filter-item flex justify-between items-baseline py-3 border-b border-paqui-rule/40 hover:text-paqui-red transition-colors group"
+      >
+        <span class="font-serif font-semibold group-hover:text-paqui-red transition-colors">{tag.name}</span>
+        <span class="text-xs font-sans text-paqui-muted ml-2 shrink-0">{tag.count}</span>
+      </a>
+    ))}
+  </div>
+
+  <p id="no-results" class="hidden text-paqui-muted text-sm font-sans mt-6">No se encontraron etiquetas.</p>
+</BaseLayout>
+
+<script is:inline>
+  document.getElementById('filter').addEventListener('input', function () {
+    var q = this.value.toLowerCase();
+    var items = document.querySelectorAll('.filter-item');
+    var visible = 0;
+    items.forEach(function (el) {
+      var match = el.getAttribute('data-name').indexOf(q) !== -1;
+      el.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    document.getElementById('no-results').style.display = visible ? 'none' : 'block';
+  });
+</script>

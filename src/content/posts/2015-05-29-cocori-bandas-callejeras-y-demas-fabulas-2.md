@@ -5,7 +5,8 @@ author: "sergio-arroyo"
 slug: "cocori-bandas-callejeras-y-demas-fabulas-2"
 excerpt: "Foto: Sarah Klockars-Clauser :: Sergio Arroyo (*) :: Casi no hay ningún texto literario que no ofenda algo o a alguien. Aunque no todos alcanzan el mismo puntaje ofensivo. Hay algunos que son todos un..."
 categories: ["Educación", "Literatura", "Ficción", "Literatura", "Sociedad"]
-tags: ["Sección Doxa", "Doxa"]
+tags: ["Doxa"]
+seccion: "Doxa"
 wp_id: 11914
 ---
 

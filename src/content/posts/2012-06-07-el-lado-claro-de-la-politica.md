@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "el-lado-claro-de-la-politica"
 excerpt: "El sábado fue la fiesta de presentación de la precandidatura de Rodrigo Arias. Me habían invitado a subirme en una buseta llena de gente del barrio con las siguientes palabras: “el sábado presenta la ..."
 categories: ["Política"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 5970
 ---
 

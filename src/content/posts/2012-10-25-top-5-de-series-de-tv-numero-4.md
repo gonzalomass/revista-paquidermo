@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "top-5-de-series-de-tv-numero-4"
 excerpt: "Todas las épocas inventan historias: tonos, imágenes, giros y torsiones. En el doblez de esas historias nos encontramos a nosotros mismos, pero también descubrimos sombras, silencios y vacíos. Si los ..."
 categories: ["Entretenimiento"]
-tags: ["Columna: Boca a Boca", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Boca a Boca"
 wp_id: 7109
 ---
 

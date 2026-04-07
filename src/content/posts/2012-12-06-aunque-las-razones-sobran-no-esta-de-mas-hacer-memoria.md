@@ -5,7 +5,8 @@ author: "jose-reynold-quintanilla-moran"
 slug: "aunque-las-razones-sobran-no-esta-de-mas-hacer-memoria"
 excerpt: "Imagen de ElPais.cr :: José Reynold Quintanilla Morán* :: Todos somos testigos que vivimos en una época de deterioro social producto del advenimiento de gobiernos neoliberales, consecuencia de lo ante..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 7524
 ---
 

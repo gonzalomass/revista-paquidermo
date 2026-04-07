@@ -5,7 +5,8 @@ author: "alejandro-marin"
 slug: "las-hermanas-mayores-de-melissa-mora"
 excerpt: "Fabio Morábito escribió una apología de los hermanos mayores de los cuentos de hadas. Para el escritor mexicano, el primogénito y el hermano del medio fracasan adrede para que el..."
 categories: ["Género", "Caricatura", "Cotidianidad", "Riamos para no llorar"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11950
 ---
 

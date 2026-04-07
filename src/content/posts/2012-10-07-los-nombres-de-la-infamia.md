@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "los-nombres-de-la-infamia"
 excerpt: "El domingo 7 se celebraron 5 años del referéndum sobre el TLC. Un momento sin duda nostálgico e intensamente político. Hace 5 años la lucha se perdió en unas urnas amañadas. Y sin embargo, se puede ha..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 6657
 ---
 

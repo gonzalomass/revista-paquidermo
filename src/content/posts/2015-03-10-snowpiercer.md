@@ -5,7 +5,8 @@ author: "alonso-ramirez-cover"
 slug: "snowpiercer"
 excerpt: "El objetivo de la ciencia ficción no es predecir el futuro, sino que exponer críticamente nuestro presente y pasado, para ofrecer una advertencia sobre nuestro futuro. Snowpie..."
 categories: ["Cultura", "Cine"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11475
 ---
 

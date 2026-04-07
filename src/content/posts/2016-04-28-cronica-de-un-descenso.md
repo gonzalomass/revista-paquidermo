@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "cronica-de-un-descenso"
 excerpt: "El sombrío ambiente comenzó cuando me di cuenta de que no tenía el atuendo aurinegro que me eximía de pagar los 3 rojos del estadio. No tengo blusas amarillas; no es mi color. Pude resolver el problem..."
 categories: ["Crónica", "Cultura", "Entretenimiento", "Fútbol"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13169
 ---
 

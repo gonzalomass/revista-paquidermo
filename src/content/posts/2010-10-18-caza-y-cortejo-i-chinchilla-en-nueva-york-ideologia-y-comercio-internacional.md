@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "caza-y-cortejo-i-chinchilla-en-nueva-york-ideologia-y-comercio-internacional"
 excerpt: "A Sebas Siempre que leo La Nación saco dos pares de anteojos, unos rosados y unos rojos. Rosados porque al ponérmelos tiñen todo rosa, y así veo sexo en todo, o más bien, veo el sexo que está en todo...."
 categories: ["Economía", "Medios de Comunicación", "Realidad Nacional"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 2456
 ---
 

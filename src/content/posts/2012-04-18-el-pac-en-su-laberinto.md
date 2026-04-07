@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "el-pac-en-su-laberinto"
 excerpt: "Los partidos políticos se forman por distintos motivos: aglutinar a grupos particulares de la sociedad de tendencias afines, canalizar demandas de los ciudadanos, etc. Sin embargo, hay un motivo parti..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 5800
 ---
 

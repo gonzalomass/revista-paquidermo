@@ -5,7 +5,8 @@ author: "gustavo-roman-jacobo"
 slug: "respuesta-a-gustavo-fuchs"
 excerpt: "Quisiera hacer algunas anotaciones al texto de Gustavo Fuchs que comenta críticamente mi artículo “Las lecciones de Pablo Iglesias”, aparecido en La Nación (26-8-14). Contra..."
 categories: ["Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10899
 ---
 

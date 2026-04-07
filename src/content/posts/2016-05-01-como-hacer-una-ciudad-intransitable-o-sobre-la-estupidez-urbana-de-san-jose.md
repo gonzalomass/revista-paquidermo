@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "como-hacer-una-ciudad-intransitable-o-sobre-la-estupidez-urbana-de-san-jose"
 excerpt: "Lo menos importante es el transporte público. Pareciera como si en algún lugar existiera escondida una Caja de Pandora llena de carros de todo tipo, carísimos y nuevos, viejos y baratos, desde donde c..."
 categories: ["Capitalismo", "Cultura", "Cotidianidad", "Política", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13179
 ---
 

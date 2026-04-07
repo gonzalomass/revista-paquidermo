@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "la-edad-del-hielo"
 excerpt: "Jana & JS © Ghosts of the Midwinter Fires. Agalloch El sueño en las nieves no es tan claro como se piensa. Las partes del cuerpo que se van congelando no te avisan que ya no están con vos. Y la textur..."
 categories: ["Literatura"]
-tags: ["Columna: Vacaciones en Fobos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vacaciones en Fobos"
 wp_id: 10329
 ---
 

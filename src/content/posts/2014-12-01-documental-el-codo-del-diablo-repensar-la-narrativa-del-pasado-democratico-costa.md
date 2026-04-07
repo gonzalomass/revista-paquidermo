@@ -5,7 +5,9 @@ author: "fabiola-pomareda"
 slug: "documental-el-codo-del-diablo-repensar-la-narrativa-del-pasado-democratico-costa"
 excerpt: "El recientemente estrenado documental histórico costarricense El Codo del Diablo, un viaje que revela parte de la historia oculta de Limón y los detalles de un terrible crimen que consternó a Costa Ri..."
 categories: ["Cultura"]
-tags: ["Columna: En Voz Alta.", "Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "En Voz Alta."
+seccion: "Doxa"
 wp_id: 11187
 ---
 

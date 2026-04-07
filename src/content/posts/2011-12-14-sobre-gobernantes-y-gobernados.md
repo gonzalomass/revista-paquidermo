@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "sobre-gobernantes-y-gobernados"
 excerpt: "Acabo de ver, descaradamente a destiempo, la entrevista de Teletica a Figueres. José María Figueres: de los mismos creadores del “sinceramente no me acuerdo”, de la misma cuadrilla que el teórico del ..."
 categories: ["Política", "Realidad Nacional", "Corrupción"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 5136
 ---
 

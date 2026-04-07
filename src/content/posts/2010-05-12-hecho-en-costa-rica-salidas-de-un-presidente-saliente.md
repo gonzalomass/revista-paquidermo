@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "hecho-en-costa-rica-salidas-de-un-presidente-saliente"
 excerpt: "No dejan de sorprender las declaraciones públicas del ahora ex-presidente de nuestro país en esta última semana de ‘labores’. Sus palabras dan para mucho. Se podría escribir textos sobre el delirio de..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Con-sentimiento In-formado"]
+tags: []
+columna: "Con-sentimiento In-formado"
 wp_id: 1193
 ---
 

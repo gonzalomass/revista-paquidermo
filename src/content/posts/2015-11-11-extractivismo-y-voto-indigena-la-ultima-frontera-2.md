@@ -5,7 +5,8 @@ author: "antulio-rosales"
 slug: "extractivismo-y-voto-indigena-la-ultima-frontera-2"
 excerpt: "El voto indígena en Venezuela representa la última frontera electoral del país. Es un asunto que no se discute, que poco se conoce y, francamente, que poco le interesa a la opini..."
 categories: ["América Latina", "Política", "Democracia", "Movimiento Social", "Protesta"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12863
 ---
 

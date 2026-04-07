@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "don-gobierno-y-dona-prensa-una-relacion-de-telenovela"
 excerpt: "Imagen: Parallela, Víctor Crack Rodríguez La relación entre el Gobierno y los medios de comunicación podría ser descrita como de telenovela. Puede ser un culebrón mexicano, venezolano, colombiano o ha..."
 categories: ["Medios de Comunicación", "Política"]
-tags: ["Dossier", "Lo Recomendado", "Columna: Botellita de jerez"]
+tags: ["Dossier", "Lo Recomendado"]
+columna: "Botellita de jerez"
 wp_id: 11813
 ---
 

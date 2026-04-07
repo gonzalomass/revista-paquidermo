@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "el-mejor-negocio-de-la-democracia"
 excerpt: "Yo tenía 5 años cuando, por encargo, un grupo de narcotraficantes mexicanos torturó hasta la muerte al agente Enrique Kiki Camarena. Recuerdo el sonado caso, pero no sus implicaciones novelescas: en a..."
 categories: ["Drogas", "América Latina"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Segunda Lectura"
 wp_id: 7662
 ---
 

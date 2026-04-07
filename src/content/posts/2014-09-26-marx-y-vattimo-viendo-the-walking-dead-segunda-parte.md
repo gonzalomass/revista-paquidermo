@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "marx-y-vattimo-viendo-the-walking-dead-segunda-parte"
 excerpt: "Creo que hay dos grandes tipos de razones por las cuales a la izquierda política le gusta el apocalipsis zombie representado en Walking Dead: unas son epistemológicas y otras ético-políticas. Las rese..."
 categories: ["Cultura"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10981
 ---
 

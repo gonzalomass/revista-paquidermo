@@ -5,7 +5,8 @@ author: "fabian-coto-chaves"
 slug: "contra-el-optimismo-un-dialogo-entre-siglos"
 excerpt: "Emil Ludwig decía que, dentro de las múltiples determinaciones históricas que explican el ascenso de Hitler en Alemania y no, digamos, en Inglaterra,"
 categories: ["Electoral", "Humor", "Política", "Realidad Nacional", "Riamos para no llorar"]
-tags: ["Columna: Cantarrana", "Elecciones 2018", "Fabricio Alvarado"]
+tags: ["Elecciones 2018", "Fabricio Alvarado"]
+columna: "Cantarrana"
 wp_id: 13658
 ---
 

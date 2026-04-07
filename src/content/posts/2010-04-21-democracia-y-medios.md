@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "democracia-y-medios"
 excerpt: "La vergüenza acaecida en días pasados en la Universidad de Costa Rica, ya harto discutida por cientos de voces, propone reflexionar de nuevo sobre el papel de los medios de comunica..."
 categories: ["Democracia", "Medios de Comunicación", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1063
 ---
 

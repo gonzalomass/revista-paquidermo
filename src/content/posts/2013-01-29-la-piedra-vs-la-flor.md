@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "la-piedra-vs-la-flor"
 excerpt: "Foto: Nhoj Leunamme == Jhon Emmanuel's Debo decir que los diferentes eventos y manifestaciones que se dieron el pasado noviembre en nuestra capital me abrieron los ojos sobre muchas cosas, especialmen..."
 categories: ["Democracia", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Cementerio de Elefantes"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 7816
 ---
 

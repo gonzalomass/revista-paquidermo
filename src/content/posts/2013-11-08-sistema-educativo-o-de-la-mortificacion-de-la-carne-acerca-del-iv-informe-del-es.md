@@ -5,7 +5,8 @@ author: "roberto-fragomeno"
 slug: "sistema-educativo-o-de-la-mortificacion-de-la-carne-acerca-del-iv-informe-del-es"
 excerpt: "\"Alguien pone candados en los libros / y un silencio se aprieta en los armarios.\" Jorge Debravo 1. Hay cosas privadas, íntimas. Algunas huelen mal. Por eso no se divulgan. Pero..."
 categories: ["Uncategorized"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9458
 ---
 

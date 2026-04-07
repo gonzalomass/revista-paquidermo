@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "ken-robinson-cambiando-paradigmas-en-la-educacion-2"
 excerpt: ""
 categories: ["Economía", "Educación", "video"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 3210
 ---
 

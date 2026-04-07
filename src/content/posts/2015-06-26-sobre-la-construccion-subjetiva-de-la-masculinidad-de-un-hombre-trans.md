@@ -5,7 +5,8 @@ author: "tomas-campos"
 slug: "sobre-la-construccion-subjetiva-de-la-masculinidad-de-un-hombre-trans"
 excerpt: "Soy un hombre trans con 2 años y 8 meses de tratamiento hormonal con testosterona. Mi construcción de identidad empezó desde que era un niño al igual que todas las personas. Sin emb..."
 categories: ["Derechos Humanos", "Feminismo", "Género", "Libertad de expresión", "Minorías", "Política", "Movimiento Social", "Protesta", "Estado de Derecho", "Realidad Nacional", "Resistencia", "Sexualidad", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12162
 ---
 

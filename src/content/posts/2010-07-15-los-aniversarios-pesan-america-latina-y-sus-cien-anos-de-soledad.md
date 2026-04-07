@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "los-aniversarios-pesan-america-latina-y-sus-cien-anos-de-soledad"
 excerpt: "“Y por eso, señores, venimos a festejar hoy día al muy ilustre protector de las clases necesitadas, que vela por nosotros con amor de padre y lleva a nuestro país, como ya dije, a la vanguardia del pr..."
 categories: ["América Latina", "Cultura", "Derechos Humanos"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 1775
 ---
 

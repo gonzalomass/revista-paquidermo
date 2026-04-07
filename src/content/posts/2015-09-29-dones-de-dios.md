@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "dones-de-dios"
 excerpt: "Con fotomontaje de 1/3 de página y aspecto sagaz (obviamente no es militante del Frente Amplio) el vocero de la Conferencia Episcopal, sacerdote Mauricio Víquez, publicitó en La Nación S.A. su rechazo..."
 categories: ["Derechos Humanos", "Género", "Política", "Movimiento Social", "Protesta", "Estado de Derecho", "Realidad Nacional", "Religión", "Sexualidad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12679
 ---
 

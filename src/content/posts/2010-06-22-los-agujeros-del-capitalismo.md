@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "los-agujeros-del-capitalismo"
 excerpt: "La catástrofe del Golfo de México por el estallido de la plataforma Deepwater Horizon y el consiguiente derrame de crudo, nos hace ver cuánta razón tienen las abuelas cuando dicen que “nunca se abre u..."
 categories: ["Derechos Humanos", "Economía", "Internacional"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 1544
 ---
 

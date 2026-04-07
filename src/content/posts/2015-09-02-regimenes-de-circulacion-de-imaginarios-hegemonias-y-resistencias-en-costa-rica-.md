@@ -5,7 +5,8 @@ author: "victor-hugo-acuna"
 slug: "regimenes-de-circulacion-de-imaginarios-hegemonias-y-resistencias-en-costa-rica-"
 excerpt: "La semana pasada me encontré un grafiti en el Hombres de la planta baja de Estudios Generales que decía: “Queremos un mundo donde quepan muchos mundos”, firmado con el símbolo anarquista. La expresión..."
 categories: ["Cultura", "Cotidianidad", "Entretenimiento", "Imagen", "Política", "Sociedad"]
-tags: ["Columna: Tientos y Resistencias", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Tientos y Resistencias"
 wp_id: 12563
 ---
 

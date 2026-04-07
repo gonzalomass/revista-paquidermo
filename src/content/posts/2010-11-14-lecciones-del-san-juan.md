@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "lecciones-del-san-juan"
 excerpt: "“Daniel Ortega es un impresentable”. Así me lo definió Henry, el guachi de mi barrio. Henry, como tantos otros guachis es de Nicaragua. Para ser precisos, es originario de la ciudad de León. Para él, ..."
 categories: ["América Latina", "Internacional", "Política", "Realidad Nacional"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 2566
 ---
 

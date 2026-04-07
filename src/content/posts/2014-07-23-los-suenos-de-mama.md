@@ -5,7 +5,8 @@ author: "sergio-pacheco"
 slug: "los-suenos-de-mama"
 excerpt: "Las mamás que protagonizan el más reciente anuncio de la tienda de electrodomésticos Gollo son unas mujeres hermosas. Posiblemente si hubieran entrevistado a mi madre respondería ..."
 categories: ["Sociedad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10742
 ---
 

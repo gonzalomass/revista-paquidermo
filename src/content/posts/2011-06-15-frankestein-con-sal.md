@@ -5,7 +5,8 @@ author: "mauricio-herrera-rodriguez"
 slug: "frankestein-con-sal"
 excerpt: "Hoy más que nunca podemos asegurar que nuestra necesidad de alimentarnos mata a gente por doquier sin importar país de procedencia. Para más de mil millones de personas que no tienen acceso a suficientes alimentos, esta realidad tiene la cara del hambre y la sed; para el resto, significa lo que el diario español El País ha llamado “una incertidumbre como la de la peste negra”. Esta incertidumbre es causada por el claro peligro para la salud humana que presenta la cadena alimenticia industrializada de la cual dependemos la mayoría de personas que sí comemos."
 categories: ["Ambiente", "Economía", "Salud"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4078
 ---
 

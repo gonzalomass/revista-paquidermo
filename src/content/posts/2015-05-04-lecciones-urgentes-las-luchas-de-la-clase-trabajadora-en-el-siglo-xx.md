@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "lecciones-urgentes-las-luchas-de-la-clase-trabajadora-en-el-siglo-xx"
 excerpt: "Imagen: Jake & Dinos Chapman Nuestro país se ha convertido en un infierno de explotación, este hecho no se puede ocultar más. Datos oficiales señalan que en 2012 uno de cada cinco trabajadores no reci..."
 categories: ["América Latina"]
-tags: ["Lo Recomendado", "Columna: ¡Qué Panfle!"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 11794
 ---
 

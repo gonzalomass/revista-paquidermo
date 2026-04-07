@@ -5,7 +5,8 @@ author: "edouard-leport"
 slug: "la-compleja-circunstancialidad-de-las-fechas-y-celebraciones"
 excerpt: "Este 2012, el 8 de mayo, nadie se tomó la molestia de recordar lo que pasó en Francia en 1945."
 categories: ["Internacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5945
 ---
 

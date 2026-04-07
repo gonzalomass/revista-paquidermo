@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "san-jose-y-la-memoria-adoquinada"
 excerpt: "San José está lleno de parches y de huecos. Está construido sobre tranvías, huelgas y sindicatos de zapateros que ya nadie recuerda. Queda por ahí, en nuestra capital, uno que otro edificio que se aso..."
 categories: ["Sociedad", "Medios de Comunicación", "Entretenimiento", "Cultura"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 3330
 ---
 

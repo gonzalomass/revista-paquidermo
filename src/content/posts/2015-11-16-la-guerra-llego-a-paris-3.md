@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-guerra-llego-a-paris-3"
 excerpt: "Una serie de atentados llenaron de sangre la noche parisina el 13 de noviembre. Será sin duda una fecha para la memoria, apenas 10 meses después del atentado contra la redacción del periódico Charlie ..."
 categories: ["Derechos Humanos", "Internacional", "Política", "Geopolítica", "Sociedad"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 12880
 ---
 

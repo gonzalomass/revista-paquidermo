@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "a-proposito-de-la-reciente-demanda-contra-panama-ante-el-ciadi-breves-apuntes"
 excerpt: "Según las últimas actualizaciones de la página oficial del Banco Mundial, el pasado 15 de abril, se registró formalmente ante el Centro Internacional de Arreglo de Disputas entre Inversionista Extranj..."
 categories: ["Internacional", "Derechos Humanos", "Política", "Geopolítica"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13189
 ---
 

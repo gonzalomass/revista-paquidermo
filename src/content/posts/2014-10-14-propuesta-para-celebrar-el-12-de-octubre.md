@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "propuesta-para-celebrar-el-12-de-octubre"
 excerpt: "1 En mis años escolares el 12 de octubre era una de tantas celebraciones en el calendario: invocábamos a Cristóbal Colón, le agradecíamos por habernos descubierto, nos machacaban la historia de La Pin..."
 categories: ["Cultura"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 11046
 ---
 

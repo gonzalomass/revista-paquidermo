@@ -5,7 +5,8 @@ author: "laura-casasa-nunez"
 slug: "burro-amarrado-contra-tigre-suelto"
 excerpt: "Pues sí, me ofrecen una beca, una carrera, ¡qué más da si tengo que limpiar pisos, cuidar güilas o lavar platos!"
 categories: ["Educación"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5302
 ---
 

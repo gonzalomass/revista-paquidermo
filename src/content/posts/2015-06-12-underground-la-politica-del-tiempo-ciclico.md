@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "underground-la-politica-del-tiempo-ciclico"
 excerpt: "Hace veinte años el Festival de Cannes le otorgó la Palma de Oro, el máximo premio de ese evento para una película, a Underground, polémica alegoría de la historia y disolución de Yugoslavia. Para ent..."
 categories: ["Filosofía", "Cultura", "Cine", "Entretenimiento", "Internacional"]
-tags: ["Lo Recomendado", "Columna: Habitualidades"]
+tags: ["Lo Recomendado"]
+columna: "Habitualidades"
 wp_id: 12039
 ---
 

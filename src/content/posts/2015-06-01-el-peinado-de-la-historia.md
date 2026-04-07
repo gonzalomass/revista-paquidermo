@@ -5,7 +5,8 @@ author: "andres-aguilar"
 slug: "el-peinado-de-la-historia"
 excerpt: "Son tres los elementos, parecieran no tener ninguna relación, pero están profundamente conectados. Un empresario industrial, un equipo de béisbol y una detonación. Tres hilos de c..."
 categories: ["Ciencia", "Historia", "Memoria", "Internacional", "Geopolítica"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11934
 ---
 

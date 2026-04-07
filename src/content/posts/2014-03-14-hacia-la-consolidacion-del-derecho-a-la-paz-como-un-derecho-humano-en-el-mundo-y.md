@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "hacia-la-consolidacion-del-derecho-a-la-paz-como-un-derecho-humano-en-el-mundo-y"
 excerpt: "Imagen: Redmer Hoekstra :: Nicolás Boeglin* :: A inicios del mes de febrero se realizó en San José en la sede del Instituto Interamericano de Derechos Humanos (IIDH) un foro denominado \" El camino hac..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10188
 ---
 

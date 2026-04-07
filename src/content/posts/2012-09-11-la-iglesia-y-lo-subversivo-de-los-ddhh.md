@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-iglesia-y-lo-subversivo-de-los-ddhh"
 excerpt: "“¡Ay, de los que llaman al mal bien, y al bien mal!; que dan oscuridad por luz, y luz por oscuridad!” Isaías 5, 20 Esta es la cita bíblica que encabeza las reflexiones de la conferencia episcopal sobr..."
 categories: ["Religión", "Derechos Humanos", "Salud"]
-tags: ["Columna: Crónicas del cangrejo"]
+tags: []
+columna: "Crónicas del cangrejo"
 wp_id: 6227
 ---
 

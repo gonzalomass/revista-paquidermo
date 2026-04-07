@@ -5,7 +5,8 @@ author: "armando-torres-fauaz"
 slug: "el-tunel-del-tiempo-av-0-c-9-y-7"
 excerpt: "En el San José de hace algunos años había una discoteca que llevaba por nombre el Túnel del Tiempo. Se ubicaba a la altura de Avenida Central, calles 9 y 7; o en buen tico, ..."
 categories: ["Cultura", "Entretenimiento"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12480
 ---
 

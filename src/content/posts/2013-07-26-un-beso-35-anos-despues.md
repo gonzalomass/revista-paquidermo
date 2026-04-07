@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "un-beso-35-anos-despues"
 excerpt: "Normal 0 21 false false false ES-MX X-NONE X-NONE MicrosoftInternetExplorer4 st1\\:*{behavior:url(#ieooui) } /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"Tabla normal\"; mso-tstyle-rowb..."
 categories: ["Amistad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8906
 ---
 

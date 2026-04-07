@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "viaje-como-renuncia-de-si"
 excerpt: "A Nina, por inventarnos Todo es del viento, Y el viento es aire siempre de viaje Octavio Paz * Ítaca te ha dado el bello viaje. Sin ella no habrías emprendido el camino. Pero no tiene ya nada que dart..."
 categories: ["Cultura", "Cine"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11732
 ---
 

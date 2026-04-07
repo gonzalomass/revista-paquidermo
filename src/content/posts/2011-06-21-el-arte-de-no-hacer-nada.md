@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "el-arte-de-no-hacer-nada"
 excerpt: "Me gustaría decir que era una de esas típicas tardes de abril, pero las tardes de mayo no han vuelto a ser típicas desde hace más de una década. A veces las recuerdo frescas y agradables, otras nublad..."
 categories: ["Cultura"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 4127
 ---
 

@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "el-factor-maquiavelo"
 excerpt: "Debido a que se acaban de conmemorar las efemérides de la muerte de un político costarricense, en un espacio de Facebook vecino al mío, los amantes del caudillismo y el culto a lo que algunos de ellos..."
 categories: ["Cultura", "Historia", "Política"]
-tags: ["Columna: Vacaciones en Fobos"]
+tags: []
+columna: "Vacaciones en Fobos"
 wp_id: 4059
 ---
 

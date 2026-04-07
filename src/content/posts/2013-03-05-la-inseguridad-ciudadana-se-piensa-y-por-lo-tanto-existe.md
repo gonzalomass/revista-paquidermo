@@ -5,7 +5,8 @@ author: "gabriel-castro"
 slug: "la-inseguridad-ciudadana-se-piensa-y-por-lo-tanto-existe"
 excerpt: "Foto: Presidencia de la República Yo he preferido hablar de cosas imposibles porque de lo posible se sabe demasiado. Silvio Rodríguez Con el título de este artículo no pretendo ne..."
 categories: ["Uncategorized", "Medios de Comunicación", "Estado de Derecho", "Seguridad Ciudadana"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 8008
 ---
 

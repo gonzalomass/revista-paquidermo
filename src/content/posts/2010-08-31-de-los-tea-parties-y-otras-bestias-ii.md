@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "de-los-tea-parties-y-otras-bestias-ii"
 excerpt: "Al aparecer la primera parte de este artículo, un conocido me preguntó la razón por la cuál escribí sobre un tema que a él le parecía ajeno. Mi respuesta fue que en la segunda parte pretendía desarrol..."
 categories: ["Democracia", "Internacional", "Minorías", "Política", "Realidad Nacional", "Religión"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 2191
 ---
 

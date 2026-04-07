@@ -5,7 +5,8 @@ author: "gustavo-fuchs"
 slug: "la-selectiva-levedad-del-ser"
 excerpt: "Ante la respuesta del señor Gustavo Román Jacobo a mi artículo La semilla del autoritarismo, me veo en la obligación de responder. No porque tenga interés peculiar en el caso de Po..."
 categories: ["Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10908
 ---
 

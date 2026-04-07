@@ -5,7 +5,8 @@ author: "karina-fonseca-vindas"
 slug: "cuidado-consultores-al-acecho"
 excerpt: "Fuente: Allan Mcdonald Es frecuente escuchar quejas sobre un arquetipo de consultores que extrae información de las venas de personas que sufren diferentes privaciones o ab..."
 categories: ["América Central", "Minorías"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8976
 ---
 

@@ -5,7 +5,8 @@ author: "larissa-arroyo-navarrete"
 slug: "el-machismo-mata-el-feminismo-no"
 excerpt: ":: Larissa Arroyo Navarrete (*):: El feminismo lucha por la igualdad de derechos. Desgraciadamente, la estigmatización de la palabra “feminismo” ha hecho que equivocadamente se relacione como el odio ..."
 categories: ["Cultura", "Cotidianidad", "Derechos Humanos", "Feminismo", "Género", "Historia", "Memoria", "Medios de Comunicación", "Política", "Protesta", "Resistencia", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12757
 ---
 

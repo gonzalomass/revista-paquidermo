@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "las-lecciones-politicas-de-la-huelga-de-los-trabajadores-de-la-educacion"
 excerpt: "El balance de lo ocurrido. Mientras escribo este documento, se está iniciando el desmonte de la huelga de los trabajadores de la educación. Algunas regiones rechazan el acuerdo, pero parece haber sido..."
 categories: ["Política", "Movimiento Social"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10535
 ---
 

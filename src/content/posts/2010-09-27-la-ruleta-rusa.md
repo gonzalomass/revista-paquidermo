@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "la-ruleta-rusa"
 excerpt: "En una película que ya es de culto en círculos emo- hipster- indie -pop, protagonizada por el imbécil de Jim Carrey, alguien dice que es un desperdicio pasar mucho tiempo con alguien solo para darse c..."
 categories: ["Entretenimiento", "Medios de Comunicación", "Sociedad"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 2363
 ---
 

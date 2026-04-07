@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "rusia-2018-apuntes"
 excerpt: "Jornada 1"
 categories: ["Crónica", "Fútbol", "Memoria"]
-tags: ["Columna Bífida", "Mundial", "Rusia 2018"]
+tags: ["Mundial", "Rusia 2018"]
+columna: "Bífida"
 wp_id: 14079
 ---
 

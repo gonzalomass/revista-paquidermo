@@ -5,7 +5,8 @@ author: "carlos-abel-suarez"
 slug: "chile-40-anos-la-osadia-de-allende"
 excerpt: "“Para mí la mayor gravedad es lo que continúa después del golpe de Estado…lo que siguió después fue una barbarie, crímenes y asesinatos y destierro. La primera etapa de esta sanación era para mí justi..."
 categories: ["América Latina", "Derechos Humanos"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9234
 ---
 

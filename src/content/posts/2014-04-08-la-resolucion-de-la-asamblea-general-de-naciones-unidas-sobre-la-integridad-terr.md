@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "la-resolucion-de-la-asamblea-general-de-naciones-unidas-sobre-la-integridad-terr"
 excerpt: ":: Nicolás Boeglin*:: Veto del representante de Rusia durante sesión del Consejo de Seguridad de las Naciones Unidas del 15 de marzo del 2014 (foto extraída de nota de prensa). A 12 días de una sesión..."
 categories: ["Política", "Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10277
 ---
 

@@ -5,7 +5,8 @@ author: "alejandro-marin"
 slug: "todas-las-mujeres-en-offside"
 excerpt: "Primero, exigieron el voto. Luego, igualdad salarial. Más recientemente su campo de batalla es la cancha de futbol. Hoy, una muchacha que lee “Mundo Deportivo” representa lo mism..."
 categories: ["Cultura", "Entretenimiento", "Deportes", "Fútbol", "Género", "Historia", "Política", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12072
 ---
 

@@ -5,7 +5,8 @@ author: "ariel-calderon-gonzalez"
 slug: "la-violenta-y-cotidiana-forma-de-operar-de-la-masculinidad-toxica"
 excerpt: "Hace unos días me dí cuenta de un caso de acoso callejero en una compañía de buses que usé durante siete años de mi vida y eso me dejó muy preocupado. ¡Siete años de mi vida! ¿será que no lo noté? O p..."
 categories: ["Cotidianidad", "Derechos Humanos", "Feminismo", "Género", "Política", "Protesta", "Realidad Nacional", "Sexualidad", "Sociedad", "Violencia contra las mujeres"]
-tags: ["Columna: Universos Cotidianos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Universos Cotidianos"
 wp_id: 12113
 ---
 

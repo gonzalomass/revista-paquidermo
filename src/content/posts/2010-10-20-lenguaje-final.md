@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "lenguaje-final"
 excerpt: ":: Alonso Fonseca ::"
 categories: ["Cultura"]
-tags: ["Columna: Procedimientos del mamífero"]
+tags: []
+columna: "Procedimientos del mamífero"
 wp_id: 2470
 ---
 

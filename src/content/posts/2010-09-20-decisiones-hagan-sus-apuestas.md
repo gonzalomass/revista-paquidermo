@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "decisiones-hagan-sus-apuestas"
 excerpt: "Decisiones (Ave María), cada día (Si señor). Alguien pierde, alguien gana ¡Ave María! Decisiones, todo cuesta. Salgan y hagan sus apuestas, ¡Ciudadanía! Decisiones por Rubén Blades Rubén Blades ha hec..."
 categories: ["América Latina", "Internacional", "Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 2341
 ---
 

@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "yo-tarzan-tu-chita"
 excerpt: "Imagen por ruurmo Al bajar del carro de la universidad el cual -muy a mi pesar- iba con el aire acondicionado hasta la mierda, lo primero que pasó fue que mis lentes se empañaron. No es precisamente l..."
 categories: ["América Latina", "Derechos Humanos", "Realidad Nacional"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 1920
 ---
 

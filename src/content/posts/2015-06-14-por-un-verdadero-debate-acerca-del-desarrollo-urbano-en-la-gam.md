@@ -5,7 +5,8 @@ author: "natalia-solano-meza"
 slug: "por-un-verdadero-debate-acerca-del-desarrollo-urbano-en-la-gam"
 excerpt: ":: Natalia Solano Meza (*) :: Una serie de artículos publicados la semana pasada en La Nación han abierto un debate crucial acerca de desarrollo urbano en Costa Rica a raíz del retiro de consulta públ..."
 categories: ["Cultura", "Arquitectura", "Realidad Nacional", "Sociedad", "Sostenibilidad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12052
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "yo-quiero-ser-un-chico-de-liberacion-como-alejandro-fabio-laura-y-otros-pericos-"
 excerpt: "Don Alejandro, no lo culpo, sus 7 párrafos son reflejo de lo que es Liberación Nacional hoy en día: completa falta de autocrítica y la habilidad de nunca ver lo que está mal (hacia adentro). No es sólo usted, ya lo dijo Gallardo: “es que no nos entienden”. La propia presidenta: “vamos a poner a concurso 27 puestos pero TODO ESTABA bien antes”.O Fabio Molina: “ningún responsable en lo de Caldera, son próceres de la patria que la abrieron para ver que tenía mal”."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 4268
 ---
 

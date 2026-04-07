@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "de-los-muros-a-los-ghettos-feisbuqueanos"
 excerpt: "Los muros, como recurso de segregación, son tan sólidos como la etimología de la palabra ‘bárbaro’. El significado de este término, en definitiva, nos da luces sobre la forma en que opera nuestra occidental cabezota: bárbaros serán siempre los otros. Bárbaro será todo aquello que esté detrás del muro, detrás de esa estructura mental de"
 categories: ["Medios de Comunicación", "Sociedad"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 4553
 ---
 

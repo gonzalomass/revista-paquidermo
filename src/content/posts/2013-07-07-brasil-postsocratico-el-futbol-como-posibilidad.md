@@ -5,7 +5,8 @@ author: "jose-pablo-segreda-johanning"
 slug: "brasil-postsocratico-el-futbol-como-posibilidad"
 excerpt: "El hombre del Corinthians que ahora cruza en solitario la línea de cal con el brazo extendido sobre su cabeza y el puño cerrado contra el mundo, como queriendo convo..."
 categories: ["América Latina", "Deportes", "Movimiento Social", "Entretenimiento"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8736
 ---
 

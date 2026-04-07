@@ -5,7 +5,8 @@ author: "rocio-zamora"
 slug: "la-letra-con-sangre-entra-reflexiones-sobre-el-aprendizaje-desde-perspectivas-la"
 excerpt: "Fotografia de Daniela Castro, Diana Betancourt en su coreografía \"Madre sólo hay una y justo me tocó a mi\" Jueves 6 de junio, 7:00 pm, Baúl Blanco Entrada gratuita El Baúl Blanco nace como un espacio ..."
 categories: ["Cultura"]
-tags: ["Columna: Distancia y Contacto"]
+tags: []
+columna: "Distancia y Contacto"
 wp_id: 8462
 ---
 

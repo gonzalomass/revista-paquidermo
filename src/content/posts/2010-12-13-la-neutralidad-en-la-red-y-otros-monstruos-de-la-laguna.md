@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "la-neutralidad-en-la-red-y-otros-monstruos-de-la-laguna"
 excerpt: "Todo este asunto de Wikileaks tiene al mundo entero con los pelos de punta. Ha dado de qué hablar en todas las esferas de la vida pública en el planeta entero. Sin ir lejos, hace un par de días esta r..."
 categories: ["Medios de Comunicación", "Política"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 2665
 ---
 

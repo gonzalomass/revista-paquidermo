@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "finge-la-ve-venir-finge-bailar-con-ella"
 excerpt: "Después del patético o irrisorio informe de los 100 días, viene el primer año de gobierno de Luis Guillermo Solís o del PAC o de la ciudadanía, esta última que, como se sabe, es constitucionalmente so..."
 categories: ["América Central", "Política"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11790
 ---
 

@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "costa-rica-wow-o-el-pais-de-los-autoenganados"
 excerpt: "Vieras que hay lugares en el mundo donde las casas no tienen rejas, ni hay un guarda en la esquina de cada residencial, y donde es posible y factible, porque es lo normal, vivir sin el más mínimo asom..."
 categories: ["Realidad Nacional", "Seguridad Ciudadana"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 5470
 ---
 

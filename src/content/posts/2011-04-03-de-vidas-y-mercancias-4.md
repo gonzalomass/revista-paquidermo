@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-vidas-y-mercancias-4"
 excerpt: "1.Un acontecimiento relativo a la espectacularización de la vida y a la reificación más cruda Una ideología de lo extraordinario predomina hoy en día: la idea de que si sucede algo fuera de nuestras c..."
 categories: ["Internacional", "Medios de Comunicación", "Sociedad"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 3259
 ---
 

@@ -5,7 +5,8 @@ author: "maria-del-mar-obando"
 slug: "cierre-los-ojos-si-quiere"
 excerpt: "Soy una mujer fea. Si esta primera oración no le hizo voltear la cara y perder el interés por mí, le contaré que no sufro de baja autoestima (diagnóstico favorito que utiliza la psicología para explic..."
 categories: ["Cultura"]
-tags: ["Columna: Tocata y fuga", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
 wp_id: 11004
 ---
 

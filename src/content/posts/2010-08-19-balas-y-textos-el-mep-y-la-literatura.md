@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "balas-y-textos-el-mep-y-la-literatura"
 excerpt: "A García no le puedo agradecer la paciencia –esa no era, ciertamente, su mayor virtud-; le agradezco por la pipa que nos dibujó un día en la pizarra y por la bala del libro aquel que nos perforó la in..."
 categories: ["Cultura", "Educación", "Literatura", "Realidad Nacional"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 2128
 ---
 

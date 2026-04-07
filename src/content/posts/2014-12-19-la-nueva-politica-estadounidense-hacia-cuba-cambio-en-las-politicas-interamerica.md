@@ -5,7 +5,8 @@ author: "marco-vinicio-mendez-coto"
 slug: "la-nueva-politica-estadounidense-hacia-cuba-cambio-en-las-politicas-interamerica"
 excerpt: "El reciente anuncio del Presidente estadounidense Barack Obama sobre un cambio en la política norteamericana hacia Cuba fue visto con recelo. Los análisis previos estab..."
 categories: ["Internacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11245
 ---
 

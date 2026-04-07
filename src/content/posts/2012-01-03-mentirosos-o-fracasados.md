@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "mentirosos-o-fracasados"
 excerpt: ":: Roberto Jaén:: Cuando Francis Fukuyama anunció “el fin de la historia”, demostró que es tan buen oráculo como los distintos “líderes espirituales” (casi siempre fundamentalistas cristianos) que anuncian el fin de los tiempos cada dos o tres años.  Fukuyama le ofrecía al mundo el pensamiento único que duró un rato y nunca previó la explosión de China, las crisis financieras, el fundamentalismo islámico en repunte, la fuerte andanza de brasileiros o indios y, menos aún, las intenciones del pueblo al sur de Estados Unidos que busca integración fuera de la OEA."
 categories: ["Economía", "Política"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 5255
 ---
 

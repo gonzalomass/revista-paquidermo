@@ -5,7 +5,8 @@ author: "sergio-villena"
 slug: "elogio-de-los-prologos"
 excerpt: "Imagen:Heimir Björgúlfsson ¿Qué es un “prólogo”? ¿Por qué seguir leyéndolos? ¿Vale la pena escribirlos? Me propongo aquí aportar algunos apuntes para reivindicar el género y ..."
 categories: ["Literatura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11575
 ---
 

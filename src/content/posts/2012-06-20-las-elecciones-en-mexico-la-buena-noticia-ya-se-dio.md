@@ -5,7 +5,8 @@ author: "jose-del-tronco"
 slug: "las-elecciones-en-mexico-la-buena-noticia-ya-se-dio"
 excerpt: "El próximo primero de julio de 2012, México elegirá a un nuevo Jefe de Estado. En este país, las elecciones presidenciales ocurren cada seis años, y este proceso ha continuado in..."
 categories: ["América Latina", "Democracia"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 6007
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "jugar-con-numeros-de-como-no-todo-es-lo-que-parece-excepto-por-el-movimiento-lib"
 excerpt: "Las sentencias son peligrosas en especial cuando el absolutismo invita a declarar ganadores y perdedores incontestables. Los resultados de las elecciones municipales efectuadas el pasado domingo 7 de ..."
 categories: ["Cultura", "Medios de Comunicación", "Política", "Electoral", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Del Higuerón por la Izquierda"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 13047
 ---
 

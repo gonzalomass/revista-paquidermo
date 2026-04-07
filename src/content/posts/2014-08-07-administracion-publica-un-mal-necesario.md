@@ -5,7 +5,8 @@ author: "juan-diego-rojas-castro"
 slug: "administracion-publica-un-mal-necesario"
 excerpt: "Un mal para algunos pero necesario para todos, la administración pública (vestida de pena) con sus mitos populares que quedan expuestos en una antesala de malestar social..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10802
 ---
 

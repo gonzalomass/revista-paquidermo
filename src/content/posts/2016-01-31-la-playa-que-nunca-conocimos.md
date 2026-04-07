@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "la-playa-que-nunca-conocimos"
 excerpt: "Vamos a volver a hacer todo. Luego de siete columnas y miles de palabras vertidas en lo que promete ser el medio más ecológico del mundo (no la revista, sino el soporte), sobre todo para alguien que s..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Literatura"]
-tags: ["Columna: Mejor que ficción", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 13028
 ---
 

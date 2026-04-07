@@ -5,7 +5,8 @@ author: "marco-feoli"
 slug: "asi-es-la-vida"
 excerpt: "Diem Chau © No sé qué es peor: el comentario de Lizeth Castro o el delirante posteo que, como si se tratara de la pensadora más aguda, hubo que compartir en las últimas horas para re..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10474
 ---
 

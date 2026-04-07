@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "plaza-publica-b-chino-en-el-paseo-de-los-estudiantes-i-parte"
 excerpt: ":: Andrés Fernández :: Probablemente no, pero probablemente también, el histórico nombre que algunos dicen defender, no sea el asunto detrás de la polémica suscitada por el Barrio Chino de San José, proyecto urbanístico en camino ya. A mi juicio, lo más probable es que ese no sea si no el pretexto de los mismos de siempre o casi siempre, para objetar cualquier iniciativa que salga de la Alcaldía capitalina, cuya actuación en este como en otros casos, no defiendo yo pues se defiende por sí sola; además de que la ciudad es un palimpsesto, como está probado hasta la saciedad en esta y en cualquier sociedad, y que de parte del alcalde Johnny Araya, existe un compromiso de que el nombre Paseo de los Estudiantes no se desechará"
 categories: ["Arquitectura", "Historia"]
-tags: ["Sección Plaza Pública"]
+tags: []
+seccion: "Plaza Pública"
 wp_id: 5678
 ---
 

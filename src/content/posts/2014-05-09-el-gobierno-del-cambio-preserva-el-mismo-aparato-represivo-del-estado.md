@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "el-gobierno-del-cambio-preserva-el-mismo-aparato-represivo-del-estado"
 excerpt: "Celso Gamboa en el Ministerio de Seguridad. Es sabido que uno de los aspectos más odiosos de la administración Chinchilla fue su constante política de criminalización de la protesta social. El gobiern..."
 categories: ["Política"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10405
 ---
 

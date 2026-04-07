@@ -5,7 +5,8 @@ author: "jessica-barquero"
 slug: "en-respuesta-a-la-conformacion-de-plataforma-de-mujeres-para-la-coordinacion-con"
 excerpt: "Jason Lavesque © El pasado 24 de abril, Jessica Barquero recibió una invitación de Flora María Abarca, exviceministra de Seguridad por el Partido Liberación Nacional al inicio del Gobierno de Chinchil..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10358
 ---
 

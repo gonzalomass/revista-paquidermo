@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "playadillas"
 excerpt: "Los homosexuales hacen “propaganda homosexual”. A través de “afiches homosexuales”, “campañas homosexuales” y “adoctrinamiento homosexual”, los homosexuales no se contentan con hacer sus cosas, sino q..."
 categories: ["Derechos Humanos", "Sexualidad", "Minorías"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 4069
 ---
 

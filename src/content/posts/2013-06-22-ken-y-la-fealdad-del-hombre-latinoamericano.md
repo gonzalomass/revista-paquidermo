@@ -5,7 +5,9 @@ author: "maria-del-mar-obando"
 slug: "ken-y-la-fealdad-del-hombre-latinoamericano"
 excerpt: "Al hombre latinoamericano le dijeron que era feo y se lo creyó. Se lo insinuaron, primero sus hermanas, primas o amiguitas del barrio, desvistiendo a un ken que no se le parecía en nada. Porque ese mu..."
 categories: ["América Latina", "Sexualidad"]
-tags: ["Sección Doxa", "Lo Recomendado", "Columna: Tocata y fuga"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
+seccion: "Doxa"
 wp_id: 8603
 ---
 

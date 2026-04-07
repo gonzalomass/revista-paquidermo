@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros"
 slug: "desatino-y-tragedia-el-efecto-mariposa"
 excerpt: "Foto: Looye Me cuento entre quienes vieron con alivio la salida de Justo Orozco de la Comisión de Derechos Humanos de la Asamblea Legislativa, la noticia se conoció hace casi un mes pero recién se ofi..."
 categories: ["Ambiente", "Ciencia", "Derechos Humanos"]
-tags: ["Columna: Ojo de Camaleón", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ojo de Camaleón"
 wp_id: 8451
 ---
 

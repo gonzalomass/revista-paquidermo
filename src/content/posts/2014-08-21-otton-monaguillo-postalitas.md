@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "otton-monaguillo-postalitas"
 excerpt: "1 Lo imagino así. En su foto de primera comunión, con esos trajecitos largos de encaje blanco con fondo negro. Devoto, hincado en un pequeño reclinatorio, con una candela y un rosario sostenidos entre..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 10853
 ---
 

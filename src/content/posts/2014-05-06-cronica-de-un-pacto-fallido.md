@@ -5,7 +5,8 @@ author: "margarita-salas"
 slug: "cronica-de-un-pacto-fallido"
 excerpt: "30 de Abril 2014 10:30am - 12 md Comienza a circular la noticia de que se está fraguando un pacto entre Renovación Costarricense y el Partido Acción Ciudadana, que incluye frenar..."
 categories: ["Derechos Humanos", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10381
 ---
 

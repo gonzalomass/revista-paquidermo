@@ -5,7 +5,8 @@ author: "claudio-monxe"
 slug: "15-de-setiembre-conformese-un-rato-empune-una-bandera"
 excerpt: "En un principio, nada de malo le veo a estas palabras, publicadas en un anterior articulo por el compa Eduarte: “La “nación” es la repetición constante de rituales, es algo tan ter..."
 categories: ["América Latina", "Democracia", "Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2392
 ---
 

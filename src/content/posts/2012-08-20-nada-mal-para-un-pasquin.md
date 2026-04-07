@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "nada-mal-para-un-pasquin"
 excerpt: ":: Héctor Solano-Chavarría [i] :: I Dicen que las comparaciones son odiosas. El presidente de Ecuador, Rafael Correa, no solo otorgó el asilo político a Julián Assange, el fundador de los Wikileaks, s..."
 categories: ["América Latina", "Derechos Humanos", "Geopolítica"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 6197
 ---
 

@@ -5,7 +5,8 @@ author: "alejandra-alfaro-b"
 slug: "de-maldad-y-sentido-comun"
 excerpt: "Foto: Por Blmurch Cuando un ser humano se empecina en estorbarle a otro, porque no puede soportar que sea tratado como igual, como debe ser, es maldad. No hay presagios ni me..."
 categories: ["Contracultura", "Derechos Humanos", "Filosofía"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8090
 ---
 

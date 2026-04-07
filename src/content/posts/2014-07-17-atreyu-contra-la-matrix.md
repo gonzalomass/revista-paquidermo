@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "atreyu-contra-la-matrix"
 excerpt: "La Historia sin Fin (Die Unendliche Geschichte, en su título alemán original), cumple 30 años de estrenada y sin embargo se siente más moderna que nunca. Es de esas películas que aborda temas más comp..."
 categories: ["Cultura", "Cine"]
-tags: ["Columna: Cementerio de Elefantes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 10721
 ---
 

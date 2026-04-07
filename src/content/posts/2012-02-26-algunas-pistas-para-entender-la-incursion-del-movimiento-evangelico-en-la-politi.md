@@ -5,7 +5,8 @@ author: "andrey-pineda-sancho"
 slug: "algunas-pistas-para-entender-la-incursion-del-movimiento-evangelico-en-la-politi"
 excerpt: "La política, de hecho, constituye un trampolín idóneo para aquellos grupos religiosos interesados en hacerse con el poder religioso, tanto a nivel particular como a nivel global."
 categories: ["Realidad Nacional", "Religión"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5645
 ---
 

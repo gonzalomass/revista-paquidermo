@@ -5,7 +5,8 @@ author: "alejandro-marin"
 slug: "sobre-morabito-y-el-turismo"
 excerpt: "Decía el escritor argentino Florencio Cortázar que su nacimiento en Bruselas había sido una mezcla de turismo y diplomacia. Desconozco las razones del nacimiento en Alejandría del ..."
 categories: ["Cultura", "Cotidianidad", "Literatura", "Literatura"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12843
 ---
 

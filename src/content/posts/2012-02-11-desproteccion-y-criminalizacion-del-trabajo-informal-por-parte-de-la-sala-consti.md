@@ -5,7 +5,8 @@ author: "julio-solis-moreira"
 slug: "desproteccion-y-criminalizacion-del-trabajo-informal-por-parte-de-la-sala-consti"
 excerpt: "Imagen de Hablemos de Economía Informal “Amparando” a una persona, la Sala IV ha tomado la decisión de integrar a la Fuerza Pública en la persecución del supuesto “negocio il..."
 categories: ["América Latina", "Derechos Humanos", "Economía", "Estado de Derecho"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5501
 ---
 

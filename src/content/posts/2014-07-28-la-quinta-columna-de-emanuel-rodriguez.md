@@ -5,7 +5,8 @@ author: "joaquin-r-del-paso"
 slug: "la-quinta-columna-de-emanuel-rodriguez"
 excerpt: "En su esperado libro, Después del fin del arte, el fallecido filósofo Arthur Danto cita a Immanuel Kant como el filósofo que influye a Clement Greenberg. Greenberg ve a Kant c..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10761
 ---
 

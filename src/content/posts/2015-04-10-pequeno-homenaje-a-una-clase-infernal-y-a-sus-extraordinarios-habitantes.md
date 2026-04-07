@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "pequeno-homenaje-a-una-clase-infernal-y-a-sus-extraordinarios-habitantes"
 excerpt: "Imagen:Priscilla Monge Me levanto de la silla con un esfuerzo descomunal, pero tengo la impresión de que me traigo la silla conmigo, y que ahora es más pesada, porque es la silla de la subjetividad. F..."
 categories: ["Educación"]
-tags: ["Lo Recomendado", "Columna: Perronauta"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 11686
 ---
 

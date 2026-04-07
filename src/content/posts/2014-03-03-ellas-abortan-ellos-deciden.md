@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "ellas-abortan-ellos-deciden"
 excerpt: "Imagen: A. F. Vandevorst El estancamiento que vive Costa Rica en el reconocimiento y protección de los derechos sexuales y reproductivos debe llamarnos a la reflexión. El avance del discurso neointegr..."
 categories: ["Derechos Humanos"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 10144
 ---
 

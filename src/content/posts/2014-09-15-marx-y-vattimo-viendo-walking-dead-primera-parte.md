@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "marx-y-vattimo-viendo-walking-dead-primera-parte"
 excerpt: "¿Por qué a la izquierda le gusta el apocalipsis zombie? Un día cualquiera. A finales de diciembre de 2013, nos encontramos mi compañera, mi hija y yo con José María Villalta, su compañera Laura Chinch..."
 categories: ["Cultura"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10937
 ---
 

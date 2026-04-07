@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "america-latina-11-de-septiembre-de-1973"
 excerpt: "Chile septiembre de 1973. Pese a que los militares gobernaban Brasil ya desde 1964 y que vendrían otras dictaduras representativas del periodo como las de Argentina (1976-1983) y Uruguay (1973-1985), ..."
 categories: ["Economía", "Neoliberalismo", "América Latina", "Derechos Humanos"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 9293
 ---
 

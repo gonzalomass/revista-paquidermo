@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "puede-alguien-por-favor-pensar-en-los-ninos"
 excerpt: "Imagen: Francis Alÿs Costa Rica se ha convertido en la esposa del Reverendo Alegría de los Simpson que ante cualquier cosa termina diciendo “Won’t somebody please think about the children!?” (¿¡Puede ..."
 categories: ["Economía", "Medios de Comunicación"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 11449
 ---
 

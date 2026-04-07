@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "prohibido-querer"
 excerpt: "En tiempos de competencia, de anonimato, de invalidez emocional, el afecto es un acto de resistencia. La ética enarbolada por el capitalismo actual promociona invariablemente valores individuales en l..."
 categories: ["Derechos Humanos"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 155
 ---
 

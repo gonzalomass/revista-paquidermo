@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "letania-a-nuestra-senora-santa-laura-de-los-neoliberales"
 excerpt: "\"Virgen María\" de Hiroko Sakai La Iglesia Católica celebra otro Dos de Agosto con bombos y prejuicios. He oído decir que la plana mayor del PLN se reúne en el Balcón Verde para recitar estas letanías ..."
 categories: ["Realidad Nacional", "Religión"]
-tags: ["Columna: Vacaciones en Fobos"]
+tags: []
+columna: "Vacaciones en Fobos"
 wp_id: 4363
 ---
 

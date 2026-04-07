@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "como-peces"
 excerpt: "A la memoria de mi padre y de la querida Sandra Angulo De camino no dejaba de pensar en las cenizas. Cuando llegamos los sobrinos entraron directo a la piscina. Salvo incidentes menores pasaron allí u..."
 categories: ["Crónica"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 11351
 ---
 

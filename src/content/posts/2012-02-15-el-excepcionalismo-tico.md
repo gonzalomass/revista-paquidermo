@@ -5,7 +5,8 @@ author: "ignacio-garcia"
 slug: "el-excepcionalismo-tico"
 excerpt: "Imagen de Sombra Azul El día lunes 19 de Febrero de 2007, aparecieron muertos tres diputados salvadoreños del Parlamento Centroamericano. Sus cuerpos estaban calcinados sobre la c..."
 categories: ["Geopolítica", "América Central"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5578
 ---
 

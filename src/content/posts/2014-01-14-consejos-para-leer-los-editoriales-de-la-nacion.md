@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "consejos-para-leer-los-editoriales-de-la-nacion"
 excerpt: "Fuente: El Topo Manuel Francisco Jiménez Echeverría, presidente del Grupo Nación y Fernán Vargas Rohrmoser, vicepresidente Es una marea de información y opiniones la que nos cae a los/as electores/as ..."
 categories: ["América Central", "Política"]
-tags: ["Lo Recomendado", "Columna: Ausencias Presentes"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 9771
 ---
 

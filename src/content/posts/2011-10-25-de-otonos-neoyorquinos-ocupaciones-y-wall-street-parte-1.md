@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-otonos-neoyorquinos-ocupaciones-y-wall-street-parte-1"
 excerpt: "Mientras esperaba a que fueran las seis, que era a la hora que se suponía que Naomi Klein, Autora de “No Logo” y “La doctrina del shock”, se iba a presentar, verdadera razón por la que inicialmente me encontraba ahí,  me di una vuelta por el parque para ver de qué se trataba esta ocupación; lo que encontré me dejó bastante sorprendido. La acera norte del parque estaba llena de carteles en el piso que iban desde denunciar el desigual reparto de la riqueza en el país, hasta denunciar que Awlaki merecía un juicio justo. En la esquina sureste se encuentra un árbol que se ha convertido en el espacio de meditación y oración; es en general en el sector sur del parque donde sale a relucir la chancleta. Además de las muchas personas meditando a cualquier hora del día, tambores, bailes y malabares crean una atmósfera que tiene poco que envidiarles a las fiestas de mundo loco en CR."
 categories: ["Democracia", "Internacional"]
-tags: ["Columna: Una golondrina no hace verano"]
+tags: []
+columna: "Una golondrina no hace verano"
 wp_id: 4843
 ---
 

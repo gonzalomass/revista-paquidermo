@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "pos-terremoto"
 excerpt: "Saludable ejercicio es preguntarse por qué y de qué se escandalizan los medios de comunicación y los grupos oligopólicos de cualquier parte. En el caso de Chile, y debido a las contingencias telúricas..."
 categories: ["Medios de Comunicación"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 1080
 ---
 

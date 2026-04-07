@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "los-miedos-del-pais-mas-feliz-del-mundo"
 excerpt: "¿Cómo es posible que en el país más feliz del mundo, el 81,4% de la gente viva con miedo? ¿Será imaginario el miedo o la felicidad, o seremos un país bipolar?"
 categories: ["Realidad Nacional", "Política"]
-tags: ["Columna: Ahí está el detalle"]
+tags: []
+columna: "Ahí está el detalle"
 wp_id: 5144
 ---
 

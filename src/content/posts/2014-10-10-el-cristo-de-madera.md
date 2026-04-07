@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "el-cristo-de-madera"
 excerpt: "Tengo una herencia de mi abuelo. Eso es lo único que puedo decir con certeza del cristo de madera tallado que cuelga de una de las paredes de mi arrendador. Las otras cosas que digo generalmente es un..."
 categories: ["Crónica"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 11038
 ---
 

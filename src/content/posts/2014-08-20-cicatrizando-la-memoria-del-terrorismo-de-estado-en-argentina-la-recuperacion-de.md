@@ -5,7 +5,8 @@ author: "victoria-darling"
 slug: "cicatrizando-la-memoria-del-terrorismo-de-estado-en-argentina-la-recuperacion-de"
 excerpt: ":: Victoria Darling (*) :: El pasado 6 de agosto fue restituida la identidad de Ignacio Hurban, un músico y profesor de escuela de la Provincia de Buenos Aires. Luego de un análisis de ADN, Ignacio de..."
 categories: ["América Latina"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10849
 ---
 

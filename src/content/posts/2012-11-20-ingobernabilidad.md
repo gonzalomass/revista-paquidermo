@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "ingobernabilidad"
 excerpt: "Está muy de moda la palabra “ingobernabilidad”. Viene haciendo camino en el lenguaje político costarricense desde hace mucho, y se ha convertido en una verdadera ideología que justifica todo. Me atrev..."
 categories: ["Política", "Corrupción", "Democracia"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 7331
 ---
 

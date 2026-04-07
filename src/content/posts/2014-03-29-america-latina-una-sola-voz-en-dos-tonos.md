@@ -5,7 +5,8 @@ author: "gustavo-fuchs"
 slug: "america-latina-una-sola-voz-en-dos-tonos"
 excerpt: "Claire Droppert © América Latina es la región más desigual del mundo, y ha ocupado ese vergonzoso lugar por varias décadas. La desigualdad estructural de nuestras realidades se ..."
 categories: ["América Latina"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10237
 ---
 

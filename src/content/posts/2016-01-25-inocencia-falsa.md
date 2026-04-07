@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "inocencia-falsa"
 excerpt: "El título de este artículo es, en realidad, “Inocencia falsa, pero inocencia al fin”. Se hace necesario agregar, además, que fue escrito un 28 de diciembre, mediodía que recuerda tanto la mitomanía ca..."
 categories: ["Cultura", "Economía", "Política"]
-tags: ["Lo Recomendado", "Columna: Pensar América Latina"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 13011
 ---
 

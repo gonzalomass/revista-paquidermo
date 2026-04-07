@@ -5,7 +5,8 @@ author: "ignacio-ramirez"
 slug: "pesquisas-en-torno-al-dinero-parte-i-el-dinero-como-credito"
 excerpt: "El billete moderno es el descendiente lineal de la tarja (tally) medieval, y de la aún más antigua tableta de arcilla babilónica. –M. Innes (1913). (El texto a continuación hace uso de la bibliografía..."
 categories: ["Economía"]
-tags: ["Columna: Desbalances", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Desbalances"
 wp_id: 10563
 ---
 

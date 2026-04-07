@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "en-el-pais-de-los-felices"
 excerpt: "Jairo Mora Sandoval, de 26 años, fue asesinado hace más de un año. En octubre-noviembre de este 2014 comenzó el juicio contra quienes parecen ser sus asesinos. Si los fiscales presentan adecuadamente ..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11136
 ---
 

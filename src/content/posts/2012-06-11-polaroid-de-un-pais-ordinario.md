@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "polaroid-de-un-pais-ordinario"
 excerpt: "Explicar Costa Rica a un extranjero es complicado. Hace no tanto me encontraba conversando con un amigo argentino a quien le costaba creer y le fascinaba que las garantías sociales costarricenses hubieran nacido del acuerdo entre la Iglesia Católica, un Partido Conservador y el Partido Comunista. “Che, ¿cómo funcionó eso?” Fue la expresión que, incrédulo, atinó a decir."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 5990
 ---
 

@@ -5,7 +5,8 @@ author: "maria-josefina-mena-aguilar"
 slug: "la-voz-de-una-victima"
 excerpt: "¡Víctima! Esa palabra que escuchamos con frecuencia y que probablemente nos remite a una idea de trasgresión de los derechos humanos de una persona. Siempre he consid..."
 categories: ["Estado de Derecho"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7198
 ---
 

@@ -5,7 +5,8 @@ author: "laura-acebedo-perez"
 slug: "actualidad-del-proceso-de-paz-en-colombia-actores-y-perspectivas-a-proposito-del"
 excerpt: ":: Laura Acebedo Pérez* :: El 25 de septiembre del presente año los medios anunciaron que la guerrilla de las FARC preparaba un informe sobre el \"estado actual y verdadero del proceso de paz\", que est..."
 categories: ["América Latina", "Derechos Humanos", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9630
 ---
 

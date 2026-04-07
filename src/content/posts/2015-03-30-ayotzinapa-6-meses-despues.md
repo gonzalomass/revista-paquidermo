@@ -5,7 +5,8 @@ author: "luis-munoz-varela"
 slug: "ayotzinapa-6-meses-despues"
 excerpt: "http://www.youtube.com/watch?v=pd2CFh7zQYc ::Luis Muñoz Varela*:: Este jueves 26 de marzo se cumplió ya medio año del secuestro y desaparición de los 43 estudiantes normalistas de la Escuela Normal Ru..."
 categories: ["América Latina", "Derechos Humanos"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11627
 ---
 

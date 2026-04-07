@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "tiempo-de-hombres-fuertes"
 excerpt: "Como Nery Brenes, el mejor atleta de pista que ha tenido hasta hoy Costa Rica, no logró clasificar para las finales de los 400 metros en el Mundial de Atletismo (Pekín, China) un número significativo ..."
 categories: ["América Latina", "Corrupción", "Crónica", "Medios de Comunicación", "Política", "Geopolítica"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12619
 ---
 

@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "30-anos-despues"
 excerpt: "Esta es la Semana Mayor. Se trata de un tiempo especial, cargado de sentido para aquellos que creen. Una semana de reflexión, de ayuno, una semana para solidarizarse con los demás y para hacer las pac..."
 categories: ["Religión"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 884
 ---
 

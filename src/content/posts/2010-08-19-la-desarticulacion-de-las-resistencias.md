@@ -5,7 +5,8 @@ author: "gustavo-solorzano-alfaro"
 slug: "la-desarticulacion-de-las-resistencias"
 excerpt: "Imagen por Jaume d'Urgell Los porteadores han venido manifestando su descontento con la situación legal en la que se encuentra la actividad que realizan. Los ecologistas..."
 categories: ["Derechos Humanos", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2134
 ---
 

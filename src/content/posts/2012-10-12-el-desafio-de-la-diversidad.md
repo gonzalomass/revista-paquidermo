@@ -5,7 +5,8 @@ author: "gisella-diaz-azofeifa"
 slug: "el-desafio-de-la-diversidad"
 excerpt: ":: Gisella Díaz Azofeifa* :: Costa Rica es un país multiétnico, pluricultural y multilingüe. Aunque por mucho tiempo se le ha representado como una nación predominantemente “blanca”, su población actu..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 6875
 ---
 

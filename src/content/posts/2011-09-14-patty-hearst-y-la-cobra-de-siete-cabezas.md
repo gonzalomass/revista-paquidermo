@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "patty-hearst-y-la-cobra-de-siete-cabezas"
 excerpt: "La cultura no tiene misericordia. Esta frase siempre me ha gustado, aunque suene falaz, dilapidaría y escapista, de la misma forma que podría serlo un encogimiento de hombros y un “di mae, es lo que h..."
 categories: ["Historia", "Sociedad"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 4672
 ---
 

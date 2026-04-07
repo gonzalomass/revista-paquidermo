@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "otra-vez-hambre"
 excerpt: "Hace unos días se informó que se perdió más del 50% de las cosechas de maíz en México, debido a las bajas temperaturas. Esto, dicen, significa un problema de seguridad alimentaria. Como siempre el ali..."
 categories: ["Ambiente", "América Latina", "Economía"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 5354
 ---
 

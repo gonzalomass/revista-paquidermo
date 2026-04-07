@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "ahi-viene-el-coco-del-comunismo-es-ideologia-idiota"
 excerpt: "Escribo este texto después de constatar lo que ya sabíamos: si la estrategia del miedo ha funcionado antes, ¿por qué no utilizarla de nuevo? Si el Coco asusta, ¿por qué no llamarlo? En la edición del ..."
 categories: ["Política", "Neoliberalismo", "Memoria", "Electoral", "Realidad Nacional"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 9554
 ---
 

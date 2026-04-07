@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "italia-90-la-pelicula"
 excerpt: "En un emotivo viaje por la historia de los días previos a la zaga costarricense de  Italia 90, el director nacional Miguel Gómez se queda corto –quizá demasiado corto-  en la propuesta técnica de una película que todos vamos a amar pero no era la que  esperábamos ver."
 categories: ["Cultura", "Cine", "Deportes", "Historia"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Segunda Lectura"
 wp_id: 10501
 ---
 

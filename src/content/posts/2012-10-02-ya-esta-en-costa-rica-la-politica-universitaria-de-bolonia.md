@@ -5,7 +5,8 @@ author: "victor-alvarado-davila"
 slug: "ya-esta-en-costa-rica-la-politica-universitaria-de-bolonia"
 excerpt: ":: Víctor Alvarado Dávila* :: La declaración de Bolonia dio inicio en 1999, cuando se creó el Espacio Europeo de Educación Superior tendiente a la adecuación de los contenidos de los estudios universi..."
 categories: ["Educación"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 6478
 ---
 

@@ -5,7 +5,8 @@ author: "alvaro-rojas-salazar"
 slug: "helicopteros-aterrizan-en-el-campus"
 excerpt: "Foto: Ariadna Tucma Entre el 18 y el 20 de marzo 1963 se dieron cita en San José de Costa Rica todos los presidentes de Centroamérica, en ocasión de la visita especial de J. F. Kennedy. Las grandes hi..."
 categories: ["Uncategorized", "Literatura", "Historia", "Política"]
-tags: ["Lo Recomendado", "Columna: A la Deriva"]
+tags: ["Lo Recomendado"]
+columna: "A la Deriva"
 wp_id: 7672
 ---
 

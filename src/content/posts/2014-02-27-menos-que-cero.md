@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "menos-que-cero"
 excerpt: "Oswald Mosley se ve serio, después de todo la entrevista es de una época en la que todavía había algo que temer de los periodistas televisivos. Recibe la presentación de David Frost con humildad, Fros..."
 categories: ["Corrupción", "Realidad Nacional"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 10127
 ---
 

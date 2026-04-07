@@ -5,7 +5,8 @@ author: "marco-feoli"
 slug: "el-juez-al-que-le-lavaban-la-ropa-las-mujeres"
 excerpt: "Pasó hace unas semanas, una diligencia judicial, de esas decenas que habrá cada día en todo el país. Un grupo de oficiales del OIJ allanaron una vivienda, buscaban objetos presuntame..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10922
 ---
 

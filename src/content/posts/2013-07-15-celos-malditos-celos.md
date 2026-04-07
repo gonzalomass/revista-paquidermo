@@ -5,7 +5,9 @@ author: "maria-del-mar-obando"
 slug: "celos-malditos-celos"
 excerpt: "Estaba oscuro cuando una voz particularmente horrorosa me obligó a salir de la cama. Con cinco años y el repertorio completo de fantasmas criollos, era mejor buscar a mi mamá antes que la Cegua, la Tulevieja o la Llorona me encontraran. Llego al cuarto materno y ¡Diablos! ¡No había nadie! ¡Se la comieron primero! ¿Ahora sí, qué hago? Porque lo que sea que fuese se escuchaba más cerca. Con el intestino grueso un poquito más delgado, me acerqué a la sala y ahí estaba: mi vecina del frente, que trataba de hablar llorando, me había espantado a las cuatro de la mañana."
 categories: ["Sexualidad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Columna: Tocata y fuga"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
+seccion: "Doxa"
 wp_id: 8789
 ---
 

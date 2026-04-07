@@ -5,7 +5,8 @@ author: "gabriela-miranda"
 slug: "ni-uno-menos"
 excerpt: "Dedicado a los niños y niñas que llenan mi vida y mi quehacer teórico con sus ejemplos. Estoy harta de leer, preguntar, escuchar, opinar y escribir para tratar de entender lo que sucede en México. Y m..."
 categories: ["América Latina", "Derechos Humanos"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11089
 ---
 

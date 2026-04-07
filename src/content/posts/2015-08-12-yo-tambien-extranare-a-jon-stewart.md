@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "yo-tambien-extranare-a-jon-stewart"
 excerpt: "No presencié la totalidad de la carrera de Jon Stewart en The Daily Show, pero estoy seguro que sí presencié la mejor parte. El programa de comedia y noticias cerró su telón este jueves 6 de agosto, d..."
 categories: ["Capitalismo", "Cultura", "Entretenimiento", "Medios de Comunicación", "Geopolítica"]
-tags: ["Columna: Cementerio de Elefantes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 12460
 ---
 

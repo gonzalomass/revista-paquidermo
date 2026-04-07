@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "comunicado-de-prensa-sobre-el-dia-internacional-de-la-mujer"
 excerpt: "Imagen: The Richard Balzer Collection En el Día Internacional de la Mujer, la Comisión Interamericana de Derechos Humanos manifiesta su profunda preocupación sobre la protección de los derechos de las..."
 categories: ["Derechos Humanos"]
-tags: ["Sección: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 10185
 ---
 

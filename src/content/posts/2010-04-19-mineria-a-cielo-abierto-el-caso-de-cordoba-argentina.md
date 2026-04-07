@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "mineria-a-cielo-abierto-el-caso-de-cordoba-argentina"
 excerpt: ""
 categories: ["Derechos Humanos", "Economía"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1057
 ---
 

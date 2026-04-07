@@ -5,7 +5,8 @@ author: "lena-zuniga"
 slug: "estrellas-en-el-cielo-una-lectura-de-salvapantallas-de-luis-chaves-ed-lanzallama"
 excerpt: "Este último libro de Luis Chaves no fue una sorpresa, si no que se veía venir. Yo me lo imaginaba escribiendo en horas laborales o en mitad de la noche evitando despertar a la tropa. E..."
 categories: ["Literatura"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11558
 ---
 

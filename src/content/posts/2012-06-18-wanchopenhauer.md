@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "wanchopenhauer"
 excerpt: "Que el maestro me reciba en su casa es siempre un honor. Aunque sé que don Byron es una persona con muchas ocupaciones, llevo varios meses solicitando esta entrevista, para conversar sobre el estado a..."
 categories: ["Política"]
-tags: ["Cosa de Dos", "Columna: Segunda Lectura"]
+tags: ["Cosa de Dos"]
+columna: "Segunda Lectura"
 wp_id: 5999
 ---
 

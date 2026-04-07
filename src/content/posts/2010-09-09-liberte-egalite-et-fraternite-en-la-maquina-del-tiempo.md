@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "liberte-egalite-et-fraternite-en-la-maquina-del-tiempo"
 excerpt: "Para casi todos, las máquinas del tiempo no son más que un invento salido de la loca imaginación de autores de ciencia ficción. Yo misma pensaba así, pero recientes acontecimientos me están obligando ..."
 categories: ["Democracia", "Derechos Humanos", "Internacional", "Minorías"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 2252
 ---
 

@@ -5,7 +5,8 @@ author: "alonso-fonseca"
 slug: "movimientos-involuntarios"
 excerpt: ""
 categories: ["Imagen", "Cultura"]
-tags: ["Columna: Procedimientos del mamífero"]
+tags: []
+columna: "Procedimientos del mamífero"
 wp_id: 2219
 ---
 

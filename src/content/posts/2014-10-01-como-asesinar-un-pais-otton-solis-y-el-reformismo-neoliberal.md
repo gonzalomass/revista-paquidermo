@@ -5,7 +5,8 @@ author: "esteban-arias-chavarria"
 slug: "como-asesinar-un-pais-otton-solis-y-el-reformismo-neoliberal"
 excerpt: "El diputado Ottón Solís y sus aliados asamblearios se han dedicado a una “guerra santa” contra el presupuesto nacional. Su megamoción, por dicha rechazada, planteaba inmi..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10998
 ---
 

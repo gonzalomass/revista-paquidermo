@@ -5,7 +5,8 @@ author: "ariel-calderon-gonzalez"
 slug: "halloween-el-sector-publico-y-los-zancudos"
 excerpt: "Como en Costa Rica somos bien modernos, hemos aceptado la tradición de Halloween como nuestra. Celebramos fiestas y nos disfrazamos de zombies, fantasmas y hasta de enfermeras sexys. Pero también, com..."
 categories: ["Política", "Corrupción", "Sociedad"]
-tags: ["Columna: Universos Cotidianos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Universos Cotidianos"
 wp_id: 12821
 ---
 

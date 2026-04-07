@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros"
 slug: "el-salto-supersonico-las-gotas-de-lluvia-y-nuestra-posibilidad-de-ser-gente-topo"
 excerpt: "Me encontraba en la muy productiva tarea de revisión de Facebook del domingo por la mañana cuando llamó mi atención una noticia compartida repetitivamente sobre un piloto de pruebas que estaba empeñad..."
 categories: ["Ciencia"]
-tags: ["Columna: Ojo de Camaleón", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ojo de Camaleón"
 wp_id: 7848
 ---
 

@@ -5,7 +5,8 @@ author: "ignacio-arroyo-trejos"
 slug: "sexo-cuido-y-naturaleza-humana"
 excerpt: "¿Por qué nos comportamos cómo lo hacemos? ¿Cuál es la relación entre el sexo y los comportamientos de cuido? ¿Cuál es la naturaleza de la sexualidad humana? Pocos temas des..."
 categories: ["Cultura", "Cotidianidad", "Género", "Historia", "Política", "Sexualidad", "Sociedad"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12626
 ---
 

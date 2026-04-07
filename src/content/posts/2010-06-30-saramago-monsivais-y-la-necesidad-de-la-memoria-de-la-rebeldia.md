@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "saramago-monsivais-y-la-necesidad-de-la-memoria-de-la-rebeldia"
 excerpt: "Costa Rica, nueve y tantos de la mañana del 21 de junio, 2010. Con golazo de González, Chile aventaja a Suiza 1 a 0, si gana clasificará a octavos. Minutos más tarde se pita el final del partido, y Ch..."
 categories: ["Cultura", "Política"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 1651
 ---
 

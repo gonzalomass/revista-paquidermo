@@ -5,7 +5,8 @@ author: "hugo-mora-poltronieri"
 slug: "con-el-agresor-o-con-la-victima"
 excerpt: ":: Hugo Mora Poltronieri (*) :: A estas alturas del siglo XXI, es imposible no darse por enterado de lo que ha está ocurriendo en el Medio Oriente entre judíos y palestinos. Y reaccionar como es debid..."
 categories: ["Política", "Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10748
 ---
 

@@ -5,7 +5,8 @@ author: "marcia-ugarte-barquero"
 slug: "no-quiero-un-banco-rosa-cristal"
 excerpt: ":: Marcia Ugarte Barquero (*) :: De pequeña no recuerdo que me entusiasmara mucho el color rosado. Luego, su asociación directa con los estereotipos de género más tradicionales disminuyó aún más el gu..."
 categories: ["Capitalismo", "Economía", "Feminismo", "Política", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12926
 ---
 

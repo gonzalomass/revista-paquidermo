@@ -5,7 +5,8 @@ author: "felipe-alpizar-r"
 slug: "costa-rica-o-costa-rota"
 excerpt: "Imagínese que está sentado en un taxi o manejando su propio vehículo en una larga fila, con paciencia y educación, tratando de aguantarse las ganas de tocar el pito y, de pront..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1136
 ---
 

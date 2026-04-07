@@ -5,7 +5,8 @@ author: "gustavo-roman-jacobo"
 slug: "nueva-aclaracion-a-gustavo-fuchs"
 excerpt: "Procuraré ser más breve en esta nueva respuesta. No sea, señor Fuchs, que de la extensión con la que escribo derive usted la agudeza de sus señalamientos. El artículo que es..."
 categories: ["Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10914
 ---
 

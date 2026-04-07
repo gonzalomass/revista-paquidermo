@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "leer-con-mirada-de-pulpo-sobre-los-ojos-del-antifaz-de-adriano-corrales"
 excerpt: "Adriano inserta algunos versos del poema “Alta Marea”, del argentino Enrique Molina, en el argumento de “Los Ojos del Antifaz”. En ellos se deslizan un par de ideas acerca de la memoria. El poema abor..."
 categories: ["Cultura", "Literatura", "Literatura"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 13056
 ---
 

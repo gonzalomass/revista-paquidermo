@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "2006-parte-uno-un-oasis-de-horror-en-medio-de-un-desierto"
 excerpt: "Prólogo Así, sentada frente a su computadora, Gabriela entendió que tal vez el país que había imaginado estaba al borde del abismo. Tal vez de la manera más descarada y abierta el gobierno que se preg..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 7519
 ---
 

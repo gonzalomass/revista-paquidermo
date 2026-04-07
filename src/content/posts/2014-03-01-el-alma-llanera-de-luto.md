@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "el-alma-llanera-de-luto"
 excerpt: "Imagen: Echo Yang :: Nicolás Boeglin* :: El pasado miércoles 19 de febrero del 2014, se fue a sus 85 años de edad Simón Díaz, más conocido como “Tío Simón”: se trata de uno de los máximos exponentes d..."
 categories: ["Cultura", "Memoria"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10140
 ---
 

@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "salir-del-closet-dos-anos-de-un-papa-latinoamericano"
 excerpt: "1. ¿Qué querrá significar la expresión “…un Papa latinoamericano?\", ¿cuál será su alcance? Latinoamericano fue, por ejemplo, Jairo Mora Sandoval (1), asesinado en el 2013, y a quien no se hizo justici..."
 categories: ["Cultura", "América Latina", "América Central", "Imagen", "Filosofía", "Historia", "Homenaje", "Internacional", "Política", "Geopolítica", "Sociedad"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12369
 ---
 

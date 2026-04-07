@@ -5,7 +5,8 @@ author: "diego-vicente-arrea"
 slug: "matrimonio-igualitario-y-derechos-humanos"
 excerpt: "Foto: Camila Salazar La discusión nacional con respecto al reconocimiento de derechos, en condiciones de igualdad, a las parejas de mismo sexo cobra cada vez más importancia ..."
 categories: ["América Central", "Derechos Humanos", "Sexualidad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8983
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "verde-el-color-mas-caliente"
 excerpt: "Imagen: Sylvia Calus La Vida de Adele (La vie d’Adele – Chapitres 1 et 2, Abdellatiff Kechiche, 2013, Francia) se tradujo en algunas lenguas como “Azul es el Color más Caliente” (inglés y portugués po..."
 categories: ["Electoral", "Política"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 10147
 ---
 

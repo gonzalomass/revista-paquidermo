@@ -5,7 +5,8 @@ author: "rolando-tellini"
 slug: "nino-jesus-primera-parte"
 excerpt: "“Tiempo ha que las cosas han llegado a tal extremo, que ya no es posible distinguir quién es casi nadie - si cristiano, turco, judío o pagano -, a no ser por el vestido y por el ..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 887
 ---
 

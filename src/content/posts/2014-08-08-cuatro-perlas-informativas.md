@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "cuatro-perlas-informativas"
 excerpt: "Para entender cómo los políticos profesionales se transforman en una casta que gerencia los negocios de los grandes ricos. “Hoy, el Poder público viene a ser, pura y simplemente, el Consejo de adminis..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10806
 ---
 

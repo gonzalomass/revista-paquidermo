@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "una-sociedad-disfuncional-cuadro-por-cuadro"
 excerpt: "Escena 1: El (des) orden natural de las cosas. Desde que tengo memoria, los asuntos de mujeres no son asuntos de hombres. Hasta lo dijo una vez un presidente de este país: no me meto en asuntos de fal..."
 categories: ["Derechos Humanos", "Realidad Nacional"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 763
 ---
 

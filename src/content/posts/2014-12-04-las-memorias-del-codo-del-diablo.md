@@ -5,7 +5,8 @@ author: "victor-hugo-acuna"
 slug: "las-memorias-del-codo-del-diablo"
 excerpt: "El 19 de diciembre de 1948 Octavio Saénz, Lucio Ibarra, Tobías Vaglio, Federico Picado, dirigentes del Partido Vanguardia Popular de la provincia de Limón, y Narciso Sotomayor y Álvaro Aguilar, fueron..."
 categories: ["Historia"]
-tags: ["Lo Recomendado", "Columna: Tientos y Resistencias"]
+tags: ["Lo Recomendado"]
+columna: "Tientos y Resistencias"
 wp_id: 11199
 ---
 

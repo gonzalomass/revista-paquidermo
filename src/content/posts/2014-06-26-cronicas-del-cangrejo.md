@@ -5,7 +5,8 @@ author: "maria-del-mar-obando"
 slug: "cronicas-del-cangrejo"
 excerpt: "Reseña de Crónicas del cangrejo de Gabriel Ruiz Bonilla. San José: Editorial Arlekín, 2014. 170 pp. Cuando alguien se va, se queda en sus cosas: la ropa que usaba, la taza para el café que prefería, e..."
 categories: ["Cultura"]
-tags: ["Columna: Tocata y fuga", "Lo Recomendado", "Los Libros"]
+tags: ["Lo Recomendado", "Los Libros"]
+columna: "Tocata y fuga"
 wp_id: 10620
 ---
 

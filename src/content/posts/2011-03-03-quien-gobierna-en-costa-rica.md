@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "quien-gobierna-en-costa-rica"
 excerpt: "“Quiero expresar mi sincero agradecimiento a mis alumnos de la Escuela de Ciencias Políticas de la Universidad de Costa Rica”, reza uno de los tres agradecimientos de este libro publicado por EDUCA en..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 2908
 ---
 

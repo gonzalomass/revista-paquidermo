@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "lo-bueno-de-jose-maria-villalta"
 excerpt: "Imagen: Chris Cairns El candidato José María Villalta se debate en estos momentos entre las cuerdas, pero no como si la contienda se llevara a cabo mediante el enfrentamiento uno a uno entre los candi..."
 categories: ["Política", "Democracia", "Electoral", "Realidad Nacional"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 9991
 ---
 

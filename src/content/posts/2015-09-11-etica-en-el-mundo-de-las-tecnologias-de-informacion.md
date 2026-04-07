@@ -5,7 +5,8 @@ author: "jaime-gutierrez-alfaro"
 slug: "etica-en-el-mundo-de-las-tecnologias-de-informacion"
 excerpt: "«Y hace más de treinta años que sabemos, cosas que no debemos hacer pero las seguimos haciendo porque su majestad, el mercado al parecer así lo impone.» – J. Mujica. La ec..."
 categories: ["Acceso a la información", "Capitalismo", "Corrupción", "Economía", "Neoliberalismo", "Medios de Comunicación"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12612
 ---
 

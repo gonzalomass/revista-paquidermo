@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "gracias-a-dios"
 excerpt: "“Los cínicos locales que, como los economistas, aparecen siempre como profetas de lo ya cumplido, no han tardado en chillar que la gente lo merece por"
 categories: ["Electoral", "Política"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 13794
 ---
 

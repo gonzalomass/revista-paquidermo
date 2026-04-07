@@ -5,7 +5,8 @@ author: "mauricio-herrera-rodriguez"
 slug: "stieg-larsson-un-exito-literario-una-critica-contundente-y-actual"
 excerpt: "Imagen por KayVee.INC Stieg Larsson cometió la gran imprudencia de morirse relativamente joven. Sin embargo tuvo la delicadeza de entregar los manuscritos de sus 3 pri..."
 categories: ["Literatura", "Sexualidad", "Violencia contra las mujeres"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2215
 ---
 

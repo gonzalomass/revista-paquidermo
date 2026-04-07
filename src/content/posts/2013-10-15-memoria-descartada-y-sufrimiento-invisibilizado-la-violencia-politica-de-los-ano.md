@@ -5,7 +5,8 @@ author: "montserrat-sagot"
 slug: "memoria-descartada-y-sufrimiento-invisibilizado-la-violencia-politica-de-los-ano"
 excerpt: "::Montserrat Sagot R*.:: En primer lugar, quiero Agradecer a Manuel Solís y al Instituto de Investigaciones Sociales por la confianza al pedirme comentar este libro. En particular, quiero agradecerle ..."
 categories: ["América Central", "Feminismo", "Historia", "Memoria"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9355
 ---
 

@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "largo-domingo-cubano-de-catalina-murillo"
 excerpt: "\"En alguna parte leí que los borrachos y los domingos no mienten. O los niños y los domingos. O los niños borrachos y los domingos\" de Luis Chaves sobre el nuevo libro de la escritora Catalina Murillo: Largo Domingo Cubano."
 categories: ["América Latina", "América Central", "Cultura", "Literatura", "Internacional", "Centroamérica"]
-tags: ["Columna Bífida", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 9430
 ---
 

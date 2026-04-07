@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "pasos-para-la-destruccion-de-un-pais"
 excerpt: "“Nuestro país caminaba hacia el precipicio, pero en nuestro gobierno dimos un paso hacia adelante.” ‘Genialidad’ atribuida a un político costarricense Hace unos días apareció en La Jornada un artículo..."
 categories: ["América Latina", "Economía"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 5666
 ---
 

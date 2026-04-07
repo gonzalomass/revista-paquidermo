@@ -5,7 +5,8 @@ author: "catarina-principe"
 slug: "una-nueva-narrativa-europea"
 excerpt: "Foto: Emanuel Rodríguez :: Catarina Príncipe *:: El pasado jueves, Alemania rechazó toda negociación con Grecia, y el Banco Central Europeo (BCE) se rehusó a aceptar bonos griegos como aval (puesto qu..."
 categories: ["Economía", "Neoliberalismo"]
-tags: ["Sección Doxa", "Lo Recomendado", "Contribuciones Internacionales"]
+tags: ["Lo Recomendado", "Contribuciones Internacionales"]
+seccion: "Doxa"
 wp_id: 11358
 ---
 

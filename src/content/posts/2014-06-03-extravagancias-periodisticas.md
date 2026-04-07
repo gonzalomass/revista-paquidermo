@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "extravagancias-periodisticas"
 excerpt: "Como del arranque del Gobierno que encabeza el presidente Solís cuesta decir cosa buena, al extremo de que ya existe un movimiento originado en las proximidades de la Basílica de Cartago que propone e..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10519
 ---
 

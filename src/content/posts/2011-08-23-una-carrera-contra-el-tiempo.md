@@ -5,7 +5,8 @@ author: "jose-reynold-quintanilla-moran"
 slug: "una-carrera-contra-el-tiempo"
 excerpt: "Las personas adultas y los jóvenes excluidos de los demás programas educativos tropiezan con una serie de dificultades socioeconómicas, pero ello no los exime del derecho a recibir una educación de calidad, con proyectos curriculares propios adecuados a sus necesidades y, sobre todo, con tiempo suficiente para desarrollarlos."
 categories: ["Educación", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4593
 ---
 

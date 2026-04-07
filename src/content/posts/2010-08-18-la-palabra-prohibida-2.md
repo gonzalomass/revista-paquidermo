@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "la-palabra-prohibida-2"
 excerpt: "Aborto es probablemente la palabra más satanizada, la más mal vista de todo el amplio repertorio de vocablos prohibidos de Costa Rica. La palabra aborto golpea los oídos de nuestra mojigata sociedad c..."
 categories: ["América Latina", "Derechos Humanos", "Realidad Nacional", "Salud", "Sexualidad"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 2122
 ---
 

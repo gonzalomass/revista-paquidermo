@@ -5,7 +5,8 @@ author: "hector-hernandez"
 slug: "soy-el-enano-de-la-mano-larga-larga-novela-alter-ego-maniaca"
 excerpt: "[caption id=\"attachment_8072\" align=\"aligncenter\" width=\"640\"] Thor Eldrich[/caption] \"Lo fantástico ya no se lleva más en el corazón: no se lo acecha tampoco en las incongruencias de la naturaleza; s..."
 categories: ["Literatura", "Cultura"]
-tags: ["Lo Recomendado", "Columna: Metáforas Torcidas"]
+tags: ["Lo Recomendado"]
+columna: "Metáforas Torcidas"
 wp_id: 8071
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "slavoj-zizek-primero-tragedia-luego-farsa"
 excerpt: ""
 categories: ["Política", "Economía", "video"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 3293
 ---
 

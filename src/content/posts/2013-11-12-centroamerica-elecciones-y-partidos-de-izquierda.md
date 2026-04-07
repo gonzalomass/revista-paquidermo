@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "centroamerica-elecciones-y-partidos-de-izquierda"
 excerpt: "Foto: elpais.cr El 24 de noviembre de este año habrá elecciones en Honduras y el 2 de febrero de 2014 serán en Costa Rica y El Salvador. Los procesos de los tres países llaman la atención por la crisi..."
 categories: ["América Central", "Democracia", "Política"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 9471
 ---
 

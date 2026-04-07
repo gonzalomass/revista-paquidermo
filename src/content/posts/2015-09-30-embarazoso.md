@@ -5,7 +5,8 @@ author: "maria-del-mar-obando"
 slug: "embarazoso"
 excerpt: "En Costa Rica, un día de febrero a inicios del presente curso lectivo –cincuenta y cinco años después de aprobarse la pastilla anticonceptiva y noventa y tres años después de encontrar un condón de 35..."
 categories: ["Derechos Humanos", "Feminismo", "Género", "Política", "Realidad Nacional", "Religión", "Sexualidad"]
-tags: ["Columna: Tocata y fuga", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
 wp_id: 12683
 ---
 

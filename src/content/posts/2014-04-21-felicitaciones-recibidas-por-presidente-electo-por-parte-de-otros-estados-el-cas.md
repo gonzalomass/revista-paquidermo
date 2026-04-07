@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "felicitaciones-recibidas-por-presidente-electo-por-parte-de-otros-estados-el-cas"
 excerpt: "Piotr Jablonski © A menos de 24 horas de la conclusión de la segunda ronda electoral realizada en Costa Rica el pasado Domingo 6 de abril, con una clara victoria del candidato d..."
 categories: ["Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10321
 ---
 

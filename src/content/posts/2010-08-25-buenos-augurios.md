@@ -5,7 +5,8 @@ author: "vilma-hinkelammert"
 slug: "buenos-augurios"
 excerpt: "Imagen por wauter de tuinkabouter Carolina se encontraba sola en una banca de la universidad. Se sentó con las piernas cruzadas mientras esperaba a que ella pasara. Tenía tant..."
 categories: ["Cultura", "Literatura", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2163
 ---
 

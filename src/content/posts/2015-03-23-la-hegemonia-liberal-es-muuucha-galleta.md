@@ -5,7 +5,8 @@ author: "carlos-andres-umana"
 slug: "la-hegemonia-liberal-es-muuucha-galleta"
 excerpt: "En los últimos días los medios masivos de comunicación costarricense, han construido un nuevo personaje, que como todo protagonista de una buena historia, consta de un sobrenom..."
 categories: ["América Central", "Economía", "Neoliberalismo"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11573
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "de-los-tea-parties-y-otras-bestias-i"
 excerpt: "“Personas que ni siquiera pueden deletrear la palabra “voto”, menos aún decirla en inglés, pusieron a un ideólogo socialista comprometido en la Casa Blanca, su nombre Barack HUSSEIN Obama” El ultra-co..."
 categories: ["Internacional", "Política"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 1821
 ---
 

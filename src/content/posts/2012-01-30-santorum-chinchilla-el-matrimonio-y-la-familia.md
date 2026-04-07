@@ -5,7 +5,8 @@ author: "gabriela-arguedas"
 slug: "santorum-chinchilla-el-matrimonio-y-la-familia"
 excerpt: "La familia, la propiedad privada y el amor. Rick Santorum es el más conservador de todos los que están compitiendo ahora por el puesto de candidato presidencial del Partido Rep..."
 categories: ["Derechos Humanos", "Internacional", "Realidad Nacional", "Sexualidad"]
-tags: ["Columna: Periscopio"]
+tags: []
+columna: "Periscopio"
 wp_id: 5346
 ---
 

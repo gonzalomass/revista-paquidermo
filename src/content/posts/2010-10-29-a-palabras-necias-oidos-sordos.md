@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "a-palabras-necias-oidos-sordos"
 excerpt: "El primer spot de Johnny Araya (véaselo completo en Fusil de chispas) en búsqueda de su reelección sintetiza un imaginario y una sensibilidad a propósito de lo político que bien vale la pena comentar...."
 categories: ["Democracia", "Minorías", "Realidad Nacional"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 2498
 ---
 

@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "el-grinch-de-los-oscar"
 excerpt: "Tenía planeado hacer un análisis de los “Premios Oscar”, o “Premios de la Academia” de este año, pero creo que es momento de hacer más bien una confrontación a un personaje que también aparece cada añ..."
 categories: ["Uncategorized", "Cultura", "Cine"]
-tags: ["Lo Recomendado", "Columna: Cementerio de Elefantes"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 11402
 ---
 

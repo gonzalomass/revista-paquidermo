@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { getAuthorMap, getAuthorName } from '../../lib/authors';
+import { slugify } from '../../lib/slugify';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const tagMap = new Map<string, { name: string; slug: string; posts: any[] }>();
+
+  for (const post of posts) {
+    for (const tag of post.data.tags) {
+      const slug = slugify(tag);
+      if (!tagMap.has(slug)) {
+        tagMap.set(slug, { name: tag, slug, posts: [] });
+      }
+      tagMap.get(slug)!.posts.push(post);
+    }
+  }
+
+  return Array.from(tagMap.values()).map((t) => ({
+    params: { slug: t.slug },
+    props: {
+      name: t.name,
+      posts: t.posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()),
+    },
+  }));
+}
+
+const { name, posts } = Astro.props;
+const authorMap = await getAuthorMap();
+---
+
+<BaseLayout title={name}>
+  <header class="mb-12 pb-8 border-b border-paqui-rule">
+    <p class="text-[11px] font-sans font-semibold uppercase tracking-[0.15em] text-paqui-red mb-3">Etiqueta</p>
+    <h1 class="font-display text-3xl md:text-5xl font-bold text-paqui-dark">{name}</h1>
+    <p class="mt-3 text-sm font-sans text-paqui-muted">{posts.length} artículos</p>
+  </header>
+
+  <div class="grid md:grid-cols-2 gap-x-16">
+    {posts.map((post: any) => (
+      <PostCard
+        title={post.data.title}
+        date={post.data.date}
+        author={post.data.author}
+        authorName={getAuthorName(authorMap, post.data.author)}
+        slug={post.data.slug}
+        excerpt={post.data.excerpt}
+        categories={post.data.categories}
+        columna={post.data.columna}
+        seccion={post.data.seccion}
+      />
+    ))}
+  </div>
+</BaseLayout>

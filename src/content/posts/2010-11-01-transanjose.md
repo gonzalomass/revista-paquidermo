@@ -5,7 +5,8 @@ author: "hector-hernandez-gomez"
 slug: "transanjose"
 excerpt: "Imagen por William veerbeek “Hago lo que haría un carpintero sin aspirar a ser un arquitecto. Yo tengo mi experiencia, otros, sus conocimientos literarios” Alfredo Oreamuno Quirós :: Héctor Hernández ..."
 categories: ["Cultura", "Literatura"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2502
 ---
 

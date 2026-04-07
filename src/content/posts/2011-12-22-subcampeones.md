@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "subcampeones"
 excerpt: "Una vez más, guardamos las banderas, los sombreros, las cornetas. Hace rato no me queda la camiseta Medium que está lista para celebrar desde hace 18 años, este domingo tenía preparada una XLarge. El ..."
 categories: ["Deportes"]
-tags: ["Columna Bífida"]
+tags: []
+columna: "Bífida"
 wp_id: 5175
 ---
 

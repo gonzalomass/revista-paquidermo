@@ -5,7 +5,8 @@ author: "sitaira-cubillo"
 slug: "blues-de-la-comemierda"
 excerpt: "“Had a dream last night that I was dead Evil spirits all around my bed” Bessie Smith Advertencia: Algunos sentimientos necesitan para expresarse: una fantasía postiza, una fantas..."
 categories: ["Derechos Humanos", "Minorías", "Sexualidad"]
-tags: ["Columna: Torcidxs"]
+tags: []
+columna: "Torcidxs"
 wp_id: 2354
 ---
 

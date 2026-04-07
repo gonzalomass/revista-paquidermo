@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "propaganda-por-los-hechos-y-metodos-terroristas"
 excerpt: "El martes 9 de octubre se realizó en Costa Rica la movilización “fotocopiando para estudiar”. El objetivo de la movilización era oponerse al veto presidencial a un proyecto de ley que garantizaba la p..."
 categories: ["Marxismo", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 6837
 ---
 

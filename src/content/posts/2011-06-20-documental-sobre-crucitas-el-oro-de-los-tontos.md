@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "documental-sobre-crucitas-el-oro-de-los-tontos"
 excerpt: "Documental sobre Crucitas: \"El oro de los tontos\""
 categories: ["Ambiente", "Realidad Nacional", "video"]
-tags: ["Sección Audiovisual", "Videos"]
+tags: ["Videos"]
+seccion: "Audiovisual"
 wp_id: 4117
 ---
 

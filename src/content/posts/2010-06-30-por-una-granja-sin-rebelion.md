@@ -5,7 +5,8 @@ author: "jessie-zuniga-bustamante"
 slug: "por-una-granja-sin-rebelion"
 excerpt: "Imagen por Ben Templesmith “El que controla el pasado, controla el futuro y el que controla el presente, controla el pasado” 1984, Georges Orwell El gobierno costarricen..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1640
 ---
 

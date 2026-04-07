@@ -5,7 +5,8 @@ author: "roberto-guzman"
 slug: "una-ciudad-humana"
 excerpt: ":: Roberto Guzmán (*) :: Hace cerca de 100 años las calles de San José estaban ocupadas por niñas y niños jugando, vendedores, caballos, bicicletas y carretones. El carro era un extraño, un personaje ..."
 categories: ["Cultura", "Cotidianidad", "Entretenimiento", "Deportes", "Ecología", "Realidad Nacional", "Sociedad", "Sostenibilidad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12093
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "estamos-en-contra-de-un-concordato-con-la-santa-sede"
 excerpt: "Las victorias históricas de la Selección Nacional de Fútbol en el Mundial 2014 han logrado lo que ninguna religión, ni partido político ni movimiento social ha conseguido jamás en este país. Cada prov..."
 categories: ["Cultura", "Deportes"]
-tags: ["Sección: Editorial", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+seccion: "Editorial"
 wp_id: 10649
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "escocia-no"
 excerpt: "Sean Connery, Andy Murray y los Proclaimers (de nombre usted no sabe quiénes son pero este coro: “I would walk 500 miles,” se lo puede recordar. El vínculo para el video está al final, no se distraiga..."
 categories: ["Internacional"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 10969
 ---
 

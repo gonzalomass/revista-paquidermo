@@ -5,7 +5,8 @@ author: "bernal-herrera"
 slug: "presentes-poscoloniales"
 excerpt: "El adjetivo ‘colonial’ suele remitir, en América Latina, a una etapa ya clausurada, grosso modo ocurrida en los siglos XVI al XVIII. No ocurre lo mismo en amplias áreas de África y Asia, donde el recu..."
 categories: ["América Latina", "Cultura", "Historia"]
-tags: ["Columna: Decoloniales"]
+tags: []
+columna: "Decoloniales"
 wp_id: 5412
 ---
 

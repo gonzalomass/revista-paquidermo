@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "los-20-articulos-mas-leidos-del-2011-i"
 excerpt: "20. El vómito ajeno, Gabriel Ruiz: \"La primera noche que dormí en el hospital, tenía la angustia y aprehensión que producen esas situaciones, y había decidido pasar el mayor tiempo posible noqueado, p..."
 categories: ["Editorial"]
-tags: ["Sección: Editorial"]
+tags: []
+seccion: "Editorial"
 wp_id: 5226
 ---
 

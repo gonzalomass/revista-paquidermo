@@ -5,7 +5,8 @@ author: "maria-jose-chaves-groh"
 slug: "un-reflexion-acerca-del-pasado-8-de-marzo"
 excerpt: "[caption id=\"attachment_8058\" align=\"aligncenter\" width=\"640\"] Manifestación a favor del derecho de la mujer a votar (Nueva York, 1917)[/caption] :: María José Chaves Groh :: CEFEMINA Red Feminista co..."
 categories: ["Movimiento Social", "Protesta", "Realidad Nacional", "Feminismo"]
-tags: ["Lo Recomendado", "Sección: Periscopio"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 8057
 ---
 

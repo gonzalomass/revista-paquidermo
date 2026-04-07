@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "nueva-receta-tica-en-derechos-humanos-simplemente-incomible"
 excerpt: "Costa Rica ha cocinado su imagen como defensora de los derechos humanos de forma más o menos consistente durante décadas, y ha tenido frutos de ese trabajo de marketing. El platillo no estaba del todo..."
 categories: ["Democracia", "Derechos Humanos", "Minorías", "Sociedad"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 2435
 ---
 

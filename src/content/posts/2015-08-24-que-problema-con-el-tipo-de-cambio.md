@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "que-problema-con-el-tipo-de-cambio"
 excerpt: "Si usted le da seguimiento al comportamiento de los precios internos en Costa Rica y los compara con el promedio de los precios de los países con los cuales comerciamos, confirmará fácilmente que exis..."
 categories: ["Capitalismo", "Economía", "Neoliberalismo"]
-tags: ["Columna: Soñar con los pies en la tierra", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12525
 ---
 

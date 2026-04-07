@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "los-jefes-y-el-partido-liberacion-nacional"
 excerpt: "Fotografía: Jimmy Kong A finales del año pasado, con gran algarabía, Johnny Araya anunciaba su slogan principal de cara a las elecciones: “¡Contráteme!”. El efecto del mensaje (y en general de las acc..."
 categories: ["Política", "Electoral", "Realidad Nacional"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 9843
 ---
 

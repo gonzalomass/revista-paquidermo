@@ -5,7 +5,8 @@ author: "homer-davila-gutierrez"
 slug: "los-recursos-ambientales-tienen-un-precio-de-mercado"
 excerpt: "Bajo el título «The Tragedy of Commons»[1], Garret Hardin da a conocer a la comunidad internacional acerca del problema del manejo de los recursos comunes, o aquellos recursos que pertenecen a todos y no pertenecen a nadie; basándose para ello en el ejemplo del matemático William Forster Lloyd, quien en 1833 introduce el concepto de uso excesivo de los recursos comunes; tras notar que un terreno de pastizales que era un bien común para varios usuarios, tendía a ser sobreexplotado por cuanto cada uno de los usuarios buscaría incrementar sus rendimientos, introdujendo más y más cabezas de ganado, lo cual a fin de cuentas provocaría dos cosas: un mayor rendimiento y productividad a corto plazo para el usuario, pero a la vez una pérdida del recurso suelo y pasto a largo plazo, induciendo a que todos los demás usuarios perdieran también dicho recurso."
 categories: ["Ambiente", "Economía", "Realidad Nacional"]
-tags: ["Sección Debates"]
+tags: []
+seccion: "Debates"
 wp_id: 4186
 ---
 

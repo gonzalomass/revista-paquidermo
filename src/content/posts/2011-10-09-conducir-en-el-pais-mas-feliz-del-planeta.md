@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "conducir-en-el-pais-mas-feliz-del-planeta"
 excerpt: "No hay lugar como el hogar. Cuando estaba en cuarto de primaria, tenía un grupo de compañeros bastante, digamos, “traviesos”. Eran bien ocurrentes: cada semana llegaban con una necedad nueva, que apli..."
 categories: ["Realidad Nacional", "Sociedad"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 4721
 ---
 

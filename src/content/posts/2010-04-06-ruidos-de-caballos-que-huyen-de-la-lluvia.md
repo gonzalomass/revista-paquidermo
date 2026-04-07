@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "ruidos-de-caballos-que-huyen-de-la-lluvia"
 excerpt: "A C.R; a F.G (in memoriam) Todo el mundo sabe que el SIDA ha sido desde siempre algo más que una enfermedad. Cuando a inicios de los 80 los medios de comunicación asociaron el virus con la homosexuali..."
 categories: ["Salud", "Sexualidad", "Sociedad"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 906
 ---
 

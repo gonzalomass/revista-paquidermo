@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "el-sexo-de-los-futbolistas"
 excerpt: "Según la tradición occidental, a mediados del siglo XV, mientras las tropas otomanas se apoderaban de Constantinopla, los miembros de la nobleza del palacio asediado se hallaban enfrascados en una aca..."
 categories: ["Medios de Comunicación", "Sexualidad"]
-tags: ["Columna: Habitualidades"]
+tags: []
+columna: "Habitualidades"
 wp_id: 1310
 ---
 

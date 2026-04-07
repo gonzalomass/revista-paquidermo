@@ -5,7 +5,8 @@ author: "perpetuo-socorro-chaves-salazar"
 slug: "barajemela-mas-despacito-con-esto-del-aborto"
 excerpt: "Imagen: Rafael Araujo En lo que yo llevo de vida, que son años, nunca había visto que los candidatos a la Presidencia de la República estuvieran tan obcecados con..."
 categories: ["Derechos Humanos", "Feminismo", "Género"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9816
 ---
 

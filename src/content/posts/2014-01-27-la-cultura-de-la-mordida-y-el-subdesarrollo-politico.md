@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-cultura-de-la-mordida-y-el-subdesarrollo-politico"
 excerpt: "“Nuestra primera parada fue en la oficina de los abogados. Nos sentamos con algunos de los abogados más prominentes de Costa Rica, incluyendo a Jorge de la Guardia y José Juan Sabrado (sic). Jorge hab..."
 categories: ["Electoral", "Corrupción", "Uncategorized"]
-tags: ["Lo Recomendado", "Sección: Editorial"]
+tags: ["Lo Recomendado"]
+seccion: "Editorial"
 wp_id: 9909
 ---
 

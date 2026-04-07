@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "mad-men-lo-que-el-mundo-quiere-hoy-es-algo-autentico"
 excerpt: "Imagen: Miroslav Vajdic Traicioné todas mis promesas, ofendí a mi hija, tomé el nombre de otra persona y de todo eso no conseguí absolutamente nada. Don Draper Gustavo Solórzano-Alfaro Mad Men, la mag..."
 categories: ["Cultura"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 11887
 ---
 

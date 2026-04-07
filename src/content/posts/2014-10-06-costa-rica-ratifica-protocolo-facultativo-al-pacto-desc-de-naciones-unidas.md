@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "costa-rica-ratifica-protocolo-facultativo-al-pacto-desc-de-naciones-unidas"
 excerpt: ":: Nicolás Boeglin (*) :: El pasado 23 de septiembre, Costa Rica procedió a depositar ante la Secretaría de las Naciones Unidas en Nueva York el instrumento de ratificación del Protocolo Facultativo a..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11013
 ---
 

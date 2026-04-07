@@ -5,7 +5,8 @@ author: "esteban-cordoba"
 slug: "botemos-los-derechos-humanos"
 excerpt: "Imagen por Scott Baird “Botemos los Derechos Humanos, pero a la basura”, sería la consigna de un germen que crece en la Universidad de Costa Rica con la consigna subrepticia y ho..."
 categories: ["Realidad Nacional", "Derechos Humanos", "Minorías", "Religión", "Sexualidad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 4024
 ---
 

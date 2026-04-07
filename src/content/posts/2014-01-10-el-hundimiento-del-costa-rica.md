@@ -5,7 +5,8 @@ author: "bryan-gonzalez"
 slug: "el-hundimiento-del-costa-rica"
 excerpt: "Foto: Mchaconcr Abandona el barco, no porque se hunda, sino para hacer que se hunda. Tiqqun Comienzo recalcando que la metáfora del barco que se hunde es muy utilizada para describir contextos de catá..."
 categories: ["Uncategorized"]
-tags: ["Lo Recomendado", "Columna: Atitodo y Otras Yerbas"]
+tags: ["Lo Recomendado"]
+columna: "Atitodo y Otras Yerbas"
 wp_id: 9723
 ---
 

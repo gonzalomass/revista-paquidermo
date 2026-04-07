@@ -5,7 +5,8 @@ author: "fabian-coto-chaves"
 slug: "breves-palabras-sobre-johny-araya"
 excerpt: "Fuente: Página de FB de Johnny Araya Johnny Araya llegó a la candidatura del PLN, como Mijares llegó al baño de mujeres. O, lo que es igual, como un samueleador roto que intenta redi..."
 categories: ["América Central", "Democracia"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8579
 ---
 

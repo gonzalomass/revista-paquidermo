@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "sodoma-en-el-vaticano"
 excerpt: "Increíbles las declaraciones del cardenal Tarcisio Bertone el pasado lunes 11 de abril, según las cuales existe una relación entre homosexualidad y pedofilia y no entre celibato y pedofilia. El carden..."
 categories: ["Derechos Humanos"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 1031
 ---
 

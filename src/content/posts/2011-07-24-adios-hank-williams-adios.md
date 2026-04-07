@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "adios-hank-williams-adios"
 excerpt: "Imagen de Hank Williams Esto es una historia de hombres simples. Cualquiera la puede cargar con los accesorios innecesarios del mito y los ritos y secretos de los “entendidos”, eso es cierto, pero la ..."
 categories: ["Entretenimiento", "Cultura"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 4309
 ---
 

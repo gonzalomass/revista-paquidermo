@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "doble-discurso-a-mares-gobierno-cede-ante-intereses-de-la-industria-pesquera"
 excerpt: "En materia de legislación ambiental, Costa Rica es firmante de una serie de convenciones internacionales de carácter vinculante, como la Convención sobre el Comercio Internacional de Especies Amenazad..."
 categories: ["Ambiente", "Corrupción", "Ecología", "Sostenibilidad"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 12726
 ---
 

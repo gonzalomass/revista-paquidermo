@@ -5,7 +5,8 @@ author: "mario-cunningham"
 slug: "nuestro-nuevo-presidente-progre-y-la-analogia-macrontrudeau"
 excerpt: "Minutos después de la elección del presidente Carlos Alvarado, y en uno de nuestros tradicionales intentos por sentirnos como un país desarrollado des"
 categories: ["Electoral", "Política", "Realidad Nacional"]
-tags: ["Invitados Especiales", "Sección Doxa"]
+tags: ["Invitados Especiales"]
+seccion: "Doxa"
 wp_id: 13899
 ---
 

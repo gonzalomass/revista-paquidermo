@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "estupidos-y-suicidas"
 excerpt: "Elke Vogelsang © Después que la Nación S.A. desalojó a Edgar Espinoza, el mejor columnista permanente del periódico fue, por kilómetros, Jorge Vargas Cullel. Un lector del medio, o algún pariente, lo ..."
 categories: ["Medios de Comunicación"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10265
 ---
 

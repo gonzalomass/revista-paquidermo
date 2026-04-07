@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "putas-perico-y-madre-patria"
 excerpt: "Entre los proféticos goles que nos metieron durante el Mundial, creo que el más grande y bello, fue sin duda la ratificación del Convenio “Plus” con los gringos. El futuro despliegue militar estadouni..."
 categories: ["Política"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 1761
 ---
 

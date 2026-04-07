@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "nadie-esta-viendo-el-granero"
 excerpt: "Fotografía por Jon Sullivan La historia va a así: un académico de una pequeña universidad rural de Estados Unidos, fundador del departamento de estudios hitlerianos, lleva a su colega, un profesor jud..."
 categories: ["Internacional", "Medios de Comunicación"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 4940
 ---
 

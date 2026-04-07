@@ -5,7 +5,8 @@ author: "marco-feoli"
 slug: "estado-laico-aqui-no-alla"
 excerpt: "Wang Zi Won © Bien engominado, empotrado en una silla muy a lo Luis XIV y con un chalequito de esos que evocan a los viejos y elegantes gamonales de Cartago, siempre tan bien relacio..."
 categories: ["Realidad Nacional", "Religión"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10346
 ---
 

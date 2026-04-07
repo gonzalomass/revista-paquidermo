@@ -5,7 +5,8 @@ author: "gabriela-arguedas"
 slug: "hay-mas-de-un-justo-en-la-politica-nacional"
 excerpt: "Orozco no llegó a ser diputado por casualidad. Por él votaron miles de personas. Y si bien muchos de esos votantes pueden ahora arrepentirse sinceramente de su error, otros muchos no. Al contrario, lo apoyan, lo instigan, le demandan que continúe con su agenda. Por eso el problema no se puede reducir a la figura de un fundamentalista que destroza la gramática y la sintaxis cada vez que abre la boca."
 categories: ["Derechos Humanos"]
-tags: ["Columna: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Periscopio"
 wp_id: 6098
 ---
 

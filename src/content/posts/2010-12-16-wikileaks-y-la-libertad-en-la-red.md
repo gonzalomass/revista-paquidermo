@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "wikileaks-y-la-libertad-en-la-red"
 excerpt: "Ya entraron los aires navideños. Llegó el opio del pueblo con sabor a aguinaldo, Chinamo y tamales. Como me comentaba un sabio taxista, desde que comienzan los vientos y se alejan las nubes, la incons..."
 categories: ["Democracia", "Internacional", "Medios de Comunicación"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 2673
 ---
 

@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "rusia-2018-apuntes-3"
 excerpt: "Jornada 4"
 categories: ["Crónica", "Fútbol", "Memoria"]
-tags: ["Columna Bífida", "Mundial", "Rusia 2018"]
+tags: ["Mundial", "Rusia 2018"]
+columna: "Bífida"
 wp_id: 14092
 ---
 

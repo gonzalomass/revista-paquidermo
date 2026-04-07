@@ -5,7 +5,8 @@ author: "esteban-carrion"
 slug: "soldados-de-hojalata"
 excerpt: "Pedro Álvarez del Castillo vio arder el fuego que alumbraba de las casas cercanas sobre los charcos de sangre que se empozaba en el fango. El humo del incendio y los gritos de la..."
 categories: ["Internacional", "Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9300
 ---
 

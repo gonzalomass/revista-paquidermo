@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "top-5-de-series-de-tv-numero-3-the-walking-dead"
 excerpt: "Nos gustan los apocalipsis porque nos permiten preguntar, suspendidas ciertas convenciones y normas sociales, qué haríamos en situaciones límite. Nos gustan los apocalipsis porque además inquieren sob..."
 categories: ["Cultura"]
-tags: ["Lo Recomendado", "Columna: Boca a Boca"]
+tags: ["Lo Recomendado"]
+columna: "Boca a Boca"
 wp_id: 9565
 ---
 

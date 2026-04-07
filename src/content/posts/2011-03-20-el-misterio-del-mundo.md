@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "el-misterio-del-mundo"
 excerpt: "Quizá hay misterios más interesantes, enigmas existenciales, preguntas últimas, interrogantes insondables, cuestionamientos aporéticos donde todo queda paralizado, donde yace todo aquello que uno se i..."
 categories: ["Sociedad", "Marxismo"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 3042
 ---
 

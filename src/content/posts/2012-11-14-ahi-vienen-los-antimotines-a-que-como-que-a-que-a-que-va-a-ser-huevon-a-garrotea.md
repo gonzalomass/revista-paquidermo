@@ -5,7 +5,8 @@ author: "alejandra-montiel"
 slug: "ahi-vienen-los-antimotines-a-que-como-que-a-que-a-que-va-a-ser-huevon-a-garrotea"
 excerpt: "Foto: NERD! :: Alejandra Montiel* :: Lo primero: Yo lo vi, no me lo contaron. Por desgracia, ese día tenía que llegar a la 1 a la CCSS a una audiencia. Aunque salí con una hora de anticipación, estuve..."
 categories: ["Libertad de expresión", "Estado de Derecho"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7217
 ---
 

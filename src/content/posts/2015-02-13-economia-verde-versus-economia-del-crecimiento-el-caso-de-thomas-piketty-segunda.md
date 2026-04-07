@@ -5,7 +5,8 @@ author: "rupert-read"
 slug: "economia-verde-versus-economia-del-crecimiento-el-caso-de-thomas-piketty-segunda"
 excerpt: "En el corazón del libro de Piketty está su fórmula “r > c”: la tasa de retorno del capital (r) es típicamente más grande que la tasa de crecimiento económico (c). Pero, ¿nos ayuda Pike..."
 categories: ["Ecología", "Economía"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11376
 ---
 

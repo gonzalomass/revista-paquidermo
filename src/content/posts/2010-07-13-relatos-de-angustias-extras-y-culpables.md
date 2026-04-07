@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "relatos-de-angustias-extras-y-culpables"
 excerpt: "Imagen por Wakalani Esta es la historia de cómo un pequeño y maravilloso país, el más pacífico y feliz del mundo, cayó un mal día en desgracia y empezó a sufrir todo tipo de infort..."
 categories: ["Política", "Realidad Nacional", "Religión", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1754
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "david-harvey-crises-of-capitalism"
 excerpt: ""
 categories: ["Economía", "Política", "Sociedad"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 2831
 ---
 

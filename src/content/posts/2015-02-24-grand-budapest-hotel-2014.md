@@ -5,7 +5,8 @@ author: "alonso-ramirez-cover"
 slug: "grand-budapest-hotel-2014"
 excerpt: "No sé por qué, pero cada vez que pienso en la carrera filmográfica de Wes Anderson, me imagino una insistente y vieja maestra de escuela a su lado repitiendo: ‘hazlo otra vez,..."
 categories: ["Cultura", "Cine"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11408
 ---
 

@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "ajuste-estructural-en-francia"
 excerpt: "Hace un par de meses publicamos una Rapiña que analizaba algunos puntos del quinquenio del presidente Sarkozy. Nos enfocamos principalmente en la admiración de ciertos intelectuales criollos por la fi..."
 categories: ["Internacional", "Política"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 2478
 ---
 

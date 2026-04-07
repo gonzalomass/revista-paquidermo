@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "mataron-a-rio-doce"
 excerpt: "Rio Doce, la cuenca hidrográfica más importante del sureste brasileño, sufre las devastadoras consecuencias de uno de los mayores desastres mineros de la historia. La pluma de sedimentos, producida po..."
 categories: ["Ambiente", "Capitalismo", "Ecología"]
-tags: ["Lo Recomendado", "Columna: La Chayotera"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 12968
 ---
 

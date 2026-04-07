@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "como-acabar-con-el-desempleo-y-la-angustia-existencial"
 excerpt: "Imagen de The Library of Congress Un amigo una vez me dijo que el problema más grave de “los jóvenes” (mi amigo no llega a los treinta años pero siempre habla de “los jóvenes”) es que su sueño más sal..."
 categories: ["Economía", "Sociedad"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 2389
 ---
 

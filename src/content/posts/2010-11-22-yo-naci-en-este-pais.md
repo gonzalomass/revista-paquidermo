@@ -5,7 +5,8 @@ author: "jorge-daniel-vasquez"
 slug: "yo-naci-en-este-pais"
 excerpt: "Imagen por jjfigueroa Sabemos desde Homi Babha que las naciones son narraciones que deben ser entendidas como modalidades poéticas. Costa Rica tiene muchas formas de narrars..."
 categories: ["Internacional", "Medios de Comunicación", "Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2615
 ---
 

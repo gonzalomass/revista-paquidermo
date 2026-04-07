@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "chavela-vargas-la-dama"
 excerpt: "Chavela cantó con indignación, con rabia,  con dolor y con sorna. Y cantó bien.  En cualquier sociedad conservadora no es de extrañar que se la refiera por su alcoholismo, sus prácticas sexuales, su ropa masculina, su manera desfachatada y cínica de referirse a cualquier cosa o la cólera contra su origen. Sólo un corazón comprimido puede recordarla desde ahí y entender que eso la hace única, diferente y peor aún, anormal.  Chavela fue una necia, la más necia de todas y eso es lo más amado en ella."
 categories: ["Cultura"]
-tags: ["Lo Recomendado", "Columna: La Media Columna"]
+tags: ["Lo Recomendado"]
+columna: "La Media Columna"
 wp_id: 6186
 ---
 

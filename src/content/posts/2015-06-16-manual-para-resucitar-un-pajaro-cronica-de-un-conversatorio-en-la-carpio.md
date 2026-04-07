@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "manual-para-resucitar-un-pajaro-cronica-de-un-conversatorio-en-la-carpio"
 excerpt: "No es fácil saber si son carros o buses; lo cierto es que la línea se borra con el sol y luego reaparece. Esa línea no es otra cosa que la carretera, charco de asfalto que se extiende entre dos grande..."
 categories: ["Sociedad", "América Central", "Capitalismo", "Crónica", "Cotidianidad", "Economía", "Neoliberalismo", "Migraciones", "Minorías", "Política", "Realidad Nacional", "Resistencia"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 12062
 ---
 

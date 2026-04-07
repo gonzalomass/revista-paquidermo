@@ -5,7 +5,8 @@ author: "bryan-gonzalez-hernandez"
 slug: "blanca-y-pura-descansa-la-paz-en-paz"
 excerpt: "Imagen por Voluptas Vitae Al celebrarse los 62 años de la abolición del ejército en Costa Rica, actividad a la cual no recuerdo se le hiciera tanta alharaca en años ante..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2652
 ---
 

@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "un-fantasma-recorre-los-genes"
 excerpt: "Nuestro entendimiento de la herencia biológica ha avanzado en las últimas décadas gracias a nueva evidencia científica. La capacidad de los genes de activarse y desactivarse demuestra que lo que hered..."
 categories: ["Ecología"]
-tags: ["Lo Recomendado", "Columna: La Chayotera"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 9270
 ---
 

@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "los-salarios-de-los-gerentes-bancarios"
 excerpt: "Sí, ciertamente son escandalosos. En particular resulta obsceno lo que se le paga a Fernando Naranjo por ejercer como gerente del Banco Nacional. Conocemos la explicación oficial: se trata de señores ..."
 categories: ["Economía"]
-tags: ["Invitados Especiales", "Lo Recomendado", "Columna: Soñar con los pies en la tierra"]
+tags: ["Invitados Especiales", "Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 7002
 ---
 

@@ -5,7 +5,8 @@ author: "cesar-barrantes"
 slug: "la-falsa-excepcionalidad"
 excerpt: "Imagen por joseflicksfe Aquel día, cuando el oso soviético cayó sobre los escombros de un Tercer Reich vencido, miles de alemanes que aún creían en el régimen que perduraría mil a..."
 categories: ["América Latina", "Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1770
 ---
 

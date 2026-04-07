@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "breve-genealogia-de-la-desigualdad"
 excerpt: "“Igualdad y desigualdad son conceptos estadísticos; equidad e inequidad son conceptos éticos o morales. Los primeros sirven para describir una realidad, los segundos para calificarla”. Corrado Gini (1..."
 categories: ["Ciencia"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 10538
 ---
 

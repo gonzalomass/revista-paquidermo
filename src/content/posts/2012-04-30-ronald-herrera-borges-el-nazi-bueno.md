@@ -5,7 +5,8 @@ author: "mario-zuniga-nunez"
 slug: "ronald-herrera-borges-el-nazi-bueno"
 excerpt: "Hay noticias que uno se espera y otras que no. La que apareció el martes 17 de abril, acerca de un policía de 26 años que exhibía orgulloso en su sitio de facebook banderas y ta..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 5842
 ---
 

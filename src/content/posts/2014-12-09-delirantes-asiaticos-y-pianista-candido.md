@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "delirantes-asiaticos-y-pianista-candido"
 excerpt: "Después de su brutal derrota en la Segunda Guerra Mundial, los talentos de la población japonesa para ingresar a y competir en los mercados capitalistas occidentales les valieron, especialmente por su..."
 categories: ["Política"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11222
 ---
 

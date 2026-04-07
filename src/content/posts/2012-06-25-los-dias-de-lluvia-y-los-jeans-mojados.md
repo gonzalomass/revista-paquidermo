@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros"
 slug: "los-dias-de-lluvia-y-los-jeans-mojados"
 excerpt: "¿Quién no adora sus jeans? Aunque muchas veces nos damos cuenta de que no es una tela tropicalizada, y por algunas otras razones, en los días de calor son demasiado calientes; si hace frío se ponen friísimos; pero lo peor: cuando llueve inevitablemente terminan empapados hasta las rodillas. ¿Por qué? ¡Nunca nos metimos en un charco tan hondo!"
 categories: ["Ciencia"]
-tags: ["Columna: Ojo de Camaleón"]
+tags: []
+columna: "Ojo de Camaleón"
 wp_id: 6022
 ---
 

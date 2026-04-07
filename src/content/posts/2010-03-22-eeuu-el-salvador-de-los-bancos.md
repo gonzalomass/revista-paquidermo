@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "eeuu-el-salvador-de-los-bancos"
 excerpt: "Pareciera que las autoridades políticas estadounidenses tenían solo una cosa en mente cuando estalló la crisis financiera, que su país en gran parte causó: rescatar a los bancos de sus pésimas inversi..."
 categories: ["Economía"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 745
 ---
 

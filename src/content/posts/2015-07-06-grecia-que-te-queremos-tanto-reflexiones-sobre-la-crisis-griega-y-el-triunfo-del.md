@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "grecia-que-te-queremos-tanto-reflexiones-sobre-la-crisis-griega-y-el-triunfo-del"
 excerpt: "1) Democracia vrs. Capitalismo. George Soros es un capitalista exitosísimo, sobre todo un especulador financiero tremendamente hábil. De hecho, uno de los hombres más ricos del planeta. En su libro “C..."
 categories: ["Capitalismo", "Crónica", "Economía", "Neoliberalismo", "Internacional", "Política", "Democracia", "Movimiento Social", "Protesta", "Geopolítica", "Resistencia", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Soñar con los pies en la tierra"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12221
 ---
 

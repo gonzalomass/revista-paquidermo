@@ -5,7 +5,8 @@ author: "bryan-gonzalez-hernandez"
 slug: "los-nublados-del-dia"
 excerpt: "Si me lo preguntan, en Costa Rica aún se está esperando a que se aclaren los nublados del día. Y esa espera nos nubló la vista –y la mente-, y por eso nunca comprendimos..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 6248
 ---
 

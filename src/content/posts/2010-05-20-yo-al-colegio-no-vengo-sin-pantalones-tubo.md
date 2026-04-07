@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "yo-al-colegio-no-vengo-sin-pantalones-tubo"
 excerpt: "La prohibición de usar accesorios y de adaptar el uniforme colegial al gusto propio es una norma autoritaria. No obstante, en Costa Rica no sólo se acepta unánimemente la conveniencia de que existan d..."
 categories: ["Realidad Nacional", "Sociedad"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 1234
 ---
 

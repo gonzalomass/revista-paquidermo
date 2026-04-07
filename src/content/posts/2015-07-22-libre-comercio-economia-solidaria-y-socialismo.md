@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "libre-comercio-economia-solidaria-y-socialismo"
 excerpt: "En las últimas semanas se desarrolló en el país un debate entre dos sectores de la clase dominante, el estallido del debate fue producto de una serie de notas del periódico La Nación donde se anunciab..."
 categories: ["Capitalismo", "Ciencia", "Economía", "Neoliberalismo", "Historia", "Marxismo", "Medios de Comunicación", "Política", "Estado de Derecho", "Realidad Nacional", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: ¡Qué Panfle!"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 12339
 ---
 

@@ -5,7 +5,8 @@ author: "lucas-carrasco"
 slug: "macri-quiere-privatizar-la-familia-kirchner"
 excerpt: "Probablemente Macri no sea la caricatura mensa que los más tontos del kirchnerismo se han predispuesto amablemente a dibujar, sabiendo que es mentira pero, en el fondo, deseando q..."
 categories: ["América Latina", "Economía", "Neoliberalismo", "Política", "Geopolítica"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12931
 ---
 

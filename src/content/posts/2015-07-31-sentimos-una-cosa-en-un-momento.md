@@ -5,7 +5,8 @@ author: "diego-delfino"
 slug: "sentimos-una-cosa-en-un-momento"
 excerpt: "A veces me pregunto cómo un patán del calibre de Juan Hernández me simpatiza. Especialmente porque no mucha gente me simpatiza. A ver: mucho me habían advertido de él, ¿a quién no?..."
 categories: ["Caricatura", "Cultura", "Literatura", "Literatura", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12401
 ---
 

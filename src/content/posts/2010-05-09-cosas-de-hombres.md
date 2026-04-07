@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "cosas-de-hombres"
 excerpt: "* No existe un lugar en el que un hombre pueda ser más playo que la cancha de fútbol: el deporte rey es, sin duda, el más bipolar de los deportes. El mediocampista que pierde un balón es una mona, el ..."
 categories: ["Derechos Humanos", "Realidad Nacional"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 1178
 ---
 

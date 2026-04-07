@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "crear-mil-crucitas"
 excerpt: "Ronald Reyes, Tico Times Estaba en quinto año del colegio cuando se dio la movilización por el “combo” del ICE. Sentir a los diecisiete la fuerza de una manifestación multitudinaria que toma las calle..."
 categories: ["Ambiente"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 8173
 ---
 

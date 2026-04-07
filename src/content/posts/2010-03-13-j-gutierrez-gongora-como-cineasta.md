@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "j-gutierrez-gongora-como-cineasta"
 excerpt: "\"La fuerza quizá ya se ha convertido en el último recurso para el desarrollo económico no solo de la vertiente atlántica sino de toda Costa Rica.\" J. Gutiérrez en La Nación. Brillantez, elocuencia y s..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 200
 ---
 

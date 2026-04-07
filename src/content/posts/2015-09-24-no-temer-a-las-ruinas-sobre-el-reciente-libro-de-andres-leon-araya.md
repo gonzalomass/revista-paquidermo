@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "no-temer-a-las-ruinas-sobre-el-reciente-libro-de-andres-leon-araya"
 excerpt: "Andrés y yo somos amigos desde la época en que escribía este libro. En ese tiempo era un politólogo que hacía geografía política, como queda claramente demostrado en “Desarrollo geográfico desigual en..."
 categories: ["Capitalismo", "Cultura", "Economía", "Neoliberalismo", "Historia", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 12662
 ---
 

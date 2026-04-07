@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-caja-de-pandora"
 excerpt: "http://www.youtube.com/watch?v=-r2ediV__fE&feature=youtu.be"
 categories: ["Política", "Corrupción", "Realidad Nacional"]
-tags: ["Sección Audiovisual", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Audiovisual"
 wp_id: 10048
 ---
 

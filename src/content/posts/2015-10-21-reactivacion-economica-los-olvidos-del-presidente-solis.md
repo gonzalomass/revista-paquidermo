@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "reactivacion-economica-los-olvidos-del-presidente-solis"
 excerpt: "Las tasas de interés en Costa Rica son abusivamente elevadas. Las pasivas (o sea, las que se pagan sobre los depósitos a plazo) están en los alrededor del 6,5% lo cual, con una inflación del cero por ..."
 categories: ["Capitalismo", "Economía", "Desempleo", "Neoliberalismo", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Soñar con los pies en la tierra"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12768
 ---
 

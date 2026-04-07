@@ -5,7 +5,8 @@ author: "gladys-tzul-tzul"
 slug: "el-levantamiento-indigena-en-el-ecuador-alumbra-las-luchas-comunales-en-guatemal"
 excerpt: ":: Gladyz Tzul Tzul (*):: Nuevamente, las luchas de las mujeres y los hombres de las comunidades indígenas del Ecuador logran interpelar al sistema de explotación y despojo territorial que encabeza el..."
 categories: ["América Latina", "Capitalismo", "Derechos Humanos", "Movimiento Social", "Protesta", "Resistencia"]
-tags: ["Invitados Especiales", "Lo Recomendado", "Sección: Periscopio"]
+tags: ["Invitados Especiales", "Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 12485
 ---
 

@@ -5,7 +5,8 @@ author: "pablo-segreda-johanning"
 slug: "pequena-muerte-en-el-cesped"
 excerpt: "A la memoria de Lester Morgan Suazo Y te quedaste en la fotografía, a un metro del alpiste, con tu vida mejor en vilo, en vía ya de tu muerte triste, sin coger el balón que ya cogiste. Miguel Hernánde..."
 categories: ["Fútbol"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11654
 ---
 

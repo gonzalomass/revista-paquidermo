@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "por-que-no-soy-cristiano"
 excerpt: "El 6 de marzo de 1927, el filósofo británico Bertrand Russell pronunció la lección Why I’m Not a Christian ante la National Secular Society de Londres. En la lección, se esgrimen los típicos argumento..."
 categories: ["Religión", "Sociedad"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 1149
 ---
 

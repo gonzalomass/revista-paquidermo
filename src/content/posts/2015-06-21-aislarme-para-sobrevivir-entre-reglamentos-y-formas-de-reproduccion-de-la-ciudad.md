@@ -5,7 +5,8 @@ author: "andres-jimenez-corrales-y-david-araya-diaz"
 slug: "aislarme-para-sobrevivir-entre-reglamentos-y-formas-de-reproduccion-de-la-ciudad"
 excerpt: ":: Andrés Jiménez Corrales (1) y David Araya Díaz (2) (*):: La propuesta del nuevo Reglamento de Fraccionamiento y Urbanizaciones del Instituto Nacional de Vivienda y Urbanismo (INVU) ha generado dos ..."
 categories: ["Sociedad", "Sostenibilidad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12102
 ---
 

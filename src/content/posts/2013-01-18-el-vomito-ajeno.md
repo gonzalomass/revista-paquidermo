@@ -5,7 +5,8 @@ author: "gabriel-ruiz"
 slug: "el-vomito-ajeno"
 excerpt: "23 de septiembre de 1982 - 18 de enero de 2013 Los aplausos comenzaron con el regurgitar de mi almuerzo. Era un juego tonto, sobretodo porque fue idea mía. Aplaudir el vómito ajeno ..."
 categories: ["Sociedad", "Salud"]
-tags: ["Columna: Crónicas del cangrejo", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Crónicas del cangrejo"
 wp_id: 3276
 ---
 

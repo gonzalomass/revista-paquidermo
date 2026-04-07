@@ -5,7 +5,8 @@ author: "josue-lopez-hernandez"
 slug: "teatros-centros-comerciales-e-ilusiones-de-desarrollo"
 excerpt: "Con vestimentas del color de la bandera, Luis Guillermo asistía a la inauguración de un nuevo espacio familiar: el \"City Mall\" en Alajuela1. ¿Qué tenía de especial este lug..."
 categories: ["Capitalismo", "Cultura", "Cotidianidad", "Historia"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12884
 ---
 

@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "luisguilandia"
 excerpt: "Hace unos días, recién publicados los datos de algunas encuestas que estudian las percepciones de las personas consumidoras, y otras en relación con lo que llaman el “c..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Lo Recomendado", "InvitadosEspeciales", "Columna: Soñar con los pies en la tierra"]
+tags: ["Lo Recomendado", "InvitadosEspeciales"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 11232
 ---
 

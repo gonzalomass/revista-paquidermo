@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "obama-said-dale-johnny-dale"
 excerpt: "Utilizando la visita de Obama a San José, y puesto que con él no era factible hablar, se aprovechó su escolta de 47 consejeros políticos que disfrutó de una mayor libertad de movimiento y acceso. Un g..."
 categories: ["Riamos para no llorar", "Política", "Corrupción"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 8328
 ---
 

@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "el-afilador-de-cuchillos"
 excerpt: "Mi oficina, que es mi cuarto con la cama tendida, da a la calle. Un barrio de techos de dos aguas, un proyecto de vivienda popular de 1947 que hasta inicios de los 80 tuvo jardineras en lugar de verja..."
 categories: ["Ambiente", "Democracia", "Economía", "Geopolítica"]
-tags: ["Columna Bífida"]
+tags: []
+columna: "Bífida"
 wp_id: 5073
 ---
 

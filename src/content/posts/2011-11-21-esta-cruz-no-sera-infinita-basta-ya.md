@@ -5,7 +5,8 @@ author: "ana-beatriz-hernandez"
 slug: "esta-cruz-no-sera-infinita-basta-ya"
 excerpt: "Cuando una empresa, unos intereses particulares y unas influencias políticas de personajes reconocidos tratan de pisotear el interés público, la salud humana, la vida misma, además de la democracia, la autonomía y la jurisprudencia de un país, se ha llegado a un punto en el cual reaccionar es un asunto de supervivencia."
 categories: ["Ambiente", "Ecología", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5005
 ---
 

@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "el-falso-regreso-del-mesias"
 excerpt: "Francia es un país ateo. Pero el ámbito de la política no está exento de milagros y la figura del Mesías salvador ha estado paradójicamente presente en la historia secular de este país. Se trata del h..."
 categories: ["Internacional"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 10989
 ---
 

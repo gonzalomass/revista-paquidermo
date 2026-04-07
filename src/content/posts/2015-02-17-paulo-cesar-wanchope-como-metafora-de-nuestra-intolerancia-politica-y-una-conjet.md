@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "paulo-cesar-wanchope-como-metafora-de-nuestra-intolerancia-politica-y-una-conjet"
 excerpt: "El nombramiento de Paulo César Wanchope como entrenador de la Sele me perturba, me enoja. Desde hace años me molesta que cualquier jugador que se retira en Costa Rica de inmediato se convierta en entr..."
 categories: ["Política", "Electoral", "Realidad Nacional"]
-tags: ["Lo Recomendado", "Columna: Del Higuerón por la Izquierda"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 11388
 ---
 

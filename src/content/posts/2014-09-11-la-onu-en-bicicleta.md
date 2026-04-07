@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "la-onu-en-bicicleta"
 excerpt: "En el mes de julio pasado el exembajador de Costa Rica en Naciones Unidas, E. Ulibarri, publicó un dudoso, por huero, artículo que tituló “El reto de mejorar la ONU” (LN: 13/07/14). En realidad, si él..."
 categories: ["Internacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10931
 ---
 

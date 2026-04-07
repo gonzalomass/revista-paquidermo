@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "en-torno-a-la-desigualdad"
 excerpt: "Estoy convencido de que el problema más grave de este país es la desigualdad. En parte por datos arrojados por diversas investigaciones desde hace varios años, y en parte porque lo intuyo y lo siento ..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Ahí está el detalle"]
+tags: []
+columna: "Ahí está el detalle"
 wp_id: 36
 ---
 

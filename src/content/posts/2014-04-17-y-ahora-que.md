@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "y-ahora-que"
 excerpt: "Philippe Baudelocque © Ya ocurrieron la derrota y la victoria. Quizás por primera vez, o al menos de forma inédita, el gran triunfo lo obtuvo la ciudadanía costarricense. Borró del mapa electoral al i..."
 categories: ["Política", "Democracia"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10312
 ---
 

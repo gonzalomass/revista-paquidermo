@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "la-economia-de-costa-rica-en-2016-i-anemia-cronica"
 excerpt: "La economía de Costa Rica durante el año 2015 semeja un automóvil cuya caja de cambio se averió por lo que solamente puede avanzar en “segunda”. Pero la cosa no es nueva. Allá por 2006-2007 avanzaba r..."
 categories: ["Capitalismo", "Economía", "Neoliberalismo", "Política", "Realidad Nacional"]
-tags: ["Columna: Soñar con los pies en la tierra", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12977
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "el-espectaculo-o-la-victoria-una-respuesta-a-david-eduarte"
 excerpt: "Bezembinder La propaganda por “los hechos” realizada por grupos anarquistas el martes 9 de Octubre al finalizar la marcha “fotocopiando para estudiar”, ha producido tres “campos” entre el activismo so..."
 categories: ["Marxismo", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 6967
 ---
 

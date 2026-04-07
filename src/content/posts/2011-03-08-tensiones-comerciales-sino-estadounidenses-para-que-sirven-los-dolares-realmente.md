@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "tensiones-comerciales-sino-estadounidenses-para-que-sirven-los-dolares-realmente"
 excerpt: "El recientemente difunto sociólogo y economista italiano radicado en los EEUU, Giovanni Arrighi, finaliza su obra célebre 'El largo siglo veinte' con un reflexión que resulta de la mayor importancia p..."
 categories: ["Economía", "Internacional"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 2935
 ---
 

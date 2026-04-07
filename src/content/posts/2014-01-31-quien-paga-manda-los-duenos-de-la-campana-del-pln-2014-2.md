@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "quien-paga-manda-los-duenos-de-la-campana-del-pln-2014-2"
 excerpt: "Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"Tabla normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-siz..."
 categories: ["Uncategorized", "Política", "Democracia", "Electoral"]
-tags: ["Lo Recomendado", "Columna: Vagamundo"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 9937
 ---
 

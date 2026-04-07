@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "inicia-la-comedia"
 excerpt: "Sería pretensioso tratar de resumir los últimos acontecimientos nacionales en unas cuantas líneas. Sin embargo, creo que se pueden desplegar aquí algunas reflexiones —no digo necesarias— sino simpleme..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 1196
 ---
 

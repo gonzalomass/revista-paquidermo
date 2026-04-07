@@ -5,7 +5,8 @@ author: "gustavo-solorzano-alfaro"
 slug: "estambul-ya-no-es-constantinopla-desde-donde-escribimos"
 excerpt: "Imagen por Etharooni En los últimos días, me encontraba leyendo una obra de Orhan Pamuk, y un pasaje del libro generó una onda expansiva, la cual conecté de inmediato co..."
 categories: ["Literatura", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2418
 ---
 

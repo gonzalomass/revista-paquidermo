@@ -5,7 +5,8 @@ author: "william-campos-ugalde"
 slug: "libertad-religiosa-y-de-culto"
 excerpt: ":: William Campos Ugalde (*) :: Tengo días revisando el proyecto de Ley 19099 conocido como \"Proyecto de Ley para la Libertad Religiosa y de Culto\" y aunque a primera vista uno puede estar a favor del..."
 categories: ["Uncategorized"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10794
 ---
 

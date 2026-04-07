@@ -5,7 +5,8 @@ author: "bryan-gonzalez-hernandez"
 slug: "the-dark-knight-o-la-guerra-por-otros-medios"
 excerpt: "Batman es la figura idealizada por los grupos dominantes para la conservación del poder. Un súper héroe que ya no corre al auxilio de la población indefensa, sino por el contrario representaría al “otro mecanismo” con el que cuentan exclusivamente los gobiernos para hacer valer “el imperio de la ley”. Paradójicamente en la película, Batman es presentado como un outlaw, un proscrito, un bandido, el Friedlos -el “sin paz” del antiguo derecho germánico-, en última instancia “quien está fuera de la ley”."
 categories: ["Estado de Derecho"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5768
 ---
 

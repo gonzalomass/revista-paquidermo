@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "el-socialismo-de-la-nacion-s-a"
 excerpt: "Imagen: Myriam Dion Como La Nación S.A. no parece ahíta con los artículos de “ilustrada opinión” con que día a día recuerda la Guerra Fría del siglo pasado para que costarricenses aterrados no voten p..."
 categories: ["América Latina", "Política", "Electoral", "Realidad Nacional"]
-tags: ["Lo Recomendado", "Columna: Pensar América Latina"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 9820
 ---
 

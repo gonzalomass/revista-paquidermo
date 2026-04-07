@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "la-yihad-costarricense"
 excerpt: "Se ha desatado de nuevo la ira de los creyentes. El laureado escritor Alexánder Obando suele referirse a los comentarios al pie de los artículos del diario La Nación en torno a temas como la FIV, el f..."
 categories: ["Estado de Derecho", "Minorías", "Religión"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 6258
 ---
 

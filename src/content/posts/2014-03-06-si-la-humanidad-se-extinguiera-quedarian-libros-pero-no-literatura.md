@@ -5,7 +5,8 @@ author: "martin-azar"
 slug: "si-la-humanidad-se-extinguiera-quedarian-libros-pero-no-literatura"
 excerpt: "Imagen: Alvaro Tamarit Existe una larga historia del desprestigio de los estudios culturales. Los argumentos empleados con este fin van desde la afirmación de que no se trata de una ..."
 categories: ["Cultura", "Literatura", "Filosofía"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10153
 ---
 

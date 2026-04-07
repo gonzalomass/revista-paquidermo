@@ -5,7 +5,8 @@ author: "ariel-calderon-gonzalez"
 slug: "otto-guevara-las-instituciones-publicas-y-los-buitres-del-mercado"
 excerpt: "La semana pasada fue al ICE, esta semana es la Universidad de Costa Rica, posiblemente la otra semana sea contra la Caja. De cualquier manera nuestro eterno candidato presidencial y casi perenne diput..."
 categories: ["Capitalismo", "Corrupción", "Derechos Humanos", "Economía", "Neoliberalismo", "Medios de Comunicación", "Política", "Corrupción", "Movimiento Social", "Protesta", "Estado de Derecho", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: Universos Cotidianos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Universos Cotidianos"
 wp_id: 12296
 ---
 

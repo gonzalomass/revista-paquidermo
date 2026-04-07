@@ -5,7 +5,8 @@ author: "jorge-jimenez"
 slug: "kasandramemoria-kleaks-2"
 excerpt: "Un alarido escarlata Para Berenice estas memorias: ahora, antes y mientras tanto… 1989 fue un año terminal; una especie de frontera. Jorge Arturo y yo solíamos fumar un cigarrillo mientras oímos a hur..."
 categories: ["Resistencia", "América Latina", "Contracultura", "Memoria"]
-tags: ["Lo Recomendado", "Columna: KasandraMemoria"]
+tags: ["Lo Recomendado"]
+columna: "KasandraMemoria"
 wp_id: 9279
 ---
 

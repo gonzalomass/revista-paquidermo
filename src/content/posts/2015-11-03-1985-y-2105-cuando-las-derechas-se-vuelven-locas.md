@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "1985-y-2105-cuando-las-derechas-se-vuelven-locas"
 excerpt: "El momento actual me recuerda los años de mediados de los ochentas del pasado siglo, puesto que, entonces como ahora, el ambiente ideológico se ha vuelto cargado, espeso, tóxico. En aquellos años el p..."
 categories: ["Capitalismo", "Crónica", "Economía", "Neoliberalismo", "Política", "Democracia", "Estado de Derecho"]
-tags: ["Columna: Soñar con los pies en la tierra", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12826
 ---
 

@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "cronica-mundialista-iii-matas-a-la-muerte"
 excerpt: "Cargo la tele de casa para colocarla en la terraza del café. Aquí no tenemos cerveza, pero hoy, en honor a la roja, servimos huevos en el desayuno. No logro ver todo el partido porque estoy en la coci..."
 categories: ["Deportes"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "Segunda Lectura"
 wp_id: 10597
 ---
 

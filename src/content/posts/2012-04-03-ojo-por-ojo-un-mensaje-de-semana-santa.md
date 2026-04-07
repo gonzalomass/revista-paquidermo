@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "ojo-por-ojo-un-mensaje-de-semana-santa"
 excerpt: "Algo sorprendente de la redes sociales y, especialmente, de facebook y twitter, es la rapidez vertiginosa con la que se difunden los memes. Esto puede ser una ventaja, como una desventaja. Una ventaja..."
 categories: ["Derechos Humanos", "Medios de Comunicación", "Realidad Nacional"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 5787
 ---
 

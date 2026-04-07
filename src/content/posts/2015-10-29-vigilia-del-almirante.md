@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "vigilia-del-almirante"
 excerpt: "Algunas noches, como la mayoría lo sabe, despierto presa de ataques de lectura. Los mismos son a causa de un fenómeno que no logro explicar si no es con la acumulación, en los libreros de mi casa, de ..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Entretenimiento", "Literatura"]
-tags: ["Columna: Mejor que ficción", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 12811
 ---
 

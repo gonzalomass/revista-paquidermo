@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "el-cambio-que-luis-guillermo-solis-nos-ofrece"
 excerpt: "En su discurso de rendición de cuentas con motivo de lo “100 días”, el presidente Luis Guillermo Solís por primera vez esbozó con relativa claridad las calidades y orientación principal del cambio que..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Invitados Especiales", "Lo Recomendado", "Columna: Soñar con los pies en la tierra"]
+tags: ["Invitados Especiales", "Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 10918
 ---
 

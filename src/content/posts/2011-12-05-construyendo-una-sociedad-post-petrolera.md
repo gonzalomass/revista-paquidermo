@@ -5,7 +5,8 @@ author: "ignacio-arroyo-trejos"
 slug: "construyendo-una-sociedad-post-petrolera"
 excerpt: "La industria alimentaria mundial, como todas las industrias globalizadas, depende de los derivados del petróleo para existir. Además de los combustibles necesarios para su ..."
 categories: ["Geopolítica", "Ambiente", "Internacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5083
 ---
 

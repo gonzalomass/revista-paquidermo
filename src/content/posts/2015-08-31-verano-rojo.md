@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "verano-rojo"
 excerpt: "Abriendo el libro se te llena la boca de polvo. Hay algo pesado desde las primeras páginas que te hacen recordar otra novela de esas que se escriben con la desilusión: Cruz de olvido. La temática revo..."
 categories: ["Cultura", "Literatura", "Ficción", "Literatura"]
-tags: ["Columna: La Rapiña", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 12554
 ---
 

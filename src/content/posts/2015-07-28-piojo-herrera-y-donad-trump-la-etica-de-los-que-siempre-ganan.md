@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "piojo-herrera-y-donad-trump-la-etica-de-los-que-siempre-ganan"
 excerpt: "1.Piojo Herrera debió salir a dar la cara luego del encuentro México- Panamá, tras dos partidos en que la selección mexicana de fútbol no pudo anotar un solo gol por sus propios méritos, con el agrava..."
 categories: ["América Latina", "Capitalismo", "Corrupción", "Cultura", "Deportes", "Economía", "Fútbol", "Internacional", "Política", "Corrupción", "Geopolítica"]
-tags: ["Lo Recomendado", "Columna: Ausencias Presentes"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 12376
 ---
 

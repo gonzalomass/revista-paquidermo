@@ -5,7 +5,8 @@ author: "diego-nunez-garcia"
 slug: "la-puta-cara-de-la-diversidad-sexual"
 excerpt: "Antes de iniciar, quisiera enviarle un beso a la pseudo-izquierda de este país y al monopolio político de la derecha, al movimiento de la diversidad sensual, porque sólo cuerp..."
 categories: ["Género", "Sexualidad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10947
 ---
 

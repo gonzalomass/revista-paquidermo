@@ -5,7 +5,8 @@ author: "natalia-solano-meza"
 slug: "potgam-miopia-y-otras-plagas-urbanas"
 excerpt: "Incapaces de comprender que la planificación de la ciudad es un proceso lento y que debe fundamentarse en la investigación, el INVU promueve un sistema que lejos de resolver la crisis de habitabilidad, productividad y movilidad de la GAM se concentra en el crecimiento."
 categories: ["Arquitectura"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5867
 ---
 

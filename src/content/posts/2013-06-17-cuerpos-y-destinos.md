@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "cuerpos-y-destinos"
 excerpt: "Fuente: Parlamento Europeo Tenía nueve años. Iba caminando despacio, de la mano de mi hermano mayor, por una calle céntrica de San Isidro del General. El camión se acercó de frente. Venían dos tipos. ..."
 categories: ["Derechos Humanos", "Sexualidad", "Violencia contra las mujeres"]
-tags: ["Lo Recomendado", "Columna: Segunda Lectura"]
+tags: ["Lo Recomendado"]
+columna: "Segunda Lectura"
 wp_id: 8574
 ---
 

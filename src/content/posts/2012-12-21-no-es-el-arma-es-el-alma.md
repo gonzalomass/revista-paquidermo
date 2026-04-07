@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "no-es-el-arma-es-el-alma"
 excerpt: "¿Sabe usted en qué se parecen Glenn Beck, Bill O'Reilly y Julio Rodríguez? Los tres son periodistas, o personajes mediáticos, u opinólogos. Esa es la más fácil de las semejanzas. Está claro también qu..."
 categories: ["Política", "Medios de Comunicación"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 7611
 ---
 

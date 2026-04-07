@@ -5,7 +5,8 @@ author: "steven-herrera-bonilla"
 slug: "que-tu-perro-camina-para-atras-ni-mejor-ni-peor-solo-diferente"
 excerpt: "Al curso de las condiciones de la sociedad actual, la economía, es decir, la forma de producción, ha permeado todas las esferas de la vida humana, las públicas y las priva..."
 categories: ["Capitalismo", "Cultura", "Economía", "Neoliberalismo", "Filosofía", "Historia", "Medios de Comunicación", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12389
 ---
 

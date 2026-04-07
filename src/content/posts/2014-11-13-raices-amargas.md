@@ -5,7 +5,8 @@ author: "alvaro-rojas-salazar"
 slug: "raices-amargas"
 excerpt: "Centroamérica no es ni ha sido nunca un paraíso de libertad o un reino de igualdad, ni para hombres ni para mujeres, ciertamente para ellas la cosa ha sido bastante peor, dada la condición y los lugar..."
 categories: ["Cultura"]
-tags: ["Columna: A la Deriva", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "A la Deriva"
 wp_id: 11142
 ---
 

@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "cuando-tuve-vih-durante-una-semana"
 excerpt: "Este texto lo escribí en junio de 2014. A pesar de que lo circulé con Paquidermo, nunca tuve el valor de publicarlo. Ayer Charlie Sheen reveló las extorsiones a las que ha sido sometido por su condici..."
 categories: ["Crónica", "Acceso a la información", "Capitalismo", "Derechos Humanos", "Drogas", "Estado de Derecho", "Salud"]
-tags: ["Columna: Vagamundo", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 12893
 ---
 

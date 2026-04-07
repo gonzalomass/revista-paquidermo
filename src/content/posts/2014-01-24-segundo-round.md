@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "segundo-round"
 excerpt: "Foto: Semanario Universidad Los politólogos somos mejores para explicar porqué tiraron el penal rasante al palo derecho que para predecir que el penal iba a la derecha. Un pro..."
 categories: ["América Central", "Política", "Democracia"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 9855
 ---
 

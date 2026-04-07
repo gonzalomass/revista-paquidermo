@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "la-pulperia-de-las-memorias"
 excerpt: "Reza la historia familiar, contada con ribetes de amargura por mi papá, que a mí me hizo saprissista don Isaac, el pulpero, o como casi todos en el barrio solían llamarlo, “Culeco”; nunca supe ni ente..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 5849
 ---
 

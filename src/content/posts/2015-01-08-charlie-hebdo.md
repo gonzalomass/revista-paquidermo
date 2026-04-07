@@ -5,7 +5,9 @@ author: "paquidermo"
 slug: "charlie-hebdo"
 excerpt: "© Laura Flores para Revista Paquidermo"
 categories: ["Medios de Comunicación", "Editorial"]
-tags: ["Sección: Editorial", "Lo Recomendado", "Columna: Perronauta"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
+seccion: "Editorial"
 wp_id: 11258
 ---
 

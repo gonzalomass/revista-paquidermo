@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "por-la-plata-baila-el-mono"
 excerpt: "Uno de los principales recursos con los que cuenta Costa Rica es su impresionante biodiversidad tropical, que la constituye en uno de los países con mayor número de especies conocidas por kilómetro cuadrado. Sin embargo, en lugar de admirarnos por la belleza natural y la complejidad de nuestros ecosistemas para luego propiciar su estudio y observación responsables, tenemos la odiosa pretensión de ponerle -tan pronto como sea posible- un precio en dólares a toda esa riqueza natural."
 categories: ["Ambiente"]
-tags: ["Columna: La Chayotera"]
+tags: []
+columna: "La Chayotera"
 wp_id: 6104
 ---
 

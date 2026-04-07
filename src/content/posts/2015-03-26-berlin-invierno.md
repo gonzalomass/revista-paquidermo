@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "berlin-invierno"
 excerpt: "Imagen: María José Gavilán Hay una película titulada “Primavera, verano, otoño, invierno y otra vez primavera” del director surcoreano Kim Ki-duk. En su profundidad y delicadeza (es la historia del ap..."
 categories: ["Crónica"]
-tags: ["Lo Recomendado", "Columna Bífida"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 11595
 ---
 

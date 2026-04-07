@@ -5,7 +5,8 @@ author: "karina-fonseca-vindas"
 slug: "welcome-to-pura-vida-country"
 excerpt: ":: Karina Fonseca Vindas* :: El 3 de mayo un buen grupo de costarricenses se ubicó a lo largo de la autopista General Cañas, ondeando sus banderitas y aplaudiendo al paso de la caravana presidencial e..."
 categories: ["América Central", "Política", "Democracia"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8651
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "monestel-el-unico-socialista-el-ultimo-liberal-nota-a-un-articulo-de-juan-carlos"
 excerpt: "El conocido comentarista liberal del periódico El Financiero, Juan Carlos Hidalgo en una crítica a la conversión conservadora de Otto Guevara, hace la siguiente acotación: “de respuesta [Otto Guevara]..."
 categories: ["Marxismo", "Política"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 9740
 ---
 

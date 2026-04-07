@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "asesinato-en-la-frontera-el-inmigrante-como-otro-amenazante"
 excerpt: "(Imagen tomada por el autor) Hace aproximadamente tres meses tuve la oportunidad de viajar a la ciudad de El Paso, Texas como invitado a participar en una interesante confe..."
 categories: ["América Latina", "Derechos Humanos", "Internacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1509
 ---
 

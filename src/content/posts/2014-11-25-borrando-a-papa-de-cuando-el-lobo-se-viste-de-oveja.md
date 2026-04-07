@@ -5,7 +5,8 @@ author: "gabriela-delgado"
 slug: "borrando-a-papa-de-cuando-el-lobo-se-viste-de-oveja"
 excerpt: "Se organiza en estos días la presentación del documental Borrando a papá gracias al auspicio de un colectivo de hombres que se hacen llamar las \"víctimas de un sistema que no de..."
 categories: ["Derechos Humanos", "Feminismo", "Género"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11175
 ---
 

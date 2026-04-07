@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "estadolaicoya"
 excerpt: "A mi no me importa si alguien funda una aerolínea comandada por querubines. Allá ellxs y quiénes decidan montarse en esos aviones. Lo que es inaceptable es que el Estado (de todas y todos por igual) a..."
 categories: ["Estado de Derecho"]
-tags: ["Lo Recomendado", "Columna: Ahí está el detalle"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 8833
 ---
 

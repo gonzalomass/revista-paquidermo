@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "en-contra-de-las-bendiciones"
 excerpt: "En Costa Rica, el Cártel de las Bendiciones opera sin ningún tipo de restricción moral o espacial, y nosotros, las minorías no bendecidoras, estamos a su merced. Al principio, al menos en mi experienc..."
 categories: ["Prensa Rosa", "Cotidianidad", "Contracultura", "Cultura"]
-tags: ["Lo Recomendado", "Columna: Perronauta"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 12652
 ---
 

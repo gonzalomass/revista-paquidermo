@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "rope-a-dope-zaire-1974"
 excerpt: "Las cuerdas del cuadrilátero reciben las embestidas de la espalda de Cassius Clay, mientras se acoraza cuando es azotado por los Everlast de 16oz de Foreman, casi como una reproducción de los anterior..."
 categories: ["Cultura", "Entretenimiento", "Deportes"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13097
 ---
 

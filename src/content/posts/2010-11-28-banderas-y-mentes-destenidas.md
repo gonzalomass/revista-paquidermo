@@ -5,7 +5,8 @@ author: "gustavo-adolfo-chaves"
 slug: "banderas-y-mentes-destenidas"
 excerpt: "Imagen por Mariela Yo les dejo los símbolos a las mentes simples George Carlin Después de leer en La Nación el artículo de Andrea Aguilar-Calderón (“Yo no tengo bandera”) p..."
 categories: ["América Latina", "Internacional", "Política"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2635
 ---
 

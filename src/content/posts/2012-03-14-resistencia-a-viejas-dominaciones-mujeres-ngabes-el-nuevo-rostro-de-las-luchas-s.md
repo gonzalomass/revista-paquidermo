@@ -5,7 +5,8 @@ author: "urania-ungo"
 slug: "resistencia-a-viejas-dominaciones-mujeres-ngabes-el-nuevo-rostro-de-las-luchas-s"
 excerpt: "Panamá: \"el pequeño país sigue acumulando contradicciones: es el de más alto crecimiento, pero es también el segundo más inequitativo de nuestra América. Es de los más ‘‘globalizados’’ de la región, también el de la más baja representación de mujeres en el parlamento. Dicho en breve, Panamá es un país con muchos países dentro, un contradictorio y agudo espejo tercermundista del más sofisticado capitalismo global.\""
 categories: ["América Central"]
-tags: ["Sección: Periscopio"]
+tags: []
+seccion: "Periscopio"
 wp_id: 5755
 ---
 

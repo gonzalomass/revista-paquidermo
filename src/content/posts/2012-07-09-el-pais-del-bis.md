@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-pais-del-bis"
 excerpt: "EL PAÍS DEL BIS - ¿Alguna vez ha tenido la sensación de vivir en la tierra del eterno retorno, habitada por políticos desmemoriados, felicidades invisibles y carreteras diseñadas infaliblemente para ..."
 categories: ["La Venganza de Jumbo", "Corrupción"]
-tags: ["Lo Recomendado", "Sección Audiovisual", "La Venganza de Jumbo"]
+tags: ["Lo Recomendado", "La Venganza de Jumbo"]
+seccion: "Audiovisual"
 wp_id: 6112
 ---
 

@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "vigilar-y-castigar"
 excerpt: "Control. La ilusión del control es una de las más complejas construcciones de sentido de los seres humanos. Tal vez el miedo a la muerte, que es un espacio completamente desconocido para nosotros, nos..."
 categories: ["Cultura", "Política"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Segunda Lectura"
 wp_id: 11282
 ---
 

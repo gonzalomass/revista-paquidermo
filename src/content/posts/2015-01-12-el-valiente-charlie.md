@@ -5,7 +5,8 @@ author: "pablo-bonilla-elizondo"
 slug: "el-valiente-charlie"
 excerpt: "1. Jean Baudrillard nos recuerda en Cultura y Simulacro que la doctrina iconoclasta del s. VIII en Bizancio era absolutamente necesaria para un clero consciente de que la ..."
 categories: ["Internacional", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11275
 ---
 

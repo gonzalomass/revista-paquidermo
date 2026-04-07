@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "el-buen-empleo-la-mala-educacion-parte-i"
 excerpt: "Prólogo A Carlos le hubiera encantado decirle a sus amigos que había iniciado su vida laboral en búsqueda de la disciplina que un trabajo implica. Pasaba que Carlos sabía muy bien que su aventura en e..."
 categories: ["Educación", "Desempleo", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 9118
 ---
 

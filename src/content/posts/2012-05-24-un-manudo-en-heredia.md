@@ -5,7 +5,8 @@ author: "gustavo-vargas-salazar"
 slug: "un-manudo-en-heredia"
 excerpt: "Y ahí comprendí lo hermoso que es el fútbol, más allá de andar persiguiendo una pelota durante 90 minutos, su belleza se manifiesta en las graderías, en el pueblo, en esas gargantas afónicas con pasión, embriagadas con la más pura euforia."
 categories: ["Deportes"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5935
 ---
 

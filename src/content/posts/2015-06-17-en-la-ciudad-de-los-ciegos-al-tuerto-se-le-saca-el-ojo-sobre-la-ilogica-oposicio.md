@@ -5,7 +5,8 @@ author: "roy-allan-jimenez-cespedes"
 slug: "en-la-ciudad-de-los-ciegos-al-tuerto-se-le-saca-el-ojo-sobre-la-ilogica-oposicio"
 excerpt: ":: Roy Allan Jiménez Céspedes (*) :: La Renovación Urbana en el contexto costarricense es un tema que persiste como una tarea pendiente en la práctica de la disciplina urbanística. Aunque desde 1968 e..."
 categories: ["Cultura", "Arquitectura", "Política", "Realidad Nacional", "Sociedad", "Sostenibilidad"]
-tags: ["Sección Doxa", "Lo Recomendado", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12071
 ---
 

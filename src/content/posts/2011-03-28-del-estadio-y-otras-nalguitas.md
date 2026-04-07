@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "del-estadio-y-otras-nalguitas"
 excerpt: "No se equivocó Oscar Arias, al ser entrevistado previa inauguración señalaba: “Este estadio es el equivalente al Teatro Nacional en el siglo XXI”. Construido por, para y de la oligarquía cafetalera, n..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 3171
 ---
 

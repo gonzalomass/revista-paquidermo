@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "como-hermano-me-le-encaramo"
 excerpt: "El pleito entre Costa Rica y Nicaragua, por el suampo que se quiere anexar Ortega (lo que en su delirio debe significar una épica venganza por Guanacaste), es un pleito familiar, un pleito entre herma..."
 categories: ["Minorías", "Política", "Realidad Nacional"]
-tags: ["Columna: Ahí está el detalle"]
+tags: []
+columna: "Ahí está el detalle"
 wp_id: 2754
 ---
 

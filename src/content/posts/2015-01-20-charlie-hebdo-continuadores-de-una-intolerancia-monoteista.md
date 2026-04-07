@@ -5,7 +5,8 @@ author: "gustavo-roman-jacobo"
 slug: "charlie-hebdo-continuadores-de-una-intolerancia-monoteista"
 excerpt: "Nuestras vidas están llenas de paradojas. El atentado contra la revista Charlie Hebdo también. Voy de una vez, sin misterios: la sátira religiosa nació como una herramienta ..."
 categories: ["Política", "Religión"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11293
 ---
 

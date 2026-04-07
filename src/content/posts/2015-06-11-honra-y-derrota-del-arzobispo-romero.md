@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "honra-y-derrota-del-arzobispo-romero"
 excerpt: "La beatificación en el mes de mayo de Óscar Arnulfo Romero hizo que el festejo popular y de masas que la acompañó forzara a que la prensa internacional y costarricense volviera a entregarle páginas y ..."
 categories: ["América Latina", "América Central", "Corrupción", "Derechos Humanos", "Economía", "Historia", "Centroamérica", "Libertad de expresión"]
-tags: ["Lo Recomendado", "Columna: Pensar América Latina"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12019
 ---
 

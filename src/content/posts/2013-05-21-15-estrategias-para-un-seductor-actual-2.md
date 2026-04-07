@@ -5,7 +5,9 @@ author: "maria-del-mar-obando"
 slug: "15-estrategias-para-un-seductor-actual-2"
 excerpt: "5. No sonría, haga reír: ¿Sabe cuáles hombres se pueden dar el lujo de ser horribles y dormir con las mujeres más bellas? Los comediantes. Si hiciéramos un catálogo con las damas que estuvieron en la ..."
 categories: ["Sexualidad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Columna: Tocata y fuga"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
+seccion: "Doxa"
 wp_id: 8413
 ---
 

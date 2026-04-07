@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "petyr-baelish-y-lord-varys-el-encanto-fascinante-de-la-politica"
 excerpt: "Voy a ir al grano. Petyr Baelish y Lord Varys son los mejores de toda la serie y estoy dispuesto a debatirlo con cualquier “especialista”. Obviamente no son los personajes principales, todo el mundo s..."
 categories: ["Cultura", "Política"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10767
 ---
 

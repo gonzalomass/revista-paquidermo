@@ -5,7 +5,8 @@ author: "solentiname"
 slug: "arrieros-somos"
 excerpt: "Precisamente ayer en la mañana, discutía yo con Emil, a medias entre tuits y DMs sobre lo ocurrido en el desfile Pride de Sao Paulo. Según las fotos que le deben haber dado vuelta a ..."
 categories: ["Caricatura", "Riamos para no llorar", "Derechos Humanos", "Feminismo", "Ficción", "Género", "Política", "Movimiento Social", "Protesta", "Realidad Nacional", "Religión", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12202
 ---
 

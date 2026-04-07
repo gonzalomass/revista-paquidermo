@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "darle-al-pac-el-beneficio-de-la-duda"
 excerpt: "Asunto de estrategia. El año pasado, cuando los debates presidenciales se abrían paso tímidamente entre los medios no comerciales, Luis Guillermo Solís (LGS) decía abiertamente que si él mismo no fuer..."
 categories: ["Política", "Democracia", "Electoral", "Realidad Nacional"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 10017
 ---
 

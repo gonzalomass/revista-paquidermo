@@ -5,7 +5,8 @@ author: "rodrigo-alonso-villalobos-duran"
 slug: "la-exaltacion-de-eva-y-adan"
 excerpt: "El sábado 22 de mayo don Thelmo Vargas se refirió en el diario La Nación a uno de los pasajes bíblicos más interesantes: el primero y más trascendental de los act..."
 categories: ["Religión"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1602
 ---
 

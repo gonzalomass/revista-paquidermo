@@ -5,7 +5,8 @@ author: "claudio-monxe"
 slug: "el-ultimo-comandante-el-final-de-cual-utopia"
 excerpt: "Cuando los rumores, promociones y adelantos de la película El Último Comandante empezaron a rodar, lo primero que a la mente me vino fue una lectura irresponsable y reaccionaria de..."
 categories: ["América Latina", "Cultura"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2528
 ---
 

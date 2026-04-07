@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "verdades-universales-una-caricia-del-alma"
 excerpt: "Seguí pensando en “Paquidermo”, seguí pensando en sus intenciones como medio, seguí pensando en que quería él de mi. Se me ocurrió que a cierta gente se le paga para que piense, para que exprese sus i..."
 categories: ["Sociedad"]
-tags: ["Columna: Vos Sospechá"]
+tags: []
+columna: "Vos Sospechá"
 wp_id: 1227
 ---
 

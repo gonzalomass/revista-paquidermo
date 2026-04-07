@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "el-porno-y-el-cristianismo-hacen-las-paces"
 excerpt: "Porno cristiano, así como lo lee. En Brasil, el país con más católicos en el mundo, descubrieron una nueva forma de hacer dinero y tal vez hasta de ganar adeptos en el proceso: producir películas porno para cristianos."
 categories: ["Religión", "Sexualidad"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 5335
 ---
 

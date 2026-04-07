@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "ruidos-de-alguien-subiendo-una-escalera"
 excerpt: "Hablaba con Andrea Mickus (librera de Libros Duluoz) sobre una idea que venía rumeando desde hacía meses, abrir un blog sobre las tres cosas en que invierto más tiempo: leer, comer y beber; bajo el tí..."
 categories: ["Cultura", "Entretenimiento", "Literatura", "Ficción", "Literatura"]
-tags: ["Columna: Mejor que ficción", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 12312
 ---
 

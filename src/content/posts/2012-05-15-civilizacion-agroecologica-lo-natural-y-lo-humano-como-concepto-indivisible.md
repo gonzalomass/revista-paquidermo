@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "civilizacion-agroecologica-lo-natural-y-lo-humano-como-concepto-indivisible"
 excerpt: "El equilibrio entre aprovechamiento y protección de recursos, necesario para alcanzar la prosperidad de los pueblos, está seriamente trastornado por el lucro demencial del neoliberalismo gobernante. L..."
 categories: ["Ecología"]
-tags: ["Columna: La Chayotera"]
+tags: []
+columna: "La Chayotera"
 wp_id: 5890
 ---
 

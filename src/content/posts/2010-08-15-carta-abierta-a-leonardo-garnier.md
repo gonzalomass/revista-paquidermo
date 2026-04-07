@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "carta-abierta-a-leonardo-garnier"
 excerpt: "Leonardo Garnier Rímolo Ministro de Educación Estimado don Leonardo, De joven tenía la costumbre de leer cada jueves su columna “Subversiones”. Algunas veces compraba La Nación, pero la mayor parte de..."
 categories: ["Educación", "Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 2092
 ---
 

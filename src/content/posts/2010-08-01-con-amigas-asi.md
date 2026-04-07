@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "con-amigas-asi"
 excerpt: "Según datos del Instituto Nacional de las Mujeres, en lo que va de este año han sido veinte los casos de femicidio registrados en el país (al 28 de junio), de los cuales un tercio están tipificados ba..."
 categories: ["Derechos Humanos", "Realidad Nacional", "Violencia contra las mujeres"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 1916
 ---
 

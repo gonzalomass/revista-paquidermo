@@ -5,7 +5,8 @@ author: "maria-del-mar-obando"
 slug: "el-tamano-si-importa-cronica-sexual-de-un-hombre-con-micropene"
 excerpt: "Me costó encontrarlo. Buscar a un hombre con un pene de tamaño inferior a seis centímetros de largo es difícil porque, aunque desde la adolescencia la mayoría se lo han medido con la regla escolar o e..."
 categories: ["Cultura", "Cotidianidad", "Género", "Sexualidad"]
-tags: ["Lo Recomendado", "Columna: Tocata y fuga"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
 wp_id: 12544
 ---
 

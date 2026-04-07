@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "gracias-dona-laura"
 excerpt: "Normal 0 21 false false false ES-MX X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"Tabla normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:ye..."
 categories: ["América Central", "Política", "Movimiento Social"]
-tags: ["Lo Recomendado", "Columna: Vagamundo"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 8911
 ---
 

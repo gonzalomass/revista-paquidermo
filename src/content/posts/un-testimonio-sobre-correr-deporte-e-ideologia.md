@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "un-testimonio-sobre-correr-deporte-e-ideologia"
 excerpt: "1. La maldición del número. Aunque soy materialista, creo que hay algo profundo en la suposición de la sabiduría judía y el pitagorismo acerca de que el mundo cósmico, natural y moral están determinados por los números."
 categories: ["Crónica", "Deportes"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 14313
 ---
 

@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "alguien-deberia-retractarse-el-bosque-y-el-grano-de-mostaza"
 excerpt: "Rodolfo Ulloa, Secretario General del Frente Amplio, intentando dar una lección de alta política a partir de la salida de Iván Barrantes, escribió un artículo llamado “neoliberales al acecho”. Allí re..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 11080
 ---
 

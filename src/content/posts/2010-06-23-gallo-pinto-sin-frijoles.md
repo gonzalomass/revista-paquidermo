@@ -5,7 +5,8 @@ author: "roberto-gonzalez-bolanos"
 slug: "gallo-pinto-sin-frijoles"
 excerpt: "Imagen por Subcomandanta En Costa Rica existe gran cantidad de personas dedicadas a labrar la tierra para proveer a la población de productos alimenticios frescos. La la..."
 categories: ["Economía", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1561
 ---
 

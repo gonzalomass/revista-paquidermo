@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "reflexiones-sobre-la-revolucion-mexicana"
 excerpt: "El 4 de diciembre se cumplen 100 años del ingreso de los ejércitos campesinos de Villa y Zapata a la capital mexicana. Este hecho fue el punto más alto de la revolución mexicana (1910-1920) que, junto..."
 categories: ["Historia", "América Latina", "Memoria"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 11225
 ---
 

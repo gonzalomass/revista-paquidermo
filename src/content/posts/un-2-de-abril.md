@@ -5,7 +5,8 @@ author: "fabian-coto-chaves"
 slug: "un-2-de-abril"
 excerpt: "Desperté  a las 6:15 a.m. “Bueno, por lo menos no tengo goma”, pensé mientras salía sigilosamente de la cama. Rebeca, mi esposa, seguía durmiendo."
 categories: ["Electoral", "Humor", "Realidad Nacional"]
-tags: ["Columna: Antipágina 15", "Elecciones 2018"]
+tags: ["Elecciones 2018"]
+columna: "Antipágina 15"
 wp_id: 13780
 ---
 

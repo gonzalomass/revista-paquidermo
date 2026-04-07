@@ -5,7 +5,8 @@ author: "mauricio-cordero"
 slug: "la-agonia-del-espacio-social-del-arte"
 excerpt: "Su tio, mi hermana, tu abuela... Si no tiene Logo, falta poco, saravaravá... Kevin Johansen Hemos sido testigos de un incremento en las transformaciones económicas a nivel mundi..."
 categories: ["Cultura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11100
 ---
 

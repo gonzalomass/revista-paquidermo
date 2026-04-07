@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "ilegalidad-impunidad-y-regresiones-ambientales"
 excerpt: "Imagen: Danny Zavaleta El 2015 arrancó lleno de señales negativas para la agenda ambiental costarricense. Si pensábamos difícil que el gobierno de “el cambio” pudiera superar la nefasta herencia de ad..."
 categories: ["América Central", "Ecología"]
-tags: ["Lo Recomendado", "Columna: La Chayotera"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 11505
 ---
 

@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "espato-de-islandia"
 excerpt: "Muchas veces me he burlado de la gente que come gluten free. Bueno, lo sigo haciendo, pero por otros motivos, no los de antes. Tiempo después, me di cuenta que se les llama celíacos. Para mí, la burla..."
 categories: ["Cultura", "Contracultura", "Cotidianidad"]
-tags: ["Lo Recomendado", "Columna: Mejor que ficción"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 12517
 ---
 

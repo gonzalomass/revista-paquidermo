@@ -5,7 +5,8 @@ author: "victor-hugo-acuna"
 slug: "elecciones-2014-y-analisis-politico"
 excerpt: "Joe Lurato © Las encuestas electorales y postelectorales han mostrado que en las pasadas elecciones presidenciales de febrero 2014 los debates entre los candidatos y los análisis en los distintos medi..."
 categories: ["Política", "Electoral"]
-tags: ["Columna: Tientos y Resistencias", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Tientos y Resistencias"
 wp_id: 10202
 ---
 

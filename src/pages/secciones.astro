@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts');
+const seccionMap = new Map<string, { name: string; slug: string; count: number }>();
+
+for (const post of posts) {
+  if (!post.data.seccion) continue;
+  const name = post.data.seccion;
+  const slug = name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  if (!seccionMap.has(slug)) {
+    seccionMap.set(slug, { name, slug, count: 0 });
+  }
+  seccionMap.get(slug)!.count++;
+}
+
+const secciones = Array.from(seccionMap.values()).sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout title="Secciones" noindex>
+  <header class="mb-10">
+    <h1 class="font-display text-3xl md:text-4xl font-bold text-paqui-dark">Secciones</h1>
+    <p class="mt-2 text-sm font-sans text-paqui-muted">{secciones.length} secciones del archivo</p>
+  </header>
+
+  <div id="list" class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-8">
+    {secciones.map((sec) => (
+      <a
+        href={`/seccion/${sec.slug}`}
+        data-name={sec.name.toLowerCase()}
+        class="filter-item flex justify-between items-baseline py-3 border-b border-paqui-rule/40 hover:text-paqui-red transition-colors group"
+      >
+        <span class="font-serif font-semibold group-hover:text-paqui-red transition-colors">{sec.name}</span>
+        <span class="text-xs font-sans text-paqui-muted ml-2 shrink-0">{sec.count}</span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

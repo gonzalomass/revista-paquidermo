@@ -5,7 +5,8 @@ author: "martin-rodriguez-pellecer-y-gladys-olmstead"
 slug: "el-dia-que-los-ciudadanos-le-ganaron-a-opm-y-a-los-poderosos-en-la-primavera-gua"
 excerpt: ":: Martín Rodríguez Pellecer y Gladys Olmstead :: Las primaveras democráticas tienen días tristes, fríos, y días alegres, épicos. Cuando parecía que Otto Pérez Molina y sus poderosos aliados se salían..."
 categories: ["América Latina", "América Central", "Corrupción", "Crónica", "Medios de Comunicación", "Política", "Corrupción", "Democracia", "Movimiento Social", "Protesta", "Realidad Nacional", "Resistencia", "Sociedad"]
-tags: ["Lo Recomendado", "Sección: Periscopio"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 12637
 ---
 

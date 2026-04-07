@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "que-hay-en-la-jeringa"
 excerpt: "Se acercó e inyectó el contenido de la jeringa a mi bolsa de suero. Supongo que si hubiese sido destinado a mi vena o a mi carne directamente, me hubiera tomado el tiempo de indagar qué diablos contenía aquella arma. Por otro lado, esa simbiosis y complicidad con los enfermeros y asistentes logra que uno baje sus defensas y uno procura importunar lo menos posible con preguntas necias."
 categories: ["Salud"]
-tags: ["Columna: Crónicas del cangrejo"]
+tags: []
+columna: "Crónicas del cangrejo"
 wp_id: 4645
 ---
 

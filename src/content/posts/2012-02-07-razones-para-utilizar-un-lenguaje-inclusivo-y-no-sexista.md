@@ -5,7 +5,8 @@ author: "ana-lucia-fernandez"
 slug: "razones-para-utilizar-un-lenguaje-inclusivo-y-no-sexista"
 excerpt: "­­ Sé que la lengua corriente está llena de trampas. Pretende ser universal, pero lleva, de hecho, las marcas de los machos que la han elaborado. Refleja sus valores, sus pre..."
 categories: ["Minorías"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5485
 ---
 

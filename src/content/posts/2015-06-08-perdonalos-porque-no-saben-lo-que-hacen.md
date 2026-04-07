@@ -5,7 +5,8 @@ author: "orlando-morales"
 slug: "perdonalos-porque-no-saben-lo-que-hacen"
 excerpt: "John Oliver hizo un excelente desmenuzamiento, hace un año, de la corrupción y artimañas detrás del mundial de fútbol, y comparó a este deporte con una religión. Esto es algo que vale la pena profundi..."
 categories: ["Corrupción", "Entretenimiento", "Deportes", "Fútbol", "Internacional", "Geopolítica", "Religión", "Sociedad"]
-tags: ["Columna: Cementerio de Elefantes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Cementerio de Elefantes"
 wp_id: 12001
 ---
 

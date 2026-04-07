@@ -5,7 +5,8 @@ author: "billy-soto"
 slug: "oda-al-pollo-frito"
 excerpt: "Durante muchos años perdí la senda en el mundo de las cadenas de restaurantes. No recuerdo bien cómo ni cuándo ocurrió. Quizá me dejé seducir por otros tipos de comida chatarra. O tal ..."
 categories: ["Cultura", "Cotidianidad", "Gastronomía"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12465
 ---
 

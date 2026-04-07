@@ -5,7 +5,8 @@ author: "alvaro-rojas-salazar"
 slug: "tribulaciones-de-un-hijo-natural"
 excerpt: "El 27 de junio de 1951 se termina de escribir Marcos Ramírez, la novela, las memorias de un muchacho de Alajuela que no tiene padre. Marcos es hijo natural, lo que se conocía en aquel entonces como al..."
 categories: ["Cultura", "Literatura"]
-tags: ["Columna: A la Deriva", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "A la Deriva"
 wp_id: 10834
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-nosotrxs-y-nosotrs"
 excerpt: "::Esteban Carrión Salas Desde hace ya algún tiempo he notado que se ha venido dando la utilización de ciertos caracteres dentro de las palabras para alterar su significado y tratar de convertirlas en ..."
 categories: ["Uncategorized"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 8442
 ---
 

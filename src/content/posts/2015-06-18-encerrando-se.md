@@ -5,7 +5,8 @@ author: "alejandro-alvarado-alcazar"
 slug: "encerrando-se"
 excerpt: ":: Alejandro Alvarado Alcázar (*) :: \"Hablo de la ciudad inmensa, realidad diaria hecha de dos palabras: los otros y en cada uno de ellos hay un yo cercenado, un yo a la deriva\" Octavio Paz, Hablo de ..."
 categories: ["Capitalismo", "Cultura", "Arquitectura", "Política", "Realidad Nacional", "Sociedad", "Sostenibilidad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12082
 ---
 

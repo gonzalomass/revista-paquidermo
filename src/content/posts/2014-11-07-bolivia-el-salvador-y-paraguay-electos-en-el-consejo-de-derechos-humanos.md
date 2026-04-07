@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "bolivia-el-salvador-y-paraguay-electos-en-el-consejo-de-derechos-humanos"
 excerpt: ":: Nicolás Boeglin (*) :: El pasado 21 de octubre, se procedió a renovar el mandato de quince Estados miembros del Consejo de Derechos Humanos de las Naciones Unidas. El Consejo de Derechos Humanos es..."
 categories: ["Derechos Humanos"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11128
 ---
 

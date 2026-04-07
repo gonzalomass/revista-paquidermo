@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "el-mas-violento-paraiso-recargado"
 excerpt: "He leído El más violento paraíso. Me tomó 10 años cumplir la promesa que le hice a un amigo mío, groupie número uno de la novela de Obando, de que alguna vez la leería. Recuerdo el día que vi el libra..."
 categories: ["Literatura"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 5887
 ---
 

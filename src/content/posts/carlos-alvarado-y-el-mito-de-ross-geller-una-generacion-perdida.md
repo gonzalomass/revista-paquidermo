@@ -5,7 +5,8 @@ author: "fabian-coto-chaves"
 slug: "carlos-alvarado-y-el-mito-de-ross-geller-una-generacion-perdida"
 excerpt: "¡Qué grotesco tener que votar por un mae que se casó con la novia del cole! Me resulta tan enfermo: como un pequeño desastre que está a medio camino e"
 categories: ["Electoral", "Política"]
-tags: ["Carlos Alvarado", "Columna: Cantarrana", "Elecciones 2018", "Fabricio Alvarado", "Humor"]
+tags: ["Carlos Alvarado", "Elecciones 2018", "Fabricio Alvarado", "Humor"]
+columna: "Cantarrana"
 wp_id: 13636
 ---
 

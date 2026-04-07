@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "manderlay-la-libertad-imposible"
 excerpt: "La segunda parte de la trilogía de Lars von Trier dedicada a los Estados Unidos, Manderlay (2005), ha permanecido bajo la sombra de su genial predecesora, Dogville, estrenada un par de años antes. Ést..."
 categories: ["Cine", "Realidad Nacional"]
-tags: ["Columna: Habitualidades", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Habitualidades"
 wp_id: 7209
 ---
 

@@ -5,7 +5,8 @@ author: "francisco-victor-aguilar"
 slug: "caza-y-cortejo-ii-ideologia-y-comercio-internacional"
 excerpt: "Ilustración por Alonso Fonseca Hace un tiempo me referí a dos artículos de Álvaro Murillo, periodista de eso que llaman Diario y que apellidan La Nación. Dichos artículo..."
 categories: ["Economía", "Internacional", "Política"]
-tags: ["Columna: Grietas"]
+tags: []
+columna: "Grietas"
 wp_id: 2850
 ---
 

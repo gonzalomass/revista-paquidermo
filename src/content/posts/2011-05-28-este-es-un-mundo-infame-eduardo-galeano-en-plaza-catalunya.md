@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "este-es-un-mundo-infame-eduardo-galeano-en-plaza-catalunya"
 excerpt: ""
 categories: ["Democracia", "Internacional", "Literatura", "video"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 3506
 ---
 

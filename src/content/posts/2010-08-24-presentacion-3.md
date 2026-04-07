@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "presentacion-3"
 excerpt: "Presentamos el día de hoy la columna visual del dibujante Alonso Fonseca. Sin más preámbulo dejamos que sus imágenes hablen por sí mismas."
 categories: ["Cultura", "Sociedad"]
-tags: ["Columna: Procedimientos del mamífero"]
+tags: []
+columna: "Procedimientos del mamífero"
 wp_id: 2152
 ---
 

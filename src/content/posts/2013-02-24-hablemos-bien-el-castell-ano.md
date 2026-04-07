@@ -5,7 +5,8 @@ author: "manuel-ortega-alvarez"
 slug: "hablemos-bien-el-castell-ano"
 excerpt: "Después de sesudas reflexiones y largas horas de investigación, el licenciado Justo Orozco, matemático, profesor universitario, Padre de la Patria y hombre culto, poseedor de estudios de postgrado en ..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Apotegmas", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Apotegmas"
 wp_id: 7984
 ---
 

@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "autobiografias-reloaded"
 excerpt: "Primero fue una ficha local, últimamente encumbrada a la categoría de casi visir por la administración Chinchilla. Después un semi gemelo, aunque más anciano, procurando acarrear compradores, que no l..."
 categories: ["Marxismo", "Política"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10714
 ---
 

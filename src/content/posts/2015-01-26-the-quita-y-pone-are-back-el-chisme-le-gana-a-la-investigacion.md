@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "the-quita-y-pone-are-back-el-chisme-le-gana-a-la-investigacion"
 excerpt: "Es innegable que el Gobierno del Presi y el PAC le han dado al país muy buen material para chismear. Y siendo el chisme junto con el serruchapisismo un deporte nacional, pues parece ser que el pueblo ..."
 categories: ["Medios de Comunicación"]
-tags: ["Sección: Editorial", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Editorial"
 wp_id: 11310
 ---
 

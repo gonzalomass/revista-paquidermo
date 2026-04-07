@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "2006-parte-dos-esta-sociedad-esta-fuera-de-la-sociedad-todos-son-como-los-antigu"
 excerpt: "Prólogo Al terminar de desayunar, Daniela abrió el periódico, leyó un par de noticias de interés, miró la televisión por un momento, se puso los zapatos y subió por su bolso. Al bajar las escaleras, s..."
 categories: ["Movimiento Social", "Protesta"]
-tags: ["Columna: Del Higuerón por la Izquierda", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Del Higuerón por la Izquierda"
 wp_id: 7560
 ---
 

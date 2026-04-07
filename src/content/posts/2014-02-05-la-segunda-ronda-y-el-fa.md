@@ -5,7 +5,8 @@ author: "francisco-victor-aguilar"
 slug: "la-segunda-ronda-y-el-fa"
 excerpt: "La izquierda ganó. El Frente Amplio sacó 9 diputados y un 17% en las elecciones presidenciales. A pesar de sufrir una violenta campaña del miedo (frente a la cual en algunos momentos el mismo FA capit..."
 categories: ["Política", "Democracia", "Electoral", "Realidad Nacional"]
-tags: ["Columna: Grietas", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Grietas"
 wp_id: 10028
 ---
 

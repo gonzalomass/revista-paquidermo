@@ -5,7 +5,8 @@ author: "david-bolanos"
 slug: "dentro-de-la-nacion-siempre-fui-un-disidente"
 excerpt: "Foto: David Bolaños :: David Bolaños* :: En una apabullante mayoría de ocasiones, el trabajo de un periodista precede a su nombre. Sin embargo, ninguno de los dos se forja por separado. En cada letra,..."
 categories: ["Medios de Comunicación", "Acceso a la información", "América Central", "Política"]
-tags: ["Lo Recomendado", "Entrevistas: Cosa de Dos", "Sección Doxa"]
+tags: ["Lo Recomendado", "Entrevistas: Cosa de Dos"]
+seccion: "Doxa"
 wp_id: 8851
 ---
 

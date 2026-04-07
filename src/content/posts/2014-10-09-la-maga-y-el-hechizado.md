@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "la-maga-y-el-hechizado"
 excerpt: "Emma Watson, que interpretó a Hermione Granger (la joven del trío de héroes en las películas de Harry Potter) fue nombrada este año por ONU Mujeres Embajadora de Buena Voluntad de Naciones Unidas. Des..."
 categories: ["Feminismo"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11035
 ---
 

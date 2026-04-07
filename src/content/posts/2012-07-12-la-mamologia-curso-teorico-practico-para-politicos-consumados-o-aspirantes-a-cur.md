@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "la-mamologia-curso-teorico-practico-para-politicos-consumados-o-aspirantes-a-cur"
 excerpt: "En pocas palabras, mientras los liberales se esforzaban en construir un imaginario de orden, paz y progreso a través de festividades, monumentos, discursos, himnos y medidas políticas y económicas específicas, José María Oreamuno deconstruía ese imaginario a carcajada limpia, a través de sus caricaturas y sus textos satíricos."
 categories: ["Historia"]
-tags: ["Columna: Perronauta", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 6126
 ---
 

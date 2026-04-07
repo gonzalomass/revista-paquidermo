@@ -5,7 +5,8 @@ author: "ana-silvia-monzon"
 slug: "retando-al-poder-denunciar-protestar-resistir"
 excerpt: ":: Ana Silvia Monzón* :: El que pinta pared y mesa…demuestra su bajeza, ese dicho popular repetido a lo largo y ancho de nuestra infancia es uno de los primeros mandatos culturales que coartan la libe..."
 categories: ["Derechos Humanos", "Feminismo", "Historia", "Minorías", "Violencia contra las mujeres"]
-tags: ["Sección: Periscopio"]
+tags: []
+seccion: "Periscopio"
 wp_id: 5622
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "11-de-septiembre-la-historia-sin-misericordia"
 excerpt: "Un año después de los sonados atentados a las Torres Gemelas de NY, la revista Cosmopolitan sacó un artículo dedicado a las mujeres que perdieron a sus prometidos poco antes de la boda, en el derrumbe..."
 categories: ["América Latina", "Democracia", "Derechos Humanos", "Internacional"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 2256
 ---
 

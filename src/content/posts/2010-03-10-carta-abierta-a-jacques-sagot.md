@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "carta-abierta-a-jacques-sagot"
 excerpt: "Querido Jacques, Siempre me sorprende tu capacidad de análisis político. Es como una sonata de piano para mis oídos tropicales. Tu último artículo me ha dado mucho en qué pensar, querido Jacques. ¡Cóm..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 31
 ---
 

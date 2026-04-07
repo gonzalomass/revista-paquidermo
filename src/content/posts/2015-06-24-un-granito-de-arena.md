@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "un-granito-de-arena"
 excerpt: "Nunca he ido a una Marcha del Orgullo Gay. Las marchas pacíficas no me motivan, suenan a diversión sana, ese oxímoron colosal. En mi cabeza, diversión sana es una clase de catecismo o un chequeo médic..."
 categories: ["Caricatura", "Cultura", "Derechos Humanos", "Género", "Política", "Corrupción", "Movimiento Social", "Protesta", "Estado de Derecho", "Realidad Nacional", "Resistencia", "Sexualidad", "Sociedad"]
-tags: ["Lo Recomendado", "Columna Bífida"]
+tags: ["Lo Recomendado"]
+columna: "Bífida"
 wp_id: 12146
 ---
 

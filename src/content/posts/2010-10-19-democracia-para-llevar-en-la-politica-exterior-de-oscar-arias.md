@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "democracia-para-llevar-en-la-politica-exterior-de-oscar-arias"
 excerpt: "Uno de los pilares centrales de la II Administración Arias Sánchez fue el “monumental” personalismo internacional de Oscar Arias. Con un “Nobel de la Paz” a cuestas, la política exterior de Costa Rica..."
 categories: ["América Latina", "Internacional", "Política"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 2467
 ---
 

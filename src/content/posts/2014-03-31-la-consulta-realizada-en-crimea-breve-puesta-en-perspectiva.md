@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "la-consulta-realizada-en-crimea-breve-puesta-en-perspectiva"
 excerpt: "Chiaki Kawakami © En medio de amenazas de sanciones por parte de la Unión Europea y de Estados Unidos contra Rusia, fuentes de prensa indicaron que el 95,5% de los votantes en Cr..."
 categories: ["Internacional", "Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10247
 ---
 

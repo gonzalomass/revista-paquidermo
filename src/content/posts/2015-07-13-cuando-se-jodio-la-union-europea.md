@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "cuando-se-jodio-la-union-europea"
 excerpt: "\"Sin ese país te marchitarás, Europa, privada del espíritu que un día te concibió\". Günter Grass “¿Cuándo se jodió el Perú?” Esa es la pregunta que se hace a sí mismo “Zava..."
 categories: ["Capitalismo", "Derechos Humanos", "Economía", "Neoliberalismo", "Historia", "Memoria", "Internacional", "Minorías", "Política", "Democracia", "Movimiento Social", "Protesta", "Geopolítica", "Resistencia", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12280
 ---
 

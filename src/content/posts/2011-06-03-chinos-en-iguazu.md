@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "chinos-en-iguazu"
 excerpt: "-¿Cómo putas llegó eso ahí? Sabía que mi tata alzaba sus hombros en pos de decir \"Yo qué putas voy a saber...\", pero lo que debería haber preguntado era: ¿Qué putas es eso? Hacer algo que uno siempre ..."
 categories: ["Ambiente", "América Latina"]
-tags: ["Columna: Crónicas del cangrejo"]
+tags: []
+columna: "Crónicas del cangrejo"
 wp_id: 3729
 ---
 

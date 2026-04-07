@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "las-verdades-del-engano"
 excerpt: "Venía dándole vueltas a un tema muy distinto para la columna de hoy, pero por casualidad me topé con un documento antiguo que me llamó la atención por varias razones, de modo que dejo esas otras inqui..."
 categories: ["Derechos Humanos", "Salud", "Sexualidad"]
-tags: ["Columna: Habitualidades"]
+tags: []
+columna: "Habitualidades"
 wp_id: 1793
 ---
 

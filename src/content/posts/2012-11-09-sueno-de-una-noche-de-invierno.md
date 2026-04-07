@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "sueno-de-una-noche-de-invierno"
 excerpt: "Hoy viernes 9 de noviembre amanecí en un Cartago más frío y gris que de costumbre. Seis horas de sueño no fueron suficientes. Entre vueltas y vueltas, y una cobija más, la noche no fue la mejor compañ..."
 categories: ["Estado de Derecho", "Realidad Nacional"]
-tags: ["Columna: Vagamundo", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vagamundo"
 wp_id: 7194
 ---
 

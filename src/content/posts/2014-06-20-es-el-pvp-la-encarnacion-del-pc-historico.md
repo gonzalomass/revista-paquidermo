@@ -5,7 +5,8 @@ author: "daniel-lara-segura"
 slug: "es-el-pvp-la-encarnacion-del-pc-historico"
 excerpt: "[…] Ahora cuesta abajo en mi rodada Las ilusiones pasadas Ya no las puedo arrancar Sueño, con el pasado que añoro, El tiempo viejo que hoy lloro Y que nunca volverá. (Tango “Cuesta abajo” Carlos Garde..."
 categories: ["Marxismo", "Política"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10592
 ---
 

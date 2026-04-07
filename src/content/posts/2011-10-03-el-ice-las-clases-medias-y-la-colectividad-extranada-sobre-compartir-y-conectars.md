@@ -5,7 +5,8 @@ author: "andres-leon"
 slug: "el-ice-las-clases-medias-y-la-colectividad-extranada-sobre-compartir-y-conectars"
 excerpt: "De la discusión sobre “el derecho a la comunicación” y “el servicio solidario” que marcó en buena medida el debate sobre el Combo, al derecho “de un buen servicio” para “compartir y conectarse,” se ha avanzado mucho. El eje de la “Costa Rica solidaria” no es lo que creía ser, y probablemente nunca lo fue. Aunque también es posible que sea todo lo contrario, que como nos recuerda Lampedusa, \"si queremos que todo siga como está, es necesario que todo cambie\"."
 categories: ["Medios de Comunicación", "Realidad Nacional"]
-tags: ["Columna: Una golondrina no hace verano"]
+tags: []
+columna: "Una golondrina no hace verano"
 wp_id: 4711
 ---
 

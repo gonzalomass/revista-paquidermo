@@ -5,7 +5,8 @@ author: "santiago-navarro-cerdas"
 slug: "la-hipotesis-saramago-en-tiempos-electorales"
 excerpt: "En este artículo se adelantan algunas situaciones que pueden arruinar algunas sorpresas de la primer parte de la novela Ensayo sobre la Lucidez de José Saramago. Sin embargo, lo..."
 categories: ["Uncategorized"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9711
 ---
 

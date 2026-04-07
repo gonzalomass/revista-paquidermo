@@ -5,7 +5,8 @@ author: "j-federico-campos-c"
 slug: "cronica-de-una-muerte-anorada-de-la-sala-iii"
 excerpt: "Sala Penal III. Independientemente de que en este momento sea noticia que la Corte haya amonestado —primero— y luego revertido esa decisión para impon"
 categories: ["Estado de Derecho", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 14271
 ---
 

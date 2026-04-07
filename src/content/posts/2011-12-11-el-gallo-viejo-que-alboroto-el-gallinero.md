@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "el-gallo-viejo-que-alboroto-el-gallinero"
 excerpt: "Correrán ríos de tinta sobre la famosa entrevista de José María Figueres en el canal 7... Que si dio explicaciones convincentes, que si sus lágrimas fueron de cocodrilo o de plástico azul, que si Igna..."
 categories: ["Medios de Comunicación", "Política", "Realidad Nacional"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 5108
 ---
 

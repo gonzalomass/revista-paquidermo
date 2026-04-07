@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "ratas-transgenes-y-agrocarteles"
 excerpt: "El pasado 19 de setiembre, un equipo científico francés publicó en la revista Food and Chemical Toxicology los resultados de una investigación (Seralini et al 2012) que causó la reactivación del debat..."
 categories: ["Ecología"]
-tags: ["Columna: La Chayotera", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "La Chayotera"
 wp_id: 6664
 ---
 

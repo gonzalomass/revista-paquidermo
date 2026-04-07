@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "que-significa-adoctrinar"
 excerpt: "En un artículo de opinión reciente publicado en La Nación, Jacques Sagot (pianista, francófilo, cronista de catedrales parisinas, cuentista farragoso y, ¿quién diría?, católico moralista quien gustosa..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 160
 ---
 

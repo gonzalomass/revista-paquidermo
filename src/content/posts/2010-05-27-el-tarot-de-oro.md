@@ -5,7 +5,8 @@ author: "edgar-ortiz"
 slug: "el-tarot-de-oro"
 excerpt: "Me confieso escéptico de todas las formas de adivinación: la astrología, las esferas cristalinas, el tarot, la economía. Sin embargo, meses atrás, durante las fiestas pude, por prime..."
 categories: ["Economía", "Política"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1317
 ---
 

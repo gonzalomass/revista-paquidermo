@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "el-inglesi"
 excerpt: "Foto: Bomba Rosa Se dice por ahí que los inventores del turismo, del viajar sin otro fin más que el placer, son los ingleses. Bioy Casares, coleccionista o inventor de este tipo de datos, añade que a ..."
 categories: ["Cultura", "Sociedad"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 7831
 ---
 

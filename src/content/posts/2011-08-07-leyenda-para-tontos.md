@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "leyenda-para-tontos"
 excerpt: "Ay no, qué emoción todo esto. Cuando la sele gane el campeonato mundial y Franklin Chang nos lleve al planeta Marte en sólo 49 días gracias a VASIMIR, que no se nos olvide que todo se deberá al favor de la patrona de todos los costarricenses, la Negrita. Y que en esa humilde estatuilla se comprime el universo, se unen Europa y América fraternalmente, y el cielo y la tierra se acercan el uno al otro. Todo acá, en este humilde país que no debe perder su norte y que no debe dejar de caminar la romería de la vida."
 categories: ["Religión"]
-tags: ["Columna: Filosofía de Cafetín"]
+tags: []
+columna: "Filosofía de Cafetín"
 wp_id: 4384
 ---
 

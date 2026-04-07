@@ -5,7 +5,8 @@ author: "j-diego-moya-bedoya"
 slug: "acerca-de-existencia-de-un-mundo-de-fernando-a-leal-a"
 excerpt: "Imagen de NASA :: J. Diego Moya Bedoya* :: En “Existencia de un mundo” (La Nación, jueves 24 de marzo de 2011), el Dr. Fernando Antonio Leal Arias, connotado filósofo costarricense, quien adhiere al n..."
 categories: ["Filosofía", "Ciencia"]
-tags: ["Sección Debates"]
+tags: []
+seccion: "Debates"
 wp_id: 3436
 ---
 

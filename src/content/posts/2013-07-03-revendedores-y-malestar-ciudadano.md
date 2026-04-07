@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "revendedores-y-malestar-ciudadano"
 excerpt: "Fotografía de aldía “The crowd tends toward persecution since the natural causes of what troubles it and transforms it into a turba cannot interest it. The crowd by definition seeks action but cannot ..."
 categories: ["Deportes"]
-tags: ["Columna: Ahí está el detalle", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 8685
 ---
 

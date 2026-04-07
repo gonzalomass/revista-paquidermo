@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "mascarada-en-la-torre-de-babel-parte-i-perdida-en-la-traduccion"
 excerpt: "“Si alguien me preguntara lo que somos, le contestaría de todas formas: ¡Esta apertura a lo imposible, este anhelo que ninguna satisfacción material jamás podrá colmar y que el juego del lenguaje no e..."
 categories: ["Derechos Humanos", "Minorías", "Sexualidad", "Violencia contra las mujeres"]
-tags: ["Columna: Torcidxs"]
+tags: []
+columna: "Torcidxs"
 wp_id: 2826
 ---
 

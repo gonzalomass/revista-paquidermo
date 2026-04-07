@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "poder-y-espectaculo"
 excerpt: "Decía Winston Smith que la libertad es la capacidad de poder decir que 2+2=4; la simple enunciación de la verdad obvia es el principio básico de la libertad, el resto, agrega, vendrá por añadidura. Pa..."
 categories: ["Cultura"]
-tags: ["Lo Recomendado", "Columna: Potlacth"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 8375
 ---
 

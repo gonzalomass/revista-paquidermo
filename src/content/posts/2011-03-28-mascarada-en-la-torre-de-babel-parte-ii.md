@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "mascarada-en-la-torre-de-babel-parte-ii"
 excerpt: "La construcción de la Torre El yo soluble y el yo abstracto. “Pepi estaba sedienta de venganza” Pedro Almodóvar, Pepi, Luci, Bom y otras chicas del montón Desde la antigüedad, los seres humanos hemos ..."
 categories: ["Minorías", "Sexualidad"]
-tags: ["Columna: Torcidxs"]
+tags: []
+columna: "Torcidxs"
 wp_id: 3121
 ---
 

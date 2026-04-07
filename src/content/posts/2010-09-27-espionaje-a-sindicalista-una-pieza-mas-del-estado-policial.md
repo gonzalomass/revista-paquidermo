@@ -5,7 +5,8 @@ author: "josue-arevalo"
 slug: "espionaje-a-sindicalista-una-pieza-mas-del-estado-policial"
 excerpt: "Imagen por un barrio feliz Desde hace un tiempo a esta parte, el Gobierno de la República tiene como prioridad el trabajo de inteligencia, ya vimos en las noticias cómo a un ciudad..."
 categories: ["Democracia", "Derechos Humanos", "Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2369
 ---
 

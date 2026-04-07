@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "va-costa-rica-por-el-camino-de-grecia"
 excerpt: "Grecia a fines de 2009. El gobierno de Yorgus Papadreu saca a la luz que sus antecesores del partido conservador, habían ocultado las verdaderas cifras del déficit fiscal, contando para ello con pleno..."
 categories: ["Capitalismo", "Economía", "Desempleo", "Neoliberalismo", "Política", "Geopolítica", "Realidad Nacional", "Sociedad"]
-tags: ["Columna: Soñar con los pies en la tierra", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 12631
 ---
 

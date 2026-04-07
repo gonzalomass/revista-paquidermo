@@ -5,7 +5,8 @@ author: "ivan-acuna"
 slug: "rodrigo-y-el-arismo-4"
 excerpt: "Fuente: Rodrigo Arias Sánchez :: Iván Acuña* :: El sitio web de Rodrigo Arias (RAS) tiene una cita que habla sobre: “Quienes tratan de destruir al Arismo y al PLN han fracasado”. En este artículo de o..."
 categories: ["América Central", "Ecología", "Política", "Realidad Nacional", "Filosofía"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7736
 ---
 

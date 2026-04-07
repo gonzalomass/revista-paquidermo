@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "termino-la-temporada-de-football"
 excerpt: "Normal 0 21 false false false ES-MX X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"Tabla normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:ye..."
 categories: ["Política", "Democracia", "Electoral"]
-tags: ["Lo Recomendado", "Columna: Potlacth"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 9395
 ---
 

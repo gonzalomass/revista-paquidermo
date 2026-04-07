@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "ver-morir-a-uruguay-en-italia"
 excerpt: "Hemos caminado todo el día en Roma, llevando los colores de la Sele. La gente se nos queda viendo raro. Dos tipos con pinta de árabes con la misma camiseta roja: ¿serán acaso comunistas? ¿Asesinos pot..."
 categories: ["Deportes"]
-tags: ["Columna: La Rapiña", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "La Rapiña"
 wp_id: 10576
 ---
 

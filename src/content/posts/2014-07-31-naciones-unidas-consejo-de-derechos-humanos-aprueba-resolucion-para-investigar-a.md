@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "naciones-unidas-consejo-de-derechos-humanos-aprueba-resolucion-para-investigar-a"
 excerpt: ":: Nicolás Boeglin (*) :: El Consejo de Derechos Humanos de las Naciones Unidas, mediante resolución S-21/1 con fecha del 23 de julio del 2014, aprobó crear una comisión internacional de investigación..."
 categories: ["Política", "Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10775
 ---
 

@@ -5,7 +5,8 @@ author: "giorgio-trucchi"
 slug: "protesta-sube-de-tono-toma-de-carretera-en-copan"
 excerpt: "Mientras en Tegucigalpa los aparatos represivos del Estado hondureño se preparan para llevar a cabo el desalojo de los jóvenes indignados, que continúan en huelga de hambre en la..."
 categories: ["Libertad de expresión", "América Central", "Corrupción", "Crónica", "Derechos Humanos", "Economía", "Internacional", "Centroamérica", "Política", "Corrupción", "Movimiento Social", "Protesta", "Geopolítica", "Resistencia", "Salud", "Sociedad"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12190
 ---
 

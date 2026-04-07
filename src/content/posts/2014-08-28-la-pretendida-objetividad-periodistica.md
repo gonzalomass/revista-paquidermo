@@ -5,7 +5,8 @@ author: "jethro-masis"
 slug: "la-pretendida-objetividad-periodistica"
 excerpt: "Hace unos días apareció una entrevista con Antonio Caño, el nuevo director del diario español El País en que confesaba sin ambages lo que podría denominarse su ética del trabajo periodístico. Sus pala..."
 categories: ["Medios de Comunicación", "Realidad Nacional"]
-tags: ["Columna: Filosofía de Cafetín", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Filosofía de Cafetín"
 wp_id: 10877
 ---
 

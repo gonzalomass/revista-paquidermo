@@ -5,7 +5,8 @@ author: "eduardo-rios-ludena"
 slug: "villalta-chavista"
 excerpt: "Imagen: Nicolás Gómez :: Eduardo Ríos Ludena* :: Para un venezolano, como quién les escribe, puede parece extraño querer comparar al candidato del frente amplio, José María Villalta, con el difunto pr..."
 categories: ["Política", "Realidad Nacional", "Democracia"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9974
 ---
 

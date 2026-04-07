@@ -5,7 +5,9 @@ author: "luis-paulino-vargas-solis"
 slug: "un-pueblo-frio-y-tarado"
 excerpt: "Imagen por Manuel Ignacio La invasión de un pedazo de territorio costarricense por un grupo de soldados nicaragüenses ha suscitado en Costa Rica reacciones muy diversas. A grandes rasgos estas oscilan..."
 categories: ["Internacional", "Realidad Nacional"]
-tags: ["Sección Doxa", "soñar", "Columna: Soñar con los pies en la tierra"]
+tags: ["soñar"]
+columna: "Soñar con los pies en la tierra"
+seccion: "Doxa"
 wp_id: 2678
 ---
 

@@ -5,7 +5,8 @@ author: "heidy-valencia-espinoza"
 slug: "teoria-queer-una-salida-individualista-por-la-desestabilizacion-del-genero"
 excerpt: "::Heidy Valencia Espinoza*:: La teoría queer surge a mediados de los 80 a partir de estudios posestructuralistas. La primera académica en elaborar desde este bando fue Judith Butler, quien en 1990 pub..."
 categories: ["Feminismo", "Género"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11600
 ---
 

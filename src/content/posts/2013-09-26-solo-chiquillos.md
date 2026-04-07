@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "solo-chiquillos"
 excerpt: "¿Quién puede conocer el corazón de la juventud sino la juventud misma? Patti Smith, Just Kids. Así de fácil uno deja de ser joven. Creo que sucede después de pasar los veintisiete años. Los suicidios,..."
 categories: ["Filosofía", "Cotidianidad", "La muerte"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 9313
 ---
 

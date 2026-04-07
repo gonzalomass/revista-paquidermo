@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "audere-est-facere-oda-al-club-que-hara-llorar-al-mundo"
 excerpt: "Un equipo pequeño perdía por un gol. Es el minuto 90+4, el árbitro se inventa una falta en el área y el partido termina 2 a 2. Que hayan jugado con un jugador menos por más de media hora y celebren un..."
 categories: ["Cultura", "Entretenimiento", "Deportes", "Fútbol"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13159
 ---
 

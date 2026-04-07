@@ -5,7 +5,8 @@ author: "gabriela-miranda"
 slug: "rios-montt-muerto-el-perro-se-acabo-la-rabia"
 excerpt: "Foto: Jose Revueltas El martes 19 de marzo, comenzó en Guatemala el juicio contra José Efraín Ríos Montt, acusado de Genocidio y delitos contra los Deberes de humanidad. Lo llev..."
 categories: ["América Central", "Derechos Humanos"]
-tags: ["Lo Recomendado", "Columna: La Media Columna"]
+tags: ["Lo Recomendado"]
+columna: "La Media Columna"
 wp_id: 8242
 ---
 

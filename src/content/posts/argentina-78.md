@@ -5,7 +5,8 @@ author: "luis-chaves"
 slug: "argentina-78"
 excerpt: "Hace unos días, para un especial mundialista de un periódico, me preguntaron cuál era “mi mejor recuerdo de un Mundial”. Más que el mejor recuerdo, qu"
 categories: ["Crónica", "Fútbol", "Memoria"]
-tags: ["Argentina 78", "Columna Bífida", "Mundial"]
+tags: ["Argentina 78", "Mundial"]
+columna: "Bífida"
 wp_id: 14024
 ---
 

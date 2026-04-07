@@ -5,7 +5,8 @@ author: "gladys-tzul-tzul"
 slug: "el-espiritu-de-las-leyes-en-guatemala"
 excerpt: ":: Gladys Tzul* :: La anulación de la sentencia por la Corte de Constitucionalidad de Guatemala, que condena al ex presidente y general Efraín Ríos Montt a 80 años de cárcel por genocidio y delitos co..."
 categories: ["América Central"]
-tags: ["Lo Recomendado", "Sección: Periscopio"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 8423
 ---
 

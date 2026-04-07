@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "dios-existe-porque-este-articulo-existe"
 excerpt: "Imagen por Aaron Escobar La existencia de dios me ha traído muchos problemas. No problemas de verdad, claro está, solo molestias menores, hasta la fecha no me ha dejado ciego ni ha hecho que un monstr..."
 categories: ["Religión"]
-tags: ["Columna: Potlacth"]
+tags: []
+columna: "Potlacth"
 wp_id: 3474
 ---
 

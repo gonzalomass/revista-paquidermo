@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "critica-de-la-idea-progresista-segunda-parte"
 excerpt: "Continuamos con la crítica de la ideología progresista que iniciamos en el artículo pasado. Una “estrategia” progresista: unidad nacional. En diciembre de 2009 el insigne progresista Álvaro Montero Me..."
 categories: ["Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 2811
 ---
 

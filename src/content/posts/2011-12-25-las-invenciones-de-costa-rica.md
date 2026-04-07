@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "las-invenciones-de-costa-rica"
 excerpt: "Desde justo después de la Independencia en 1821, Costa Rica ha sido conocida como un país peculiar, diferente o incluso excepcional en el contexto, tanto de América Central como de América Latina. Esta noción de país excepcional ha sido central en la elaboración de su identidad nacional."
 categories: ["América Central", "Historia"]
-tags: ["Columna: Tientos y Resistencias"]
+tags: []
+columna: "Tientos y Resistencias"
 wp_id: 5216
 ---
 

@@ -5,7 +5,9 @@ author: "luis-paulino-vargas-solis"
 slug: "primera-pareja-del-mismo-sexo-reconocida-en-costa-rica-el-jubilo-y-el-dolor"
 excerpt: "Cuando dos años atrás el entonces diputado José María Villalta logró introducir en la ley de la persona joven una norma que prohibía la discriminación por orientación sexual en relación con el reconoc..."
 categories: ["Historia", "Derechos Humanos", "Género", "Política", "Estado de Derecho", "Religión"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa", "Columna: Soñar con los pies en la tierra"]
+tags: ["Lo Recomendado", "Doxa"]
+columna: "Soñar con los pies en la tierra"
+seccion: "Doxa"
 wp_id: 12024
 ---
 

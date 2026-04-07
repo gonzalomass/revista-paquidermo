@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "ucrania-habra-alguna-solucion-al-conflicto"
 excerpt: ":: Jerry Espinoza (*) :: Una de las más bellas obras de la literatura universal fue escrita por un ucraniano. Se trata de Las almas muertas, de Nicolás Gógol, una mordaz novela del siglo XIX sobre las..."
 categories: ["Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10943
 ---
 

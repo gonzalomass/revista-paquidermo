@@ -5,7 +5,8 @@ author: "natalia-murillo-quiros-y-miguel-araya-arguedas"
 slug: "el-boson-de-higgs-para-principiantes"
 excerpt: ":: Natalia Murillo Quirós y Miguel Araya Arguedas :: Partículas elementales y el Modelo Estándar Por mucho tiempo se pensó que los protones, neutrones y electrones eran los “ladrillos” básicos de la m..."
 categories: ["Ciencia"]
-tags: ["Columna: Ojo de Camaleón"]
+tags: []
+columna: "Ojo de Camaleón"
 wp_id: 6147
 ---
 

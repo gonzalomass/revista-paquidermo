@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "de-panes-y-goles"
 excerpt: "No cabe duda que fue un golpe estratégico que el Papa Benedicto XVI llegara a África antes que el mundial de fútbol. Después de todo, para uno y otro es la primera vez que arriban a este continente. P..."
 categories: ["Religión", "Sociedad"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 829
 ---
 

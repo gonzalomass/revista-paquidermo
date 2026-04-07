@@ -5,7 +5,8 @@ author: "arturo-carballo-madrigal"
 slug: "defender-el-maiz-es-defender-el-pais"
 excerpt: "El maíz es un patrimonio cultural de nuestro pueblo y de todas las Américas, durante milenios se ha cultivado y ha alimentado a millones de personas. Pozol, tortillas, t..."
 categories: ["Ambiente", "Salud"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7475
 ---
 

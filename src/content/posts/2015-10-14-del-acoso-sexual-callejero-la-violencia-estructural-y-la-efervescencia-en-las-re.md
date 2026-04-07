@@ -5,7 +5,8 @@ author: "jenyel-contreras"
 slug: "del-acoso-sexual-callejero-la-violencia-estructural-y-la-efervescencia-en-las-re"
 excerpt: ":: Jenyel Contreras (*) :: Durante las últimas semanas la problemática del acoso sexual callejero ha tomado relevancia en la agenda de opinión pública debido a dos hechos de significativa importancia...."
 categories: ["Política", "Cultura", "Cotidianidad", "Derechos Humanos", "Feminismo", "Género", "Movimiento Social", "Protesta", "Sociedad"]
-tags: ["Lo Recomendado", "Doxa", "Sección Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12747
 ---
 

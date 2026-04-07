@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "la-idea-comunista-un-respuesta-a-jose-maria-villalta-i"
 excerpt: "Imagen: Javier Pérez “En la sociedad comunista, donde cada individuo no tiene acotado un círculo exclusivo de actividades, sino que puede desarrollar sus aptitudes en la rama que mejor le parezca, la ..."
 categories: ["Filosofía", "Historia", "Marxismo", "Política"]
-tags: ["Lo Recomendado", "Columna: ¡Qué Panfle!"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 9823
 ---
 

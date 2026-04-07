@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "dinero-facil"
 excerpt: "Mauricio Boraschi, Comisionado Antidrogas de nuestro país, es consultado por La Nación sobre el fenómeno de las familias que venden drogas: “¿Por qué caen esas familias en el narcotráfico?” La respues..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Ausencias Presentes"]
+tags: []
+columna: "Ausencias Presentes"
 wp_id: 6243
 ---
 

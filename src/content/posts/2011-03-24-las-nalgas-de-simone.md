@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "las-nalgas-de-simone"
 excerpt: "No me gusta para nada la música de Shakira. Tampoco me gusta el alboroto por el nuevo estadio de la Sabana, ni el line-up del concierto de bandas nacionales para su inauguración. De hecho, todo este a..."
 categories: ["Realidad Nacional", "Sexualidad"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 3065
 ---
 

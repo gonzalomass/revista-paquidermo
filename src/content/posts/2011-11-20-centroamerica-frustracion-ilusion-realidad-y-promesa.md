@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "centroamerica-frustracion-ilusion-realidad-y-promesa"
 excerpt: "Cuando pronunciamos la palabra Centroamérica, ¿de qué estamos hablando? No estamos hablando hoy de una república o de un estado nacional, sino de una sección, quizás se podría decir de una región, de una parte del continente americano o del hemisferio occidental. No obstante, si ya podemos reconocer que se trata de un pedazo identificable en una representación cartográfica o en una fotografía tomada desde el espacio, no es seguro que estemos de acuerdo sobre lo que comprende o hasta donde llega lo que llamamos Centroamérica. Algunos no incluirían Panamá, ni Belice, pero otros propondrían que debemos incluir el sur de México, es decir, Chiapas."
 categories: ["América Central", "Historia"]
-tags: ["Columna: Tientos y Resistencias"]
+tags: []
+columna: "Tientos y Resistencias"
 wp_id: 4995
 ---
 

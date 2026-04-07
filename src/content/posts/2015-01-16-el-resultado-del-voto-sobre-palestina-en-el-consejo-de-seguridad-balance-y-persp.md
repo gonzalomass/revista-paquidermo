@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "el-resultado-del-voto-sobre-palestina-en-el-consejo-de-seguridad-balance-y-persp"
 excerpt: "El voto del Consejo de Seguridad acaecido el 30 de diciembre pasado no permitió que se adoptara una resolución propuesta por Jordania sobre Palestina. A diferencia de otros ejercicios de este tipo, Es..."
 categories: ["Internacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11287
 ---
 

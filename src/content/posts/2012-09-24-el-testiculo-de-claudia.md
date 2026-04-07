@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "el-testiculo-de-claudia"
 excerpt: "El hallazgo de un tercer testículo no me hizo sentir más hombre. El ritual matutino de la ducha lo tiene todo de rutinario. Encontrarse un tercer huevo donde el día anterior solo había dos, no. Por su..."
 categories: ["Salud"]
-tags: ["Columna: Crónicas del cangrejo"]
+tags: []
+columna: "Crónicas del cangrejo"
 wp_id: 6245
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "la-media-columna-presentacion"
 excerpt: "Hasta Wikipedia concuerda en que una columna es una pieza arquitectónica vertical que, en general sirve para sostener el peso de una estructura. Con el afán de ninguna pretensión, esta columna no vale..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 724
 ---
 

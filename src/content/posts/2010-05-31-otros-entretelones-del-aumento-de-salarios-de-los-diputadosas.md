@@ -5,7 +5,8 @@ author: "felipe-alpizar-r"
 slug: "otros-entretelones-del-aumento-de-salarios-de-los-diputadosas"
 excerpt: "La discusión sobre el aumento en el salario de los diputados(as) y su aprobación el pasado lunes 24 de mayo ha provocado una oleada de indignación. Numerosos artículos de opini..."
 categories: ["Política"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1339
 ---
 

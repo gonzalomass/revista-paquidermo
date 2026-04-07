@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "charlie-don-t-surf"
 excerpt: "Hace como una semana que suelo despertar con el sonido de un helicóptero que vuela constantemente sobre mi casa. El primer día la cosa no pasó de ser una curiosidad, un evento; deb..."
 categories: ["América Central", "Cultura"]
-tags: ["Lo Recomendado", "Columna: Potlacth"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 8811
 ---
 

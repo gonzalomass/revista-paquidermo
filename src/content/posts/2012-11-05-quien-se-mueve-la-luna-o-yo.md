@@ -5,7 +5,8 @@ author: "isabel-gamboa-barboza"
 slug: "quien-se-mueve-la-luna-o-yo"
 excerpt: ":: Isabel Gamboa Barboza :: Mientras noche tras noche paseaba mi mirada sobre la luna –caminando y deteniéndome, deteniéndome y caminando– me obsesionaba la idea de si la luna se movía, si era yo, o s..."
 categories: ["Educación", "Prensa Rosa"]
-tags: ["Sección: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 7156
 ---
 

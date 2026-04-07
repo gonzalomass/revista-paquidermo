@@ -5,7 +5,8 @@ author: "camilo-retana"
 slug: "la-wonder-woman-y-la-horda-de-supermachos"
 excerpt: "Este es un ejercicio de absoluta anacronía. Queremos escribir sobre la Mujer Maravilla, y en esa medida, queremos ensayar un análisis arqueológico, pero en el sentido literal: una saldada de cuentas c..."
 categories: ["Entretenimiento", "Minorías", "Violencia contra las mujeres"]
-tags: ["Columna: Boca a Boca"]
+tags: []
+columna: "Boca a Boca"
 wp_id: 4375
 ---
 

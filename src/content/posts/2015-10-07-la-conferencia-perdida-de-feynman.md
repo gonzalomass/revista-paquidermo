@@ -5,7 +5,8 @@ author: "juan-hernandez"
 slug: "la-conferencia-perdida-de-feynman"
 excerpt: "Leer me obliga a pensar. Pensar me exige escribir. No siempre escribo lo que quiero, si no lo que puedo. Hay una serie de limitaciones, tanto de forma como de fondo. El lenguaje va cambiando al paso d..."
 categories: ["Crónica", "Cultura", "Cotidianidad", "Literatura", "Literatura"]
-tags: ["Columna: Mejor que ficción", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Mejor que ficción"
 wp_id: 12723
 ---
 

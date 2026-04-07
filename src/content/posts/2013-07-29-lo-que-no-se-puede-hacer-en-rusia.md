@@ -5,7 +5,8 @@ author: "camila-salazar"
 slug: "lo-que-no-se-puede-hacer-en-rusia"
 excerpt: "Foto: Camila Salazar I. Aquí las princesas tienen pene. Pero la niña que pela los ojos sonriendo mientras una de vestido pomposo e infinito como de libro de cuentos le habla, no s..."
 categories: ["Cultura", "Derechos Humanos", "Minorías"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8946
 ---
 

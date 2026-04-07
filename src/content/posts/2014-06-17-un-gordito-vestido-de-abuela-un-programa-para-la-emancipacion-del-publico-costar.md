@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "un-gordito-vestido-de-abuela-un-programa-para-la-emancipacion-del-publico-costar"
 excerpt: "Quejarse de que en Costa Rica no hay música, que no hay una “escena” o un “sonido” es tautología tan molesta como decir que sí la hay y que simplemente hay que buscarla y apoyarla. El hecho es que sí ..."
 categories: ["Cultura"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 10583
 ---
 

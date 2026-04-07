@@ -5,7 +5,8 @@ author: "rosemary-castro-solano"
 slug: "tomelo-como-un-cumplido"
 excerpt: "Don Fernando, no lo conozco pero conozco su trabajo y, déjeme decirle que esto de hoy usted debe tomarlo como un cumplido, porque lo es. El no haber sido reelecto en su ca..."
 categories: ["Democracia", "Estado de Derecho"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 7261
 ---
 

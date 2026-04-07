@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "critica-de-la-idea-progresista-i-2"
 excerpt: "Queremos presentar una serie de artículos criticando la ideología progresista y abarcando varios aspectos: sus presupuestos teóricos, su estrategia, su interpretación histórica que pretende validar es..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 2748
 ---
 

@@ -5,7 +5,8 @@ author: "andres-leon"
 slug: "detras-de-la-costa-rica-pacifica-y-democratica-o-que-nos-pueden-decir-los-marine"
 excerpt: "Imagen por Randall Elizondo El otro día recibí un correo para que observara un video denominado ‘Amo mi país sin militares’. Con letras blancas sobre un fondo negro, y con la canción..."
 categories: ["América Latina", "Democracia", "Realidad Nacional"]
-tags: ["Columna: Una golondrina no hace verano"]
+tags: []
+columna: "Una golondrina no hace verano"
 wp_id: 2016
 ---
 

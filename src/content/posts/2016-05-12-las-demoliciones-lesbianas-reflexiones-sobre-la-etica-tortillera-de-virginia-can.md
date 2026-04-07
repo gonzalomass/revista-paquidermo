@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "las-demoliciones-lesbianas-reflexiones-sobre-la-etica-tortillera-de-virginia-can"
 excerpt: "Allí donde Spinoza creyó posible la construcción de una ética demostrada según insospechados órdenes geométricos, Virginia Cano se propone con atrevimiento y desparpajo la construcción de una ética to..."
 categories: ["Cultura", "Feminismo", "Filosofía", "Género", "Política", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13198
 ---
 

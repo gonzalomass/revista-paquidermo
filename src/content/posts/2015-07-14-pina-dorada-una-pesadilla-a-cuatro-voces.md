@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "pina-dorada-una-pesadilla-a-cuatro-voces"
 excerpt: "Don Gabriel sueña que un capataz, a punta de golpes, nos echa de la finca. Se despierta sudando y muerto del miedo; la pesadilla se le queda pegada al cielo de la boca. Le ha costado tanto deshacerse ..."
 categories: ["Ambiente", "Capitalismo", "Crónica", "Derechos Humanos", "Ecología", "Economía", "Desempleo", "Neoliberalismo", "Minorías", "Política", "Corrupción", "Movimiento Social", "Protesta", "Realidad Nacional", "Resistencia", "Salud", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Perronauta"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 12284
 ---
 

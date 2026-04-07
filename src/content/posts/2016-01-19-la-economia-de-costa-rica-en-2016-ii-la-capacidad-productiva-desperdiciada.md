@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "la-economia-de-costa-rica-en-2016-ii-la-capacidad-productiva-desperdiciada"
 excerpt: "Entre 1950 y 1979, en lo que propongo designar como el “Proyecto Histórico Desarrollista”, la economía de Costa Rica creció a una tasa promedio anual del 6,5% la cual casi duplicaba el crecimiento de ..."
 categories: ["Capitalismo", "Economía", "Neoliberalismo", "Historia", "Política"]
-tags: ["Columna: Soñar con los pies en la tierra", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 13001
 ---
 

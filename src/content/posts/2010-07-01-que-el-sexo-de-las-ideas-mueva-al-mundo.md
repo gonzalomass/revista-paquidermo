@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "que-el-sexo-de-las-ideas-mueva-al-mundo"
 excerpt: "Imagen por Daquella manera “Pocas veces encontrás a alguien con quien podés tener sexo con el cuerpo y con la mente”. Sin duda, y por mucho, el mejor piropo que oí en la vida. Una..."
 categories: ["Derechos Humanos", "Sexualidad", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1662
 ---
 

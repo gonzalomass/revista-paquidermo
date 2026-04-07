@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "a-carretera-regalada-cuidado-con-el-colmillo"
 excerpt: "Con motivo de una despedida, recientemente emprendí dos viajes en fines de semana consecutivos, primero a Manuel Antonio y luego a Monteverde. Como pueden imaginar, una de las razones por las que esco..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Ahí está el detalle"]
+tags: []
+columna: "Ahí está el detalle"
 wp_id: 760
 ---
 

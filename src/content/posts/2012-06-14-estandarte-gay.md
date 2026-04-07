@@ -5,7 +5,8 @@ author: "eric-mora-c"
 slug: "estandarte-gay"
 excerpt: "Desde muy niño conozco cual es mi orientación sexual. He vivido la discriminación y el rechazo. Me han gritado insultos, me han tirado piedras, he sido abusado. Cuando por primera v..."
 categories: ["Derechos Humanos", "Libertad de expresión", "Realidad Nacional", "Sexualidad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 5993
 ---
 

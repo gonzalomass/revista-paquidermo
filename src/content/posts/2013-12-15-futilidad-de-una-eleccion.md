@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "futilidad-de-una-eleccion"
 excerpt: "(Ilustración: Jaume Montserrat) Sensatez tribal. Los cazadores amazónicos kawahiva sugieren desde siempre tener claro el carácter de la presa que se desea atrapar y también el sentido de su captura o ..."
 categories: ["América Latina", "Centroamérica", "Política", "Corrupción", "Democracia"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 9636
 ---
 

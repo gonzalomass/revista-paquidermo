@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "obama-y-el-sr-smithers"
 excerpt: "¿Qué nos dejó la visita de Obama? No mucho, aunque los optimistas analistas de televisión señalen un hito para las relaciones diplomáticas entre ambos países (parece que la televisión no solo engorda ..."
 categories: ["América Central"]
-tags: ["Columna: Ahí está el detalle", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 8301
 ---
 

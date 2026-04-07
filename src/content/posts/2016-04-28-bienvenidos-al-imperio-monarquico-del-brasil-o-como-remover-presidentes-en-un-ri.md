@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "bienvenidos-al-imperio-monarquico-del-brasil-o-como-remover-presidentes-en-un-ri"
 excerpt: "Cinismo: Desvergüenza en el mentir o en la defensa y práctica de acciones o doctrinas vituperables. RAE Si pudiéramos reunir en una sala o salón un inventario de preconceptos, racismos, sexismos, mach..."
 categories: ["América Latina", "Capitalismo", "Corrupción", "Internacional", "Pintura", "Política", "Protesta", "Geopolítica", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13173
 ---
 

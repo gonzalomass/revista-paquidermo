@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "el-elefante-en-la-habitacion"
 excerpt: "Esta frase idiomática estadounidense, acuñada en 1959, se refiere a una verdad tan grande y tan obvia que no puede ser ignorada, y que sin embargo lo es. El elefante en la sala de los estadounidenses,..."
 categories: ["Uncategorized"]
-tags: ["Columna: Vacaciones en Fobos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vacaciones en Fobos"
 wp_id: 7603
 ---
 

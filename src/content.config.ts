@@ -11,6 +11,8 @@ const posts = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
+    columna: z.string().optional(),
+    seccion: z.string().optional(),
     wp_id: z.number().optional(),
   }),
 });

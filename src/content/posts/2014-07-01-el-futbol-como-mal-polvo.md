@@ -5,7 +5,8 @@ author: "jorge-jimenez"
 slug: "el-futbol-como-mal-polvo"
 excerpt: "Casi siempre odié el fútbol. Únicamente me gustó jugarlo cuando pude sacarme algún clavo con un compañero escolar que me la debía. Lo mío era el “básquet”. Siempre lo encontré más hermoso. La hermosur..."
 categories: ["Cultura", "Deportes"]
-tags: ["Columna: KasandraMemoria", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "KasandraMemoria"
 wp_id: 10652
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "paes-en-la-ue"
 excerpt: "En una entrevista reciente a N. Roubini sobre la crisis financiera que agobia a Grecia (sovereign debt crisis), en el canal televisivo especializado en finanzas Bloomberg, el economista dibujó un esce..."
 categories: ["Economía"]
-tags: ["Columna: Desbalances"]
+tags: []
+columna: "Desbalances"
 wp_id: 39
 ---
 

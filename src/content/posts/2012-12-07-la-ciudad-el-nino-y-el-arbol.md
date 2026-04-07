@@ -5,7 +5,8 @@ author: "manuel-ortega-alvarez"
 slug: "la-ciudad-el-nino-y-el-arbol"
 excerpt: "En un céntrico barrio capitalino, a orillas de la carretera principal, vive un niño dentro de un árbol. Su rostro, tan pálido como enigmático, contrasta con el rojo de su nariz de payaso y el azul de ..."
 categories: ["Uncategorized", "Cultura"]
-tags: ["Columna: Apotegmas", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Apotegmas"
 wp_id: 7532
 ---
 

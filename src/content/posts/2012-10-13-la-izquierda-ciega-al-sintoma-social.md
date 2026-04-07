@@ -5,7 +5,8 @@ author: "santiago-navarro-cerdas"
 slug: "la-izquierda-ciega-al-sintoma-social"
 excerpt: ":: Santiago Navarro Cerdas* :: Cosmopolita Un lugar otro del circo político izquierdista. Hay un aspecto sobre el final de la marcha del pasado martes 9 de octubre, no contado u ocultado. Un algo que ..."
 categories: ["Realidad Nacional", "Marxismo"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 6974
 ---
 

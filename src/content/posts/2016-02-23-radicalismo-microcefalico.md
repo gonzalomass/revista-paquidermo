@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "radicalismo-microcefalico"
 excerpt: "Ser radical no es, necesariamente, negativo. Se los dice alguien que en sus años universitarios desplegó su propia yihad y hoy los atesora como una época de hermoso (aunque cándido) romanticismo. Creo..."
 categories: ["Filosofía", "Cultura", "Cotidianidad", "Política", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13074
 ---
 

@@ -5,7 +5,8 @@ author: "david-eduarte"
 slug: "cristo-para-presidente"
 excerpt: "“Esta máquina mata fascistas” (This machine kills fascists). Cuando Woodrow Wilson Guthrie, Woody para sus amigos y para la posteridad, escribió en letras gruesas y un poco infantiles esa frase en su ..."
 categories: ["Contracultura", "Política"]
-tags: ["Columna: Potlacth", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Potlacth"
 wp_id: 9561
 ---
 

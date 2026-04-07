@@ -5,7 +5,8 @@ author: "byron-salas"
 slug: "mapa-desnudo-no-situada-ciudad"
 excerpt: "Personajes que no detienen su andar por los ramajes de la urbe, desviando su atención de las fachadas y las calles, de las luces revueltas en el horizonte de un desarticulado concret..."
 categories: ["Cultura", "Cotidianidad", "Literatura", "Literatura"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 12743
 ---
 

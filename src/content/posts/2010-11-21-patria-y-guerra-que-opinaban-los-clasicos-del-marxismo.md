@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "patria-y-guerra-que-opinaban-los-clasicos-del-marxismo"
 excerpt: "La discusión sobre la actitud de los gobiernos oligárquicos de Costa Rica y Nicaragua hacia el conflicto en Isla Calero ha revivido los discursos nacionalistas a ambos lados de la frontera. El FSLN en..."
 categories: ["Internacional", "Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 2605
 ---
 

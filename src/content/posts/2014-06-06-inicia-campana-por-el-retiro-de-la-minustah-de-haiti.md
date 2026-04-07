@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "inicia-campana-por-el-retiro-de-la-minustah-de-haiti"
 excerpt: ":: Jubileo Sur/Américas, et al. ::Diez años están por cumplirse de la ocupación militar en Haití por parte de la MINUSTAH, recordamos el contexto de un golpe de Estado que antecedió la llegada de las ..."
 categories: ["América Latina"]
-tags: ["Sección: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 10549
 ---
 

@@ -5,7 +5,8 @@ author: "bryan-gonzalez"
 slug: "el-mal-olor-de-las-elecciones"
 excerpt: "Imagen: Dennis Hlynsky A escasos días para las elecciones no es de extrañar que se sienta un profundo tedio. Los medios de información se encargaron de saturarnos ad nauseam del tema de las elecciones..."
 categories: ["América Latina", "Política", "Democracia"]
-tags: ["Columna: Atitodo y Otras Yerbas", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Atitodo y Otras Yerbas"
 wp_id: 9979
 ---
 

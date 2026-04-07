@@ -5,7 +5,9 @@ author: "maria-del-mar-obando"
 slug: "15-estrategias-para-un-seductor-actual-1"
 excerpt: "(Lo que no se debe hacer) Dado el estado lamentable (por no decir deplorable) de la imaginación masculina en nuestra “era de las comunicaciones” donde la información viaja a tiempo real pero se escuch..."
 categories: ["Sexualidad"]
-tags: ["Sección Doxa", "Lo Recomendado", "Columna: Tocata y fuga"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
+seccion: "Doxa"
 wp_id: 8379
 ---
 

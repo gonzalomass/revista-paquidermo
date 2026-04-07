@@ -5,7 +5,8 @@ author: "daniel-lara-segura"
 slug: "un-mundo-mas-sobrio"
 excerpt: ":: Daniel Lara (*) :: Para las fiestas de fin de año mi abuela materna preparaba siempre algo especial. Recuerdo una vez, siendo muy niño, alistar una gallina enorme, negra, de un cuello largo como el..."
 categories: ["Cultura", "Geopolítica"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10717
 ---
 

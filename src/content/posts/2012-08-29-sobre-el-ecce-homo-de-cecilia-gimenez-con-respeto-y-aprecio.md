@@ -5,7 +5,8 @@ author: "adrian-cruz-garcia"
 slug: "sobre-el-ecce-homo-de-cecilia-gimenez-con-respeto-y-aprecio"
 excerpt: "Hace poco, en medio de una oleada de 'memes' ridiculizando la restauración que la Sra. Cecilia Giménez realizó al irrelevante 'Ecce Homo' de un tal García Martínez y la contra..."
 categories: ["Cultura", "Sociedad"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 6212
 ---
 

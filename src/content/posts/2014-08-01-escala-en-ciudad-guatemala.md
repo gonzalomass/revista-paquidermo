@@ -5,7 +5,8 @@ author: "alvaro-rojas-salazar"
 slug: "escala-en-ciudad-guatemala"
 excerpt: "Eran las dos de la tarde y estaba de nuevo en San José recibiendo el viento fresco de enero que entraba con facilidad por las arcadas de la terraza del Hotel Costa Rica. Al sentarme dejé el bulto de l..."
 categories: ["América Central"]
-tags: ["Columna: A la Deriva", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "A la Deriva"
 wp_id: 10782
 ---
 

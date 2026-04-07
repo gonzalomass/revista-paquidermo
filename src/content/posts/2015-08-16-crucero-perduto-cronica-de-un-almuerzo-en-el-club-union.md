@@ -5,7 +5,8 @@ author: "juanma-gurdian"
 slug: "crucero-perduto-cronica-de-un-almuerzo-en-el-club-union"
 excerpt: "Vestido con mi mejor camisa y mi pantalón nuevo, le escribí a mi jefa que estaba en camino a abordar el crucero. Busqué entre los emoticones de Whatsapp el que mejor rematara mi b..."
 categories: ["Crónica", "Cultura", "Entretenimiento"]
-tags: ["Doxa", "Sección Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12475
 ---
 

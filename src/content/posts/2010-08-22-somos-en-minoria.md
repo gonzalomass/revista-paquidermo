@@ -5,7 +5,8 @@ author: "silvia-piranesi"
 slug: "somos-en-minoria"
 excerpt: "Imagen por geertr Desde que tengo conciencia, el mundo se me ha presentado solo, muy poco acompañado. Como decir el mundo en miniatura, mundo diminuto, minúsculo. Para entender, ..."
 categories: ["Minorías", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2140
 ---
 

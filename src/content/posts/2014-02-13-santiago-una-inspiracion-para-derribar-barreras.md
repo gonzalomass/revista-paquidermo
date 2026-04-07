@@ -5,7 +5,8 @@ author: "ariane-grau"
 slug: "santiago-una-inspiracion-para-derribar-barreras"
 excerpt: ":: Ariane Grau Crespo* :: -Alicia, por favor, déjame escuchar este disco. Yo llegaba del trabajo desesperada por oir nuevamente la música que me retumbó todo el día en mis oídos, mis recuerdos, mi cue..."
 categories: ["América Latina", "Contracultura", "Resistencia"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10086
 ---
 

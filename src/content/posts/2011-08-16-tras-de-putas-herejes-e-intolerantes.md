@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "tras-de-putas-herejes-e-intolerantes"
 excerpt: "Si la toma de la Bastilla hubiera sido en Costa Rica, los revolucionarios franceses habrían tenido que tocar la puerta de la prisión, saludar con toda educación y, acorde a las normas de la etiqueta d..."
 categories: ["Religión", "Sexualidad", "Violencia contra las mujeres"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 4421
 ---
 

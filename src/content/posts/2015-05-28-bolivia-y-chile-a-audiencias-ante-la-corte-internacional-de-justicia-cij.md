@@ -5,7 +5,8 @@ author: "nicolas-boeglin"
 slug: "bolivia-y-chile-a-audiencias-ante-la-corte-internacional-de-justicia-cij"
 excerpt: "El Presidente de Bolivia Evo Morales en Santiago de Chile con ocasión de la toma de posesión del Presidente de Chile Sebastián Piñera en el 2010 :: Nicolas Boeglin (*) :: Este 4 de mayo del 2015 inici..."
 categories: ["América Latina", "Internacional", "Democracia"]
-tags: ["Sección Doxa", "Doxa"]
+tags: ["Doxa"]
+seccion: "Doxa"
 wp_id: 11894
 ---
 

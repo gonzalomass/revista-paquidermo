@@ -5,7 +5,8 @@ author: "gustavo-solorzano-alfaro"
 slug: "legalizacion-de-las-drogas"
 excerpt: "Imagen por Benzenes No voy a ser el primero, e imagino que tampoco el último. Del mismo modo, no cuento con una batería de estadísticas o con bola de cristal para englobar..."
 categories: ["Política", "Realidad Nacional", "Salud"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1745
 ---
 

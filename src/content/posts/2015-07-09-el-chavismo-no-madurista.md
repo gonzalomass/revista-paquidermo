@@ -5,7 +5,8 @@ author: "antulio-rosales"
 slug: "el-chavismo-no-madurista"
 excerpt: "Hace pocas semanas, Benigno Alarcón, un profesor de la UCAB, mostraba en el programa de Vladimir Villegas el resultado de un estudio de opinión realizado recientemente, donde ref..."
 categories: ["América Latina", "Capitalismo", "Economía", "Internacional", "Política", "Geopolítica"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12235
 ---
 

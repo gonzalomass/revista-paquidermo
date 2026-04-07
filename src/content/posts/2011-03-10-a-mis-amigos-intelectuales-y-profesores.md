@@ -5,7 +5,8 @@ author: "verny-campos-cabezas"
 slug: "a-mis-amigos-intelectuales-y-profesores"
 excerpt: "Imagen por Madame Fastras “Qué extraña manera de estarse muertos. Quien- quiera diría no lo estáis. Pero, en verdad, estáis muertos.” César Vallejo Recientemente alguien me ..."
 categories: ["Educación", "Realidad Nacional", "Sociedad"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2965
 ---
 

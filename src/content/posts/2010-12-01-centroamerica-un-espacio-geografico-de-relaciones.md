@@ -5,7 +5,8 @@ author: "andres-jimenez-corrales"
 slug: "centroamerica-un-espacio-geografico-de-relaciones"
 excerpt: "Imagen por norman bleventhal map center Centroamérica es mucho más que fronteras, conflictos, desigualdades, pobreza, delincuencia y corrupción; es una región de gran div..."
 categories: ["Ambiente", "Internacional", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2646
 ---
 

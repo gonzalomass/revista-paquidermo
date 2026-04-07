@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "palmira-delenda-est"
 excerpt: "A veces no llegamos a comprender lo pasado antes de nosotros. Fingimos, entonces, haberlo logrado, porque nos aterra. Nos aterra que las acciones y las decisiones de un montón de gente que vivió antes..."
 categories: ["Cultura", "Historia", "Memoria"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13107
 ---
 

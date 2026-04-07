@@ -5,7 +5,8 @@ author: "jessica-barquero"
 slug: "carta-abierta-a-ana-helena-chacon"
 excerpt: "Estimada Ana Helena, Me dirijo pública y directamente a su persona, porque la conocí en la pasada campaña electoral, donde compartimos varios debates entre candidatas a la vicep..."
 categories: ["Realidad Nacional"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10779
 ---
 

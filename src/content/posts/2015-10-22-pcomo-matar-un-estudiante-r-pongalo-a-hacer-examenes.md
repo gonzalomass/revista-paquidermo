@@ -5,7 +5,8 @@ author: "ariel-calderon-gonzalez"
 slug: "pcomo-matar-un-estudiante-r-pongalo-a-hacer-examenes"
 excerpt: "En estos últimos meses me he estado preparando para muchos exámenes “grandes” y sin duda he notado que mi motivación por el aprendizaje ha caído. Aunque lo que estudio es bastante interesante y tiene ..."
 categories: ["Acceso a la información", "Ciencia", "Cultura", "Educación", "Sociedad"]
-tags: ["Columna: Universos Cotidianos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Universos Cotidianos"
 wp_id: 12773
 ---
 

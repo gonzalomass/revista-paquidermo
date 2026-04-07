@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "pronunciamiento-del-consejo-civico-de-organizaciones-populares-e-indigenas-de-ho"
 excerpt: "Dándole seguimiento a la grave situación que enfrentan las comunidades campesinas e indígenas en la zona del Bajo Aguán en Honduras, damos divulgación al siguiente comunicado y les invitamos a compartirlo. El primer paso para detener el ejercicio de la violencia estatal hacia estas poblaciones es romper el silencio y exigir apoyo internacional. Paquidermo suma su voz en esta lucha por la justicia."
 categories: ["América Central"]
-tags: ["Contribuciones Internacionales", "Sección: Periscopio"]
+tags: ["Contribuciones Internacionales"]
+seccion: "Periscopio"
 wp_id: 5981
 ---
 

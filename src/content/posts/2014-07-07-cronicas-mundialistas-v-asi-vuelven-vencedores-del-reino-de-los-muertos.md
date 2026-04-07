@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "cronicas-mundialistas-v-asi-vuelven-vencedores-del-reino-de-los-muertos"
 excerpt: "Itaipava, Arena Fonte Nova, Baía de Todos os Santos, Brasil. La tarde del 05 de julio se vive lenta, como los domingos de vacaciones de verano en el campo. Pero no ahí. Ahí la gloriosa selección nacio..."
 categories: ["Deportes"]
-tags: ["Columna: Segunda Lectura", "Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+tags: ["Lo Recomendado", "Mundial de Fútbol Brasil 2014"]
+columna: "Segunda Lectura"
 wp_id: 10692
 ---
 

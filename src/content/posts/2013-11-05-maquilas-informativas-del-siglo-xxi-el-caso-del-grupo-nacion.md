@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "maquilas-informativas-del-siglo-xxi-el-caso-del-grupo-nacion"
 excerpt: "Marissaorton “Las empresas adoptan decisiones comerciales, nos decimos, aunque su efecto sea claramente político.” Naomi Klein La desvinculación laboral es siempre el primer paso. El Grupo Nación lo s..."
 categories: ["Medios de Comunicación", "Economía", "Tecnología"]
-tags: ["Lo Recomendado", "Columna: Perronauta"]
+tags: ["Lo Recomendado"]
+columna: "Perronauta"
 wp_id: 9443
 ---
 

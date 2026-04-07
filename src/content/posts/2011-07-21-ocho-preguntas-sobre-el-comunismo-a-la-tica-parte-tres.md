@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "ocho-preguntas-sobre-el-comunismo-a-la-tica-parte-tres"
 excerpt: "7) ¿Por qué es importante la crítica al comunismo a la tica hoy en día? En los 80’s las corrientes alternativas a la tradición comunista se disuelven, el PVP y el PPC (las dos fracciones comunistas) l..."
 categories: ["Democracia", "Historia", "Política"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 4272
 ---
 

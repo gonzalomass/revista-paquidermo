@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "sicarios-conspiradores-galletas-de-pina"
 excerpt: "La secuencia de mini-explosiones en el inexistente seno único del PAC tuvo un momento especial en el pasado octubre. Se inició con respuestas que dio Ottón Solís a un periodista del Canal 33, entrevis..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 11095
 ---
 

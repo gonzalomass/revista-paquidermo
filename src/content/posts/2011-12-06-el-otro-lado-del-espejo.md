@@ -5,7 +5,8 @@ author: "adriana-sanchez"
 slug: "el-otro-lado-del-espejo"
 excerpt: "El olor a mierda de caballo es intenso. Los cascos sacan, literalmente, chispas del empedrado. Pienso en silencio que todos los topes del mundo se parecen: va la gente que tiene caballo, y también alg..."
 categories: ["América Central", "Realidad Nacional"]
-tags: ["Columna: Segunda Lectura"]
+tags: []
+columna: "Segunda Lectura"
 wp_id: 5094
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "liviana-erika-janunger"
 excerpt: "\" classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0\">\" type=\"application/x-shockwave-flash\" src=\"http:..."
 categories: ["Cultura", "video"]
-tags: ["Sección Audiovisual", "Videos"]
+tags: ["Videos"]
+seccion: "Audiovisual"
 wp_id: 4144
 ---
 

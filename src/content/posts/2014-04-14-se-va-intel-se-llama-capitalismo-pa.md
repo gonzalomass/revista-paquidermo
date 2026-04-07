@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "se-va-intel-se-llama-capitalismo-pa"
 excerpt: "Thomas Lamadieu © Gracias al sonado anuncio de la salida –parcial, pero mayoritaria en cuanto a cantidad de personas trabajadoras— de la fábrica de Intel en Costa Rica hacia otras latitudes (retirada ..."
 categories: ["Economía", "Desempleo", "Neoliberalismo"]
-tags: ["Columna: Habitualidades", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Habitualidades"
 wp_id: 10305
 ---
 

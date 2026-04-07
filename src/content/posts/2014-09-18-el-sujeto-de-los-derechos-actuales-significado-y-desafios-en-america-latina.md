@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "el-sujeto-de-los-derechos-actuales-significado-y-desafios-en-america-latina"
 excerpt: "El siglo XXI se ha iniciado con dos retos básicos en relación con derechos humanos, desafíos que se expresan cuando lo que debería ser su principal problema no ha sido ni siquiera asumido. Este asunto..."
 categories: ["Derechos Humanos"]
-tags: ["Columna: Pensar América Latina", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 10952
 ---
 

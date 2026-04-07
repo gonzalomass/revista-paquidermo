@@ -5,7 +5,8 @@ author: "bernal-herrera"
 slug: "la-hora-del-descaro"
 excerpt: "Asistimos a un cambio en las reglas de formulación de diversos discursos sobre ámbitos colectivos como la política y la economía."
 categories: ["Política"]
-tags: ["Columna: Decoloniales"]
+tags: []
+columna: "Decoloniales"
 wp_id: 5836
 ---
 

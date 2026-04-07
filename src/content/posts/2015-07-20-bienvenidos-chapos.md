@@ -5,7 +5,8 @@ author: "helio-gallardo"
 slug: "bienvenidos-chapos"
 excerpt: "Al parecer cansado de ser eterno candidato perdedor a Presidente del país, el actual diputado Otto Guevara, ha resuelto combinar sus distintos desempeños de tiempo completo con la función de periodist..."
 categories: ["Acceso a la información", "Capitalismo", "Corrupción", "Economía", "Neoliberalismo", "Medios de Comunicación", "Política", "Corrupción", "Democracia", "Estado de Derecho", "Realidad Nacional", "Resistencia", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: Pensar América Latina"]
+tags: ["Lo Recomendado"]
+columna: "Pensar América Latina"
 wp_id: 12322
 ---
 

@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-serpiente-muerta-apuntes-de-lectura-de-la-carretera-de-cormac-mccarthy"
 excerpt: "Imagen: Darío Villalba ::Mario Zúñiga Núñez:: * Somos hijos de alguien. De allí venimos. No es una ley, al menos no una que decidamos nosotros. Las cosas son así. Punto. Lo demás ..."
 categories: ["La muerte", "Literatura", "Ficción", "Literatura"]
-tags: ["Columna: La Rapiña", "Lo Recomendado", "Columna: Ausencias Presentes"]
+tags: ["Lo Recomendado"]
+columna: "La Rapiña"
 wp_id: 11671
 ---
 

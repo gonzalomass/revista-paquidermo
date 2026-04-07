@@ -5,7 +5,8 @@ author: "fabiola-pomareda"
 slug: "a-15-anos-del-combo-del-ice-ecos-de-la-resistencia"
 excerpt: "Foto: Cortesía Semanario UNIVERSIDAD La lucha contra el Combo del ICE fue el momento en que el desencuentro se radicalizó en Costa Rica. Las manifestaciones contra la aprobación l..."
 categories: ["América Latina", "Neoliberalismo", "Historia"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11694
 ---
 

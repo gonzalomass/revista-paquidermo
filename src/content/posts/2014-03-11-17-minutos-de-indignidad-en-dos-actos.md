@@ -5,7 +5,8 @@ author: "jessica-ramirez-achoy"
 slug: "17-minutos-de-indignidad-en-dos-actos"
 excerpt: "Imagen: Christopher David White El pasado martes 25 de febrero de 2014 se celebró en el salón de expresidentes de la Asamblea Legislativa la presentación del proyecto de le..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Sección: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Periscopio"
 wp_id: 10177
 ---
 

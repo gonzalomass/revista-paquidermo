@@ -5,7 +5,8 @@ author: "sergio-pacheco"
 slug: "jose-luis-loria-chaves-el-asegurador"
 excerpt: ":: Entrevista José Luis Loría, Directivo de la CCSS (Mariscal Marcha Diversidad CR 2015) :: Loría habla pausado y examinando las palabras para conversar sobre personas sexualmente diversas; le tocó li..."
 categories: ["Uncategorized", "Derechos Humanos", "Entrevistas", "Género", "Homenaje", "Libertad de expresión", "Política", "Movimiento Social", "Realidad Nacional", "Resistencia", "Salud", "Sexualidad", "Sociedad"]
-tags: ["Lo Recomendado", "Columna: FADING"]
+tags: ["Lo Recomendado"]
+columna: "FADING"
 wp_id: 12135
 ---
 

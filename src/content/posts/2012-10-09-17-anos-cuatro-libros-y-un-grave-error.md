@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "17-anos-cuatro-libros-y-un-grave-error"
 excerpt: "Alexánder Obando (por Ev Cash, 2012) En febrero de 1995 empecé a escribir un cuento llamado Sexo y hamburguesas, donde quedaba patente que los títulos no han sido nunca mi fuerte. Pero ese cuento fue ..."
 categories: ["Cultura", "Literatura"]
-tags: ["Columna: Vacaciones en Fobos", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Vacaciones en Fobos"
 wp_id: 6708
 ---
 

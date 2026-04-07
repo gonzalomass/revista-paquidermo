@@ -5,7 +5,8 @@ author: "laura-flores"
 slug: "el-espanol-de-costa-rica-entre-el-tuteo-y-el-guatafoc"
 excerpt: "Está claro que al español de Costa Rica hace rato lo quieren dolarizar, y está claro que un porcentaje nada despreciable de compatriotas pone mucho de su parte para que así sea. Sofocado por abreviatu..."
 categories: ["Cultura", "Entretenimiento", "Libertad de expresión", "Sociedad"]
-tags: ["Columna: Perronauta"]
+tags: []
+columna: "Perronauta"
 wp_id: 5165
 ---
 

@@ -5,7 +5,8 @@ author: "luis-paulino-vargas-solis"
 slug: "los-chicos-superpoderosos"
 excerpt: "Imagen por moggs oceanlane De unos años para acá prendió a profundidad una idea que representa a los hermanos Arias –Oscar y Rodrigo- como al modo de diosecillos malignos, o, mejor debía decir, como d..."
 categories: ["Democracia", "Política", "Realidad Nacional", "Sociedad"]
-tags: ["Invitados Especiales", "Columna: Soñar con los pies en la tierra"]
+tags: ["Invitados Especiales"]
+columna: "Soñar con los pies en la tierra"
 wp_id: 2028
 ---
 

@@ -5,7 +5,8 @@ author: "natalia-solano-meza"
 slug: "el-problema-de-clasificar-la-arquitectura-tres-etiquetas"
 excerpt: "Aliosky García, El Profeto Heredamos de la Taxonomía la locura por la clasificación. Lo clasificamos todo, lo etiquetamos todo, lo disecamos todo, incluso los espacios donde ..."
 categories: ["Sostenibilidad", "Arquitectura"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9127
 ---
 

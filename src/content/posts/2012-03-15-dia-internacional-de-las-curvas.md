@@ -5,7 +5,8 @@ author: "nancy-de-lemos"
 slug: "dia-internacional-de-las-curvas"
 excerpt: "- Ari, ¿sabés qué día es hoy? - El día de la mujer - ¿Y sabés por qué se celebra, de qué se trata el asunto? - Vi y me llegaron muchos mensajes y felicitaciones por Facebook. - ¿Y vos qué crees, por q..."
 categories: ["Feminismo", "Medios de Comunicación", "Realidad Nacional", "Violencia contra las mujeres"]
-tags: ["Columna: Botellita de jerez"]
+tags: []
+columna: "Botellita de jerez"
 wp_id: 5764
 ---
 

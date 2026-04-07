@@ -5,7 +5,8 @@ author: "alexander-obando"
 slug: "objetivo-no-identificado-parte-i-la-ciencia-ficcion-en-costa-rica"
 excerpt: "Ciencia ficción y arte literario. Para empezar a hablar de este tema tenemos que trabajar con un supuesto metodológico [1]. Ese supuesto sería que la ciencia ficción (CF) y el arte literario [2] (AL) ..."
 categories: ["Literatura"]
-tags: ["Lo Recomendado", "Columna: Vacaciones en Fobos"]
+tags: ["Lo Recomendado"]
+columna: "Vacaciones en Fobos"
 wp_id: 7881
 ---
 

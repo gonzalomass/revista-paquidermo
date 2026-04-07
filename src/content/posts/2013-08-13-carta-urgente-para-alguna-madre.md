@@ -5,7 +5,8 @@ author: "maria-del-mar-obando"
 slug: "carta-urgente-para-alguna-madre"
 excerpt: "Disminuida artesana de mi ombligo: Mañana te celebran como utensilio. Mamá olla, mamá cama, mamá teléfono, mamá sala, mamá televisor, mamá mantel, mamá porcelana. La publicidad exhibe ofertas para hij..."
 categories: ["Género", "Feminismo"]
-tags: ["Lo Recomendado", "Columna: Tocata y fuga"]
+tags: ["Lo Recomendado"]
+columna: "Tocata y fuga"
 wp_id: 9018
 ---
 

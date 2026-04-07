@@ -5,7 +5,8 @@ author: "marco-feoli"
 slug: "el-padre-praxedes"
 excerpt: "Stamatis Laskos © Hasta 1991 el Colegio Claretiano de Heredia tuvo como director al padre Práxedes Gallego Morillo, un sacerdote español -haré una odiosa generalización, pero no imag..."
 categories: ["Educación"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10390
 ---
 

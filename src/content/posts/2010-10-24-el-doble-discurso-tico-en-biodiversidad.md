@@ -5,7 +5,8 @@ author: "eva-carazo-vargas"
 slug: "el-doble-discurso-tico-en-biodiversidad"
 excerpt: "Imagen por lasombraenlapared Estamos en el Año Internacional de la Biodiversidad, y el próximo 25 de octubre nuestra Ley de Biodiversidad recibirá un reconocimiento en el marco..."
 categories: ["Ambiente", "Política", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 2481
 ---
 

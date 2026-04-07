@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "a-los-diputados-por-cochinos"
 excerpt: "Y porque la Sala Constitucional avaló el Proyecto Minero Crucitas."
 categories: ["Realidad Nacional"]
-tags: ["Sección Audiovisual"]
+tags: []
+seccion: "Audiovisual"
 wp_id: 1250
 ---
 

@@ -5,7 +5,8 @@ author: "andres-jimenez-corrales-y-david-araya-diaz"
 slug: "venta-de-proyectos-para-maquillar-chepe-hacia-unas-elecciones-municipales"
 excerpt: ":: David Araya Díaz y Andrés Jiménez Corrales (*) :: Los noticieros posiblemente etiquetarán este primer domingo de febrero como una “fiesta cívica”, porque será el día en que elegiremos a alcaldes, r..."
 categories: ["Cultura", "Arquitectura", "Política", "Electoral", "Sociedad"]
-tags: ["Lo Recomendado", "Sección Doxa", "Doxa"]
+tags: ["Lo Recomendado", "Doxa"]
+seccion: "Doxa"
 wp_id: 13019
 ---
 

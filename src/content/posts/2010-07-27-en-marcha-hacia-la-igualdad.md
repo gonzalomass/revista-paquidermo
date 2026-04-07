@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "en-marcha-hacia-la-igualdad"
 excerpt: "Recientemente se ha publicado el Informe regional sobre desarrollo humano para America Latina del PNUD en donde se señala nuestro record como región más desigual del mundo. A partir de este informe se..."
 categories: ["Economía", "Política"]
-tags: ["Columna: Con-sentimiento In-formado"]
+tags: []
+columna: "Con-sentimiento In-formado"
 wp_id: 1833
 ---
 

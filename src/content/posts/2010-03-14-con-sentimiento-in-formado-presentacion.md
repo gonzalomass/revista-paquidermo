@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "con-sentimiento-in-formado-presentacion"
 excerpt: "El nombre de esta columna es indicativo de expectativas y conflictos. El término consentimiento denota acuerdo y volición. Consentir presupone voluntad, compromiso, adecuación y tolerancia respecto de..."
 categories: ["Medios de Comunicación"]
-tags: ["Columna: Con-sentimiento In-formado"]
+tags: []
+columna: "Con-sentimiento In-formado"
 wp_id: 203
 ---
 

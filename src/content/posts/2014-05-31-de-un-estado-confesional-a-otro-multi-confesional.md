@@ -5,7 +5,8 @@ author: "hugo-mora-poltronieri"
 slug: "de-un-estado-confesional-a-otro-multi-confesional"
 excerpt: "En este país es más importante ser católico que ser ciudadano. Las ventajas comienzan desde la cuna y se extienden a todos los ámbitos de la vida adulta, en lo privado y en..."
 categories: ["Realidad Nacional", "Religión"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 10512
 ---
 

@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "genocidio"
 excerpt: "El 21 de septiembre a unos días de haberse celebrado el 190 Aniversario de la Independencia de Guatemala y a otros pocos de sus comicios electorales, el diario La prensa Libre, no dedicó ni una sola nota a la noticia más importante en este país: el juicio contra Héctor Mario López Fuentes, acusado de genocidio. Este sería el primer juicio por el delito genocidio en Guatemala, esto a pesar de las muchas masacres cometidas principalmente durante los gobiernos de Lucas García (1978-1982), Ríos Montt (1982-1983) y Mejía Víctores (1983-86)."
 categories: ["América Latina", "Derechos Humanos"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 4718
 ---
 

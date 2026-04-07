@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "russell-brand-vs-jeremy-paxman-el-estado-de-las-cosas"
 excerpt: "https://www.youtube.com/watch?v=CXfe8hH1Uuk"
 categories: ["Marxismo", "Política", "Movimiento Social"]
-tags: ["Sección Audiovisual", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Audiovisual"
 wp_id: 9420
 ---
 

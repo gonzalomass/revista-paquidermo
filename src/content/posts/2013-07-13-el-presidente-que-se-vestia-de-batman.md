@@ -5,7 +5,8 @@ author: "luis-gerardo-arce-valverde"
 slug: "el-presidente-que-se-vestia-de-batman"
 excerpt: "Abdalá Buracam, en plena campaña presidencial ecuatoriana de cara a las elecciones de 1996, se vistió de Batman como parte de su estrategia por captar votos. Para sorp..."
 categories: ["Uncategorized", "América Latina", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 8770
 ---
 

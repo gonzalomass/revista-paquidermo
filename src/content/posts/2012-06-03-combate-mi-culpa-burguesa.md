@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "combate-mi-culpa-burguesa"
 excerpt: "Hoy Combate es tema de uso común en redes sociales, clases, cafés o tardes de birras y al menos en mi mini-círculo de amigxs y estudiantes la percepción es casi siempre la misma: “una estupidez”; “una..."
 categories: ["Entretenimiento"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 5961
 ---
 

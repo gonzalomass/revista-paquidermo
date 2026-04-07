@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "que-le-corten-la-cabeza"
 excerpt: "Como en la tierra de Alicia, para el Imperio británico, todo el mundo tiene que estar en su juego, si no quiere quedar bajo amenaza de muerte."
 categories: ["Economía", "Geopolítica"]
-tags: ["Columna: La Media Columna"]
+tags: []
+columna: "La Media Columna"
 wp_id: 6220
 ---
 

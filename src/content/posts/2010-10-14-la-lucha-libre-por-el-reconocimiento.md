@@ -5,7 +5,8 @@ author: "george-garcia"
 slug: "la-lucha-libre-por-el-reconocimiento"
 excerpt: "Aunque ciertamente las películas de Darren Aronofsky han tratado temas muy distintos entre sí –el orden matemático del universo y de Dios en Pi, los estupefacientes legales e ilegales en Réquiem por u..."
 categories: ["Cultura", "Entretenimiento"]
-tags: ["Columna: Habitualidades"]
+tags: []
+columna: "Habitualidades"
 wp_id: 2440
 ---
 

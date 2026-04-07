@@ -5,7 +5,8 @@ author: "luis-adrian-mora"
 slug: "la-democracia-financiera"
 excerpt: "Los principales medios de comunicación se regocijan ante la “fiesta democrática” del pasado 7 de febrero, y los sacerdotes y sacerdotisas de la opinión pública alaban la pureza del sistema. “Orgulloso..."
 categories: ["Democracia", "Realidad Nacional"]
-tags: ["Columna: La Rapiña"]
+tags: []
+columna: "La Rapiña"
 wp_id: 446
 ---
 

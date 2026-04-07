@@ -5,7 +5,8 @@ author: "roberto-jaen-chacon"
 slug: "narcofosa"
 excerpt: "“Narcofosa”, ese es el nombre que se la da a las fosas comunes donde descansan, apilados, los cuerpos de mexicanos, mexicanas y otros centro y suramericanos, que han muerto en esta absurda guerra que ..."
 categories: ["América Latina", "Política", "Realidad Nacional"]
-tags: ["Columna: Del Higuerón por la Izquierda"]
+tags: []
+columna: "Del Higuerón por la Izquierda"
 wp_id: 3283
 ---
 

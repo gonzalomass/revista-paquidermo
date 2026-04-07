@@ -5,7 +5,8 @@ author: "sergio-arroyo"
 slug: "el-mundial-mas-largo-de-la-historia-2"
 excerpt: "¿Nunca se han preguntado, pero de verdad preguntado, por qué los medios de comunicación de Costa Rica y los costarricenses en general mantienen un idilio a toda prueba con el jugad..."
 categories: ["Entretenimiento", "Deportes", "Fútbol"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12014
 ---
 

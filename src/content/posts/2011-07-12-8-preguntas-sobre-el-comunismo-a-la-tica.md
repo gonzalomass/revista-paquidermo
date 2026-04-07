@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "8-preguntas-sobre-el-comunismo-a-la-tica"
 excerpt: "4) ¿Qué relación hay entre el comunismo “a la tica” y el frente popular? Desde 1936 los comunistas establecen como su estrategia fundamental la política de Frente Popular. Esta estrategia está basada ..."
 categories: ["América Latina", "Democracia", "Política", "Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!"]
+tags: []
+columna: "¡Qué Panfle!"
 wp_id: 4222
 ---
 

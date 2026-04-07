@@ -5,7 +5,8 @@ author: "gustavo-roman-jacobo"
 slug: "lo-que-netflix-te-oculta-de-house-of-cards"
 excerpt: "A finales del año pasado leí House of Cards, la novela en que se basa la serie de Netflix cuya tercera temporada nos tiene a millones en todo el mundo esperando a que llegue..."
 categories: ["Cultura", "Política"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 11411
 ---
 

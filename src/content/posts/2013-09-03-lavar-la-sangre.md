@@ -5,7 +5,8 @@ author: "mario-zuniga"
 slug: "lavar-la-sangre"
 excerpt: "Portada de Voz Popular de la 1era semana de septiembre de 1975. Archivo CIDAI, UCA. 1 El 30 de julio de 1975 hubo una masacre en San Salvador –una entre tantas de esos años-. Estudiantes universitario..."
 categories: ["Memoria", "Derechos Humanos", "Política"]
-tags: ["Columna: Ausencias Presentes", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ausencias Presentes"
 wp_id: 9209
 ---
 

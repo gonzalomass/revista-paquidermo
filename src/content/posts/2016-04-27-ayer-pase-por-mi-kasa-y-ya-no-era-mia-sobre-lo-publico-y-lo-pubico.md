@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "ayer-pase-por-mi-kasa-y-ya-no-era-mia-sobre-lo-publico-y-lo-pubico"
 excerpt: "Son por ahí de las 11 de la noche y estoy entrando a la casa que comparto con mi amiga. Vengo con una rabia que no se me limita al cuerpo. No sé muy bien cómo transformar este odio en palabras, este o..."
 categories: ["Capitalismo", "Cultura", "Derechos Humanos", "Filosofía"]
-tags: ["Lo Recomendado", "Sección Doxa"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 13165
 ---
 

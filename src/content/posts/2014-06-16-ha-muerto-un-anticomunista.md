@@ -5,7 +5,8 @@ author: "roberto-herrera"
 slug: "ha-muerto-un-anticomunista"
 excerpt: "Ante la muerte de Alberto Cañas y frente al proceso de mistificación que se lleva adelante, quiero compartir un fragmento de un artículo que nunca publiqué. Estaba compuesto por varias entregas y se i..."
 categories: ["Realidad Nacional"]
-tags: ["Columna: ¡Qué Panfle!", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "¡Qué Panfle!"
 wp_id: 10573
 ---
 

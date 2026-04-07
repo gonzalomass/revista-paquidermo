@@ -5,7 +5,8 @@ author: "jerry-espinoza-rivera"
 slug: "mockus-y-el-partido-verde-un-nuevo-paradigma-politico-para-america-latina"
 excerpt: "Más allá de los resultados electorales obtenidos, es innegable que la campaña presidencial y la propuesta innovadora y novedosa de Antanas Mockus y el Partido Verde represe..."
 categories: ["América Latina", "Internacional", "Política"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 1365
 ---
 

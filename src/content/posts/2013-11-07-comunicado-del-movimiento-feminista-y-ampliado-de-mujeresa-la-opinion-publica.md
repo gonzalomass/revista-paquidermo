@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "comunicado-del-movimiento-feminista-y-ampliado-de-mujeresa-la-opinion-publica"
 excerpt: "Tras la circulación de información sobre una solicitud de medidas de protección por violencia interpuesta por su entonces esposa contra Jorge Arguedas, candidato a diputado por el segundo lugar por Sa..."
 categories: ["Derechos Humanos", "Feminismo"]
-tags: ["Sección Doxa", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 9450
 ---
 

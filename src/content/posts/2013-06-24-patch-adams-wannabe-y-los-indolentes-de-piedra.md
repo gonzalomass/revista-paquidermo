@@ -5,7 +5,8 @@ author: "agustin-gutierrez-carro"
 slug: "patch-adams-wannabe-y-los-indolentes-de-piedra"
 excerpt: "Dante V Detesto que me presionen a la felicidad. No defiendo ni busco la amargura, todo lo contrario, como casi todos quiero ser feliz. Pero si existe algo que logre justamente lo opuesto es que me di..."
 categories: ["Protesta"]
-tags: ["Columna: Ahí está el detalle", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Ahí está el detalle"
 wp_id: 8635
 ---
 

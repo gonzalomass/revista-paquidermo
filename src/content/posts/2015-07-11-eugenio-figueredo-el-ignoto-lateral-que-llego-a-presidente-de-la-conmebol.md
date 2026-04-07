@@ -5,7 +5,8 @@ author: "mariano-perl"
 slug: "eugenio-figueredo-el-ignoto-lateral-que-llego-a-presidente-de-la-conmebol"
 excerpt: ":: Mariano Perl (*):: \"Tenía que vender un auto para poder comprar otro\", recuerda un viejo conocido de Figueredo quien antes de comenzar con su meteórica carrera dirigencial que lo llevaría a las más..."
 categories: ["Corrupción", "América Latina", "Cultura", "Entretenimiento", "Deportes", "Fútbol"]
-tags: ["Sección Doxa", "Doxa", "Lo Recomendado"]
+tags: ["Doxa", "Lo Recomendado"]
+seccion: "Doxa"
 wp_id: 12267
 ---
 

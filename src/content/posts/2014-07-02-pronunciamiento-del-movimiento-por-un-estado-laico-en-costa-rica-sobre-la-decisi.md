@@ -5,7 +5,8 @@ author: "paquidermo"
 slug: "pronunciamiento-del-movimiento-por-un-estado-laico-en-costa-rica-sobre-la-decisi"
 excerpt: "Según consignan varios reportajes publicados en algunos medios de comunicación nacional, el Presidente de la República, el señor Luis Guillermo Solís Rivera, ha decidido que continúe la negociación para la firma de un tratado bilateral entre el Estado costarricense y el Estado de la Ciudad del Vaticano, iniciada durante la gestión de la expresidenta Laura Chinchilla Miranda."
 categories: ["Realidad Nacional"]
-tags: ["Columna: Periscopio", "Lo Recomendado"]
+tags: ["Lo Recomendado"]
+columna: "Periscopio"
 wp_id: 10663
 ---
 

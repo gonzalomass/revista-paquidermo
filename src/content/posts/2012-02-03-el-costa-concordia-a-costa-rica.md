@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "el-costa-concordia-a-costa-rica"
 excerpt: "La noticia que llenó noticieros y periódicos en el mundo entero sobre el hundimiento del coloso del mar, el Costa Concordia, pareciera un remedo (o a la inversa) de las conversaciones entre la actual ..."
 categories: ["Política", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 5416
 ---
 

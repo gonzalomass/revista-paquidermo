@@ -5,7 +5,8 @@ author: "francisco-robles"
 slug: "proximamente-el-capo-tico"
 excerpt: "“La paz de los ricos es guerra contra los pobres” Graffiti en Medellín, Colombia. En un reciente artículo John Saxe Fernández particulariza una hipótesis sobre lo que él llama la “ocupación benevolent..."
 categories: ["América Latina", "Economía", "Realidad Nacional"]
-tags: ["Columna: Vagamundo"]
+tags: []
+columna: "Vagamundo"
 wp_id: 1797
 ---
 

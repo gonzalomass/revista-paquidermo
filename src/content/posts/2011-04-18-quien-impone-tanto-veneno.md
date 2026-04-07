@@ -5,7 +5,8 @@ author: "ignacio-arroyo"
 slug: "quien-impone-tanto-veneno"
 excerpt: "Foto del International Rice Research Institute Debemos alzar la voz contra la sobre utilización de agrotóxicos en la agricultura costarricense. En los últimos 34 años, mientras la..."
 categories: ["Ambiente", "Economía", "Salud", "Realidad Nacional"]
-tags: ["Sección Doxa"]
+tags: []
+seccion: "Doxa"
 wp_id: 3296
 ---
 
