@@ -19,29 +19,32 @@ const categories = Array.from(categoryMap.values()).sort((a, b) => b.count - a.c
 ---
 
 <BaseLayout title="Categorías" noindex>
-  <h1 class="font-display text-2xl md:text-4xl font-bold mb-4 md:mb-6">Categorías</h1>
+  <header class="mb-10">
+    <h1 class="font-display text-3xl md:text-4xl font-bold text-paqui-dark">Categorías</h1>
+    <p class="mt-2 text-sm font-sans text-paqui-muted">{categories.length} temas explorados</p>
+  </header>
 
   <input
     type="text"
     id="filter"
-    placeholder="Filtrar categorías..."
-    class="w-full border border-gray-300 px-4 py-2 mb-6 text-sm focus:outline-none focus:border-paqui-red"
+    placeholder="Buscar categoría..."
+    class="w-full border-b border-paqui-rule bg-transparent px-0 py-3 text-sm font-sans text-paqui-body focus:outline-none focus:border-paqui-red placeholder:text-paqui-muted transition-colors mb-10"
   />
 
-  <div id="list" class="grid md:grid-cols-3 gap-4">
+  <div id="list" class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-8">
     {categories.map((cat) => (
       <a
         href={`/categoria/${cat.slug}`}
         data-name={cat.name.toLowerCase()}
-        class="filter-item border border-gray-200 p-4 hover:border-paqui-red transition-colors group flex justify-between items-center"
+        class="filter-item flex justify-between items-baseline py-3 border-b border-paqui-rule/40 hover:text-paqui-red transition-colors group"
       >
-        <span class="font-semibold group-hover:text-paqui-red transition-colors">{cat.name}</span>
-        <span class="text-sm text-paqui-gray">{cat.count}</span>
+        <span class="font-serif font-semibold group-hover:text-paqui-red transition-colors">{cat.name}</span>
+        <span class="text-xs font-sans text-paqui-muted ml-2 shrink-0">{cat.count}</span>
       </a>
     ))}
   </div>
 
-  <p id="no-results" class="hidden text-paqui-gray text-sm mt-4">No se encontraron categorías.</p>
+  <p id="no-results" class="hidden text-paqui-muted text-sm font-sans mt-6">No se encontraron categorías.</p>
 </BaseLayout>
 
 <script is:inline>

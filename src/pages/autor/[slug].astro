@@ -22,12 +22,15 @@ const { author, posts } = Astro.props;
 ---
 
 <BaseLayout title={author.data.name}>
-  <div class="mb-8" data-pagefind-filter="tipo:Autores">
-    <h1 class="font-display text-3xl md:text-4xl font-bold">{author.data.name}</h1>
-    <p class="text-paqui-gray mt-2">{posts.length} artículos publicados</p>
-  </div>
+  <header class="mb-12 pb-8 border-b border-paqui-rule" data-pagefind-filter="tipo:Autores">
+    <p class="text-[11px] font-sans font-semibold uppercase tracking-[0.15em] text-paqui-red mb-3">Autor</p>
+    <h1 class="font-display text-3xl md:text-5xl font-bold text-paqui-dark">{author.data.name}</h1>
+    <p class="mt-3 text-sm font-sans text-paqui-muted">
+      {posts.length} {posts.length === 1 ? 'artículo publicado' : 'artículos publicados'}
+    </p>
+  </header>
 
-  <div class="grid md:grid-cols-2 gap-x-12 gap-y-10">
+  <div class="grid md:grid-cols-2 gap-x-16">
     {posts.map((post: any) => (
       <PostCard
         title={post.data.title}

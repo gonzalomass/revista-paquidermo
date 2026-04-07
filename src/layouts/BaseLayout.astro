@@ -21,37 +21,43 @@ import '../styles/global.css';
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700;800;900&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Outfit:wght@300;400;500;600&display=swap"
       rel="stylesheet"
     />
   </head>
-  <body class="bg-paqui-light text-paqui-dark font-sans antialiased">
-    <header class="bg-paqui-dark text-white">
-      <div class="max-w-6xl mx-auto px-4 py-4 md:py-8">
-        <a href="/" class="block">
-          <img src="/logo.svg" alt="Revista Paquidermo" class="h-16 md:h-28 mx-auto invert" />
+  <body class="bg-paqui-light text-paqui-body font-serif antialiased">
+    <header class="bg-paqui-dark">
+      <div class="max-w-5xl mx-auto px-6 pt-5 pb-4 md:pt-8 md:pb-6 text-center">
+        <a href="/" class="inline-block">
+          <img src="/logo.svg" alt="Revista Paquidermo" class="h-14 md:h-28 w-auto max-w-[300px] md:max-w-none mx-auto invert" />
         </a>
-        <p class="text-center text-xs md:text-sm text-gray-400 mt-2 md:mt-3 tracking-[0.3em] uppercase">prensa rosa</p>
+        <p class="text-[10px] md:text-xs text-white/50 font-medium mt-1.5 md:mt-2 tracking-[0.4em] uppercase font-sans">
+          prensa rosa
+        </p>
       </div>
-      <nav class="border-t border-gray-700 bg-paqui-red">
-        <div class="max-w-6xl mx-auto px-4 flex justify-center gap-3 md:gap-8 text-xs md:text-sm font-medium uppercase tracking-wider py-2.5 md:py-3 flex-wrap">
-          <a href="/" class="text-white/90 hover:text-white transition-colors">Inicio</a>
-          <a href="/archivo" class="text-white/90 hover:text-white transition-colors">Archivo</a>
-          <a href="/autores" class="text-white/90 hover:text-white transition-colors">Autores</a>
-          <a href="/categorias" class="text-white/90 hover:text-white transition-colors">Categorías</a>
-          <a href="/buscar" class="text-white/90 hover:text-white transition-colors">Buscar</a>
+      <nav class="bg-paqui-red">
+        <div class="max-w-5xl mx-auto px-6 flex justify-center items-center flex-wrap gap-x-5 gap-y-1.5 md:gap-x-4 py-3 md:py-4">
+          <a href="/" class="nav-link"><svg class="nav-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 6.5L8 2l5.5 4.5V13a1 1 0 01-1 1h-9a1 1 0 01-1-1V6.5z"/><path d="M6 14V9h4v5"/></svg>Inicio</a>
+          <span class="text-white/40 hidden md:inline" aria-hidden="true">&middot;</span>
+          <a href="/archivo" class="nav-link"><svg class="nav-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="12" height="12" rx="1"/><path d="M2 6h12M5 2v4M11 2v4M5 9h2M5 11.5h4"/></svg>Archivo</a>
+          <span class="text-white/40 hidden md:inline" aria-hidden="true">&middot;</span>
+          <a href="/autores" class="nav-link"><svg class="nav-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.5 14v-1.5a2.5 2.5 0 00-2.5-2.5H6a2.5 2.5 0 00-2.5 2.5V14"/><circle cx="8" cy="5" r="2.5"/></svg>Autores</a>
+          <span class="text-white/40 hidden md:inline" aria-hidden="true">&middot;</span>
+          <a href="/categorias" class="nav-link"><svg class="nav-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="5" height="5" rx="0.5"/><rect x="9" y="2" width="5" height="5" rx="0.5"/><rect x="2" y="9" width="5" height="5" rx="0.5"/><rect x="9" y="9" width="5" height="5" rx="0.5"/></svg>Categorías</a>
+          <span class="text-white/40 hidden md:inline" aria-hidden="true">&middot;</span>
+          <a href="/buscar" class="nav-link"><svg class="nav-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="7" r="4"/><path d="M14 14l-3.5-3.5"/></svg>Buscar</a>
         </div>
       </nav>
     </header>
 
-    <main class="max-w-6xl mx-auto px-4 py-6 md:py-10" {...noindex ? {'data-pagefind-ignore': ''} : {'data-pagefind-body': ''}}>
+    <main class="max-w-5xl mx-auto px-6 py-10 md:py-16" {...noindex ? {'data-pagefind-ignore': ''} : {'data-pagefind-body': ''}}>
       <slot />
     </main>
 
-    <footer class="bg-paqui-dark text-gray-400 mt-16">
-      <div class="max-w-6xl mx-auto px-4 py-8 text-center text-sm">
-        <img src="/logo.svg" alt="Revista Paquidermo" class="h-10 mx-auto invert opacity-40 mb-4" />
-        <p>&copy; Revista Paquidermo 2010–2021. Archivo digital.</p>
+    <footer class="border-t border-paqui-rule mt-20">
+      <div class="max-w-5xl mx-auto px-6 py-12 md:py-16 text-center">
+        <img src="/logo.svg" alt="Revista Paquidermo" class="h-8 mx-auto opacity-15 mb-4" />
+        <p class="text-xs font-sans text-paqui-muted">&copy; Revista Paquidermo 2010–2021 &middot; Archivo digital</p>
       </div>
     </footer>
   </body>

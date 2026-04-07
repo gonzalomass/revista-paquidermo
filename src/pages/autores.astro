@@ -14,33 +14,32 @@ const authorsWithCount = authors
 ---
 
 <BaseLayout title="Autores" noindex>
-  <h1 class="font-display text-2xl md:text-4xl font-bold mb-4 md:mb-6">Autores</h1>
+  <header class="mb-10">
+    <h1 class="font-display text-3xl md:text-4xl font-bold text-paqui-dark">Autores</h1>
+    <p class="mt-2 text-sm font-sans text-paqui-muted">{authorsWithCount.length} voces en el archivo</p>
+  </header>
 
   <input
     type="text"
     id="filter"
-    placeholder="Filtrar autores..."
-    class="w-full border border-gray-300 px-4 py-2 mb-6 text-sm focus:outline-none focus:border-paqui-red"
+    placeholder="Buscar autor..."
+    class="w-full border-b border-paqui-rule bg-transparent px-0 py-3 text-sm font-sans text-paqui-body focus:outline-none focus:border-paqui-red placeholder:text-paqui-muted transition-colors mb-10"
   />
 
-  <div id="list" class="grid md:grid-cols-3 gap-4 md:gap-6">
+  <div id="list" class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-8">
     {authorsWithCount.map((author) => (
       <a
         href={`/autor/${author.data.slug}`}
         data-name={author.data.name.toLowerCase()}
-        class="filter-item border border-gray-200 p-4 md:p-5 hover:border-paqui-red transition-colors group"
+        class="filter-item flex justify-between items-baseline py-3 border-b border-paqui-rule/40 hover:text-paqui-red transition-colors group"
       >
-        <h2 class="font-display text-lg font-bold group-hover:text-paqui-red transition-colors">
-          {author.data.name}
-        </h2>
-        <p class="text-sm text-paqui-gray mt-1">
-          {author.postCount} {author.postCount === 1 ? 'artículo' : 'artículos'}
-        </p>
+        <span class="font-display text-lg font-semibold group-hover:text-paqui-red transition-colors">{author.data.name}</span>
+        <span class="text-xs font-sans text-paqui-muted ml-2 shrink-0">{author.postCount}</span>
       </a>
     ))}
   </div>
 
-  <p id="no-results" class="hidden text-paqui-gray text-sm mt-4">No se encontraron autores.</p>
+  <p id="no-results" class="hidden text-paqui-muted text-sm font-sans mt-6">No se encontraron autores.</p>
 </BaseLayout>
 
 <script is:inline>

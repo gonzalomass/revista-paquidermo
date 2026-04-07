@@ -9,24 +9,24 @@ const prevUrl = currentPage === 2 ? '/' : currentPage > 2 ? `/pagina/${currentPa
 const nextUrl = currentPage < totalPages ? `/pagina/${currentPage + 1}` : null;
 ---
 
-<nav class="flex justify-center items-center gap-4 mt-12 text-sm" aria-label="Paginación">
+<nav class="flex justify-center items-center gap-8 mt-14 pt-8 border-t border-paqui-rule" aria-label="Paginación">
   {prevUrl ? (
-    <a href={prevUrl} class="px-5 py-2.5 bg-paqui-red text-white font-medium hover:bg-paqui-dark transition-colors">
+    <a href={prevUrl} class="text-sm font-sans font-medium text-paqui-body hover:text-paqui-red transition-colors">
       &larr; Anterior
     </a>
   ) : (
-    <span class="px-5 py-2.5 bg-gray-200 text-gray-400 cursor-not-allowed">&larr; Anterior</span>
+    <span class="text-sm font-sans text-paqui-muted">&larr; Anterior</span>
   )}
 
-  <span class="text-paqui-gray font-medium">
-    {currentPage} / {totalPages}
+  <span class="text-[11px] font-sans text-paqui-muted tracking-wider uppercase">
+    {currentPage} de {totalPages}
   </span>
 
   {nextUrl ? (
-    <a href={nextUrl} class="px-5 py-2.5 bg-paqui-red text-white font-medium hover:bg-paqui-dark transition-colors">
+    <a href={nextUrl} class="text-sm font-sans font-medium text-paqui-body hover:text-paqui-red transition-colors">
       Siguiente &rarr;
     </a>
   ) : (
-    <span class="px-5 py-2.5 bg-gray-200 text-gray-400 cursor-not-allowed">Siguiente &rarr;</span>
+    <span class="text-sm font-sans text-paqui-muted">Siguiente &rarr;</span>
   )}
 </nav>

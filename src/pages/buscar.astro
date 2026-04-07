@@ -3,26 +3,28 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="Buscar" noindex>
-  <h1 class="font-display text-2xl md:text-4xl font-bold mb-4 md:mb-6">Buscar</h1>
+  <header class="mb-8">
+    <h1 class="font-display text-3xl md:text-4xl font-bold text-paqui-dark">Buscar</h1>
+  </header>
 
-  <div class="flex flex-wrap gap-2 mb-4" id="filters">
-    <button data-filter="" class="filter-btn active px-3 py-1.5 text-xs md:text-sm font-medium uppercase tracking-wider border border-paqui-red bg-paqui-red text-white transition-colors">Todo</button>
-    <button data-filter="Artículos" class="filter-btn px-3 py-1.5 text-xs md:text-sm font-medium uppercase tracking-wider border border-gray-300 text-paqui-gray hover:border-paqui-red hover:text-paqui-red transition-colors">Artículos</button>
-    <button data-filter="Autores" class="filter-btn px-3 py-1.5 text-xs md:text-sm font-medium uppercase tracking-wider border border-gray-300 text-paqui-gray hover:border-paqui-red hover:text-paqui-red transition-colors">Autores</button>
-    <button data-filter="Categorías" class="filter-btn px-3 py-1.5 text-xs md:text-sm font-medium uppercase tracking-wider border border-gray-300 text-paqui-gray hover:border-paqui-red hover:text-paqui-red transition-colors">Categorías</button>
+  <div class="flex flex-wrap gap-2 mb-6" id="filters">
+    <button data-filter="" class="filter-btn active text-[10px] font-sans font-semibold uppercase tracking-[0.15em] px-3 py-1.5 border bg-paqui-dark border-paqui-dark text-white transition-colors">Todo</button>
+    <button data-filter="Artículos" class="filter-btn text-[10px] font-sans font-semibold uppercase tracking-[0.15em] px-3 py-1.5 border border-paqui-rule text-paqui-gray hover:border-paqui-dark hover:text-paqui-dark transition-colors">Artículos</button>
+    <button data-filter="Autores" class="filter-btn text-[10px] font-sans font-semibold uppercase tracking-[0.15em] px-3 py-1.5 border border-paqui-rule text-paqui-gray hover:border-paqui-dark hover:text-paqui-dark transition-colors">Autores</button>
+    <button data-filter="Categorías" class="filter-btn text-[10px] font-sans font-semibold uppercase tracking-[0.15em] px-3 py-1.5 border border-paqui-rule text-paqui-gray hover:border-paqui-dark hover:text-paqui-dark transition-colors">Categorías</button>
   </div>
 
   <input
     type="text"
     id="search-input"
     placeholder="lo que le salga de las narices buscar..."
-    class="w-full border border-gray-300 px-4 py-3 text-sm focus:outline-none focus:border-paqui-red"
+    class="w-full border-b-2 border-paqui-dark bg-transparent px-0 py-3 text-lg font-serif text-paqui-body focus:outline-none focus:border-paqui-red placeholder:text-paqui-muted/50 placeholder:italic transition-colors"
     autofocus
   />
 
-  <div id="results" class="mt-6"></div>
-  <p id="no-results" class="hidden text-paqui-gray text-sm mt-6">No se encontraron resultados.</p>
-  <p id="status" class="text-paqui-gray text-xs mt-4"></p>
+  <div id="results" class="mt-8"></div>
+  <p id="no-results" class="hidden text-paqui-muted text-sm font-sans mt-8">No se encontraron resultados.</p>
+  <p id="status" class="text-paqui-muted text-xs font-sans mt-4"></p>
 </BaseLayout>
 
 <script is:inline type="module">
@@ -37,21 +39,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     document.getElementById('status').textContent = 'Índice de búsqueda no disponible. Ejecute npm run build.';
   }
 
-  // Filter buttons
   document.querySelectorAll('.filter-btn').forEach(function (btn) {
     btn.addEventListener('click', function () {
       document.querySelectorAll('.filter-btn').forEach(function (b) {
-        b.classList.remove('active', 'bg-paqui-red', 'text-white', 'border-paqui-red');
-        b.classList.add('border-gray-300', 'text-paqui-gray');
+        b.classList.remove('active', 'bg-paqui-dark', 'text-white', 'border-paqui-dark');
+        b.classList.add('border-paqui-rule', 'text-paqui-gray');
       });
-      btn.classList.add('active', 'bg-paqui-red', 'text-white', 'border-paqui-red');
-      btn.classList.remove('border-gray-300', 'text-paqui-gray');
+      btn.classList.add('active', 'bg-paqui-dark', 'text-white', 'border-paqui-dark');
+      btn.classList.remove('border-paqui-rule', 'text-paqui-gray');
       currentFilter = btn.getAttribute('data-filter');
       doSearch();
     });
   });
 
-  // Search input
   document.getElementById('search-input').addEventListener('input', function () {
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(doSearch, 200);
@@ -97,31 +97,34 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     results.forEach(function (r) {
       var a = document.createElement('a');
       a.href = r.url;
-      a.className = 'block border-l-4 border-transparent hover:border-paqui-red pl-4 py-3 transition-all';
+      a.className = 'search-result';
 
       var header = document.createElement('div');
-      header.className = 'flex items-center flex-wrap gap-1';
+      header.style.display = 'flex';
+      header.style.alignItems = 'center';
+      header.style.flexWrap = 'wrap';
+      header.style.gap = '2px';
 
       if (r.filters && r.filters.tipo) {
         var tipo = r.filters.tipo[0];
         if (tipo === 'Autores' || tipo === 'Categorías') {
           var badge = document.createElement('span');
-          badge.className = 'text-xs font-semibold uppercase tracking-wider text-white px-2 py-0.5 mr-2 inline-block ' + (tipo === 'Autores' ? 'bg-paqui-dark' : 'bg-paqui-gray');
+          badge.className = 'search-result-badge ' + (tipo === 'Autores' ? 'search-result-badge--author' : 'search-result-badge--category');
           badge.textContent = tipo === 'Autores' ? 'Autor' : 'Categoría';
           header.appendChild(badge);
         }
       }
 
       var title = document.createElement('span');
-      title.className = 'font-display text-base md:text-lg font-bold';
+      title.className = 'search-result-title';
       title.textContent = r.meta.title;
       header.appendChild(title);
       a.appendChild(header);
 
       if (r.excerpt) {
         var p = document.createElement('p');
-        p.className = 'text-sm text-paqui-gray mt-1';
-        p.innerHTML = r.excerpt; // Pagefind excerpts contain <mark> tags for highlighting
+        p.className = 'search-result-excerpt';
+        p.innerHTML = r.excerpt;
         a.appendChild(p);
       }
 
@@ -129,11 +132,3 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     });
   }
 </script>
-
-<style>
-  :global(mark) {
-    background-color: #fef3c7;
-    font-weight: 600;
-    color: inherit;
-  }
-</style>

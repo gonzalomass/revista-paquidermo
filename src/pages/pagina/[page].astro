@@ -26,7 +26,9 @@ const authorMap = await getAuthorMap();
 ---
 
 <BaseLayout title={`Página ${currentPage}`} noindex>
-  <div class="grid md:grid-cols-2 gap-x-12 gap-y-6 md:gap-y-10">
+  <p class="text-[11px] font-sans text-paqui-muted uppercase tracking-wider mb-8">Página {currentPage} de {totalPages}</p>
+
+  <div class="grid md:grid-cols-2 gap-x-16">
     {posts.map((post: any) => (
       <PostCard
         title={post.data.title}

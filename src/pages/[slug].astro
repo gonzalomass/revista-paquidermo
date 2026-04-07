@@ -26,46 +26,57 @@ const formattedDate = dateObj.toLocaleDateString('es-CR', {
 
 <BaseLayout title={post.data.title} description={post.data.excerpt}>
   <article class="max-w-3xl mx-auto" data-pagefind-filter="tipo:Artículos">
-    <header class="mb-8">
-      <div class="flex flex-wrap gap-2 mb-4">
-        {post.data.categories.map((cat: string) => (
-          <a
-            href={`/categoria/${cat.toLowerCase().replace(/\s+/g, '-')}`}
-            class="text-xs font-semibold uppercase tracking-wider bg-paqui-red text-white px-2.5 py-1 hover:bg-paqui-dark transition-colors"
-          >
-            {cat}
-          </a>
-        ))}
-      </div>
-
-      <h1 class="font-display text-2xl md:text-5xl font-bold leading-tight">
-        {post.data.title}
-      </h1>
-
-      <div class="mt-4 flex items-center gap-2 text-sm text-paqui-gray border-l-4 border-paqui-red pl-4">
-        {post.data.author && (
-          <a href={`/autor/${post.data.author}`} class="font-semibold text-paqui-red hover:underline">
-            {authorDisplayName}
-          </a>
-        )}
-        <span>&middot;</span>
-        <time datetime={post.data.date}>{formattedDate}</time>
-      </div>
-    </header>
-
-    <div class="prose prose-base md:prose-lg max-w-none">
-      <Content />
-    </div>
-
-    <footer class="mt-12 pt-6 border-t border-gray-200">
-      {post.data.tags.length > 0 && (
-        <div class="flex flex-wrap gap-2">
-          <span class="text-sm text-paqui-gray">Etiquetas:</span>
-          {post.data.tags.map((tag: string) => (
-            <span class="text-sm text-paqui-gray bg-gray-100 px-2 py-0.5 rounded">{tag}</span>
+    <header class="mb-10">
+      {post.data.categories.length > 0 && (
+        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 mb-4">
+          <svg class="w-3.5 h-3.5 text-paqui-red shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="5" height="5" rx="0.5"/><rect x="9" y="2" width="5" height="5" rx="0.5"/><rect x="2" y="9" width="5" height="5" rx="0.5"/><rect x="9" y="9" width="5" height="5" rx="0.5"/></svg>
+          {post.data.categories.map((cat: string) => (
+            <a
+              href={`/categoria/${cat.toLowerCase().replace(/\s+/g, '-')}`}
+              class="text-[11px] font-sans font-bold uppercase tracking-[0.15em] text-paqui-red hover:text-paqui-dark transition-colors"
+            >
+              - {cat} -
+            </a>
           ))}
         </div>
       )}
-    </footer>
+
+      <h1 class="font-display text-3xl md:text-5xl font-bold leading-[1.1] text-paqui-dark">
+        {post.data.title}
+      </h1>
+
+      <div class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm font-sans text-paqui-gray">
+        {post.data.author && (
+          <span class="inline-flex items-center gap-1.5">
+            <svg class="w-4 h-4 text-paqui-red shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.5 14v-1.5a2.5 2.5 0 00-2.5-2.5H6a2.5 2.5 0 00-2.5 2.5V14"/><circle cx="8" cy="5" r="2.5"/></svg>
+            <a href={`/autor/${post.data.author}`} class="font-bold text-paqui-body text-paqui-red hover:text-paqui-dark transition-colors">
+              {authorDisplayName}
+            </a>
+          </span>
+        )}
+        <span class="inline-flex items-center gap-1.5">
+          <svg class="w-4 h-4 text-paqui-muted shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="12" height="12" rx="1"/><path d="M2 6h12M5 2v4M11 2v4"/></svg>
+          <time datetime={post.data.date} class="text-paqui-muted">{formattedDate}</time>
+        </span>
+      </div>
+
+      <div class="mt-8 w-16 h-[2px] bg-paqui-red"></div>
+    </header>
+
+    <div class="prose prose-xl max-w-none drop-cap">
+      <Content />
+    </div>
+
+    {post.data.tags.length > 0 && (
+      <footer class="mt-14 pt-8 border-t border-paqui-rule">
+        <div class="flex flex-wrap gap-2 items-center">
+          <svg class="w-3.5 h-3.5 text-paqui-muted shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M13.5 8.5l-5 5-6-6V2.5h5l6 6z"/><circle cx="5.5" cy="5.5" r="1"/></svg>
+          <span class="text-[11px] font-sans font-medium uppercase tracking-wider text-paqui-muted mr-1">Etiquetas</span>
+          {post.data.tags.map((tag: string) => (
+            <span class="text-xs font-sans text-paqui-gray bg-paqui-warm px-2.5 py-1">{tag}</span>
+          ))}
+        </div>
+      </footer>
+    )}
   </article>
 </BaseLayout>

@@ -5,7 +5,6 @@ import { getCollection } from 'astro:content';
 const posts = await getCollection('posts');
 const sorted = posts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 
-// Group by year
 const byYear = new Map<string, typeof sorted>();
 for (const post of sorted) {
   const year = new Date(post.data.date).getFullYear().toString();
@@ -15,41 +14,44 @@ for (const post of sorted) {
 ---
 
 <BaseLayout title="Archivo" noindex>
-  <h1 class="font-display text-2xl md:text-4xl font-bold mb-4 md:mb-6">Archivo</h1>
+  <header class="mb-10">
+    <h1 class="font-display text-3xl md:text-4xl font-bold text-paqui-dark">Archivo</h1>
+    <p class="mt-2 text-sm font-sans text-paqui-muted">{sorted.length} artículos &middot; {byYear.size} años</p>
+  </header>
 
   <input
     type="text"
     id="filter"
-    placeholder="Filtrar artículos..."
-    class="w-full border border-gray-300 px-4 py-2 mb-6 text-sm focus:outline-none focus:border-paqui-red"
+    placeholder="Buscar artículo..."
+    class="w-full border-b border-paqui-rule bg-transparent px-0 py-3 text-sm font-sans text-paqui-body focus:outline-none focus:border-paqui-red placeholder:text-paqui-muted transition-colors mb-10"
   />
 
   {Array.from(byYear.entries()).map(([year, yearPosts]) => (
-    <section class="mb-10 year-section">
-      <h2 class="font-display text-2xl font-bold border-b border-paqui-red pb-2 mb-4">
+    <section class="mb-12 year-section">
+      <h2 class="font-display text-2xl font-bold text-paqui-dark flex items-baseline gap-3 mb-4">
         {year}
-        <span class="text-sm font-sans font-normal text-paqui-gray ml-2">{yearPosts.length} artículos</span>
+        <span class="text-sm font-sans font-normal text-paqui-muted">{yearPosts.length}</span>
       </h2>
-      <ul class="space-y-2">
+      <div class="border-l border-paqui-rule/60 pl-6 md:pl-8">
         {yearPosts.map((post) => {
           const d = new Date(post.data.date);
           const dateStr = d.toLocaleDateString('es-CR', { day: '2-digit', month: 'short' });
           return (
-            <li class="filter-item flex gap-4 items-baseline" data-name={post.data.title.toLowerCase()}>
-              <time datetime={post.data.date} class="text-sm text-paqui-gray w-16 shrink-0">
+            <div class="filter-item flex gap-4 items-baseline py-2" data-name={post.data.title.toLowerCase()}>
+              <time datetime={post.data.date} class="text-sm font-sans text-paqui-muted w-16 shrink-0">
                 {dateStr}
               </time>
-              <a href={`/${post.data.slug}`} class="hover:text-paqui-red transition-colors">
+              <a href={`/${post.data.slug}`} class="text-base md:text-lg font-serif text-paqui-body hover:text-paqui-red transition-colors leading-snug">
                 {post.data.title}
               </a>
-            </li>
+            </div>
           );
         })}
-      </ul>
+      </div>
     </section>
   ))}
 
-  <p id="no-results" class="hidden text-paqui-gray text-sm mt-4">No se encontraron artículos.</p>
+  <p id="no-results" class="hidden text-paqui-muted text-sm font-sans mt-6">No se encontraron artículos.</p>
 </BaseLayout>
 
 <script is:inline>
@@ -62,7 +64,6 @@ for (const post of sorted) {
       el.style.display = match ? '' : 'none';
       if (match) visible++;
     });
-    // Hide year sections that have no visible items
     document.querySelectorAll('.year-section').forEach(function (sec) {
       var hasVisible = sec.querySelector('.filter-item:not([style*="display: none"])');
       sec.style.display = hasVisible ? '' : 'none';

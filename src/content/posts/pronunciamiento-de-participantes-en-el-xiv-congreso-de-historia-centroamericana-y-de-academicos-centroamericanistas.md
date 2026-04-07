@@ -1,9 +1,9 @@
 ---
-title: "PRONUNCIAMIENTO DE PARTICIPANTES EN EL XIV CONGRESO DE HISTORIA CENTROAMERICANA Y DE ACADÉMICOS CENTROAMERICANISTAS"
+title: "Pronunciamiento de participantes en el XIV Congreso de Historia Centroamericana y de Académicos Centroamericanistas"
 date: "2018-08-06"
 author: "admin"
 slug: "pronunciamiento-de-participantes-en-el-xiv-congreso-de-historia-centroamericana-y-de-academicos-centroamericanistas"
-excerpt: "Hace apenas 38 años Nicaragua estaba en guerra y la comunidad académica centroamericana e internacional jugó un papel estratégico para coadyuvar en la"
+excerpt: "Hace apenas 38 años Nicaragua estaba en guerra y la comunidad académica centroamericana e internacional jugó un papel estratégico para coadyuvar en la lucha del pueblo nicaragüense para lograr su liberación de la dictadura somocista. Hoy nuevamente corre la sangre en Nicaragua y consideramos un imperativo ético y moral movilizar a la nueva generación de historiadores y académicos centroamericanistas en respaldo a la renovada lucha por la democratización de Nicaragua y el cese inmediato de una represión inédita en la historia centroamericana en los últimos 30 años."
 categories: ["América Central", "Movimiento Social", "Nicaragua"]
 tags: []
 wp_id: 14330
